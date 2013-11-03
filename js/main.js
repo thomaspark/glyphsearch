@@ -29,7 +29,8 @@ $(".search-term").click(function(){
 
 var filters = $("#filter a");
 
-filters.click(function(){
+filters.click(function(e){
+	e.preventDefault();
 	var filter = $(this).attr("data-filter");
 
 	filters.removeClass("active");
