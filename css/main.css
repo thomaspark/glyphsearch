@@ -8,30 +8,44 @@ body {
 	padding-bottom: 6em;
 }
 
-.jumbotron {
+.header {
+	padding: 1em 0 2em;
+	background-color: #1c2533;
+	background: -webkit-linear-gradient(70deg,#080f1f 30%,#2b4b5a 87%,#435e67 100%);
+	background: -o-linear-gradient(70deg,#080f1f 30%,#2b4b5a 87%,#435e67 100%);
+	background: -ms-linear-gradient(70deg,#080f1f 30%,#2b4b5a 87%,#435e67 100%);
+	background: -moz-linear-gradient(70deg,#080f1f 30%,#2b4b5a 87%,#435e67 100%);
+	background: linear-gradient(20deg,#080f1f 30%,#2b4b5a 87%,#435e67 100%);
+	background-attachment: fixed;
+	color: #fff;
 	text-align: center;
 }
 
-h1 {
-	font-weight: bold;
+.header h1 {
+	font-size: 60px;
+}
+
+.header a {
+	color: #fff;
 }
 
 .social {
 	margin-top: 1em;
 }
 
-.links {
-	margin-top: 4em;
-	font-size: 12px;
-}
-
-.links a {
-	margin: 0 1.5em;
+.search-bar {
+	padding: 3em 0 2em;
+	margin-bottom: 2em;
+	background-color: #ECF0F1;
 }
 
 #search {
-	border-color: #1abc9c;
 	text-align: center;
+}
+
+.dropdown-menu {
+	left: auto;
+	right: 0;
 }
 
 .help-block {
@@ -43,12 +57,12 @@ h1 {
 	cursor: pointer;
 }
 
-#filter {
-	padding: 1em 0;
+.page-header {
+	margin: 21px 0 0;
 }
 
-.page-header {
-	margin: 21px 0;
+.page-header h1 {
+	margin-bottom: 0;
 }
 
 .entry {
@@ -62,7 +76,8 @@ h1 {
 	cursor: pointer;
 }
 
-.icon, .description {
+.icon,
+.description {
 	text-align: center;
 }
 
@@ -83,18 +98,25 @@ footer p {
 	font-size: 12px;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 767px) {
 
-	.jumbotron {
-		padding: 30px 30px 10px;
+	.header h1 {
+		font-size: 36px;
+	}
+
+	h1 {
+		font-size: 18px;
+	}
+
+	.tagline {
+		font-size: 12px;
+	}
+
+	#search {
+		font-size: 16px;
+	}
+
+	.entry {
+		height: 120px;
 	}
 }
-
-
-
-
-
-
-
-
-
