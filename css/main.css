@@ -112,6 +112,10 @@ footer p {
 		font-size: 12px;
 	}
 
+	.search-bar {
+		padding: 2em 0 1em;
+	}
+
 	#search {
 		font-size: 16px;
 	}
