@@ -1,0 +1,30 @@
+[
+  {{#each font-awesome}}
+  {
+    "_tags": ["font-awesome"],
+    "name": "{{name}}",
+    "tags": "{{tags}}",
+    "class": "fa fa-{{name}}"
+  },
+  {{/each}} 
+
+  {{#each glyphicons}}
+  {
+    "_tags": ["glyphicons"],
+    "name": "{{name}}",
+    "tags": "{{tags}}",
+    "class": "glyphicon glyphicon-{{name}}"
+  },
+  {{/each}} 
+
+  {{#each ionicons}}
+  {
+    "_tags": ["ionicons"],
+    "name": "{{name}}",
+    "tags": "{{tags}}",
+    "class": "ionicons icon-{{name}}"
+  },
+  {{/each}} 
+
+  {}
+]

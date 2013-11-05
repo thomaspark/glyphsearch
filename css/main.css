@@ -1,5 +1,3 @@
-
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
@@ -40,8 +38,8 @@ body {
 }
 
 #search {
-	border-color: #18bc9c;
-	text-align: center;
+	border: none;
+	text-align: left;
 }
 
 .dropdown-menu {
@@ -68,7 +66,10 @@ body {
 
 .entry {
 	padding: 2em 1em;
-	height: 140px;
+	float: left;
+	width: 170px;
+	height: 170px;
+	text-align: center;
 }
 
 .entry:hover {
@@ -76,19 +77,17 @@ body {
 	color: #fff;
 	cursor: pointer;
 }
-
-.icon,
-.description {
-	text-align: center;
+.entry .thumb {
+	font-size: 50px;
 }
-
-.icon {
-	font-size: 30px;
+.entry .provider, .entry .description {
+	display: none;
 }
-
-.description {
-	font-size: 13px;
+.entry .tags {
+	font-size: 0.8em;
+	color: #597ea2;
 }
+.entry em { font-weight: bold; font-style: normal; }
 
 footer {
 	margin-top: 2em;
@@ -124,4 +123,38 @@ footer p {
 	.entry {
 		height: 120px;
 	}
+}
+
+/* ==========================================================================
+   Typeahead
+   ========================================================================== */
+
+.twitter-typeahead, .tt-query, .tt-hint { width: 100%; padding: 0px !important; margin: 0px !important; }
+.twitter-typeahead { padding-left: 5px !important; border: 2px solid #18bc9c !important; }
+.tt-query { -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075); -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075); box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075); }
+.tt-hint { height: 100%; margin: 0px !important; padding: 0px !important; padding-left: 5px !important; color: #999; border: 0px !important; }
+.tt-dropdown-menu { width: 100%; margin-left: -2px; padding: 8px 0; background-color: #fff; border: 2px solid #18bc9c; border-top: 0px; -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2); -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2); box-shadow: 0 5px 10px rgba(0,0,0,.2); }
+.tt-suggestion { text-align: left; padding: 5px 10px; font-size: 16px; }
+.tt-suggestion.tt-is-under-cursor { color: #fff; background-color: #18bc9c; }
+.tt-suggestion em { font-weight: bold; font-style: normal; }
+
+.tt-suggestion .hit .thumb {
+	float: left;
+	font-size: 50px;
+	margin-right: 10px;
+}
+
+.tt-suggestion .hit .provider {
+	text-align: right;
+	font-size: 0.8em;
+	color: #597ea2;
+}
+
+.tt-suggestion .hit .tags {
+	font-size: 0.8em;
+	color: #597ea2;
+}
+
+.tt-suggestion .hit .description {
+	display: none;
 }
