@@ -9,7 +9,7 @@
 	font-style: normal;
 }
 
-.ionicons [class*="icon-"] {
+.ionicons[class*="icon-"] {
 	font-family: 'ionicons';
 	speak: none;
 	font-style: normal;
