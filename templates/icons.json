@@ -339,19 +339,19 @@
         },
         {
             "name": "comment",
-            "tags": "chat"
+            "tags": "chat, speech bubble"
         },
         {
             "name": "comment-o",
-            "tags": "chat"
+            "tags": "chat, speech bubble"
         },
         {
             "name": "comments",
-            "tags": "chat"
+            "tags": "chat, speech bubble"
         },
         {
             "name": "comments-o",
-            "tags": "chat"
+            "tags": "chat, speech bubble"
         },
         {
             "name": "compass",
@@ -405,10 +405,6 @@
             "name": "ellipsis-vertical"
         },
         {
-            "name": "eraser",
-            "tags": "text editor"
-        },
-        {
             "name": "envelope",
             "tags": "email"
         },
@@ -417,7 +413,8 @@
             "tags": "email"
         },
         {
-            "name": "eraser"
+            "name": "eraser",
+            "tags": "text editor, undo, delete"
         },
         {
             "name": "eur",
@@ -521,7 +518,7 @@
         },
         {
             "name": "flask",
-            "tags": "chemistry"
+            "tags": "chemistry, beaker"
         },
         {
             "name": "flickr",
@@ -593,7 +590,7 @@
         },
         {
             "name": "gittip",
-            "tags": "brand, social"
+            "tags": "brand, social, heart"
         },
         {
             "name": "glass"
@@ -636,7 +633,7 @@
         },
         {
             "name": "hdd-o",
-            "tags": "hard drive"
+            "tags": "hard drive, computer, disk"
         },
         {
             "name": "headphones",
@@ -1607,19 +1604,19 @@
         },
         {
             "name": "floppy-open",
-            "tags": "text editor"
+            "tags": "text editor, disk"
         },
         {
             "name": "floppy-remove",
-            "tags": "text editor"
+            "tags": "text editor, disk"
         },
         {
             "name": "floppy-save",
-            "tags": "text editor"
+            "tags": "text editor, disk"
         },
         {
             "name": "floppy-saved",
-            "tags": "text editor"
+            "tags": "text editor, disk"
         },
         {
             "name": "folder-close",
@@ -1679,7 +1676,7 @@
         },
         {
             "name": "hdd",
-            "tags": "hard drive, computer"
+            "tags": "hard drive, computer, disk"
         },
         {
             "name": "header",
@@ -2220,7 +2217,7 @@
         },
         {
             "name": "beaker",
-            "tags": "science, chemistry"
+            "tags": "science, chemistry, flask"
         },
         {
             "name": "bluetooth"
@@ -2247,22 +2244,28 @@
             "tags": "credit card, shopping, money"
         },
         {
-            "name": "chatbox"
+            "name": "chatbox",
+            "tags": "speech bubble"
         },
         {
-            "name": "chatbox-working"
+            "name": "chatbox-working",
+            "tags": "speech bubble"
         },
         {
-            "name": "chatboxes"
+            "name": "chatboxes",
+            "tags": "speech bubble"
         },
         {
-            "name": "chatbubble"
+            "name": "chatbubble",
+            "tags": "speech bubble"
         },
         {
-            "name": "chatbubble-working"
+            "name": "chatbubble-working",
+            "tags": "speech bubble"
         },
         {
-            "name": "chatbubbles"
+            "name": "chatbubbles",
+            "tags": "speech bubble"
         },
         {
             "name": "checkmark"
@@ -2392,7 +2395,7 @@
         },
         {
             "name": "flask",
-            "tags": "science, chemistry"
+            "tags": "science, chemistry, beaker"
         },
         {
             "name": "folder"
@@ -3120,16 +3123,20 @@
             "tags": "shopping"
         },
         {
-            "name": "ios7-chatboxes"
+            "name": "ios7-chatboxes",
+            "tags": "speech bubble"
         },
         {
-            "name": "ios7-chatboxes-outline"
+            "name": "ios7-chatboxes-outline",
+            "tags": "speech bubble"
         },
         {
-            "name": "ios7-chatbubble"
+            "name": "ios7-chatbubble",
+            "tags": "speech bubble"
         },
         {
-            "name": "ios7-chatbubble-outline"
+            "name": "ios7-chatbubble-outline",
+            "tags": "speech bubble"
         },
         {
             "name": "ios7-checkmark"
