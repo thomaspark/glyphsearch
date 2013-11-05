@@ -198,15 +198,15 @@
         },
         {
             "name": "caret-down",
-            "tags": "directional"
+            "tags": "directional, triangle"
         },
         {
             "name": "caret-left",
-            "tags": "directional"
+            "tags": "directional, triangle"
         },
         {
             "name": "caret-right",
-            "tags": "directional"
+            "tags": "directional, triangle"
         },
         {
             "name": "caret-square-o-down",
@@ -226,7 +226,7 @@
         },
         {
             "name": "caret-up",
-            "tags": "directional"
+            "tags": "directional, triangle"
         },
         {
             "name": "certificate",
@@ -894,7 +894,7 @@
         },
         {
             "name": "play",
-            "tags": "video player"
+            "tags": "video player, triangle"
         },
         {
             "name": "play-circle",
@@ -1071,11 +1071,11 @@
         },
         {
             "name": "sort-asc",
-            "tags": "sort-down"
+            "tags": "sort-down, triangle"
         },
         {
             "name": "sort-desc",
-            "tags": "sort-up"
+            "tags": "sort-up, triangle"
         },
         {
             "name": "sort-numeric-asc"
@@ -1133,7 +1133,7 @@
         },
         {
             "name": "stop",
-            "tags": "video player"
+            "tags": "video player, square"
         },
         {
             "name": "strikethrough",
@@ -1501,7 +1501,8 @@
             "tags": "directional"
         },
         {
-            "name": "comment"
+            "name": "comment",
+            "tags": "chat, speech bubble"
         },
         {
             "name": "compressed"
@@ -1809,7 +1810,7 @@
         },
         {
             "name": "play",
-            "tags": "video player"
+            "tags": "video player, triangle"
         },
         {
             "name": "play-circle",
@@ -1986,17 +1987,19 @@
         },
         {
             "name": "stop",
-            "tags": "video player"
+            "tags": "video player, square"
         },
         {
             "name": "subtitles",
             "tags": "video player"
         },
         {
-            "name": "tag"
+            "name": "tag",
+            "tags": "pricetag, shopping"
         },
         {
-            "name": "tags"
+            "name": "tags",
+            "tags": "pricetags, shopping"
         },
         {
             "name": "tasks"
@@ -2126,19 +2129,19 @@
         },
         {
             "name": "arrow-down-b",
-            "tags": "directional"
+            "tags": "directional, triangle"
         },
         {
             "name": "arrow-left-b",
-            "tags": "directional"
+            "tags": "directional, triangle"
         },
         {
             "name": "arrow-right-b",
-            "tags": "directional"
+            "tags": "directional, triangle"
         },
         {
             "name": "arrow-up-b",
-            "tags": "directional"
+            "tags": "directional, triangle"
         },
         {
             "name": "arrow-down-c",
@@ -2647,7 +2650,7 @@
         },
         {
             "name": "play",
-            "tags": "video player"
+            "tags": "video player, triangle"
         },
         {
             "name": "plus"
@@ -2683,7 +2686,7 @@
         },
         {
             "name": "record",
-            "tags": "video player"
+            "tags": "video player, circle"
         },
         {
             "name": "refresh",
@@ -2926,7 +2929,7 @@
         },
         {
             "name": "stop",
-            "tags": "video player"
+            "tags": "video player, square"
         },
         {
             "name": "thermometer"
@@ -3300,10 +3303,12 @@
             "name": "ios7-help-outline"
         },
         {
-            "name": "ios7-infinite"
+            "name": "ios7-infinite",
+            "tags": "infinity, math symbol"
         },
         {
-            "name": "ios7-infinite-outline"
+            "name": "ios7-infinite-outline",
+            "tags": "infinity, math symbol"
         },
         {
             "name": "ios7-information"
