@@ -1,5 +1,3 @@
-
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
@@ -45,7 +43,7 @@ body {
 
 #search {
 	border-color: #18bc9c;
-	text-align: center;
+	text-align: left;
 }
 
 .dropdown-menu {
@@ -72,7 +70,8 @@ body {
 
 .entry {
 	padding: 2em 1em;
-	height: 140px;
+	height: 170px;
+	text-align: center;
 }
 
 .entry:hover {
@@ -80,19 +79,17 @@ body {
 	color: #fff;
 	cursor: pointer;
 }
-
-.icon,
-.description {
-	text-align: center;
-}
-
-.icon {
+.entry .thumb {
 	font-size: 30px;
 }
-
-.description {
-	font-size: 13px;
+.entry .description {
+	display: none;
 }
+.entry .tags {
+	font-size: 0.8em;
+	color: #597ea2;
+}
+.entry em { font-weight: bold; font-style: normal; }
 
 footer {
 	margin-top: 2em;
