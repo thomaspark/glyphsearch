@@ -15,16 +15,6 @@ function search(v) {
 			return;
 		}
 
-		if (v === '') {
-			// for the empty query, sort by name
-			content.hits.sort(function(a, b) {
-				if (!a.name || !b.name) {
-					return 0;
-				}
-				return a.name.localeCompare(b.name);
-			});
-		}
-
 		$('#font-awesome').html('');
 		$('#glyphicons').html('');
 		$('#ionicons').html('');
