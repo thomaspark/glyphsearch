@@ -16,3 +16,15 @@ Thomas Park
 * http://twitter.com/thomashpark
 * https://github.com/thomaspark
 * http://thomaspark.me
+
+## Credits
+
+First and foremost, thanks to the creators of:
+
+* [Font Awesome](http://fontawesome.io)
+* [Glyphicons](http://glyphicons.com)
+* [Ionicons](http://ionicons.com)
+
+Contributors
+
+* [Sylvain Utard](http://github.com/redox)
