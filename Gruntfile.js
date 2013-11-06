@@ -33,7 +33,7 @@ module.exports = function(grunt) {
     init = grunt.log.write("Clearing index...");
     client.deleteIndex('icons');
     var index = client.initIndex('icons');
-    index.setSettings({ 'attributesToIndex' : ["name", "tags"], 'customRanking' : ["asc(name)"] });
+    index.setSettings({ 'attributesToIndex' : ["name", "tags"], 'customRanking' : ["asc(name)"], 'queryType' : 'prefixAll' });
     init.ok();
 
     // push data
