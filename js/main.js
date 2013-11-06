@@ -19,11 +19,11 @@ function search(v) {
 		$('#glyphicons').html('');
 		$('#ionicons').html('');
 		for (var i = 0; i < content.hits.length; ++i) {
-      var hit = content.hits[i];
-      if (hit.name) {
-	      $('#' + hit._tags[0]).append(innerTemplateCompiled.render(hit));
-	    }
-    }
+			var hit = content.hits[i];
+			if (hit.name) {
+				$('#' + hit._tags[0]).append(innerTemplateCompiled.render(hit));
+			}
+		}
 
 		$(".entry").click(function(){
 			var name = $(this).find(".description").text();
@@ -41,9 +41,9 @@ $('#search').change(function() {
 	}
 	search($(this).val());
 }).focus(function(){
-  $(this).attr("placeholder", "");
+	$(this).attr("placeholder", "");
 }).blur(function(){
-  $(this).attr("placeholder", "Search");
+	$(this).attr("placeholder", "Search");
 });
 
 $(".search-term").click(function() {

@@ -16,7 +16,7 @@ module.exports = function(grunt) {
     var personalApiKey = grunt.option('apikey');
     if (!personalApiKey) {
       grunt.log.write("Checking API key...").error();
-      grunt.log.write("Please provide a valid API key with option --apikey")
+      grunt.log.write("Please provide a valid API key with option --apikey");
       return;
     }
 
