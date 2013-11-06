@@ -33,6 +33,10 @@ body {
 	margin-top: 1em;
 }
 
+.twitter-share-button {
+	width: 90px !important;
+}
+
 .search-bar {
 	padding: 3em 0 2em;
 	margin-bottom: 2em;
