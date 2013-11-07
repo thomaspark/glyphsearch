@@ -69,9 +69,11 @@ body {
 }
 
 .entry {
-	padding: 2em 1em;
+	padding: 2em 0.7em 1em;
 	height: 170px;
 	text-align: center;
+	word-wrap: break-word;
+	overflow: hidden;
 }
 
 .entry:hover {
@@ -88,8 +90,13 @@ body {
 .entry .tags {
 	font-size: 0.8em;
 	color: #597ea2;
+	opacity: 0.6;
 }
-.entry em { font-weight: bold; font-style: normal; }
+
+.entry em {
+	font-weight: bold;
+	font-style: normal;
+}
 
 footer {
 	margin-top: 2em;
