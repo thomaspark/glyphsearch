@@ -4,7 +4,7 @@ var innerTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">' +
 		'<div class="description">{{{class}}}</div>' +
 		'<div class="thumb"><i class="{{{class}}}"></i></div>' +
 		'<div class="name">{{{_highlightResult.name.value}}}</div>' +
-		'<div class="tags">{{{_highlightResult.tags.value}}}</div>' +
+		'<div class="tags hidden-xs">{{{_highlightResult.tags.value}}}</div>' +
 		'<div class="clearfix"></div>' +
 	'</div>';
 var innerTemplateCompiled = Hogan.compile(innerTemplate);
