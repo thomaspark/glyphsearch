@@ -476,23 +476,23 @@
         },
         {
             "name": "file",
-            "tags": "text editor"
+            "tags": "text editor, document"
         },
         {
             "name": "file-o",
-            "tags": "text editor"
+            "tags": "text editor, document"
         },
         {
             "name": "file-text",
-            "tags": "text editor"
+            "tags": "text editor, document"
         },
         {
             "name": "file-text-o",
-            "tags": "text editor"
+            "tags": "text editor, document"
         },
         {
             "name": "files-o",
-            "tags": "copy, clipboard"
+            "tags": "copy, clipboard, documents"
         },
         {
             "name": "film"
@@ -1580,7 +1580,7 @@
         },
         {
             "name": "file",
-            "tags": "text editor"
+            "tags": "text editor, document"
         },
         {
             "name": "film"
@@ -2349,11 +2349,11 @@
         },
         {
             "name": "document",
-            "tags": "text editor"
+            "tags": "text editor, file"
         },
         {
             "name": "document-text",
-            "tags": "text editor"
+            "tags": "text editor, file"
         },
         {
             "name": "drag"
