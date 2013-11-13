@@ -1,0 +1,14 @@
+{
+  "name": "GlyphSearch",
+  "version": "1.0.0",
+  "homepage": "http://glyphsearch.com",
+  "authors": [
+    "Thomas Park <thomas@thomaspark.me>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.0.2",
+    "font-awesome": "~4.0.3",
+    "ionicons": "~1.3.3"
+  }
+}
