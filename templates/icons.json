@@ -123,6 +123,22 @@
             "tags": "directional"
         },
         {
+            "name": "arrows",
+            "tags": "move"
+        },
+        {
+            "name": "arrows-alt",
+            "tags": "fullscreen, resize, video player"
+        },
+        {
+            "name": "arrows-h",
+            "tags": "fullscreen, resize, video player, horizontal"
+        },
+        {
+            "name": "arrows-v",
+            "tags": "fullscreen, resize, video player, vertical"
+        },
+        {
             "name": "asterisk"
         },
         {
@@ -137,6 +153,10 @@
         },
         {
             "name": "barcode"
+        },
+        {
+            "name": "bars",
+            "tags": "reorder"
         },
         {
             "name": "beer",
@@ -172,7 +192,7 @@
             "tags": "bitcoin, brand, currency, money"
         },
         {
-            "name": "building"
+            "name": "building-o"
         },
         {
             "name": "bullhorn",
@@ -331,9 +351,6 @@
             "tags": "gears, settings"
         },
         {
-            "name": "collapse-o"
-        },
-        {
             "name": "columns",
             "tags": "text editor"
         },
@@ -356,6 +373,10 @@
         {
             "name": "compass",
             "tags": "map"
+        },
+        {
+            "name": "compress",
+            "tags": "arrows, resize, video player"
         },
         {
             "name": "credit-card",
@@ -399,10 +420,12 @@
             "tags": "video player"
         },
         {
-            "name": "ellipsis-horizontal"
+            "name": "ellipsis-h",
+            "tags": "horizontal"
         },
         {
-            "name": "ellipsis-vertical"
+            "name": "ellipsis-v",
+            "tags": "vertical"
         },
         {
             "name": "envelope",
@@ -434,7 +457,8 @@
             "tags": "warning"
         },
         {
-            "name": "expand-o"
+            "name": "expand",
+            "tags": "arrows, resize, video player"
         },
         {
             "name": "external-link"
@@ -557,10 +581,6 @@
             "tags": "face, smiley, ratings, rate, unlike"
         },
         {
-            "name": "fullscreen",
-            "tags": "video player"
-        },
-        {
             "name": "gamepad",
             "tags": "controller"
         },
@@ -651,7 +671,7 @@
             "name": "home"
         },
         {
-            "name": "hospital",
+            "name": "hospital-o",
             "tags": "medical, building"
         },
         {
@@ -820,11 +840,11 @@
         },
         {
             "name": "minus-square",
-            "tags": "form control"
+            "tags": "form control, collapse"
         },
         {
             "name": "minus-square-o",
-            "tags": "form control"
+            "tags": "form control, resize, collapse"
         },
         {
             "name": "mobile",
@@ -836,9 +856,6 @@
         },
         {
             "name": "moon-o"
-        },
-        {
-            "name": "move"
         },
         {
             "name": "music"
@@ -915,6 +932,10 @@
             "tags": "medical"
         },
         {
+            "name": "plus-square-o",
+            "tags": "form controls, expand, resize"
+        },
+        {
             "name": "power-off"
         },
         {
@@ -952,9 +973,6 @@
             "tags": "brand, social"
         },
         {
-            "name": "reorder"
-        },
-        {
             "name": "repeat",
             "tags": "rotate-right, text editor"
         },
@@ -965,20 +983,6 @@
         {
             "name": "reply-all",
             "tags": "email"
-        },
-        {
-            "name": "resize-full",
-            "tags": "video player"
-        },
-        {
-            "name": "resize-horizontal"
-        },
-        {
-            "name": "resize-small",
-            "tags": "video player"
-        },
-        {
-            "name": "resize-vertical"
         },
         {
             "name": "retweet"
@@ -1283,7 +1287,7 @@
             "name": "unlock"
         },
         {
-            "name": "unlock-o"
+            "name": "unlock-alt"
         },
         {
             "name": "upload"
