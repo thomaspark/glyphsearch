@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>GlyphSearch: search for icons from Font Awesome, Glyphicons, and Ionicons</title>
+		<meta name="description" content="Search for icons from Font Awesome, Glyphicons, and Ionicons">
+		<meta name="viewport" content="width=device-width">
+
+		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+		<link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="bower_components/ionicons/css/ionicons.css">
+		<link rel="stylesheet" href="css/main.css">
+
+		<!--[if lt IE 9]>
+				<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+				<script>window.html5 || document.write('<script src="js/vendor/html5shiv.js"><\/script>')</script>
+		<![endif]-->
+	</head>
+	<body>
+		<div class="header">
+			<div class="container">
+				<h1>GlyphSearch</h1>
+				<p class="tagline">Search for icons from <a target="_blank" href="http://fontawesome.io/">Font Awesome</a>, <a target="_blank" href="http://glyphicons.com/">Glyphicons</a>, and <a target="_blank" href="http://ionicons.com/">Ionicons</a> <a class="fa fa-info-circle" target="_blank" href="http://thomaspark.me/2013/11/glyphsearch-improving-the-search-for-icon-fonts/"></a></p>
+			</div>
+		</div>
+
+		<div class="search-bar">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-4 col-lg-offset-4">
+						<div class="input-group">
+							<input type="text" id="search" class="form-control" placeholder="Search" autocomplete="off" spellcheck="off" />
+							<span class="input-group-btn">
+								<button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown">
+									<span id="filter-label">All</span> <span class="caret"></span>
+								</button>
+								<ul class="dropdown-menu" role="menu" id="filter">
+									<li><a href="#" data-filter="all">All</a></li>
+									<li><a href="#" data-filter="font-awesome">Font Awesome</a></li>
+									<li><a href="#" data-filter="glyphicons">Glyphicons</a></li>
+									<li><a href="#" data-filter="ionicons">Ionicons</a></li>
+								</ul>
+							</span>
+						</div>
+						<span class="help-block">Try searching <a class="search-term">brand</a>, <a class="search-term">currency</a>, <a class="search-term">directional</a>, and <a class="search-term">medical</a></span>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+		<div class="container" id="entries">
+
+			<div class="section page-header section-font-awesome">
+				<h1>Font Awesome</h1>
+			</div>
+			<div class="section row section-font-awesome">
+				{{#each font-awesome}}
+				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">
+					<div class="thumb">
+						<i class="fa fa-{{name}}"></i>
+					</div>
+					<div class="name">{{name}}</div>
+					<div class="tags hidden-xs">{{tags}}</div>
+				</div>
+				{{/each}}
+			</div>
+
+			<div class="section page-header section-glyphicons">
+				<h1>Glyphicons</h1>
+			</div>
+			<div class="section row section-glyphicons">
+				{{#each glyphicons}}
+				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">
+					<div class="thumb">
+						<i class="glyphicon glyphicon-{{name}}"></i>
+					</div>
+				<div class="name">{{name}}</div>
+				<div class="tags hidden-xs">{{tags}}</div>
+				</div>
+				{{/each}}
+			</div>
+
+			<div class="section page-header section-ionicons">
+				<h1>Ionicons</h1>
+			</div>
+			<div class="section row section-ionicons">
+				{{#each ionicons}}
+				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">
+					<div class="thumb">
+						<i class="ionicons ion-{{name}}"></i>
+					</div>
+				<div class="name">{{name}}</div>
+				<div class="tags hidden-xs">{{tags}}</div>
+				</div>
+				{{/each}}
+			</div>
+
+			<hr>
+
+			<footer>
+				<p>Created by <a target="_blank" href="http://thomaspark.me/">Thomas Park</a></p>
+				<p>Powered by <a target="_blank" href="http://www.algolia.com/">Algolia</a></p>
+				<p>Theme by <a target="_blank" href="http://bootswatch.com">Bootswatch</a></p>
+			</footer>
+
+		</div> <!-- /container -->
+		<script src="bower_components/jquery/jquery.min.js"></script>
+		<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+		<script src="js/vendor/jquery.fastLiveFilter.js"></script>
+		<script src="js/offline.js"></script>
+	</body>
+</html>

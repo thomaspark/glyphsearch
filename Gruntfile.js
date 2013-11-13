@@ -1,11 +1,16 @@
 module.exports = function(grunt) {
   grunt.initConfig({
     'compile-handlebars': {
-        allStatic: {
+        remote: {
           template: 'templates/batch.handlebars',
           templateData: 'templates/icons.json',
           output: './batch.json'
         },
+        offline: {
+          template: 'templates/offline.handlebars',
+          templateData: 'templates/icons.json',
+          output: './offline.html'
+        }
     }
   });
 
