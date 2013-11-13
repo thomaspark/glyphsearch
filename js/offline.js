@@ -1,5 +1,7 @@
+var $filters = $("#filter a");
+
 $(".entry").click(function(){
-	var name = $(this).find(".description").text();
+	var name = $(this).find("i").attr("class");
 	window.prompt ("Copy to clipboard:", name);
 });
 
@@ -21,13 +23,11 @@ $(".search-term").click(function(){
 	$("#search").val($(this).text()).focus().change();
 });
 
-var filters = $("#filter a");
-
-filters.click(function(e){
+$filters.click(function(e){
 	e.preventDefault();
 	var filter = $(this).attr("data-filter");
 
-	filters.removeClass("active");
+	$filters.removeClass("active");
 	$(this).addClass("active");
 	$("#filter-label").text($(this).text());
 

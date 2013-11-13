@@ -1,13 +1,13 @@
-var index = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").initIndex('icons');
-
-var innerTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">' +
+var index = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").initIndex('icons'),
+	innerTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">' +
 		'<div class="description">{{{class}}}</div>' +
 		'<div class="thumb"><i class="{{{class}}}"></i></div>' +
 		'<div class="name">{{{_highlightResult.name.value}}}</div>' +
 		'<div class="tags hidden-xs">{{{_highlightResult.tags.value}}}</div>' +
 		'<div class="clearfix"></div>' +
-	'</div>';
-var innerTemplateCompiled = Hogan.compile(innerTemplate);
+		'</div>',
+	innerTemplateCompiled = Hogan.compile(innerTemplate),
+	$filters = $("#filter a");
 
 function search(v) {
 	index.search(v, function(success, content) {
@@ -15,20 +15,13 @@ function search(v) {
 			return;
 		}
 
-		$('#font-awesome').html('');
-		$('#glyphicons').html('');
-		$('#ionicons').html('');
+		$('.section.row').empty();
 		for (var i = 0; i < content.hits.length; ++i) {
 			var hit = content.hits[i];
 			if (hit.name) {
 				$('#' + hit._tags[0]).append(innerTemplateCompiled.render(hit));
 			}
 		}
-
-		$(".entry").click(function(){
-			var name = $(this).find(".description").text();
-			window.prompt("Copy to clipboard:", name);
-		});
 	}, { hitsPerPage: 1000 });
 }
 
@@ -50,14 +43,16 @@ $(".search-term").click(function() {
 	$("#search").val($(this).text()).change();
 });
 
-search('');
+$(".section.row").on("click", ".entry", function(){
+	var name = $(this).find(".description").text();
+	window.prompt("Copy to clipboard:", name);
+});
 
-var filters = $("#filter a");
-filters.click(function(e){
+$filters.click(function(e){
 	e.preventDefault();
 	var filter = $(this).attr("data-filter");
 
-	filters.removeClass("active");
+	$filters.removeClass("active");
 	$(this).addClass("active");
 	$("#filter-label").text($(this).text());
 
@@ -69,3 +64,5 @@ filters.click(function(e){
 		$(".section-" + filter).removeClass("hide");
 	}
 });
+
+search('');
