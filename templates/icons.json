@@ -156,17 +156,19 @@
         },
         {
             "name": "bars",
-            "tags": "reorder"
+            "tags": "menu, more, reorder"
         },
         {
             "name": "beer",
             "tags": "drink, mug, cup"
         },
         {
-            "name": "bell"
+            "name": "bell",
+            "tags": "audio, sound"
         },
         {
-            "name": "bell-o"
+            "name": "bell-o",
+            "tags": "audio, sound"
         },
         {
             "name": "bitbucket",
@@ -936,7 +938,8 @@
             "tags": "form controls, expand, resize"
         },
         {
-            "name": "power-off"
+            "name": "power-off",
+            "tags": "on"
         },
         {
             "name": "print",
@@ -1415,7 +1418,8 @@
             "name": "barcode"
         },
         {
-            "name": "bell"
+            "name": "bell",
+            "tags": "audio, sound"
         },
         {
             "name": "bold",
@@ -1771,7 +1775,8 @@
             "name": "new-window"
         },
         {
-            "name": "off"
+            "name": "off",
+            "tags": "on, power"
         },
         {
             "name": "ok"
@@ -2043,7 +2048,8 @@
             "name": "tint"
         },
         {
-            "name": "tower"
+            "name": "tower",
+            "tags": "chess, game, rook"
         },
         {
             "name": "transfer"
@@ -2598,7 +2604,8 @@
             "tags": "computer"
         },
         {
-            "name": "more"
+            "name": "more",
+            "tags": "dots, menu"
         },
         {
             "name": "music-note"
@@ -2671,7 +2678,8 @@
             "tags": "hash, number"
         },
         {
-            "name": "power"
+            "name": "power",
+            "tags": "off, on"
         },
         {
             "name": "pricetag",
@@ -3066,10 +3074,12 @@
             "tags": "email"
         },
         {
-            "name": "ios7-bell"
+            "name": "ios7-bell",
+            "tags": "audio, sound"
         },
         {
-            "name": "ios7-bell-outline"
+            "name": "ios7-bell-outline",
+            "tags": "audio, sound"
         },
         {
             "name": "ios7-bolt",
@@ -3400,10 +3410,12 @@
             "name": "ios7-moon-outline"
         },
         {
-            "name": "ios7-more"
+            "name": "ios7-more",
+            "tags": "dots, menu"
         },
         {
-            "name": "ios7-more-outline"
+            "name": "ios7-more-outline",
+            "tags": "dots, menu"
         },
         {
             "name": "ios7-musical-note"
