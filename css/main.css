@@ -27,6 +27,10 @@ body {
 	color: #fff;
 }
 
+.tagline .fa {
+	margin-left: 0.5em;
+}
+
 .tagline .fa:hover {
 	text-decoration: none;
 }
