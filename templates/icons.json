@@ -2194,7 +2194,8 @@
             "tags": "directional"
         },
         {
-            "name": "arrow-shrink"
+            "name": "arrow-shrink",
+            "tags": "resize, collapse"
         },
         {
             "name": "arrow-swap"
