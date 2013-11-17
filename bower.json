@@ -9,6 +9,7 @@
   "dependencies": {
     "bootstrap": "~3.0.2",
     "font-awesome": "~4.0.3",
-    "ionicons": "~1.3.3"
+    "ionicons": "~1.3.3",
+    "icomoon": "~0.0.1"
   }
 }

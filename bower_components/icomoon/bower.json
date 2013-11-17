@@ -1,0 +1,16 @@
+{
+  "name": "icomoon-bower",
+  "version": "0.0.1",
+  "homepage": "http://keyamoon.com/icomoon/",
+  "authors": [
+    "Keyamoon"
+  ],
+  "description": "icomoon free font as a bower component",
+  "keywords": [
+    "icomoon",
+    "bower"
+  ],
+  "license": "CC BY 3.0 -- http://creativecommons.org/licenses/by/3.0/",
+  "ignore": [
+  ]
+}
