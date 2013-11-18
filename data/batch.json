@@ -1,0 +1,10161 @@
+[
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "adjust",
+    "tags": "",
+    "class": "fa fa-adjust"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "adn",
+    "tags": "brand social",
+    "class": "fa fa-adn"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "align-center",
+    "tags": "text editor",
+    "class": "fa fa-align-center"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "align-justify",
+    "tags": "text editor",
+    "class": "fa fa-align-justify"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "align-left",
+    "tags": "text editor",
+    "class": "fa fa-align-left"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "align-right",
+    "tags": "text editor",
+    "class": "fa fa-align-right"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "ambulance",
+    "tags": "medical, vehicle",
+    "class": "fa fa-ambulance"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "anchor",
+    "tags": "",
+    "class": "fa fa-anchor"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "android",
+    "tags": "brand, robot, google",
+    "class": "fa fa-android"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "angle-double-down",
+    "tags": "directional",
+    "class": "fa fa-angle-double-down"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "angle-double-left",
+    "tags": "directional",
+    "class": "fa fa-angle-double-left"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "angle-double-right",
+    "tags": "directional",
+    "class": "fa fa-angle-double-right"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "angle-double-up",
+    "tags": "directional",
+    "class": "fa fa-angle-double-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "angle-down",
+    "tags": "directional",
+    "class": "fa fa-angle-down"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "angle-left",
+    "tags": "directional",
+    "class": "fa fa-angle-left"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "angle-right",
+    "tags": "directional",
+    "class": "fa fa-angle-right"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "angle-up",
+    "tags": "directional",
+    "class": "fa fa-angle-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "apple",
+    "tags": "brand, food, fruit",
+    "class": "fa fa-apple"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "archive",
+    "tags": "email",
+    "class": "fa fa-archive"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrow-circle-down",
+    "tags": "directional",
+    "class": "fa fa-arrow-circle-down"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrow-circle-left",
+    "tags": "directional",
+    "class": "fa fa-arrow-circle-left"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrow-circle-right",
+    "tags": "directional",
+    "class": "fa fa-arrow-circle-right"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrow-circle-up",
+    "tags": "directional",
+    "class": "fa fa-arrow-circle-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrow-circle-o-down",
+    "tags": "directional",
+    "class": "fa fa-arrow-circle-o-down"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrow-circle-o-left",
+    "tags": "directional",
+    "class": "fa fa-arrow-circle-o-left"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrow-circle-o-right",
+    "tags": "directional",
+    "class": "fa fa-arrow-circle-o-right"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrow-circle-o-up",
+    "tags": "directional",
+    "class": "fa fa-arrow-circle-o-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrow-down",
+    "tags": "directional",
+    "class": "fa fa-arrow-down"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrow-left",
+    "tags": "directional",
+    "class": "fa fa-arrow-left"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrow-right",
+    "tags": "directional",
+    "class": "fa fa-arrow-right"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrow-up",
+    "tags": "directional",
+    "class": "fa fa-arrow-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrows",
+    "tags": "move",
+    "class": "fa fa-arrows"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrows-alt",
+    "tags": "fullscreen, resize, video player",
+    "class": "fa fa-arrows-alt"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrows-h",
+    "tags": "fullscreen, resize, video player, horizontal",
+    "class": "fa fa-arrows-h"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "arrows-v",
+    "tags": "fullscreen, resize, video player, vertical",
+    "class": "fa fa-arrows-v"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "asterisk",
+    "tags": "",
+    "class": "fa fa-asterisk"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "backward",
+    "tags": "video player",
+    "class": "fa fa-backward"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "ban",
+    "tags": "",
+    "class": "fa fa-ban"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "bar-chart-o",
+    "tags": "",
+    "class": "fa fa-bar-chart-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "barcode",
+    "tags": "",
+    "class": "fa fa-barcode"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "bars",
+    "tags": "menu, more, reorder",
+    "class": "fa fa-bars"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "beer",
+    "tags": "drink, mug, stein",
+    "class": "fa fa-beer"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "bell",
+    "tags": "audio, sound",
+    "class": "fa fa-bell"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "bell-o",
+    "tags": "audio, sound",
+    "class": "fa fa-bell-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "bitbucket",
+    "tags": "brand, code, social",
+    "class": "fa fa-bitbucket"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "bitbucket-square",
+    "tags": "brand, code, social",
+    "class": "fa fa-bitbucket-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "bold",
+    "tags": "text editor",
+    "class": "fa fa-bold"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "bolt",
+    "tags": "flash, lightning bolt",
+    "class": "fa fa-bolt"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "book",
+    "tags": "",
+    "class": "fa fa-book"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "btc",
+    "tags": "bitcoin, brand, currency, money",
+    "class": "fa fa-btc"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "building-o",
+    "tags": "",
+    "class": "fa fa-building-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "bullhorn",
+    "tags": "speakerphone",
+    "class": "fa fa-bullhorn"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "bullseye",
+    "tags": "aim, target",
+    "class": "fa fa-bullseye"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "calendar",
+    "tags": "date",
+    "class": "fa fa-calendar"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "calendar-o",
+    "tags": "date",
+    "class": "fa fa-calendar-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "camera",
+    "tags": "photographs",
+    "class": "fa fa-camera"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "camera-retro",
+    "tags": "photographs",
+    "class": "fa fa-camera-retro"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "caret-down",
+    "tags": "directional, triangle",
+    "class": "fa fa-caret-down"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "caret-left",
+    "tags": "directional, triangle",
+    "class": "fa fa-caret-left"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "caret-right",
+    "tags": "directional, triangle",
+    "class": "fa fa-caret-right"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "caret-square-o-down",
+    "tags": "toggle-down, directional",
+    "class": "fa fa-caret-square-o-down"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "caret-square-o-left",
+    "tags": "toggle-left, directional",
+    "class": "fa fa-caret-square-o-left"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "caret-square-o-right",
+    "tags": "toggle-right, directional",
+    "class": "fa fa-caret-square-o-right"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "caret-square-o-up",
+    "tags": "toggle-up, directional",
+    "class": "fa fa-caret-square-o-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "caret-up",
+    "tags": "directional, triangle",
+    "class": "fa fa-caret-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "certificate",
+    "tags": "seal, prize, award",
+    "class": "fa fa-certificate"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "chain-broken",
+    "tags": "unlink, text editor",
+    "class": "fa fa-chain-broken"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "check",
+    "tags": "",
+    "class": "fa fa-check"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "check-circle",
+    "tags": "",
+    "class": "fa fa-check-circle"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "check-circle-o",
+    "tags": "",
+    "class": "fa fa-check-circle-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "check-square",
+    "tags": "form control",
+    "class": "fa fa-check-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "check-square-o",
+    "tags": "form control",
+    "class": "fa fa-check-square-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "chevron-circle-down",
+    "tags": "directional",
+    "class": "fa fa-chevron-circle-down"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "chevron-circle-left",
+    "tags": "directional",
+    "class": "fa fa-chevron-circle-left"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "chevron-circle-right",
+    "tags": "directional",
+    "class": "fa fa-chevron-circle-right"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "chevron-circle-up",
+    "tags": "directional",
+    "class": "fa fa-chevron-circle-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "chevron-down",
+    "tags": "directional",
+    "class": "fa fa-chevron-down"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "chevron-left",
+    "tags": "directional",
+    "class": "fa fa-chevron-left"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "chevron-right",
+    "tags": "directional",
+    "class": "fa fa-chevron-right"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "chevron-up",
+    "tags": "directional",
+    "class": "fa fa-chevron-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "circle",
+    "tags": "form control",
+    "class": "fa fa-circle"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "circle-o",
+    "tags": "form control",
+    "class": "fa fa-circle-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "clipboard",
+    "tags": "paste, text editor",
+    "class": "fa fa-clipboard"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "clock-o",
+    "tags": "timer",
+    "class": "fa fa-clock-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "cloud",
+    "tags": "",
+    "class": "fa fa-cloud"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "cloud-download",
+    "tags": "",
+    "class": "fa fa-cloud-download"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "cloud-upload",
+    "tags": "",
+    "class": "fa fa-cloud-upload"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "code",
+    "tags": "source",
+    "class": "fa fa-code"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "code-fork",
+    "tags": "git",
+    "class": "fa fa-code-fork"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "coffee",
+    "tags": "cup, drink, mug",
+    "class": "fa fa-coffee"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "cog",
+    "tags": "gear, settings",
+    "class": "fa fa-cog"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "cogs",
+    "tags": "gears, settings",
+    "class": "fa fa-cogs"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "columns",
+    "tags": "text editor",
+    "class": "fa fa-columns"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "comment",
+    "tags": "chat, speech bubble",
+    "class": "fa fa-comment"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "comment-o",
+    "tags": "chat, speech bubble",
+    "class": "fa fa-comment-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "comments",
+    "tags": "chat, speech bubble",
+    "class": "fa fa-comments"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "comments-o",
+    "tags": "chat, speech bubble",
+    "class": "fa fa-comments-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "compass",
+    "tags": "directions, map, navigation",
+    "class": "fa fa-compass"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "compress",
+    "tags": "arrows, resize, video player",
+    "class": "fa fa-compress"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "credit-card",
+    "tags": "money, payment",
+    "class": "fa fa-credit-card"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "crop",
+    "tags": "",
+    "class": "fa fa-crop"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "crosshairs",
+    "tags": "",
+    "class": "fa fa-crosshairs"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "css3",
+    "tags": "brand, web",
+    "class": "fa fa-css3"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "cutlery",
+    "tags": "food, fork, knife",
+    "class": "fa fa-cutlery"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "desktop",
+    "tags": "computer, pc, monitor",
+    "class": "fa fa-desktop"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "dot-circle-o",
+    "tags": "form control, target",
+    "class": "fa fa-dot-circle-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "download",
+    "tags": "",
+    "class": "fa fa-download"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "dribbble",
+    "tags": "brand, social, basketball",
+    "class": "fa fa-dribbble"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "dropbox",
+    "tags": "brand",
+    "class": "fa fa-dropbox"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "eject",
+    "tags": "video player",
+    "class": "fa fa-eject"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "ellipsis-h",
+    "tags": "horizontal",
+    "class": "fa fa-ellipsis-h"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "ellipsis-v",
+    "tags": "vertical",
+    "class": "fa fa-ellipsis-v"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "envelope",
+    "tags": "email",
+    "class": "fa fa-envelope"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "envelope-o",
+    "tags": "email",
+    "class": "fa fa-envelope-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "eraser",
+    "tags": "text editor, undo, delete",
+    "class": "fa fa-eraser"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "eur",
+    "tags": "euro, currency, money",
+    "class": "fa fa-eur"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "exchange",
+    "tags": "",
+    "class": "fa fa-exchange"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "exclamation",
+    "tags": "",
+    "class": "fa fa-exclamation"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "exclamation-circle",
+    "tags": "",
+    "class": "fa fa-exclamation-circle"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "exclamation-triangle",
+    "tags": "warning",
+    "class": "fa fa-exclamation-triangle"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "expand",
+    "tags": "arrows, resize, video player",
+    "class": "fa fa-expand"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "external-link",
+    "tags": "",
+    "class": "fa fa-external-link"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "external-link-square",
+    "tags": "",
+    "class": "fa fa-external-link-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "eye",
+    "tags": "show",
+    "class": "fa fa-eye"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "eye-slash",
+    "tags": "hide",
+    "class": "fa fa-eye-slash"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "facebook",
+    "tags": "brand, social",
+    "class": "fa fa-facebook"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "facebook-square",
+    "tags": "brand, social",
+    "class": "fa fa-facebook-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "fast-backward",
+    "tags": "video player",
+    "class": "fa fa-fast-backward"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "fast-forward",
+    "tags": "video player",
+    "class": "fa fa-fast-forward"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "female",
+    "tags": "gender, sex, person,  user",
+    "class": "fa fa-female"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "fighter-jet",
+    "tags": "airplane",
+    "class": "fa fa-fighter-jet"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "file",
+    "tags": "text editor, document",
+    "class": "fa fa-file"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "file-o",
+    "tags": "text editor, document",
+    "class": "fa fa-file-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "file-text",
+    "tags": "text editor, document",
+    "class": "fa fa-file-text"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "file-text-o",
+    "tags": "text editor, document",
+    "class": "fa fa-file-text-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "files-o",
+    "tags": "copy, clipboard, documents",
+    "class": "fa fa-files-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "film",
+    "tags": "",
+    "class": "fa fa-film"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "filter",
+    "tags": "",
+    "class": "fa fa-filter"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "fire",
+    "tags": "flame, hot",
+    "class": "fa fa-fire"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "fire-extinguisher",
+    "tags": "",
+    "class": "fa fa-fire-extinguisher"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "flag",
+    "tags": "",
+    "class": "fa fa-flag"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "flag-checkered",
+    "tags": "",
+    "class": "fa fa-flag-checkered"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "flag-o",
+    "tags": "",
+    "class": "fa fa-flag-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "flask",
+    "tags": "beaker, science",
+    "class": "fa fa-flask"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "flickr",
+    "tags": "brand, yahoo, social, photos",
+    "class": "fa fa-flickr"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "floppy-o",
+    "tags": "save, text editor",
+    "class": "fa fa-floppy-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "folder",
+    "tags": "",
+    "class": "fa fa-folder"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "folder-o",
+    "tags": "",
+    "class": "fa fa-folder-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "folder-open",
+    "tags": "",
+    "class": "fa fa-folder-open"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "folder-open-o",
+    "tags": "",
+    "class": "fa fa-folder-open-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "font",
+    "tags": "text editor",
+    "class": "fa fa-font"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "forward",
+    "tags": "video player",
+    "class": "fa fa-forward"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "foursquare",
+    "tags": "brand, social",
+    "class": "fa fa-foursquare"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "frown-o",
+    "tags": "face, smiley, ratings, rate, unlike",
+    "class": "fa fa-frown-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "gamepad",
+    "tags": "controller",
+    "class": "fa fa-gamepad"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "gavel",
+    "tags": "legal, judge",
+    "class": "fa fa-gavel"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "gbp",
+    "tags": "currency, money",
+    "class": "fa fa-gbp"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "gift",
+    "tags": "present",
+    "class": "fa fa-gift"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "github",
+    "tags": "brand, code, social",
+    "class": "fa fa-github"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "github-alt",
+    "tags": "brand, code, social",
+    "class": "fa fa-github-alt"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "github-square",
+    "tags": "brand, code, social",
+    "class": "fa fa-github-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "gittip",
+    "tags": "brand, social, heart",
+    "class": "fa fa-gittip"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "glass",
+    "tags": "drink, martini",
+    "class": "fa fa-glass"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "globe",
+    "tags": "earth, planet, world",
+    "class": "fa fa-globe"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "google-plus",
+    "tags": "brand, social",
+    "class": "fa fa-google-plus"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "google-plus-square",
+    "tags": "brand, social",
+    "class": "fa fa-google-plus-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "group",
+    "tags": "users, people",
+    "class": "fa fa-group"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "h-square",
+    "tags": "medical",
+    "class": "fa fa-h-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "hand-o-down",
+    "tags": "directional, finger, pointer",
+    "class": "fa fa-hand-o-down"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "hand-o-left",
+    "tags": "directional, finger, pointer",
+    "class": "fa fa-hand-o-left"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "hand-o-right",
+    "tags": "directional, finger, pointer",
+    "class": "fa fa-hand-o-right"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "hand-o-up",
+    "tags": "directional, finger, pointer",
+    "class": "fa fa-hand-o-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "hdd-o",
+    "tags": "hard drive, computer, disk",
+    "class": "fa fa-hdd-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "headphones",
+    "tags": "music, audio, sound",
+    "class": "fa fa-headphones"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "heart",
+    "tags": "like, favorite",
+    "class": "fa fa-heart"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "heart-o",
+    "tags": "unlike, unfavorite",
+    "class": "fa fa-heart-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "home",
+    "tags": "",
+    "class": "fa fa-home"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "hospital-o",
+    "tags": "medical, building",
+    "class": "fa fa-hospital-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "html5",
+    "tags": "brand, web",
+    "class": "fa fa-html5"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "inbox",
+    "tags": "email",
+    "class": "fa fa-inbox"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "indent",
+    "tags": "text editor",
+    "class": "fa fa-indent"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "info",
+    "tags": "",
+    "class": "fa fa-info"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "info-circle",
+    "tags": "",
+    "class": "fa fa-info-circle"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "inr",
+    "tags": "rupee, currency, money",
+    "class": "fa fa-inr"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "instagram",
+    "tags": "brand, camera, facebook, social, photos",
+    "class": "fa fa-instagram"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "italic",
+    "tags": "text editor",
+    "class": "fa fa-italic"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "jpy",
+    "tags": "cny, rmb, yen, currency, money",
+    "class": "fa fa-jpy"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "key",
+    "tags": "",
+    "class": "fa fa-key"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "keyboard-o",
+    "tags": "computer",
+    "class": "fa fa-keyboard-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "krw",
+    "tags": "won, currency, money",
+    "class": "fa fa-krw"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "laptop",
+    "tags": "computer",
+    "class": "fa fa-laptop"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "leaf",
+    "tags": "plant",
+    "class": "fa fa-leaf"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "lemon-o",
+    "tags": "food, fruit",
+    "class": "fa fa-lemon-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "level-down",
+    "tags": "",
+    "class": "fa fa-level-down"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "level-up",
+    "tags": "",
+    "class": "fa fa-level-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "lightbulb-o",
+    "tags": "",
+    "class": "fa fa-lightbulb-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "link",
+    "tags": "chain, text editor",
+    "class": "fa fa-link"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "linkedin",
+    "tags": "brand, social",
+    "class": "fa fa-linkedin"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "linkedin-square",
+    "tags": "brand, social",
+    "class": "fa fa-linkedin-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "linux",
+    "tags": "brand, penguin, bird, animal",
+    "class": "fa fa-linux"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "list",
+    "tags": "text editor",
+    "class": "fa fa-list"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "list-alt",
+    "tags": "text editor",
+    "class": "fa fa-list-alt"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "list-ol",
+    "tags": "text editor",
+    "class": "fa fa-list-ol"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "list-ul",
+    "tags": "text editor",
+    "class": "fa fa-list-ul"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "location-arrow",
+    "tags": "",
+    "class": "fa fa-location-arrow"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "lock",
+    "tags": "",
+    "class": "fa fa-lock"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "long-arrow-down",
+    "tags": "directional",
+    "class": "fa fa-long-arrow-down"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "long-arrow-left",
+    "tags": "directional",
+    "class": "fa fa-long-arrow-left"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "long-arrow-right",
+    "tags": "directional",
+    "class": "fa fa-long-arrow-right"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "long-arrow-up",
+    "tags": "directional",
+    "class": "fa fa-long-arrow-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "magic",
+    "tags": "wand",
+    "class": "fa fa-magic"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "magnet",
+    "tags": "",
+    "class": "fa fa-magnet"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "mail-reply-all",
+    "tags": "email",
+    "class": "fa fa-mail-reply-all"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "male",
+    "tags": "gender, sex, person, user",
+    "class": "fa fa-male"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "map-marker",
+    "tags": "",
+    "class": "fa fa-map-marker"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "maxcdn",
+    "tags": "brand",
+    "class": "fa fa-maxcdn"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "medkit",
+    "tags": "medical",
+    "class": "fa fa-medkit"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "meh-o",
+    "tags": "face, smiley, ratings, rate",
+    "class": "fa fa-meh-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "microphone",
+    "tags": "audio, sound, voice",
+    "class": "fa fa-microphone"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "microphone-slash",
+    "tags": "audio, sound, voice",
+    "class": "fa fa-microphone-slash"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "minus",
+    "tags": "",
+    "class": "fa fa-minus"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "minus-circle",
+    "tags": "",
+    "class": "fa fa-minus-circle"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "minus-square",
+    "tags": "form control, collapse",
+    "class": "fa fa-minus-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "minus-square-o",
+    "tags": "form control, resize, collapse",
+    "class": "fa fa-minus-square-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "mobile",
+    "tags": "mobile-phone",
+    "class": "fa fa-mobile"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "money",
+    "tags": "currency, dollar bill, payment",
+    "class": "fa fa-money"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "moon-o",
+    "tags": "",
+    "class": "fa fa-moon-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "music",
+    "tags": "",
+    "class": "fa fa-music"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "outdent",
+    "tags": "dedent, text editor",
+    "class": "fa fa-outdent"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "paperclip",
+    "tags": "text editor, email, file attachment",
+    "class": "fa fa-paperclip"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "pagelines",
+    "tags": "brand, leaf, plant",
+    "class": "fa fa-pagelines"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "pause",
+    "tags": "video player",
+    "class": "fa fa-pause"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "pencil",
+    "tags": "",
+    "class": "fa fa-pencil"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "pencil-square",
+    "tags": "edit",
+    "class": "fa fa-pencil-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "pencil-square-o",
+    "tags": "",
+    "class": "fa fa-pencil-square-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "phone",
+    "tags": "telephone",
+    "class": "fa fa-phone"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "phone-square",
+    "tags": "telephone",
+    "class": "fa fa-phone-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "picture-o",
+    "tags": "",
+    "class": "fa fa-picture-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "pinterest",
+    "tags": "brand, social",
+    "class": "fa fa-pinterest"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "pinterest-square",
+    "tags": "brand, social",
+    "class": "fa fa-pinterest-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "plane",
+    "tags": "airplane, jet",
+    "class": "fa fa-plane"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "play",
+    "tags": "video player, triangle",
+    "class": "fa fa-play"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "play-circle",
+    "tags": "video player",
+    "class": "fa fa-play-circle"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "play-circle-o",
+    "tags": "video player",
+    "class": "fa fa-play-circle-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "plus",
+    "tags": "add",
+    "class": "fa fa-plus"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "plus-circle",
+    "tags": "",
+    "class": "fa fa-plus-circle"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "plus-square",
+    "tags": "medical",
+    "class": "fa fa-plus-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "plus-square-o",
+    "tags": "form controls, expand, resize",
+    "class": "fa fa-plus-square-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "power-off",
+    "tags": "on",
+    "class": "fa fa-power-off"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "print",
+    "tags": "printer, computer",
+    "class": "fa fa-print"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "puzzle-piece",
+    "tags": "jigsaw",
+    "class": "fa fa-puzzle-piece"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "qrcode",
+    "tags": "",
+    "class": "fa fa-qrcode"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "question",
+    "tags": "",
+    "class": "fa fa-question"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "question-circle",
+    "tags": "",
+    "class": "fa fa-question-circle"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "quote-left",
+    "tags": "",
+    "class": "fa fa-quote-left"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "quote-right",
+    "tags": "",
+    "class": "fa fa-quote-right"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "random",
+    "tags": "",
+    "class": "fa fa-random"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "refresh",
+    "tags": "reload",
+    "class": "fa fa-refresh"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "renren",
+    "tags": "brand, social",
+    "class": "fa fa-renren"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "repeat",
+    "tags": "rotate-right, text editor",
+    "class": "fa fa-repeat"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "reply",
+    "tags": "mail-reply, email",
+    "class": "fa fa-reply"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "reply-all",
+    "tags": "email",
+    "class": "fa fa-reply-all"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "retweet",
+    "tags": "",
+    "class": "fa fa-retweet"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "road",
+    "tags": "",
+    "class": "fa fa-road"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "rocket",
+    "tags": "spaceship",
+    "class": "fa fa-rocket"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "rub",
+    "tags": "ruble, rouble, currency, money",
+    "class": "fa fa-rub"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "rss",
+    "tags": "",
+    "class": "fa fa-rss"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "rss-square",
+    "tags": "",
+    "class": "fa fa-rss-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "scissors",
+    "tags": "cut, text editor, clipboard",
+    "class": "fa fa-scissors"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "search",
+    "tags": "magnifying glass",
+    "class": "fa fa-search"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "search-minus",
+    "tags": "zoom out, magnifying glass",
+    "class": "fa fa-search-minus"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "search-plus",
+    "tags": "zoom in, magnifying glass",
+    "class": "fa fa-search-plus"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "share",
+    "tags": "mail-forward, email",
+    "class": "fa fa-share"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "share-square",
+    "tags": "",
+    "class": "fa fa-share-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "share-square-o",
+    "tags": "",
+    "class": "fa fa-share-square-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "shield",
+    "tags": "",
+    "class": "fa fa-shield"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "shopping-cart",
+    "tags": "",
+    "class": "fa fa-shopping-cart"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "sign-in",
+    "tags": "",
+    "class": "fa fa-sign-in"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "sign-out",
+    "tags": "",
+    "class": "fa fa-sign-out"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "signal",
+    "tags": "bars, graph",
+    "class": "fa fa-signal"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "sitemap",
+    "tags": "",
+    "class": "fa fa-sitemap"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "skype",
+    "tags": "brand, social, microsoft",
+    "class": "fa fa-skype"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "smile-o",
+    "tags": "face, smiley, ratings, rate, like",
+    "class": "fa fa-smile-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "sort",
+    "tags": "unsorted",
+    "class": "fa fa-sort"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "sort-alpha-asc",
+    "tags": "",
+    "class": "fa fa-sort-alpha-asc"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "sort-alpha-desc",
+    "tags": "",
+    "class": "fa fa-sort-alpha-desc"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "sort-amount-asc",
+    "tags": "",
+    "class": "fa fa-sort-amount-asc"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "sort-amount-desc",
+    "tags": "",
+    "class": "fa fa-sort-amount-desc"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "sort-asc",
+    "tags": "sort-down, triangle",
+    "class": "fa fa-sort-asc"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "sort-desc",
+    "tags": "sort-up, triangle",
+    "class": "fa fa-sort-desc"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "sort-numeric-asc",
+    "tags": "",
+    "class": "fa fa-sort-numeric-asc"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "sort-numeric-desc",
+    "tags": "",
+    "class": "fa fa-sort-numeric-desc"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "spinner",
+    "tags": "loading",
+    "class": "fa fa-spinner"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "square",
+    "tags": "form control",
+    "class": "fa fa-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "square-o",
+    "tags": "form control",
+    "class": "fa fa-square-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "stack-exchange",
+    "tags": "brand, social",
+    "class": "fa fa-stack-exchange"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "stack-overflow",
+    "tags": "brand, code, social",
+    "class": "fa fa-stack-overflow"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "star",
+    "tags": "favorite, ratings, rate",
+    "class": "fa fa-star"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "star-half",
+    "tags": "ratings, rate",
+    "class": "fa fa-star-half"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "star-half-o",
+    "tags": "star-half-empty, star-half-full, ratings, rate",
+    "class": "fa fa-star-half-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "star-o",
+    "tags": "favorite, ratings, rate",
+    "class": "fa fa-star-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "step-backward",
+    "tags": "video player",
+    "class": "fa fa-step-backward"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "step-forward",
+    "tags": "video player",
+    "class": "fa fa-step-forward"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "stethoscope",
+    "tags": "medical",
+    "class": "fa fa-stethoscope"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "stop",
+    "tags": "video player, square",
+    "class": "fa fa-stop"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "strikethrough",
+    "tags": "text editor",
+    "class": "fa fa-strikethrough"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "subscript",
+    "tags": "",
+    "class": "fa fa-subscript"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "suitcase",
+    "tags": "briefcase, business",
+    "class": "fa fa-suitcase"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "sun-o",
+    "tags": "weather",
+    "class": "fa fa-sun-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "superscript",
+    "tags": "",
+    "class": "fa fa-superscript"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "table",
+    "tags": "text editor",
+    "class": "fa fa-table"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "tablet",
+    "tags": "computer, ipad",
+    "class": "fa fa-tablet"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "tachometer",
+    "tags": "dashboard, speedometer",
+    "class": "fa fa-tachometer"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "tag",
+    "tags": "",
+    "class": "fa fa-tag"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "tags",
+    "tags": "",
+    "class": "fa fa-tags"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "tasks",
+    "tags": "",
+    "class": "fa fa-tasks"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "terminal",
+    "tags": "",
+    "class": "fa fa-terminal"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "text-height",
+    "tags": "text editor",
+    "class": "fa fa-text-height"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "text-width",
+    "tags": "text editor",
+    "class": "fa fa-text-width"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "th",
+    "tags": "text editor",
+    "class": "fa fa-th"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "th-large",
+    "tags": "text editor",
+    "class": "fa fa-th-large"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "th-list",
+    "tags": "text editor",
+    "class": "fa fa-th-list"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "thumb-tack",
+    "tags": "",
+    "class": "fa fa-thumb-tack"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "thumbs-down",
+    "tags": "unlike, ratings, rate",
+    "class": "fa fa-thumbs-down"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "thumbs-o-down",
+    "tags": "unlike, ratings, rate",
+    "class": "fa fa-thumbs-o-down"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "thumbs-o-up",
+    "tags": "like, ratings, rate",
+    "class": "fa fa-thumbs-o-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "thumbs-up",
+    "tags": "unlike, ratings, rate",
+    "class": "fa fa-thumbs-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "ticket",
+    "tags": "film, movie, admission",
+    "class": "fa fa-ticket"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "times",
+    "tags": "",
+    "class": "fa fa-times"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "times-circle",
+    "tags": "",
+    "class": "fa fa-times-circle"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "times-circle-o",
+    "tags": "",
+    "class": "fa fa-times-circle-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "tint",
+    "tags": "",
+    "class": "fa fa-tint"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "trash-o",
+    "tags": "delete",
+    "class": "fa fa-trash-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "trello",
+    "tags": "brand, social",
+    "class": "fa fa-trello"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "trophy",
+    "tags": "prize, award",
+    "class": "fa fa-trophy"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "truck",
+    "tags": "vehicle",
+    "class": "fa fa-truck"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "try",
+    "tags": "turkish lira, currency, money",
+    "class": "fa fa-try"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "tumblr",
+    "tags": "brand, yahoo, social",
+    "class": "fa fa-tumblr"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "tumblr-square",
+    "tags": "brand, yahoo, social",
+    "class": "fa fa-tumblr-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "twitter",
+    "tags": "brand, bird, animal, social",
+    "class": "fa fa-twitter"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "twitter-square",
+    "tags": "brand, bird, animal, social",
+    "class": "fa fa-twitter-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "umbrella",
+    "tags": "",
+    "class": "fa fa-umbrella"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "underline",
+    "tags": "text editor",
+    "class": "fa fa-underline"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "undo",
+    "tags": "rotate-left, text editor",
+    "class": "fa fa-undo"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "unlock",
+    "tags": "",
+    "class": "fa fa-unlock"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "unlock-alt",
+    "tags": "",
+    "class": "fa fa-unlock-alt"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "upload",
+    "tags": "",
+    "class": "fa fa-upload"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "usd",
+    "tags": "dollar, currency, money",
+    "class": "fa fa-usd"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "user",
+    "tags": "person",
+    "class": "fa fa-user"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "user-md",
+    "tags": "medical, doctor",
+    "class": "fa fa-user-md"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "video-camera",
+    "tags": "",
+    "class": "fa fa-video-camera"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "vimeo-square",
+    "tags": "brand, video, social",
+    "class": "fa fa-vimeo-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "vk",
+    "tags": "brand, social",
+    "class": "fa fa-vk"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "volume-down",
+    "tags": "audio, sound",
+    "class": "fa fa-volume-down"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "volume-off",
+    "tags": "audio, sound",
+    "class": "fa fa-volume-off"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "volume-up",
+    "tags": "audio, sound",
+    "class": "fa fa-volume-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "weibo",
+    "tags": "brand, social",
+    "class": "fa fa-weibo"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "wheelchair",
+    "tags": "medical, handicapped",
+    "class": "fa fa-wheelchair"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "windows",
+    "tags": "brand, microsoft",
+    "class": "fa fa-windows"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "wrench",
+    "tags": "tool, settings",
+    "class": "fa fa-wrench"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "xing",
+    "tags": "brand, social",
+    "class": "fa fa-xing"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "xing-square",
+    "tags": "brand, social",
+    "class": "fa fa-xing-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "youtube",
+    "tags": "brand, video, google, social",
+    "class": "fa fa-youtube"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "youtube-play",
+    "tags": "brand, video player, google, social",
+    "class": "fa fa-youtube-play"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "youtube-square",
+    "tags": "brand, video, google, social",
+    "class": "fa fa-youtube-square"
+  },
+   
+
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "adjust",
+    "tags": "",
+    "class": "glyphicon glyphicon-adjust"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "align-center",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-align-center"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "align-justify",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-align-justify"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "align-left",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-align-left"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "align-right",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-align-right"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "arrow-down",
+    "tags": "directional",
+    "class": "glyphicon glyphicon-arrow-down"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "arrow-left",
+    "tags": "directional",
+    "class": "glyphicon glyphicon-arrow-left"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "arrow-right",
+    "tags": "directional",
+    "class": "glyphicon glyphicon-arrow-right"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "arrow-up",
+    "tags": "directional",
+    "class": "glyphicon glyphicon-arrow-up"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "asterisk",
+    "tags": "",
+    "class": "glyphicon glyphicon-asterisk"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "backward",
+    "tags": "video player",
+    "class": "glyphicon glyphicon-backward"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "ban-circle",
+    "tags": "",
+    "class": "glyphicon glyphicon-ban-circle"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "barcode",
+    "tags": "",
+    "class": "glyphicon glyphicon-barcode"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "bell",
+    "tags": "audio, sound",
+    "class": "glyphicon glyphicon-bell"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "bold",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-bold"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "book",
+    "tags": "",
+    "class": "glyphicon glyphicon-book"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "bookmark",
+    "tags": "",
+    "class": "glyphicon glyphicon-bookmark"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "briefcase",
+    "tags": "suitcase, business",
+    "class": "glyphicon glyphicon-briefcase"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "bullhorn",
+    "tags": "speakerphone",
+    "class": "glyphicon glyphicon-bullhorn"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "calendar",
+    "tags": "date",
+    "class": "glyphicon glyphicon-calendar"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "camera",
+    "tags": "photographs",
+    "class": "glyphicon glyphicon-camera"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "certificate",
+    "tags": "seal, prize, award",
+    "class": "glyphicon glyphicon-certificate"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "check",
+    "tags": "form control",
+    "class": "glyphicon glyphicon-check"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "chevron-down",
+    "tags": "directional",
+    "class": "glyphicon glyphicon-chevron-down"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "chevron-left",
+    "tags": "directional",
+    "class": "glyphicon glyphicon-chevron-left"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "chevron-right",
+    "tags": "directional",
+    "class": "glyphicon glyphicon-chevron-right"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "chevron-up",
+    "tags": "directional",
+    "class": "glyphicon glyphicon-chevron-up"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "circle-arrow-down",
+    "tags": "directional",
+    "class": "glyphicon glyphicon-circle-arrow-down"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "circle-arrow-left",
+    "tags": "directional",
+    "class": "glyphicon glyphicon-circle-arrow-left"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "circle-arrow-right",
+    "tags": "directional",
+    "class": "glyphicon glyphicon-circle-arrow-right"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "circle-arrow-up",
+    "tags": "directional",
+    "class": "glyphicon glyphicon-circle-arrow-up"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "cloud",
+    "tags": "weather",
+    "class": "glyphicon glyphicon-cloud"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "cloud-download",
+    "tags": "",
+    "class": "glyphicon glyphicon-cloud-download"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "cloud-upload",
+    "tags": "",
+    "class": "glyphicon glyphicon-cloud-upload"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "cog",
+    "tags": "gear, settings",
+    "class": "glyphicon glyphicon-cog"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "collapse-down",
+    "tags": "directional",
+    "class": "glyphicon glyphicon-collapse-down"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "collapse-up",
+    "tags": "directional",
+    "class": "glyphicon glyphicon-collapse-up"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "comment",
+    "tags": "chat, speech bubble",
+    "class": "glyphicon glyphicon-comment"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "compressed",
+    "tags": "",
+    "class": "glyphicon glyphicon-compressed"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "copyright-mark",
+    "tags": "",
+    "class": "glyphicon glyphicon-copyright-mark"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "credit-card",
+    "tags": "money, payment",
+    "class": "glyphicon glyphicon-credit-card"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "cutlery",
+    "tags": "food, fork, knife",
+    "class": "glyphicon glyphicon-cutlery"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "dashboard",
+    "tags": "tachometer, speedometer",
+    "class": "glyphicon glyphicon-dashboard"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "download",
+    "tags": "",
+    "class": "glyphicon glyphicon-download"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "download-alt",
+    "tags": "",
+    "class": "glyphicon glyphicon-download-alt"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "earphone",
+    "tags": "telephone",
+    "class": "glyphicon glyphicon-earphone"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "edit",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-edit"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "eject",
+    "tags": "",
+    "class": "glyphicon glyphicon-eject"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "envelope",
+    "tags": "email",
+    "class": "glyphicon glyphicon-envelope"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "euro",
+    "tags": "currency, money",
+    "class": "glyphicon glyphicon-euro"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "exclamation-sign",
+    "tags": "",
+    "class": "glyphicon glyphicon-exclamation-sign"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "expand",
+    "tags": "directional",
+    "class": "glyphicon glyphicon-expand"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "export",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-export"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "eye-close",
+    "tags": "hide",
+    "class": "glyphicon glyphicon-eye-close"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "eye-open",
+    "tags": "show",
+    "class": "glyphicon glyphicon-eye-open"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "facetime-video",
+    "tags": "video player, camera",
+    "class": "glyphicon glyphicon-facetime-video"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "fast-backward",
+    "tags": "video player",
+    "class": "glyphicon glyphicon-fast-backward"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "fast-forward",
+    "tags": "video player",
+    "class": "glyphicon glyphicon-fast-forward"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "file",
+    "tags": "text editor, document",
+    "class": "glyphicon glyphicon-file"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "film",
+    "tags": "",
+    "class": "glyphicon glyphicon-film"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "filter",
+    "tags": "",
+    "class": "glyphicon glyphicon-filter"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "fire",
+    "tags": "flame, hot",
+    "class": "glyphicon glyphicon-fire"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "flag",
+    "tags": "",
+    "class": "glyphicon glyphicon-flag"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "flash",
+    "tags": "lightning bolt",
+    "class": "glyphicon glyphicon-flash"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "floppy-disk",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-floppy-disk"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "floppy-open",
+    "tags": "text editor, disk",
+    "class": "glyphicon glyphicon-floppy-open"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "floppy-remove",
+    "tags": "text editor, disk",
+    "class": "glyphicon glyphicon-floppy-remove"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "floppy-save",
+    "tags": "text editor, disk",
+    "class": "glyphicon glyphicon-floppy-save"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "floppy-saved",
+    "tags": "text editor, disk",
+    "class": "glyphicon glyphicon-floppy-saved"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "folder-close",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-folder-close"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "folder-open",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-folder-open"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "font",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-font"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "forward",
+    "tags": "video player",
+    "class": "glyphicon glyphicon-forward"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "fullscreen",
+    "tags": "video player",
+    "class": "glyphicon glyphicon-fullscreen"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "gbp",
+    "tags": "currency, money",
+    "class": "glyphicon glyphicon-gbp"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "gift",
+    "tags": "present",
+    "class": "glyphicon glyphicon-gift"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "glass",
+    "tags": "drink, martini",
+    "class": "glyphicon glyphicon-glass"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "globe",
+    "tags": "earth, planet, world",
+    "class": "glyphicon glyphicon-globe"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "hand-down",
+    "tags": "directional, finger, pointer",
+    "class": "glyphicon glyphicon-hand-down"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "hand-left",
+    "tags": "directional, finger, pointer",
+    "class": "glyphicon glyphicon-hand-left"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "hand-right",
+    "tags": "directional, finger, pointer",
+    "class": "glyphicon glyphicon-hand-right"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "hand-up",
+    "tags": "directional, finger, pointer",
+    "class": "glyphicon glyphicon-hand-up"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "hd-video",
+    "tags": "video player",
+    "class": "glyphicon glyphicon-hd-video"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "hdd",
+    "tags": "hard drive, computer, disk",
+    "class": "glyphicon glyphicon-hdd"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "header",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-header"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "headphones",
+    "tags": "music, audio, sound",
+    "class": "glyphicon glyphicon-headphones"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "heart",
+    "tags": "like, favorite",
+    "class": "glyphicon glyphicon-heart"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "heart-empty",
+    "tags": "unlike, unfavorite",
+    "class": "glyphicon glyphicon-heart-empty"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "home",
+    "tags": "",
+    "class": "glyphicon glyphicon-home"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "import",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-import"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "inbox",
+    "tags": "email",
+    "class": "glyphicon glyphicon-inbox"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "indent-left",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-indent-left"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "indent-right",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-indent-right"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "info-sign",
+    "tags": "",
+    "class": "glyphicon glyphicon-info-sign"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "italic",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-italic"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "leaf",
+    "tags": "",
+    "class": "glyphicon glyphicon-leaf"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "link",
+    "tags": "text editor, chain",
+    "class": "glyphicon glyphicon-link"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "list",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-list"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "list-alt",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-list-alt"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "lock",
+    "tags": "",
+    "class": "glyphicon glyphicon-lock"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "log-in",
+    "tags": "",
+    "class": "glyphicon glyphicon-log-in"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "log-out",
+    "tags": "",
+    "class": "glyphicon glyphicon-log-out"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "magnet",
+    "tags": "",
+    "class": "glyphicon glyphicon-magnet"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "map-marker",
+    "tags": "",
+    "class": "glyphicon glyphicon-map-marker"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "minus",
+    "tags": "",
+    "class": "glyphicon glyphicon-minus"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "minus-sign",
+    "tags": "",
+    "class": "glyphicon glyphicon-minus-sign"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "move",
+    "tags": "",
+    "class": "glyphicon glyphicon-move"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "music",
+    "tags": "",
+    "class": "glyphicon glyphicon-music"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "new-window",
+    "tags": "",
+    "class": "glyphicon glyphicon-new-window"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "off",
+    "tags": "on, power",
+    "class": "glyphicon glyphicon-off"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "ok",
+    "tags": "",
+    "class": "glyphicon glyphicon-ok"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "ok-circle",
+    "tags": "",
+    "class": "glyphicon glyphicon-ok-circle"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "ok-sign",
+    "tags": "",
+    "class": "glyphicon glyphicon-ok-sign"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "open",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-open"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "paperclip",
+    "tags": "text editor, email, file attachment",
+    "class": "glyphicon glyphicon-paperclip"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "pause",
+    "tags": "",
+    "class": "glyphicon glyphicon-pause"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "pencil",
+    "tags": "",
+    "class": "glyphicon glyphicon-pencil"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "phone",
+    "tags": "mobile",
+    "class": "glyphicon glyphicon-phone"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "phone-alt",
+    "tags": "telephone",
+    "class": "glyphicon glyphicon-phone-alt"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "picture",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-picture"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "plane",
+    "tags": "airplane, jet",
+    "class": "glyphicon glyphicon-plane"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "play",
+    "tags": "video player, triangle",
+    "class": "glyphicon glyphicon-play"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "play-circle",
+    "tags": "video player",
+    "class": "glyphicon glyphicon-play-circle"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "plus",
+    "tags": "add",
+    "class": "glyphicon glyphicon-plus"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "plus-sign",
+    "tags": "",
+    "class": "glyphicon glyphicon-plus-sign"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "print",
+    "tags": "printer, computer",
+    "class": "glyphicon glyphicon-print"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "pushpin",
+    "tags": "",
+    "class": "glyphicon glyphicon-pushpin"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "qrcode",
+    "tags": "",
+    "class": "glyphicon glyphicon-qrcode"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "question-sign",
+    "tags": "",
+    "class": "glyphicon glyphicon-question-sign"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "random",
+    "tags": "video player",
+    "class": "glyphicon glyphicon-random"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "record",
+    "tags": "video player",
+    "class": "glyphicon glyphicon-record"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "refresh",
+    "tags": "reload",
+    "class": "glyphicon glyphicon-refresh"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "registration-mark",
+    "tags": "",
+    "class": "glyphicon glyphicon-registration-mark"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "remove",
+    "tags": "",
+    "class": "glyphicon glyphicon-remove"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "remove-circle",
+    "tags": "",
+    "class": "glyphicon glyphicon-remove-circle"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "remove-sign",
+    "tags": "",
+    "class": "glyphicon glyphicon-remove-sign"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "repeat",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-repeat"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "resize-full",
+    "tags": "video player",
+    "class": "glyphicon glyphicon-resize-full"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "resize-horizontal",
+    "tags": "",
+    "class": "glyphicon glyphicon-resize-horizontal"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "resize-small",
+    "tags": "video player",
+    "class": "glyphicon glyphicon-resize-small"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "resize-vertical",
+    "tags": "",
+    "class": "glyphicon glyphicon-resize-vertical"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "retweet",
+    "tags": "",
+    "class": "glyphicon glyphicon-retweet"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "road",
+    "tags": "",
+    "class": "glyphicon glyphicon-road"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "save",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-save"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "saved",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-saved"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "screenshot",
+    "tags": "",
+    "class": "glyphicon glyphicon-screenshot"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "sd-video",
+    "tags": "video player",
+    "class": "glyphicon glyphicon-sd-video"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "search",
+    "tags": "magnifying glass",
+    "class": "glyphicon glyphicon-search"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "send",
+    "tags": "email, paper airplane",
+    "class": "glyphicon glyphicon-send"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "share",
+    "tags": "",
+    "class": "glyphicon glyphicon-share"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "share-alt",
+    "tags": "",
+    "class": "glyphicon glyphicon-share-alt"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "shopping-cart",
+    "tags": "",
+    "class": "glyphicon glyphicon-shopping-cart"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "signal",
+    "tags": "bars, graph",
+    "class": "glyphicon glyphicon-signal"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "sort",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-sort"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "sort-by-alphabet",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-sort-by-alphabet"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "sort-by-alphabet-alt",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-sort-by-alphabet-alt"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "sort-by-attributes",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-sort-by-attributes"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "sort-by-attributes-alt",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-sort-by-attributes-alt"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "sort-by-order",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-sort-by-order"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "sort-by-order-alt",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-sort-by-order-alt"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "sound-5-1",
+    "tags": "video player, audio",
+    "class": "glyphicon glyphicon-sound-5-1"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "sound-6-1",
+    "tags": "video player, audio",
+    "class": "glyphicon glyphicon-sound-6-1"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "sound-7-1",
+    "tags": "video player, audio",
+    "class": "glyphicon glyphicon-sound-7-1"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "sound-dolby",
+    "tags": "video player, audio",
+    "class": "glyphicon glyphicon-sound-dolby"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "sound-stereo",
+    "tags": "video player, audio",
+    "class": "glyphicon glyphicon-sound-stereo"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "star",
+    "tags": "favorite, ratings, rate",
+    "class": "glyphicon glyphicon-star"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "star-empty",
+    "tags": "favorite, ratings, rate",
+    "class": "glyphicon glyphicon-star-empty"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "stats",
+    "tags": "graph",
+    "class": "glyphicon glyphicon-stats"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "step-backward",
+    "tags": "",
+    "class": "glyphicon glyphicon-step-backward"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "step-forward",
+    "tags": "",
+    "class": "glyphicon glyphicon-step-forward"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "stop",
+    "tags": "video player, square",
+    "class": "glyphicon glyphicon-stop"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "subtitles",
+    "tags": "video player",
+    "class": "glyphicon glyphicon-subtitles"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "tag",
+    "tags": "pricetag, shopping",
+    "class": "glyphicon glyphicon-tag"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "tags",
+    "tags": "pricetags, shopping",
+    "class": "glyphicon glyphicon-tags"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "tasks",
+    "tags": "",
+    "class": "glyphicon glyphicon-tasks"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "text-height",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-text-height"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "text-width",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-text-width"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "th",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-th"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "th-large",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-th-large"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "th-list",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-th-list"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "thumbs-down",
+    "tags": "unlike, ratings, rate",
+    "class": "glyphicon glyphicon-thumbs-down"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "thumbs-up",
+    "tags": "like, ratings, rate",
+    "class": "glyphicon glyphicon-thumbs-up"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "time",
+    "tags": "",
+    "class": "glyphicon glyphicon-time"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "tint",
+    "tags": "",
+    "class": "glyphicon glyphicon-tint"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "tower",
+    "tags": "chess, game, rook",
+    "class": "glyphicon glyphicon-tower"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "transfer",
+    "tags": "",
+    "class": "glyphicon glyphicon-transfer"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "trash",
+    "tags": "delete",
+    "class": "glyphicon glyphicon-trash"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "tree-conifer",
+    "tags": "plant",
+    "class": "glyphicon glyphicon-tree-conifer"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "tree-deciduous",
+    "tags": "plant",
+    "class": "glyphicon glyphicon-tree-deciduous"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "unchecked",
+    "tags": "form control",
+    "class": "glyphicon glyphicon-unchecked"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "upload",
+    "tags": "",
+    "class": "glyphicon glyphicon-upload"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "usd",
+    "tags": "currency, money, dollar",
+    "class": "glyphicon glyphicon-usd"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "user",
+    "tags": "person",
+    "class": "glyphicon glyphicon-user"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "volume-down",
+    "tags": "audio, sound",
+    "class": "glyphicon glyphicon-volume-down"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "volume-off",
+    "tags": "audio, sound",
+    "class": "glyphicon glyphicon-volume-off"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "volume-up",
+    "tags": "audio, sound",
+    "class": "glyphicon glyphicon-volume-up"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "warning-sign",
+    "tags": "",
+    "class": "glyphicon glyphicon-warning-sign"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "wrench",
+    "tags": "tool, settings",
+    "class": "glyphicon glyphicon-wrench"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "zoom-in",
+    "tags": "magnifying glass",
+    "class": "glyphicon glyphicon-zoom-in"
+  },
+  
+  {
+    "_tags": ["glyphicons"],
+    "name": "zoom-out",
+    "tags": "magnifying glass",
+    "class": "glyphicon glyphicon-zoom-out"
+  },
+   
+
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "alert",
+    "tags": "",
+    "class": "ionicons ion-alert"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "alert-circled",
+    "tags": "",
+    "class": "ionicons ion-alert-circled"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "archive",
+    "tags": "email",
+    "class": "ionicons ion-archive"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-down-a",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-down-a"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-left-a",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-left-a"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-right-a",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-right-a"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-up-a",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-up-a"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-down-b",
+    "tags": "directional, triangle",
+    "class": "ionicons ion-arrow-down-b"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-left-b",
+    "tags": "directional, triangle",
+    "class": "ionicons ion-arrow-left-b"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-right-b",
+    "tags": "directional, triangle",
+    "class": "ionicons ion-arrow-right-b"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-up-b",
+    "tags": "directional, triangle",
+    "class": "ionicons ion-arrow-up-b"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-down-c",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-down-c"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-left-c",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-left-c"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-right-c",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-right-c"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-up-c",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-up-c"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-graph-down-left",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-graph-down-left"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-graph-down-right",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-graph-down-right"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-graph-up-left",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-graph-up-left"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-graph-up-right",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-graph-up-right"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-move",
+    "tags": "",
+    "class": "ionicons ion-arrow-move"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-resize",
+    "tags": "",
+    "class": "ionicons ion-arrow-resize"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-return-left",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-return-left"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-return-right",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-return-right"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-shrink",
+    "tags": "resize, collapse",
+    "class": "ionicons ion-arrow-shrink"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-swap",
+    "tags": "",
+    "class": "ionicons ion-arrow-swap"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "at",
+    "tags": "email",
+    "class": "ionicons ion-at"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "bag",
+    "tags": "shopping",
+    "class": "ionicons ion-bag"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "battery-charging",
+    "tags": "",
+    "class": "ionicons ion-battery-charging"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "battery-empty",
+    "tags": "",
+    "class": "ionicons ion-battery-empty"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "battery-full",
+    "tags": "",
+    "class": "ionicons ion-battery-full"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "battery-half",
+    "tags": "",
+    "class": "ionicons ion-battery-half"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "battery-low",
+    "tags": "",
+    "class": "ionicons ion-battery-low"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "beaker",
+    "tags": "flask, science",
+    "class": "ionicons ion-beaker"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "bluetooth",
+    "tags": "",
+    "class": "ionicons ion-bluetooth"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "bookmark",
+    "tags": "",
+    "class": "ionicons ion-bookmark"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "briefcase",
+    "tags": "suitcase, business",
+    "class": "ionicons ion-briefcase"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "calculator",
+    "tags": "",
+    "class": "ionicons ion-calculator"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "calendar",
+    "tags": "date",
+    "class": "ionicons ion-calendar"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "camera",
+    "tags": "photographs",
+    "class": "ionicons ion-camera"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "card",
+    "tags": "credit card, shopping, money",
+    "class": "ionicons ion-card"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "chatbox",
+    "tags": "speech bubble",
+    "class": "ionicons ion-chatbox"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "chatbox-working",
+    "tags": "speech bubble",
+    "class": "ionicons ion-chatbox-working"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "chatboxes",
+    "tags": "speech bubble",
+    "class": "ionicons ion-chatboxes"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "chatbubble",
+    "tags": "speech bubble",
+    "class": "ionicons ion-chatbubble"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "chatbubble-working",
+    "tags": "speech bubble",
+    "class": "ionicons ion-chatbubble-working"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "chatbubbles",
+    "tags": "speech bubble",
+    "class": "ionicons ion-chatbubbles"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "checkmark",
+    "tags": "",
+    "class": "ionicons ion-checkmark"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "checkmark-circled",
+    "tags": "",
+    "class": "ionicons ion-checkmark-circled"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "checkmark-round",
+    "tags": "",
+    "class": "ionicons ion-checkmark-round"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "chevron-down",
+    "tags": "directional",
+    "class": "ionicons ion-chevron-down"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "chevron-left",
+    "tags": "directional",
+    "class": "ionicons ion-chevron-left"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "chevron-right",
+    "tags": "directional",
+    "class": "ionicons ion-chevron-right"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "chevron-up",
+    "tags": "directional",
+    "class": "ionicons ion-chevron-up"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "clipboard",
+    "tags": "",
+    "class": "ionicons ion-clipboard"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "clock",
+    "tags": "timer",
+    "class": "ionicons ion-clock"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "close",
+    "tags": "",
+    "class": "ionicons ion-close"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "close-circled",
+    "tags": "",
+    "class": "ionicons ion-close-circled"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "close-round",
+    "tags": "",
+    "class": "ionicons ion-close-round"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "cloud",
+    "tags": "weather",
+    "class": "ionicons ion-cloud"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "code",
+    "tags": "",
+    "class": "ionicons ion-code"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "code-download",
+    "tags": "",
+    "class": "ionicons ion-code-download"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "code-working",
+    "tags": "",
+    "class": "ionicons ion-code-working"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "coffee",
+    "tags": "cup, drink, mug",
+    "class": "ionicons ion-coffee"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "compass",
+    "tags": "directions, map, navigation",
+    "class": "ionicons ion-compass"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "compose",
+    "tags": "email",
+    "class": "ionicons ion-compose"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "connection-bars",
+    "tags": "graph",
+    "class": "ionicons ion-connection-bars"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "contrast",
+    "tags": "",
+    "class": "ionicons ion-contrast"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "disc",
+    "tags": "cd",
+    "class": "ionicons ion-disc"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "document",
+    "tags": "text editor, file",
+    "class": "ionicons ion-document"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "document-text",
+    "tags": "text editor, file",
+    "class": "ionicons ion-document-text"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "drag",
+    "tags": "",
+    "class": "ionicons ion-drag"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "earth",
+    "tags": "globe, planet, world",
+    "class": "ionicons ion-earth"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "egg",
+    "tags": "food",
+    "class": "ionicons ion-egg"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "eject",
+    "tags": "",
+    "class": "ionicons ion-eject"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "email",
+    "tags": "",
+    "class": "ionicons ion-email"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "eye",
+    "tags": "",
+    "class": "ionicons ion-eye"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "female",
+    "tags": "gender, sex",
+    "class": "ionicons ion-female"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "filing",
+    "tags": "",
+    "class": "ionicons ion-filing"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "film-marker",
+    "tags": "",
+    "class": "ionicons ion-film-marker"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "flag",
+    "tags": "",
+    "class": "ionicons ion-flag"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "flash",
+    "tags": "lightning bolt",
+    "class": "ionicons ion-flash"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "flash-off",
+    "tags": "lightning bolt",
+    "class": "ionicons ion-flash-off"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "flask",
+    "tags": "beaker, science",
+    "class": "ionicons ion-flask"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "folder",
+    "tags": "",
+    "class": "ionicons ion-folder"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "fork",
+    "tags": "cutlery, food",
+    "class": "ionicons ion-fork"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "forward",
+    "tags": "email",
+    "class": "ionicons ion-forward"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "game-controller-a",
+    "tags": "",
+    "class": "ionicons ion-game-controller-a"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "game-controller-b",
+    "tags": "",
+    "class": "ionicons ion-game-controller-b"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "gear-a",
+    "tags": "cog, settings",
+    "class": "ionicons ion-gear-a"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "gear-b",
+    "tags": "cog, settings",
+    "class": "ionicons ion-gear-b"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "grid",
+    "tags": "text editor",
+    "class": "ionicons ion-grid"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "hammer",
+    "tags": "tool",
+    "class": "ionicons ion-hammer"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "headphone",
+    "tags": "audio, music",
+    "class": "ionicons ion-headphone"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "heart",
+    "tags": "like, rate, ratings",
+    "class": "ionicons ion-heart"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "help",
+    "tags": "",
+    "class": "ionicons ion-help"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "help-buoy",
+    "tags": "lifesaver, support",
+    "class": "ionicons ion-help-buoy"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "help-circled",
+    "tags": "question mark",
+    "class": "ionicons ion-help-circled"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "home",
+    "tags": "",
+    "class": "ionicons ion-home"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "icecream",
+    "tags": "food, dessert, ice cream",
+    "class": "ionicons ion-icecream"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "image",
+    "tags": "picture, photograph",
+    "class": "ionicons ion-image"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "images",
+    "tags": "pictures, photographs",
+    "class": "ionicons ion-images"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "information",
+    "tags": "",
+    "class": "ionicons ion-information"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "information-circled",
+    "tags": "",
+    "class": "ionicons ion-information-circled"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ionic",
+    "tags": "brand, science, chemistry",
+    "class": "ionicons ion-ionic"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ipad",
+    "tags": "brand, apple, device, computer",
+    "class": "ionicons ion-ipad"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "iphone",
+    "tags": "brand, apple, device, mobile phone",
+    "class": "ionicons ion-iphone"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ipod",
+    "tags": "brand, apple, device, music, mp3",
+    "class": "ionicons ion-ipod"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "jet",
+    "tags": "airplane",
+    "class": "ionicons ion-jet"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "key",
+    "tags": "",
+    "class": "ionicons ion-key"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "knife",
+    "tags": "cutlery, food",
+    "class": "ionicons ion-knife"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "laptop",
+    "tags": "computer",
+    "class": "ionicons ion-laptop"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "leaf",
+    "tags": "plant",
+    "class": "ionicons ion-leaf"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "levels",
+    "tags": "audio, settings",
+    "class": "ionicons ion-levels"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "lightbulb",
+    "tags": "",
+    "class": "ionicons ion-lightbulb"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "link",
+    "tags": "chain",
+    "class": "ionicons ion-link"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "load-a",
+    "tags": "loading",
+    "class": "ionicons ion-load-a"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "load-b",
+    "tags": "loading",
+    "class": "ionicons ion-load-b"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "load-c",
+    "tags": "loading",
+    "class": "ionicons ion-load-c"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "load-d",
+    "tags": "loading",
+    "class": "ionicons ion-load-d"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "location",
+    "tags": "map",
+    "class": "ionicons ion-location"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "locked",
+    "tags": "",
+    "class": "ionicons ion-locked"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "log-in",
+    "tags": "",
+    "class": "ionicons ion-log-in"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "log-out",
+    "tags": "",
+    "class": "ionicons ion-log-out"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "loop",
+    "tags": "",
+    "class": "ionicons ion-loop"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "magnet",
+    "tags": "",
+    "class": "ionicons ion-magnet"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "male",
+    "tags": "gender, sex",
+    "class": "ionicons ion-male"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "man",
+    "tags": "gender, sex, user, person",
+    "class": "ionicons ion-man"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "map",
+    "tags": "",
+    "class": "ionicons ion-map"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "medkit",
+    "tags": "medical",
+    "class": "ionicons ion-medkit"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "mic-a",
+    "tags": "audio",
+    "class": "ionicons ion-mic-a"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "mic-b",
+    "tags": "audio",
+    "class": "ionicons ion-mic-b"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "mic-c",
+    "tags": "audio",
+    "class": "ionicons ion-mic-c"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "minus",
+    "tags": "",
+    "class": "ionicons ion-minus"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "minus-circled",
+    "tags": "",
+    "class": "ionicons ion-minus-circled"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "minus-round",
+    "tags": "",
+    "class": "ionicons ion-minus-round"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "monitor",
+    "tags": "computer",
+    "class": "ionicons ion-monitor"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "more",
+    "tags": "dots, menu",
+    "class": "ionicons ion-more"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "music-note",
+    "tags": "",
+    "class": "ionicons ion-music-note"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "navicon",
+    "tags": "",
+    "class": "ionicons ion-navicon"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "navicon-round",
+    "tags": "",
+    "class": "ionicons ion-navicon-round"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "navigate",
+    "tags": "",
+    "class": "ionicons ion-navigate"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "nuclear",
+    "tags": "warning, danger",
+    "class": "ionicons ion-nuclear"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "paperclip",
+    "tags": "email, file attachment",
+    "class": "ionicons ion-paperclip"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "pause",
+    "tags": "",
+    "class": "ionicons ion-pause"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "person",
+    "tags": "user",
+    "class": "ionicons ion-person"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "person-add",
+    "tags": "user",
+    "class": "ionicons ion-person-add"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "person-stalker",
+    "tags": "users, people",
+    "class": "ionicons ion-person-stalker"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "pie-graph",
+    "tags": "",
+    "class": "ionicons ion-pie-graph"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "pin",
+    "tags": "",
+    "class": "ionicons ion-pin"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "pinpoint",
+    "tags": "aim, reticle, target",
+    "class": "ionicons ion-pinpoint"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "pizza",
+    "tags": "food",
+    "class": "ionicons ion-pizza"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "plane",
+    "tags": "airplane",
+    "class": "ionicons ion-plane"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "play",
+    "tags": "video player, triangle",
+    "class": "ionicons ion-play"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "plus",
+    "tags": "add",
+    "class": "ionicons ion-plus"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "plus-circled",
+    "tags": "",
+    "class": "ionicons ion-plus-circled"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "plus-round",
+    "tags": "",
+    "class": "ionicons ion-plus-round"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "pound",
+    "tags": "hash, number",
+    "class": "ionicons ion-pound"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "power",
+    "tags": "off, on",
+    "class": "ionicons ion-power"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "pricetag",
+    "tags": "shopping",
+    "class": "ionicons ion-pricetag"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "pricetags",
+    "tags": "shopping",
+    "class": "ionicons ion-pricetags"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "printer",
+    "tags": "computer",
+    "class": "ionicons ion-printer"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "radio-waves",
+    "tags": "sound, audio, broadcast",
+    "class": "ionicons ion-radio-waves"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "record",
+    "tags": "video player, circle",
+    "class": "ionicons ion-record"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "refresh",
+    "tags": "reload",
+    "class": "ionicons ion-refresh"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "reply",
+    "tags": "email",
+    "class": "ionicons ion-reply"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "reply-all",
+    "tags": "email",
+    "class": "ionicons ion-reply-all"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "search",
+    "tags": "magnifying glass",
+    "class": "ionicons ion-search"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "settings",
+    "tags": "tools",
+    "class": "ionicons ion-settings"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "share",
+    "tags": "",
+    "class": "ionicons ion-share"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "shuffle",
+    "tags": "video player",
+    "class": "ionicons ion-shuffle"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "skip-backward",
+    "tags": "video player",
+    "class": "ionicons ion-skip-backward"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "skip-forward",
+    "tags": "video payer",
+    "class": "ionicons ion-skip-forward"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-android",
+    "tags": "brand, google",
+    "class": "ionicons ion-social-android"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-android-outline",
+    "tags": "brand, google",
+    "class": "ionicons ion-social-android-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-apple",
+    "tags": "brand",
+    "class": "ionicons ion-social-apple"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-apple-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-apple-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-bitcoin",
+    "tags": "currency, money, brand",
+    "class": "ionicons ion-social-bitcoin"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-bitcoin-outline",
+    "tags": "currency, money, brand",
+    "class": "ionicons ion-social-bitcoin-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-buffer",
+    "tags": "brand",
+    "class": "ionicons ion-social-buffer"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-buffer-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-buffer-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-designernews",
+    "tags": "brand",
+    "class": "ionicons ion-social-designernews"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-designernews-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-designernews-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-dribbble",
+    "tags": "brand, basketball",
+    "class": "ionicons ion-social-dribbble"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-dribbble-outline",
+    "tags": "brand, basketball",
+    "class": "ionicons ion-social-dribbble-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-dropbox",
+    "tags": "brand",
+    "class": "ionicons ion-social-dropbox"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-dropbox-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-dropbox-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-facebook",
+    "tags": "brand",
+    "class": "ionicons ion-social-facebook"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-facebook-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-facebook-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-github",
+    "tags": "brand, code",
+    "class": "ionicons ion-social-github"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-github-outline",
+    "tags": "brand, code",
+    "class": "ionicons ion-social-github-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-googleplus",
+    "tags": "brand",
+    "class": "ionicons ion-social-googleplus"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-googleplus-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-googleplus-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-hackernews",
+    "tags": "brand",
+    "class": "ionicons ion-social-hackernews"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-hackernews-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-hackernews-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-linkedin",
+    "tags": "brand",
+    "class": "ionicons ion-social-linkedin"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-linkedin-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-linkedin-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-pinterest",
+    "tags": "brand",
+    "class": "ionicons ion-social-pinterest"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-pinterest-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-pinterest-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-reddit",
+    "tags": "brand",
+    "class": "ionicons ion-social-reddit"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-reddit-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-reddit-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-rss",
+    "tags": "brand",
+    "class": "ionicons ion-social-rss"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-rss-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-rss-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-skype",
+    "tags": "brand, microsoft",
+    "class": "ionicons ion-social-skype"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-skype-outline",
+    "tags": "brand, microsoft",
+    "class": "ionicons ion-social-skype-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-tumblr",
+    "tags": "brand, yahoo",
+    "class": "ionicons ion-social-tumblr"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-tumblr-outline",
+    "tags": "brand, yahoo",
+    "class": "ionicons ion-social-tumblr-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-twitter",
+    "tags": "brand",
+    "class": "ionicons ion-social-twitter"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-twitter-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-twitter-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-vimeo",
+    "tags": "brand, video",
+    "class": "ionicons ion-social-vimeo"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-vimeo-outline",
+    "tags": "brand, video",
+    "class": "ionicons ion-social-vimeo-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-windows",
+    "tags": "brand, microsoft",
+    "class": "ionicons ion-social-windows"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-windows-outline",
+    "tags": "brand, microsoft",
+    "class": "ionicons ion-social-windows-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-wordpress",
+    "tags": "brand",
+    "class": "ionicons ion-social-wordpress"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-wordpress-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-wordpress-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-yahoo",
+    "tags": "brand",
+    "class": "ionicons ion-social-yahoo"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-yahoo-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-yahoo-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-youtube",
+    "tags": "brand, video, google",
+    "class": "ionicons ion-social-youtube"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-youtube-outline",
+    "tags": "brand, video, google",
+    "class": "ionicons ion-social-youtube-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "speakerphone",
+    "tags": "bullhorn",
+    "class": "ionicons ion-speakerphone"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "speedometer",
+    "tags": "dashboard, tachometer",
+    "class": "ionicons ion-speedometer"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "spoon",
+    "tags": "cutlery, food",
+    "class": "ionicons ion-spoon"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "star",
+    "tags": "like, rate, ratings",
+    "class": "ionicons ion-star"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "stats-bars",
+    "tags": "graph",
+    "class": "ionicons ion-stats-bars"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "stop",
+    "tags": "video player, square",
+    "class": "ionicons ion-stop"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "thermometer",
+    "tags": "",
+    "class": "ionicons ion-thermometer"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "thumbsdown",
+    "tags": "unlike, unfavorite",
+    "class": "ionicons ion-thumbsdown"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "thumbsup",
+    "tags": "like, favorite",
+    "class": "ionicons ion-thumbsup"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "trash-a",
+    "tags": "delete",
+    "class": "ionicons ion-trash-a"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "trash-b",
+    "tags": "delete",
+    "class": "ionicons ion-trash-b"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "umbrella",
+    "tags": "weather",
+    "class": "ionicons ion-umbrella"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "unlocked",
+    "tags": "",
+    "class": "ionicons ion-unlocked"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "upload",
+    "tags": "",
+    "class": "ionicons ion-upload"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "usb",
+    "tags": "",
+    "class": "ionicons ion-usb"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "videocamera",
+    "tags": "",
+    "class": "ionicons ion-videocamera"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "volume-high",
+    "tags": "audio, sound",
+    "class": "ionicons ion-volume-high"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "volume-low",
+    "tags": "audio, sound",
+    "class": "ionicons ion-volume-low"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "volume-medium",
+    "tags": "audio, sound",
+    "class": "ionicons ion-volume-medium"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "volume-mute",
+    "tags": "audio, sound",
+    "class": "ionicons ion-volume-mute"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "waterdrop",
+    "tags": "rain, weather",
+    "class": "ionicons ion-waterdrop"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "wifi",
+    "tags": "",
+    "class": "ionicons ion-wifi"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "wineglass",
+    "tags": "drink, glass",
+    "class": "ionicons ion-wineglass"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "woman",
+    "tags": "gender, sex, person",
+    "class": "ionicons ion-woman"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "wrench",
+    "tags": "tool, settings",
+    "class": "ionicons ion-wrench"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-alarm",
+    "tags": "clock",
+    "class": "ionicons ion-ios7-alarm"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-alarm-outline",
+    "tags": "clock",
+    "class": "ionicons ion-ios7-alarm-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-albums",
+    "tags": "",
+    "class": "ionicons ion-ios7-albums"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-arrow-back",
+    "tags": "directional",
+    "class": "ionicons ion-ios7-arrow-back"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-arrow-down",
+    "tags": "directional",
+    "class": "ionicons ion-ios7-arrow-down"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-arrow-forward",
+    "tags": "directional",
+    "class": "ionicons ion-ios7-arrow-forward"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-arrow-left",
+    "tags": "directional",
+    "class": "ionicons ion-ios7-arrow-left"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-arrow-right",
+    "tags": "directional",
+    "class": "ionicons ion-ios7-arrow-right"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-arrow-up",
+    "tags": "directional",
+    "class": "ionicons ion-ios7-arrow-up"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-arrow-thin-down",
+    "tags": "directional",
+    "class": "ionicons ion-ios7-arrow-thin-down"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-arrow-thin-left",
+    "tags": "directional",
+    "class": "ionicons ion-ios7-arrow-thin-left"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-arrow-thin-right",
+    "tags": "directional",
+    "class": "ionicons ion-ios7-arrow-thin-right"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-arrow-thin-up",
+    "tags": "directional",
+    "class": "ionicons ion-ios7-arrow-thin-up"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-at",
+    "tags": "email",
+    "class": "ionicons ion-ios7-at"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-at-outline",
+    "tags": "email",
+    "class": "ionicons ion-ios7-at-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-bell",
+    "tags": "audio, sound",
+    "class": "ionicons ion-ios7-bell"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-bell-outline",
+    "tags": "audio, sound",
+    "class": "ionicons ion-ios7-bell-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-bolt",
+    "tags": "lightning bolt, flash",
+    "class": "ionicons ion-ios7-bolt"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-bolt-outline",
+    "tags": "lightning bolt, flash",
+    "class": "ionicons ion-ios7-bolt-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-bookmarks",
+    "tags": "",
+    "class": "ionicons ion-ios7-bookmarks"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-bookmarks-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-bookmarks-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-box",
+    "tags": "",
+    "class": "ionicons ion-ios7-box"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-box-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-box-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-briefcase",
+    "tags": "suitcase, business",
+    "class": "ionicons ion-ios7-briefcase"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-briefcase-outline",
+    "tags": "suitcase, business",
+    "class": "ionicons ion-ios7-briefcase-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-browsers",
+    "tags": "",
+    "class": "ionicons ion-ios7-browsers"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-calculator",
+    "tags": "",
+    "class": "ionicons ion-ios7-calculator"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-calculator-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-calculator-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-calendar",
+    "tags": "date",
+    "class": "ionicons ion-ios7-calendar"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-calendar-outline",
+    "tags": "date",
+    "class": "ionicons ion-ios7-calendar-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-camera",
+    "tags": "photographs",
+    "class": "ionicons ion-ios7-camera"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-camera-outline",
+    "tags": "photographs",
+    "class": "ionicons ion-ios7-camera-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-cart",
+    "tags": "shopping",
+    "class": "ionicons ion-ios7-cart"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-cart-outline",
+    "tags": "shopping",
+    "class": "ionicons ion-ios7-cart-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-chatboxes",
+    "tags": "speech bubble",
+    "class": "ionicons ion-ios7-chatboxes"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-chatboxes-outline",
+    "tags": "speech bubble",
+    "class": "ionicons ion-ios7-chatboxes-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-chatbubble",
+    "tags": "speech bubble",
+    "class": "ionicons ion-ios7-chatbubble"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-chatbubble-outline",
+    "tags": "speech bubble",
+    "class": "ionicons ion-ios7-chatbubble-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-checkmark",
+    "tags": "",
+    "class": "ionicons ion-ios7-checkmark"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-checkmark-empty",
+    "tags": "",
+    "class": "ionicons ion-ios7-checkmark-empty"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-checkmark-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-checkmark-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-circle-filled",
+    "tags": "",
+    "class": "ionicons ion-ios7-circle-filled"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-circle-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-circle-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-clock",
+    "tags": "timer",
+    "class": "ionicons ion-ios7-clock"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-cloud",
+    "tags": "weather",
+    "class": "ionicons ion-ios7-cloud"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-cloud-download",
+    "tags": "",
+    "class": "ionicons ion-ios7-cloud-download"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-cloud-download-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-cloud-download-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-cloud-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-cloud-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-cloud-upload",
+    "tags": "",
+    "class": "ionicons ion-ios7-cloud-upload"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-cloud-upload-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-cloud-upload-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-cloudy",
+    "tags": "weather",
+    "class": "ionicons ion-ios7-cloudy"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-cloudy-outline",
+    "tags": "weather",
+    "class": "ionicons ion-ios7-cloudy-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-cog",
+    "tags": "gear, settings",
+    "class": "ionicons ion-ios7-cog"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-cog-outline",
+    "tags": "gears, settings",
+    "class": "ionicons ion-ios7-cog-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-compose",
+    "tags": "email",
+    "class": "ionicons ion-ios7-compose"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-compose-outline",
+    "tags": "email",
+    "class": "ionicons ion-ios7-compose-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-contact",
+    "tags": "user",
+    "class": "ionicons ion-ios7-contact"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-contact-outline",
+    "tags": "user",
+    "class": "ionicons ion-ios7-contact-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-copy",
+    "tags": "clipboard",
+    "class": "ionicons ion-ios7-copy"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-copy-outline",
+    "tags": "clipboard",
+    "class": "ionicons ion-ios7-copy-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-download",
+    "tags": "",
+    "class": "ionicons ion-ios7-download"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-download-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-download-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-drag",
+    "tags": "bars, more, reorder",
+    "class": "ionicons ion-ios7-drag"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-email",
+    "tags": "",
+    "class": "ionicons ion-ios7-email"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-email-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-email-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-eye",
+    "tags": "show",
+    "class": "ionicons ion-ios7-eye"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-eye-outline",
+    "tags": "show",
+    "class": "ionicons ion-ios7-eye-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-fastforward",
+    "tags": "video player",
+    "class": "ionicons ion-ios7-fastforward"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-fastforward-outline",
+    "tags": "video player",
+    "class": "ionicons ion-ios7-fastforward-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-filing",
+    "tags": "",
+    "class": "ionicons ion-ios7-filing"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-film",
+    "tags": "",
+    "class": "ionicons ion-ios7-film"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-film-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-film-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-flag",
+    "tags": "",
+    "class": "ionicons ion-ios7-flag"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-flag-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-flag-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-folder",
+    "tags": "",
+    "class": "ionicons ion-ios7-folder"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-folder-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-folder-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-gear",
+    "tags": "cog, settings",
+    "class": "ionicons ion-ios7-gear"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-gear-outline",
+    "tags": "cogs, settings",
+    "class": "ionicons ion-ios7-gear-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-glasses",
+    "tags": "",
+    "class": "ionicons ion-ios7-glasses"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-glasses-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-glasses-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-heart",
+    "tags": "favorite, like, rate, ratings",
+    "class": "ionicons ion-ios7-heart"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-heart-outline",
+    "tags": "favorite, like, rate, ratings",
+    "class": "ionicons ion-ios7-heart-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-help",
+    "tags": "",
+    "class": "ionicons ion-ios7-help"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-help-empty",
+    "tags": "",
+    "class": "ionicons ion-ios7-help-empty"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-help-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-help-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-infinite",
+    "tags": "infinity, math symbol",
+    "class": "ionicons ion-ios7-infinite"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-infinite-outline",
+    "tags": "infinity, math symbol",
+    "class": "ionicons ion-ios7-infinite-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-information",
+    "tags": "",
+    "class": "ionicons ion-ios7-information"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-information-empty",
+    "tags": "",
+    "class": "ionicons ion-ios7-information-empty"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-information-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-information-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-ionic-outline",
+    "tags": "brand, science, chemistry",
+    "class": "ionicons ion-ios7-ionic-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-keypad",
+    "tags": "grid",
+    "class": "ionicons ion-ios7-keypad"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-keypad-outline",
+    "tags": "grid",
+    "class": "ionicons ion-ios7-keypad-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-lightbulb",
+    "tags": "",
+    "class": "ionicons ion-ios7-lightbulb"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-lightbulb-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-lightbulb-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-location",
+    "tags": "map",
+    "class": "ionicons ion-ios7-location"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-location-outline",
+    "tags": "map",
+    "class": "ionicons ion-ios7-location-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-locked",
+    "tags": "",
+    "class": "ionicons ion-ios7-locked"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-locked-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-locked-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-medkit",
+    "tags": "medical",
+    "class": "ionicons ion-ios7-medkit"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-medkit-outline",
+    "tags": "medical",
+    "class": "ionicons ion-ios7-medkit-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-mic",
+    "tags": "audio, sound",
+    "class": "ionicons ion-ios7-mic"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-mic-off",
+    "tags": "audio, sound",
+    "class": "ionicons ion-ios7-mic-off"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-mic-outline",
+    "tags": "audio, sound",
+    "class": "ionicons ion-ios7-mic-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-minus",
+    "tags": "",
+    "class": "ionicons ion-ios7-minus"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-minus-empty",
+    "tags": "",
+    "class": "ionicons ion-ios7-minus-empty"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-minus-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-minus-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-monitor",
+    "tags": "computer",
+    "class": "ionicons ion-ios7-monitor"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-monitor-outline",
+    "tags": "computer",
+    "class": "ionicons ion-ios7-monitor-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-moon",
+    "tags": "",
+    "class": "ionicons ion-ios7-moon"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-moon-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-moon-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-more",
+    "tags": "dots, menu",
+    "class": "ionicons ion-ios7-more"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-more-outline",
+    "tags": "dots, menu",
+    "class": "ionicons ion-ios7-more-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-musical-note",
+    "tags": "",
+    "class": "ionicons ion-ios7-musical-note"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-musical-notes",
+    "tags": "",
+    "class": "ionicons ion-ios7-musical-notes"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-navigate",
+    "tags": "map",
+    "class": "ionicons ion-ios7-navigate"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-navigate-outline",
+    "tags": "map",
+    "class": "ionicons ion-ios7-navigate-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-paperplane",
+    "tags": "airplane",
+    "class": "ionicons ion-ios7-paperplane"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-paperplane-outline",
+    "tags": "airplane",
+    "class": "ionicons ion-ios7-paperplane-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-partlysunny",
+    "tags": "weather",
+    "class": "ionicons ion-ios7-partlysunny"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-partlysunny-outline",
+    "tags": "weather",
+    "class": "ionicons ion-ios7-partlysunny-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-pause",
+    "tags": "video player",
+    "class": "ionicons ion-ios7-pause"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-pause-outline",
+    "tags": "video player",
+    "class": "ionicons ion-ios7-pause-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-people",
+    "tags": "users",
+    "class": "ionicons ion-ios7-people"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-people-outline",
+    "tags": "users",
+    "class": "ionicons ion-ios7-people-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-person",
+    "tags": "user",
+    "class": "ionicons ion-ios7-person"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-person-outline",
+    "tags": "user",
+    "class": "ionicons ion-ios7-person-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-personadd",
+    "tags": "user",
+    "class": "ionicons ion-ios7-personadd"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-personadd-outline",
+    "tags": "user",
+    "class": "ionicons ion-ios7-personadd-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-photos",
+    "tags": "",
+    "class": "ionicons ion-ios7-photos"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-photos-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-photos-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-pie",
+    "tags": "graph",
+    "class": "ionicons ion-ios7-pie"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-pie-outline",
+    "tags": "graph",
+    "class": "ionicons ion-ios7-pie-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-play",
+    "tags": "video player",
+    "class": "ionicons ion-ios7-play"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-play-outline",
+    "tags": "video player",
+    "class": "ionicons ion-ios7-play-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-plus",
+    "tags": "",
+    "class": "ionicons ion-ios7-plus"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-plus-empty",
+    "tags": "",
+    "class": "ionicons ion-ios7-plus-empty"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-plus-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-plus-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-pricetag",
+    "tags": "shopping",
+    "class": "ionicons ion-ios7-pricetag"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-pricetag-outline",
+    "tags": "shopping",
+    "class": "ionicons ion-ios7-pricetag-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-printer",
+    "tags": "computer",
+    "class": "ionicons ion-ios7-printer"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-rainy",
+    "tags": "weather",
+    "class": "ionicons ion-ios7-rainy"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-rainy-outline",
+    "tags": "weather",
+    "class": "ionicons ion-ios7-rainy-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-recording",
+    "tags": "video player",
+    "class": "ionicons ion-ios7-recording"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-recording-outline",
+    "tags": "video player",
+    "class": "ionicons ion-ios7-recording-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-redo",
+    "tags": "text editor",
+    "class": "ionicons ion-ios7-redo"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-redo-outline",
+    "tags": "text editor",
+    "class": "ionicons ion-ios7-redo-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-refresh",
+    "tags": "reload",
+    "class": "ionicons ion-ios7-refresh"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-refresh-empty",
+    "tags": "reload",
+    "class": "ionicons ion-ios7-refresh-empty"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-refresh-outline",
+    "tags": "reload",
+    "class": "ionicons ion-ios7-refresh-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-reload",
+    "tags": "refresh",
+    "class": "ionicons ion-ios7-reload"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-rewind",
+    "tags": "video player",
+    "class": "ionicons ion-ios7-rewind"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-rewind-outline",
+    "tags": "video player",
+    "class": "ionicons ion-ios7-rewind-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-search",
+    "tags": "magnifying glass",
+    "class": "ionicons ion-ios7-search"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-search-strong",
+    "tags": "magnifying glass",
+    "class": "ionicons ion-ios7-search-strong"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-skipbackward",
+    "tags": "video player",
+    "class": "ionicons ion-ios7-skipbackward"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-skipbackward-outline",
+    "tags": "video player",
+    "class": "ionicons ion-ios7-skipbackward-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-skipforward",
+    "tags": "video player",
+    "class": "ionicons ion-ios7-skipforward"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-skipforward-outline",
+    "tags": "video player",
+    "class": "ionicons ion-ios7-skipforward-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-speedometer",
+    "tags": "dashboard, tachometer",
+    "class": "ionicons ion-ios7-speedometer"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-speedometer-outline",
+    "tags": "dashboard, tachometer",
+    "class": "ionicons ion-ios7-speedometer-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-star",
+    "tags": "like, favorite, rate, ratings",
+    "class": "ionicons ion-ios7-star"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-star-outline",
+    "tags": "like, favorite, rate, ratings",
+    "class": "ionicons ion-ios7-star-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-stopwatch",
+    "tags": "timer, clock",
+    "class": "ionicons ion-ios7-stopwatch"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-stopwatch-outline",
+    "tags": "timer, clock",
+    "class": "ionicons ion-ios7-stopwatch-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-sunny",
+    "tags": "weather",
+    "class": "ionicons ion-ios7-sunny"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-sunny-outline",
+    "tags": "weather",
+    "class": "ionicons ion-ios7-sunny-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-telephone",
+    "tags": "",
+    "class": "ionicons ion-ios7-telephone"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-telephone-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-telephone-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-thunderstorm",
+    "tags": "weather",
+    "class": "ionicons ion-ios7-thunderstorm"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-thunderstorm-outline",
+    "tags": "weather",
+    "class": "ionicons ion-ios7-thunderstorm-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-time",
+    "tags": "clock",
+    "class": "ionicons ion-ios7-time"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-time-outline",
+    "tags": "clock",
+    "class": "ionicons ion-ios7-time-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-timer",
+    "tags": "clock",
+    "class": "ionicons ion-ios7-timer"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-timer-outline",
+    "tags": "clock",
+    "class": "ionicons ion-ios7-timer-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-trash",
+    "tags": "delete",
+    "class": "ionicons ion-ios7-trash"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-trash-outline",
+    "tags": "delete",
+    "class": "ionicons ion-ios7-trash-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-undo",
+    "tags": "text editor",
+    "class": "ionicons ion-ios7-undo"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-undo-outline",
+    "tags": "text editor",
+    "class": "ionicons ion-ios7-undo-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-unlocked",
+    "tags": "",
+    "class": "ionicons ion-ios7-unlocked"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-unlocked-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-unlocked-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-upload",
+    "tags": "",
+    "class": "ionicons ion-ios7-upload"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-upload-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-upload-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-videocam",
+    "tags": "camera",
+    "class": "ionicons ion-ios7-videocam"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-videocam-outline",
+    "tags": "camera",
+    "class": "ionicons ion-ios7-videocam-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-volume-high",
+    "tags": "audio, sound",
+    "class": "ionicons ion-ios7-volume-high"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-volume-low",
+    "tags": "audio, sound",
+    "class": "ionicons ion-ios7-volume-low"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-wineglass",
+    "tags": "drink, glass",
+    "class": "ionicons ion-ios7-wineglass"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-wineglass-outline",
+    "tags": "drink, glass",
+    "class": "ionicons ion-ios7-wineglass-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-world",
+    "tags": "globe, earth, planet",
+    "class": "ionicons ion-ios7-world"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-world-outline",
+    "tags": "globe, earth, planet",
+    "class": "ionicons ion-ios7-world-outline"
+  },
+   
+
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "accessibility",
+    "tags": "person",
+    "class": "icomoon icon-accessibility"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "address-book",
+    "tags": "contacts",
+    "class": "icomoon icon-address-book"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "aid",
+    "tags": "medical",
+    "class": "icomoon icon-aid"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "airplane",
+    "tags": "",
+    "class": "icomoon icon-airplane"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "alarm",
+    "tags": "clock, timer",
+    "class": "icomoon icon-alarm"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "alarm-2",
+    "tags": "clock, timer",
+    "class": "icomoon icon-alarm-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "android",
+    "tags": "brand, google",
+    "class": "icomoon icon-android"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "angry",
+    "tags": "frown, smiley face",
+    "class": "icomoon icon-angry"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "angry-2",
+    "tags": "frown, smiley face",
+    "class": "icomoon icon-angry-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "apple",
+    "tags": "brand, fruit",
+    "class": "icomoon icon-apple"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-down-left",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-down-left"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-down-left-2",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-down-left-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-down-left-3",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-down-left-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-down-right",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-down-right"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-down-right-2",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-down-right-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-down-right-3",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-down-right-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-down",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-down"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-down-2",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-down-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-down-3",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-down-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-left",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-left"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-left-2",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-left-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-left-3",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-left-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-right",
+    "tags": "",
+    "class": "icomoon icon-arrow-right"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-right-2",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-right-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-right-3",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-right-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-up-left",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-up-left"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-up-left-2",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-up-left-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-up-left-3",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-up-left-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-up-right",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-up-right"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-up-right-2",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-up-right-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-up-right-3",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-up-right-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-up",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-up"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-up-2",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-up-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "arrow-up-3",
+    "tags": "directional",
+    "class": "icomoon icon-arrow-up-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "attachment",
+    "tags": "email, paperclip",
+    "class": "icomoon icon-attachment"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "backward",
+    "tags": "video player, rewind",
+    "class": "icomoon icon-backward"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "backward-2",
+    "tags": "video player, rewind",
+    "class": "icomoon icon-backward-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "barcode",
+    "tags": "",
+    "class": "icomoon icon-barcode"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "bars",
+    "tags": "chart, data, graph",
+    "class": "icomoon icon-bars"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "bars-2",
+    "tags": "chart, data, graph",
+    "class": "icomoon icon-bars-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "bell",
+    "tags": "audio, sound",
+    "class": "icomoon icon-bell"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "binoculars",
+    "tags": "",
+    "class": "icomoon icon-binoculars"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "blocked",
+    "tags": "",
+    "class": "icomoon icon-blocked"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "blog",
+    "tags": "",
+    "class": "icomoon icon-blog"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "blogger",
+    "tags": "brand, social",
+    "class": "icomoon icon-blogger"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "blogger-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-blogger-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "bold",
+    "tags": "text editor",
+    "class": "icomoon icon-bold"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "book",
+    "tags": "",
+    "class": "icomoon icon-book"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "bookmark",
+    "tags": "",
+    "class": "icomoon icon-bookmark"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "bookmarks",
+    "tags": "",
+    "class": "icomoon icon-bookmarks"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "books",
+    "tags": "",
+    "class": "icomoon icon-books"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "box-add",
+    "tags": "",
+    "class": "icomoon icon-box-add"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "box-remove",
+    "tags": "",
+    "class": "icomoon icon-box-remove"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "briefcase",
+    "tags": "",
+    "class": "icomoon icon-briefcase"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "brightness-contrast",
+    "tags": "",
+    "class": "icomoon icon-brightness-contrast"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "brightness-medium",
+    "tags": "",
+    "class": "icomoon icon-brightness-medium"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "bubble",
+    "tags": "chat, speech",
+    "class": "icomoon icon-bubble"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "bubble-2",
+    "tags": "chat, speech",
+    "class": "icomoon icon-bubble-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "bubbles",
+    "tags": "chat, speech",
+    "class": "icomoon icon-bubbles"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "bubbles-2",
+    "tags": "chat, speech",
+    "class": "icomoon icon-bubbles-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "bubbles-3",
+    "tags": "chat, speech",
+    "class": "icomoon icon-bubbles-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "bubbles-4",
+    "tags": "chat, speech",
+    "class": "icomoon icon-bubbles-4"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "bug",
+    "tags": "",
+    "class": "icomoon icon-bug"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "bullhorn",
+    "tags": "loudspeaker",
+    "class": "icomoon icon-bullhorn"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "busy",
+    "tags": "hourglass",
+    "class": "icomoon icon-busy"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "cabinet",
+    "tags": "",
+    "class": "icomoon icon-cabinet"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "calculate",
+    "tags": "",
+    "class": "icomoon icon-calculate"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "calendar",
+    "tags": "date",
+    "class": "icomoon icon-calendar"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "calendar-2",
+    "tags": "date",
+    "class": "icomoon icon-calendar-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "camera",
+    "tags": "photographs",
+    "class": "icomoon icon-camera"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "camera-2",
+    "tags": "video",
+    "class": "icomoon icon-camera-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "cancel-circle",
+    "tags": "",
+    "class": "icomoon icon-cancel-circle"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "cart",
+    "tags": "shopping",
+    "class": "icomoon icon-cart"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "cart-2",
+    "tags": "shopping",
+    "class": "icomoon icon-cart-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "cart-3",
+    "tags": "shopping",
+    "class": "icomoon icon-cart-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "checkbox-checked",
+    "tags": "",
+    "class": "icomoon icon-checkbox-checked"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "checkbox-partial",
+    "tags": "",
+    "class": "icomoon icon-checkbox-partial"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "checkbox-unchecked",
+    "tags": "",
+    "class": "icomoon icon-checkbox-unchecked"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "checkmark-circle",
+    "tags": "",
+    "class": "icomoon icon-checkmark-circle"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "checkmark",
+    "tags": "",
+    "class": "icomoon icon-checkmark"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "checkmark-2",
+    "tags": "",
+    "class": "icomoon icon-checkmark-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "chrome",
+    "tags": "brand, browser, google",
+    "class": "icomoon icon-chrome"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "clock",
+    "tags": "timer",
+    "class": "icomoon icon-clock"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "clock-2",
+    "tags": "timer",
+    "class": "icomoon icon-clock-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "close",
+    "tags": "",
+    "class": "icomoon icon-close"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "cloud-download",
+    "tags": "",
+    "class": "icomoon icon-cloud-download"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "cloud-upload",
+    "tags": "",
+    "class": "icomoon icon-cloud-upload"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "cloud",
+    "tags": "",
+    "class": "icomoon icon-cloud"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "clubs",
+    "tags": "",
+    "class": "icomoon icon-clubs"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "code",
+    "tags": "",
+    "class": "icomoon icon-code"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "cog",
+    "tags": "gear",
+    "class": "icomoon icon-cog"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "cog-2",
+    "tags": "gear",
+    "class": "icomoon icon-cog-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "cogs",
+    "tags": "gears",
+    "class": "icomoon icon-cogs"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "coin",
+    "tags": "currency, dollar, money, payment",
+    "class": "icomoon icon-coin"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "compass",
+    "tags": "directions, map, navigation",
+    "class": "icomoon icon-compass"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "confused",
+    "tags": "smiley face",
+    "class": "icomoon icon-confused"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "confused-2",
+    "tags": "smiley face",
+    "class": "icomoon icon-confused-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "connection",
+    "tags": "wifi",
+    "class": "icomoon icon-connection"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "console",
+    "tags": "terminal",
+    "class": "icomoon icon-console"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "contract",
+    "tags": "resize, shrink",
+    "class": "icomoon icon-contract"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "contract-2",
+    "tags": "resize, shrink",
+    "class": "icomoon icon-contract-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "contrast",
+    "tags": "",
+    "class": "icomoon icon-contrast"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "cool",
+    "tags": "smiley face, sunglasses",
+    "class": "icomoon icon-cool"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "cool-2",
+    "tags": "smiley face, sunglasses",
+    "class": "icomoon icon-cool-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "copy",
+    "tags": "clipboard, documents, files",
+    "class": "icomoon icon-copy"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "copy-2",
+    "tags": "clipboard",
+    "class": "icomoon icon-copy-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "copy-3",
+    "tags": "clipboard, documents, files",
+    "class": "icomoon icon-copy-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "credit",
+    "tags": "money, payment, shopping",
+    "class": "icomoon icon-credit"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "crop",
+    "tags": "",
+    "class": "icomoon icon-crop"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "css3",
+    "tags": "brand, web",
+    "class": "icomoon icon-css3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "dashboard",
+    "tags": "speedometer, tachometer",
+    "class": "icomoon icon-dashboard"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "delicious",
+    "tags": "brand, social",
+    "class": "icomoon icon-delicious"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "deviantart",
+    "tags": "brand, social",
+    "class": "icomoon icon-deviantart"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "deviantart-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-deviantart-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "diamonds",
+    "tags": "cards",
+    "class": "icomoon icon-diamonds"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "dice",
+    "tags": "games",
+    "class": "icomoon icon-dice"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "disk",
+    "tags": "save",
+    "class": "icomoon icon-disk"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "download",
+    "tags": "",
+    "class": "icomoon icon-download"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "download-2",
+    "tags": "",
+    "class": "icomoon icon-download-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "download-3",
+    "tags": "",
+    "class": "icomoon icon-download-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "drawer",
+    "tags": "email, inbox",
+    "class": "icomoon icon-drawer"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "drawer-2",
+    "tags": "email, inbox",
+    "class": "icomoon icon-drawer-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "drawer-3",
+    "tags": "email, inbox",
+    "class": "icomoon icon-drawer-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "dribbble",
+    "tags": "brand, social",
+    "class": "icomoon icon-dribbble"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "dribbble-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-dribbble-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "dribbble-3",
+    "tags": "brand, social",
+    "class": "icomoon icon-dribbble-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "droplet",
+    "tags": "waterdrop",
+    "class": "icomoon icon-droplet"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "earth",
+    "tags": "globe, planet",
+    "class": "icomoon icon-earth"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "eject",
+    "tags": "",
+    "class": "icomoon icon-eject"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "embed",
+    "tags": "brackets, code",
+    "class": "icomoon icon-embed"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "enter",
+    "tags": "doorway",
+    "class": "icomoon icon-enter"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "envelop",
+    "tags": "mail",
+    "class": "icomoon icon-envelop"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "equalizer",
+    "tags": "",
+    "class": "icomoon icon-equalizer"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "evil",
+    "tags": "devil, smiley face",
+    "class": "icomoon icon-evil"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "evil-2",
+    "tags": "devil, smiley face",
+    "class": "icomoon icon-evil-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "exit",
+    "tags": "doorway",
+    "class": "icomoon icon-exit"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "expand",
+    "tags": "resize",
+    "class": "icomoon icon-expand"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "expand-2",
+    "tags": "resize",
+    "class": "icomoon icon-expand-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "eye-blocked",
+    "tags": "hide",
+    "class": "icomoon icon-eye-blocked"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "eye",
+    "tags": "display, show",
+    "class": "icomoon icon-eye"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "eye-2",
+    "tags": "display, show",
+    "class": "icomoon icon-eye-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "facebook",
+    "tags": "brand, social",
+    "class": "icomoon icon-facebook"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "facebook-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-facebook-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "facebook-3",
+    "tags": "brand, social",
+    "class": "icomoon icon-facebook-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "feed",
+    "tags": "rss",
+    "class": "icomoon icon-feed"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "feed-2",
+    "tags": "rss",
+    "class": "icomoon icon-feed-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "feed-3",
+    "tags": "rss",
+    "class": "icomoon icon-feed-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "feed-4",
+    "tags": "rss",
+    "class": "icomoon icon-feed-4"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "file-css",
+    "tags": "document",
+    "class": "icomoon icon-file-css"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "file-excel",
+    "tags": "document",
+    "class": "icomoon icon-file-excel"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "file-openoffice",
+    "tags": "document",
+    "class": "icomoon icon-file-openoffice"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "file-pdf",
+    "tags": "document",
+    "class": "icomoon icon-file-pdf"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "file-powerpoint",
+    "tags": "document",
+    "class": "icomoon icon-file-powerpoint"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "file-word",
+    "tags": "document",
+    "class": "icomoon icon-file-word"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "file-xml",
+    "tags": "document",
+    "class": "icomoon icon-file-xml"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "file-zip",
+    "tags": "document",
+    "class": "icomoon icon-file-zip"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "file",
+    "tags": "document",
+    "class": "icomoon icon-file"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "file-2",
+    "tags": "document",
+    "class": "icomoon icon-file-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "file-3",
+    "tags": "document",
+    "class": "icomoon icon-file-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "file-4",
+    "tags": "document",
+    "class": "icomoon icon-file-4"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "film",
+    "tags": "movie, video",
+    "class": "icomoon icon-film"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "filter",
+    "tags": "",
+    "class": "icomoon icon-filter"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "filter-2",
+    "tags": "",
+    "class": "icomoon icon-filter-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "finder",
+    "tags": "apple, mac",
+    "class": "icomoon icon-finder"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "fire",
+    "tags": "flame",
+    "class": "icomoon icon-fire"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "firefox",
+    "tags": "mozilla, web, browser",
+    "class": "icomoon icon-firefox"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "first",
+    "tags": "video player",
+    "class": "icomoon icon-first"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "flag",
+    "tags": "brand, social",
+    "class": "icomoon icon-flag"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "flattr",
+    "tags": "brand, social",
+    "class": "icomoon icon-flattr"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "flickr",
+    "tags": "brand, social",
+    "class": "icomoon icon-flickr"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "flickr-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-flickr-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "flickr-3",
+    "tags": "brand, social",
+    "class": "icomoon icon-flickr-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "flickr-4",
+    "tags": "brand, social",
+    "class": "icomoon icon-flickr-4"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "flip",
+    "tags": "",
+    "class": "icomoon icon-flip"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "flip-2",
+    "tags": "",
+    "class": "icomoon icon-flip-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "folder-open",
+    "tags": "",
+    "class": "icomoon icon-folder-open"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "folder",
+    "tags": "",
+    "class": "icomoon icon-folder"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "font",
+    "tags": "text editor",
+    "class": "icomoon icon-font"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "food",
+    "tags": "cutlery",
+    "class": "icomoon icon-food"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "forrst",
+    "tags": "brand, social",
+    "class": "icomoon icon-forrst"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "forrst-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-forrst-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "forward",
+    "tags": "arrow",
+    "class": "icomoon icon-forward"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "forward-2",
+    "tags": "video player, fast forward",
+    "class": "icomoon icon-forward-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "forward-3",
+    "tags": "video player, fast forward",
+    "class": "icomoon icon-forward-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "foursquare",
+    "tags": "brand, social",
+    "class": "icomoon icon-foursquare"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "foursquare-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-foursquare-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "gift",
+    "tags": "present",
+    "class": "icomoon icon-gift"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "github",
+    "tags": "brand, social",
+    "class": "icomoon icon-github"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "github-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-github-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "github-3",
+    "tags": "brand, social",
+    "class": "icomoon icon-github-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "github-4",
+    "tags": "brand, social",
+    "class": "icomoon icon-github-4"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "github-5",
+    "tags": "brand, social",
+    "class": "icomoon icon-github-5"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "glass",
+    "tags": "drink, martini",
+    "class": "icomoon icon-glass"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "globe",
+    "tags": "earth, planet",
+    "class": "icomoon icon-globe"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "google-drive",
+    "tags": "brand, social",
+    "class": "icomoon icon-google-drive"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "google-plus",
+    "tags": "brand, social",
+    "class": "icomoon icon-google-plus"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "google-plus-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-google-plus-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "google-plus-3",
+    "tags": "brand, social",
+    "class": "icomoon icon-google-plus-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "google-plus-4",
+    "tags": "brand, social",
+    "class": "icomoon icon-google-plus-4"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "google",
+    "tags": "brand, social",
+    "class": "icomoon icon-google"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "grin",
+    "tags": "smiley face",
+    "class": "icomoon icon-grin"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "grin-2",
+    "tags": "smiley face",
+    "class": "icomoon icon-grin-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "hammer",
+    "tags": "tool",
+    "class": "icomoon icon-hammer"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "hammer-2",
+    "tags": "gavel, tool",
+    "class": "icomoon icon-hammer-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "happy",
+    "tags": "smiley face",
+    "class": "icomoon icon-happy"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "happy-2",
+    "tags": "smiley face",
+    "class": "icomoon icon-happy-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "headphones",
+    "tags": "audio, music",
+    "class": "icomoon icon-headphones"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "heart-broken",
+    "tags": "sad",
+    "class": "icomoon icon-heart-broken"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "heart",
+    "tags": "like, love",
+    "class": "icomoon icon-heart"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "heart-2",
+    "tags": "like, love",
+    "class": "icomoon icon-heart-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "history",
+    "tags": "",
+    "class": "icomoon icon-history"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "home",
+    "tags": "house",
+    "class": "icomoon icon-home"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "home-2",
+    "tags": "house",
+    "class": "icomoon icon-home-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "home-3",
+    "tags": "house",
+    "class": "icomoon icon-home-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "html5",
+    "tags": "brand, web",
+    "class": "icomoon icon-html5"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "html5-2",
+    "tags": "brand, web",
+    "class": "icomoon icon-html5-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "IcoMoon",
+    "tags": "brand",
+    "class": "icomoon icon-IcoMoon"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "IE",
+    "tags": "brand, browser, microsoft, web",
+    "class": "icomoon icon-IE"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "image",
+    "tags": "picture",
+    "class": "icomoon icon-image"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "image-2",
+    "tags": "picture",
+    "class": "icomoon icon-image-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "images",
+    "tags": "pictures",
+    "class": "icomoon icon-images"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "indent-decrease",
+    "tags": "text editor",
+    "class": "icomoon icon-indent-decrease"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "indent-increase",
+    "tags": "text editor",
+    "class": "icomoon icon-indent-increase"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "info",
+    "tags": "",
+    "class": "icomoon icon-info"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "info-2",
+    "tags": "",
+    "class": "icomoon icon-info-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "insert-template",
+    "tags": "",
+    "class": "icomoon icon-insert-template"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "instagram",
+    "tags": "brand, social",
+    "class": "icomoon icon-instagram"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "italic",
+    "tags": "text editor",
+    "class": "icomoon icon-italic"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "joomla",
+    "tags": "brand, social",
+    "class": "icomoon icon-joomla"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "key",
+    "tags": "lock",
+    "class": "icomoon icon-key"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "key-2",
+    "tags": "lock",
+    "class": "icomoon icon-key-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "keyboard",
+    "tags": "",
+    "class": "icomoon icon-keyboard"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "lab",
+    "tags": "beaker, flask, science",
+    "class": "icomoon icon-lab"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "lanyrd",
+    "tags": "brand, social",
+    "class": "icomoon icon-lanyrd"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "laptop",
+    "tags": "computer",
+    "class": "icomoon icon-laptop"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "last",
+    "tags": "fast forward",
+    "class": "icomoon icon-last"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "lastfm",
+    "tags": "brand, social",
+    "class": "icomoon icon-lastfm"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "lastfm-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-lastfm-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "leaf",
+    "tags": "",
+    "class": "icomoon icon-leaf"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "left-to-right",
+    "tags": "paragraph, text editor",
+    "class": "icomoon icon-left-to-right"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "library",
+    "tags": "building",
+    "class": "icomoon icon-library"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "libreoffice",
+    "tags": "brand",
+    "class": "icomoon icon-libreoffice"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "lightning",
+    "tags": "bolt",
+    "class": "icomoon icon-lightning"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "link",
+    "tags": "chain",
+    "class": "icomoon icon-link"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "linkedin",
+    "tags": "brand, social",
+    "class": "icomoon icon-linkedin"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "list",
+    "tags": "",
+    "class": "icomoon icon-list"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "list-2",
+    "tags": "",
+    "class": "icomoon icon-list-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "location",
+    "tags": "map marker",
+    "class": "icomoon icon-location"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "location-2",
+    "tags": "map marker",
+    "class": "icomoon icon-location-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "lock",
+    "tags": "padlock",
+    "class": "icomoon icon-lock"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "lock-2",
+    "tags": "padlock",
+    "class": "icomoon icon-lock-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "loop",
+    "tags": "repeat, refresh",
+    "class": "icomoon icon-loop"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "loop-2",
+    "tags": "repeat, refresh",
+    "class": "icomoon icon-loop-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "loop-3",
+    "tags": "repeat, refresh",
+    "class": "icomoon icon-loop-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "magnet",
+    "tags": "",
+    "class": "icomoon icon-magnet"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "mail",
+    "tags": "envelope",
+    "class": "icomoon icon-mail"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "mail-2",
+    "tags": "envelope",
+    "class": "icomoon icon-mail-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "mail-3",
+    "tags": "envelope",
+    "class": "icomoon icon-mail-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "mail-4",
+    "tags": "envelope",
+    "class": "icomoon icon-mail-4"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "map",
+    "tags": "",
+    "class": "icomoon icon-map"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "map-2",
+    "tags": "",
+    "class": "icomoon icon-map-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "menu",
+    "tags": "bars, drag, reorder",
+    "class": "icomoon icon-menu"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "menu-2",
+    "tags": "bars, drag, more, reorder",
+    "class": "icomoon icon-menu-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "meter",
+    "tags": "dashboard, gauge, speedometer",
+    "class": "icomoon icon-meter"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "meter2",
+    "tags": "dashboard, gauge, speedometer",
+    "class": "icomoon icon-meter2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "minus",
+    "tags": "",
+    "class": "icomoon icon-minus"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "mobile",
+    "tags": "phone",
+    "class": "icomoon icon-mobile"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "mobile-2",
+    "tags": "phone",
+    "class": "icomoon icon-mobile-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "mug",
+    "tags": "coffee, cup, drink",
+    "class": "icomoon icon-mug"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "music",
+    "tags": "audio",
+    "class": "icomoon icon-music"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "neutral",
+    "tags": "smiley face",
+    "class": "icomoon icon-neutral"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "neutral-2",
+    "tags": "smiley face",
+    "class": "icomoon icon-neutral-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "new-tab",
+    "tags": "",
+    "class": "icomoon icon-new-tab"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "newspaper",
+    "tags": "",
+    "class": "icomoon icon-newspaper"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "next",
+    "tags": "skip",
+    "class": "icomoon icon-next"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "notebook",
+    "tags": "",
+    "class": "icomoon icon-notebook"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "notification",
+    "tags": "",
+    "class": "icomoon icon-notification"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "numbered-list",
+    "tags": "",
+    "class": "icomoon icon-numbered-list"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "office",
+    "tags": "buildings",
+    "class": "icomoon icon-office"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "omega",
+    "tags": "greek letter",
+    "class": "icomoon icon-omega"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "opera",
+    "tags": "brand, browser, web",
+    "class": "icomoon icon-opera"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "pacman",
+    "tags": "game",
+    "class": "icomoon icon-pacman"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "paint-format",
+    "tags": "",
+    "class": "icomoon icon-paint-format"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "paragraph-center",
+    "tags": "text editor",
+    "class": "icomoon icon-paragraph-center"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "paragraph-center-2",
+    "tags": "text editor",
+    "class": "icomoon icon-paragraph-center-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "paragraph-justify",
+    "tags": "text editor",
+    "class": "icomoon icon-paragraph-justify"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "paragraph-justify-2",
+    "tags": "text editor",
+    "class": "icomoon icon-paragraph-justify-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "paragraph-left",
+    "tags": "text editor",
+    "class": "icomoon icon-paragraph-left"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "paragraph-left-2",
+    "tags": "text editor",
+    "class": "icomoon icon-paragraph-left-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "paragraph-right",
+    "tags": "text editor",
+    "class": "icomoon icon-paragraph-right"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "paragraph-right-2",
+    "tags": "text editor",
+    "class": "icomoon icon-paragraph-right-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "paste",
+    "tags": "clipboard",
+    "class": "icomoon icon-paste"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "paste-2",
+    "tags": "clipboard",
+    "class": "icomoon icon-paste-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "paste-3",
+    "tags": "clipboard",
+    "class": "icomoon icon-paste-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "pause",
+    "tags": "video player",
+    "class": "icomoon icon-pause"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "pause-2",
+    "tags": "video player",
+    "class": "icomoon icon-pause-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "pawn",
+    "tags": "chess, game",
+    "class": "icomoon icon-pawn"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "paypal",
+    "tags": "brand, payment, social",
+    "class": "icomoon icon-paypal"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "paypal-2",
+    "tags": "brand, payment, social",
+    "class": "icomoon icon-paypal-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "paypal-3",
+    "tags": "brand, payment, social",
+    "class": "icomoon icon-paypal-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "pen",
+    "tags": "write",
+    "class": "icomoon icon-pen"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "pencil",
+    "tags": "write",
+    "class": "icomoon icon-pencil"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "pencil-2",
+    "tags": "write",
+    "class": "icomoon icon-pencil-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "phone-hang-up",
+    "tags": "",
+    "class": "icomoon icon-phone-hang-up"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "phone",
+    "tags": "",
+    "class": "icomoon icon-phone"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "picassa",
+    "tags": "brand, social",
+    "class": "icomoon icon-picassa"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "picassa-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-picassa-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "pie",
+    "tags": "chart, graph",
+    "class": "icomoon icon-pie"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "pilcrow",
+    "tags": "paragraph, text editor",
+    "class": "icomoon icon-pilcrow"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "pinterest",
+    "tags": "brand, social",
+    "class": "icomoon icon-pinterest"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "pinterest-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-pinterest-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "play",
+    "tags": "video player",
+    "class": "icomoon icon-play"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "play-2",
+    "tags": "video player",
+    "class": "icomoon icon-play-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "play-3",
+    "tags": "video player",
+    "class": "icomoon icon-play-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "plus",
+    "tags": "add",
+    "class": "icomoon icon-plus"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "podcast",
+    "tags": "broadcast, social",
+    "class": "icomoon icon-podcast"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "point-down",
+    "tags": "directional, finger, hand",
+    "class": "icomoon icon-point-down"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "point-left",
+    "tags": "directional, finger, hand",
+    "class": "icomoon icon-point-left"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "point-right",
+    "tags": "directional, finger, hand",
+    "class": "icomoon icon-point-right"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "point-up",
+    "tags": "directional, finger, hand",
+    "class": "icomoon icon-point-up"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "power-cord",
+    "tags": "plug",
+    "class": "icomoon icon-power-cord"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "previous",
+    "tags": "video player",
+    "class": "icomoon icon-previous"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "print",
+    "tags": "",
+    "class": "icomoon icon-print"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "profile",
+    "tags": "",
+    "class": "icomoon icon-profile"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "pushpin",
+    "tags": "",
+    "class": "icomoon icon-pushpin"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "qrcode",
+    "tags": "",
+    "class": "icomoon icon-qrcode"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "question",
+    "tags": "",
+    "class": "icomoon icon-question"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "quill",
+    "tags": "feather, pen",
+    "class": "icomoon icon-quill"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "quotes-left",
+    "tags": "text editor",
+    "class": "icomoon icon-quotes-left"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "radio-checked",
+    "tags": "form controls",
+    "class": "icomoon icon-radio-checked"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "radio-unchecked",
+    "tags": "form controls",
+    "class": "icomoon icon-radio-unchecked"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "reddit",
+    "tags": "alien, brand, social",
+    "class": "icomoon icon-reddit"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "redo",
+    "tags": "text editor",
+    "class": "icomoon icon-redo"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "redo-2",
+    "tags": "text editor",
+    "class": "icomoon icon-redo-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "remove",
+    "tags": "delete, trashcan",
+    "class": "icomoon icon-remove"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "remove-2",
+    "tags": "delete, trashcan",
+    "class": "icomoon icon-remove-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "reply",
+    "tags": "email",
+    "class": "icomoon icon-reply"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "right-to-left",
+    "tags": "text editor",
+    "class": "icomoon icon-right-to-left"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "road",
+    "tags": "",
+    "class": "icomoon icon-road"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "rocket",
+    "tags": "spaceship",
+    "class": "icomoon icon-rocket"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "sad",
+    "tags": "frown, smiley face",
+    "class": "icomoon icon-sad"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "sad-2",
+    "tags": "frown, smiley face",
+    "class": "icomoon icon-sad-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "safari",
+    "tags": "brand, browser, web",
+    "class": "icomoon icon-safari"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "scissors",
+    "tags": "cut, clipboard",
+    "class": "icomoon icon-scissors"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "screen",
+    "tags": "computer, monitor",
+    "class": "icomoon icon-screen"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "search",
+    "tags": "find, magnifying glass",
+    "class": "icomoon icon-search"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "settings",
+    "tags": "",
+    "class": "icomoon icon-settings"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "share",
+    "tags": "social",
+    "class": "icomoon icon-share"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "shield",
+    "tags": "",
+    "class": "icomoon icon-shield"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "shocked",
+    "tags": "smiley face",
+    "class": "icomoon icon-shocked"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "shocked-2",
+    "tags": "smiley face",
+    "class": "icomoon icon-shocked-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "shuffle",
+    "tags": "random, video player",
+    "class": "icomoon icon-shuffle"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "sigma",
+    "tags": "greek letter",
+    "class": "icomoon icon-sigma"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "signup",
+    "tags": "clipboard, checkmark",
+    "class": "icomoon icon-signup"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "skype",
+    "tags": "brand, social",
+    "class": "icomoon icon-skype"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "smiley",
+    "tags": "face",
+    "class": "icomoon icon-smiley"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "smiley-2",
+    "tags": "face",
+    "class": "icomoon icon-smiley-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "soundcloud",
+    "tags": "brand, social",
+    "class": "icomoon icon-soundcloud"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "soundcloud-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-soundcloud-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "spades",
+    "tags": "cards",
+    "class": "icomoon icon-spades"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "spam",
+    "tags": "danger, exclamation point, sign, warning",
+    "class": "icomoon icon-spam"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "spell-check",
+    "tags": "text editor",
+    "class": "icomoon icon-spell-check"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "spinner",
+    "tags": "loading",
+    "class": "icomoon icon-spinner"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "spinner-2",
+    "tags": "loading",
+    "class": "icomoon icon-spinner-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "spinner-3",
+    "tags": "loading",
+    "class": "icomoon icon-spinner-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "spinner-4",
+    "tags": "",
+    "class": "icomoon icon-spinner-4"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "spinner-5",
+    "tags": "loading",
+    "class": "icomoon icon-spinner-5"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "spinner-6",
+    "tags": "loading",
+    "class": "icomoon icon-spinner-6"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "stack",
+    "tags": "",
+    "class": "icomoon icon-stack"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "stackoverflow",
+    "tags": "brand, social",
+    "class": "icomoon icon-stackoverflow"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "star",
+    "tags": "like, rating",
+    "class": "icomoon icon-star"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "star-2",
+    "tags": "like, rating",
+    "class": "icomoon icon-star-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "star-3",
+    "tags": "like, rating",
+    "class": "icomoon icon-star-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "stats",
+    "tags": "chart, graph",
+    "class": "icomoon icon-stats"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "steam",
+    "tags": "brand, game, social",
+    "class": "icomoon icon-steam"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "steam-2",
+    "tags": "brand, game, social",
+    "class": "icomoon icon-steam-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "stop",
+    "tags": "square, video player",
+    "class": "icomoon icon-stop"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "stop-2",
+    "tags": "square, video player",
+    "class": "icomoon icon-stop-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "stopwatch",
+    "tags": "clock, timer",
+    "class": "icomoon icon-stopwatch"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "storage",
+    "tags": "disk, hard drive",
+    "class": "icomoon icon-storage"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "strikethrough",
+    "tags": "text editor",
+    "class": "icomoon icon-strikethrough"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "stumbleupon",
+    "tags": "brand, social",
+    "class": "icomoon icon-stumbleupon"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "stumbleupon-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-stumbleupon-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "support",
+    "tags": "help, buoy, lifesaver",
+    "class": "icomoon icon-support"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "switch",
+    "tags": "on, power",
+    "class": "icomoon icon-switch"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "tab",
+    "tags": "text editor",
+    "class": "icomoon icon-tab"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "table",
+    "tags": "chart",
+    "class": "icomoon icon-table"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "table-2",
+    "tags": "chart",
+    "class": "icomoon icon-table-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "tablet",
+    "tags": "computer, ipad",
+    "class": "icomoon icon-tablet"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "tag",
+    "tags": "pricetag, shopping",
+    "class": "icomoon icon-tag"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "tags",
+    "tags": "pricetags, shopping",
+    "class": "icomoon icon-tags"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "target",
+    "tags": "aim, reticle",
+    "class": "icomoon icon-target"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "text-height",
+    "tags": "text editor",
+    "class": "icomoon icon-text-height"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "text-width",
+    "tags": "text editor",
+    "class": "icomoon icon-text-width"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "thumbs-up",
+    "tags": "like, rating",
+    "class": "icomoon icon-thumbs-up"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "thumbs-up-2",
+    "tags": "like, rating",
+    "class": "icomoon icon-thumbs-up-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "ticket",
+    "tags": "film, movie, admission",
+    "class": "icomoon icon-ticket"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "tongue",
+    "tags": "smiley face",
+    "class": "icomoon icon-tongue"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "tongue-2",
+    "tags": "smiley face",
+    "class": "icomoon icon-tongue-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "tree",
+    "tags": "graph",
+    "class": "icomoon icon-tree"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "trophy",
+    "tags": "award, prize",
+    "class": "icomoon icon-trophy"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "truck",
+    "tags": "vehicle",
+    "class": "icomoon icon-truck"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "tumblr",
+    "tags": "brand, social",
+    "class": "icomoon icon-tumblr"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "tumblr-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-tumblr-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "tux",
+    "tags": "bird, brand, penguin",
+    "class": "icomoon icon-tux"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "tv",
+    "tags": "television",
+    "class": "icomoon icon-tv"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "twitter",
+    "tags": "brand, bird, social",
+    "class": "icomoon icon-twitter"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "twitter-2",
+    "tags": "brand, bird, social",
+    "class": "icomoon icon-twitter-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "twitter-3",
+    "tags": "brand, bird, social",
+    "class": "icomoon icon-twitter-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "underline",
+    "tags": "text editor",
+    "class": "icomoon icon-underline"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "undo",
+    "tags": "arrow, text editor",
+    "class": "icomoon icon-undo"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "undo-2",
+    "tags": "arrow, text editor",
+    "class": "icomoon icon-undo-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "unlocked",
+    "tags": "padlock",
+    "class": "icomoon icon-unlocked"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "upload",
+    "tags": "",
+    "class": "icomoon icon-upload"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "upload-2",
+    "tags": "",
+    "class": "icomoon icon-upload-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "upload-3",
+    "tags": "",
+    "class": "icomoon icon-upload-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "user",
+    "tags": "person",
+    "class": "icomoon icon-user"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "user-2",
+    "tags": "person",
+    "class": "icomoon icon-user-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "user-3",
+    "tags": "person",
+    "class": "icomoon icon-user-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "user-4",
+    "tags": "person",
+    "class": "icomoon icon-user-4"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "users",
+    "tags": "people",
+    "class": "icomoon icon-users"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "users-2",
+    "tags": "people",
+    "class": "icomoon icon-users-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "vimeo",
+    "tags": "brand, social, video",
+    "class": "icomoon icon-vimeo"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "vimeo-2",
+    "tags": "brand, social, video",
+    "class": "icomoon icon-vimeo-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "vimeo-3",
+    "tags": "brand, social, video",
+    "class": "icomoon icon-vimeo-3"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "volume-decrease",
+    "tags": "audio, sound",
+    "class": "icomoon icon-volume-decrease"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "volume-high",
+    "tags": "audio, sound",
+    "class": "icomoon icon-volume-high"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "volume-increase",
+    "tags": "audio, sound",
+    "class": "icomoon icon-volume-increase"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "volume-low",
+    "tags": "audio, sound",
+    "class": "icomoon icon-volume-low"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "volume-medium",
+    "tags": "audio, sound",
+    "class": "icomoon icon-volume-medium"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "volume-mute",
+    "tags": "audio, sound",
+    "class": "icomoon icon-volume-mute"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "volume-mute-2",
+    "tags": "audio, sound",
+    "class": "icomoon icon-volume-mute-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "wand",
+    "tags": "magic",
+    "class": "icomoon icon-wand"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "warning",
+    "tags": "alert, exclamation, sign",
+    "class": "icomoon icon-warning"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "windows",
+    "tags": "brand, microsoft",
+    "class": "icomoon icon-windows"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "windows8",
+    "tags": "brand, microsoft",
+    "class": "icomoon icon-windows8"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "wink",
+    "tags": "smiley face",
+    "class": "icomoon icon-wink"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "wink-2",
+    "tags": "smiley face",
+    "class": "icomoon icon-wink-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "wondering",
+    "tags": "smiley face",
+    "class": "icomoon icon-wondering"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "wondering-2",
+    "tags": "smiley face",
+    "class": "icomoon icon-wondering-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "wordpress",
+    "tags": "brand, blog, social",
+    "class": "icomoon icon-wordpress"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "wordpress-2",
+    "tags": "brand, blog, social",
+    "class": "icomoon icon-wordpress-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "wrench",
+    "tags": "settings, tool",
+    "class": "icomoon icon-wrench"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "xing",
+    "tags": "brand, social",
+    "class": "icomoon icon-xing"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "xing-2",
+    "tags": "brand, social",
+    "class": "icomoon icon-xing-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "yahoo",
+    "tags": "brand, social",
+    "class": "icomoon icon-yahoo"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "yelp",
+    "tags": "brand, social",
+    "class": "icomoon icon-yelp"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "youtube",
+    "tags": "brand, social, video",
+    "class": "icomoon icon-youtube"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "youtube-2",
+    "tags": "brand, social, video",
+    "class": "icomoon icon-youtube-2"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "zoom-in",
+    "tags": "magnifying glass",
+    "class": "icomoon icon-zoom-in"
+  },
+  
+  {
+    "_tags": ["icomoon"],
+    "name": "zoom-out",
+    "tags": "magnifying glass",
+    "class": "icomoon icon-zoom-out"
+  },
+   
+
+  {}
+]
