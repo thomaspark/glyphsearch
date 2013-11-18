@@ -15,8 +15,13 @@ module.exports = function(grunt) {
   });
 
   grunt.loadNpmTasks('grunt-compile-handlebars');
-  grunt.registerTask('default', 'compile-handlebars');
-  grunt.registerTask('index-icons', 'Push batch.json to Algolia\'s server', function() {
+
+  grunt.registerTask('build', 'compile-handlebars');
+  grunt.registerTask('default', function(){
+    grunt.task.run('build');
+  });
+
+  grunt.registerTask('index', 'Push batch.json to Algolia\'s server', function() {
     // required api key
     var personalApiKey = grunt.option('apikey');
     if (!personalApiKey) {
