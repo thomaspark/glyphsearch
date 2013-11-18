@@ -3,12 +3,12 @@ module.exports = function(grunt) {
     'compile-handlebars': {
         remote: {
           template: 'templates/batch.handlebars',
-          templateData: 'templates/icons.json',
-          output: './batch.json'
+          templateData: 'data/icons.json',
+          output: './data/batch.json'
         },
         offline: {
           template: 'templates/offline.handlebars',
-          templateData: 'templates/icons.json',
+          templateData: 'data/icons.json',
           output: './offline.html'
         }
     }
@@ -43,7 +43,7 @@ module.exports = function(grunt) {
 
     // push data
     var push = grunt.log.write("Push batch.json...");
-    index.addObjects(require('./batch.json'), function(error, content) {
+    index.addObjects(require('./data/batch.json'), function(error, content) {
       if (error) {
         push.error();
         done(false);
