@@ -36,6 +36,6 @@ $filters.click(function(e){
 		return;
 	} else {
 		$(".section").addClass("hide");
-		$("." + filter).removeClass("hide");
+		$(".section-" + filter).removeClass("hide");
 	}
 });
