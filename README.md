@@ -1,11 +1,11 @@
 # GlyphSearch
-Search for icons from [Font Awesome](http://fontawesome.io), [Glyphicons](http://glyphicons.com), and [Ionicons](http://ionicons.com).
+Search for icons from [Font Awesome](http://fontawesome.io), [Glyphicons](http://glyphicons.com), [IcoMoon](http://icomoon.io/), and [Ionicons](http://ionicons.com).
 
 Get started at [glyphsearch.com](http://glyphsearch.com).
 
 ## Build
 
-Run `grunt` to rebuild `index.html` if you've modified the data or template in `/template`.
+Run `grunt build` to build `offline.html` after you've modified the data in `/data` or templates in `/template`.
 
 
 ## Author
@@ -19,10 +19,11 @@ Thomas Park
 
 ## Credits
 
-First and foremost, thanks to the creators of:
+Thanks to the creators of:
 
 * [Font Awesome](http://fontawesome.io)
 * [Glyphicons](http://glyphicons.com)
+* [IcoMoon](http://icomoon.io/)
 * [Ionicons](http://ionicons.com)
 
 Contributors

@@ -2,8 +2,8 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>GlyphSearch: search for icons from Font Awesome, Glyphicons, and Ionicons</title>
-		<meta name="description" content="Search for icons from Font Awesome, Glyphicons, and Ionicons">
+		<title>GlyphSearch: search for icons from Font Awesome, Glyphicons, IcoMoon and Ionicons</title>
+		<meta name="description" content="Search for icons from Font Awesome, Glyphicons, IcoMoon and Ionicons">
 		<meta name="viewport" content="width=device-width">
 
 		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
@@ -11,17 +11,12 @@
 		<link rel="stylesheet" href="bower_components/ionicons/css/ionicons.css">
 		<link rel="stylesheet" href="bower_components/icomoon/style.css">
 		<link rel="stylesheet" href="css/main.css">
-
-		<!--[if lt IE 9]>
-				<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-				<script>window.html5 || document.write('<script src="js/vendor/html5shiv.js"><\/script>')</script>
-		<![endif]-->
 	</head>
 	<body>
 		<div class="header">
 			<div class="container">
 				<h1>GlyphSearch</h1>
-				<p class="tagline">Search for icons from <a target="_blank" href="http://fontawesome.io/">Font Awesome</a>, <a target="_blank" href="http://glyphicons.com/">Glyphicons</a>, and <a target="_blank" href="http://ionicons.com/">Ionicons</a> <a class="fa fa-info-circle" target="_blank" href="http://thomaspark.me/2013/11/glyphsearch-improving-the-search-for-icon-fonts/"></a></p>
+				<p class="tagline">Search for icons from <a target="_blank" href="http://fontawesome.io/">Font Awesome</a>, <a target="_blank" href="http://glyphicons.com/">Glyphicons</a>, <a target="_blank" href="http://icomoon.io/#icons">IcoMoon</a>, and <a target="_blank" href="http://ionicons.com/">Ionicons</a> <a class="fa fa-info-circle" target="_blank" href="http://thomaspark.me/2013/11/glyphsearch-improving-the-search-for-icon-fonts/"></a></p>
 			</div>
 		</div>
 
@@ -39,8 +34,8 @@
 									<li><a href="#" data-filter="all">All</a></li>
 									<li><a href="#" data-filter="font-awesome">Font Awesome</a></li>
 									<li><a href="#" data-filter="glyphicons">Glyphicons</a></li>
+									<li><a href="#" data-filter="ionicons">IcoMoon</a></li>
 									<li><a href="#" data-filter="ionicons">Ionicons</a></li>
-									<li><a href="#" data-filter="ionicons">Icomoon</a></li>
 								</ul>
 							</span>
 						</div>
@@ -83,6 +78,21 @@
 				{{/each}}
 			</div>
 
+			<div class="section page-header section-icomoon">
+				<h1>IcoMoon</h1>
+			</div>
+			<div class="section row section-icomoon">
+				{{#each icomoon}}
+				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">
+					<div class="thumb">
+						<i class="icomoon icon-{{name}}"></i>
+					</div>
+				<div class="name">{{name}}</div>
+				<div class="tags hidden-xs">{{tags}}</div>
+				</div>
+				{{/each}}
+			</div>
+
 			<div class="section page-header section-ionicons">
 				<h1>Ionicons</h1>
 			</div>
@@ -91,21 +101,6 @@
 				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">
 					<div class="thumb">
 						<i class="ionicons ion-{{name}}"></i>
-					</div>
-				<div class="name">{{name}}</div>
-				<div class="tags hidden-xs">{{tags}}</div>
-				</div>
-				{{/each}}
-			</div>
-
-			<div class="section page-header section-icomoon">
-				<h1>Icomoon</h1>
-			</div>
-			<div class="section row section-icomoon">
-				{{#each icomoon}}
-				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">
-					<div class="thumb">
-						<i class="icomoon icon-{{name}}"></i>
 					</div>
 				<div class="name">{{name}}</div>
 				<div class="tags hidden-xs">{{tags}}</div>
