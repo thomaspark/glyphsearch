@@ -10,6 +10,8 @@ var index = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").
 	$filters = $("#filter a");
 
 function search(v) {
+	v = $.trim(v);
+
 	if ($('#search').data('q') == v) {
 		// do not perform the same query twice, results will not change
 		return;
