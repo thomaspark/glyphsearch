@@ -116,3 +116,9 @@ $.getJSON("./data/batch.json", function(data) {
 	generate(data, allTemplateCompiled, icons);
 	handlers();
 });
+
+ZeroClipboard.setDefaults( { moviePath: 'bower_components/zeroclipboard/ZeroClipboard.swf' } );
+var clip = new ZeroClipboard( $(".entry") );
+clip.on( 'complete', function(client, args) {
+        alert("Copied text to clipboard: " + args.text );
+});

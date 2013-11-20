@@ -53,7 +53,7 @@
 			</div>
 			<div class="section row section-font-awesome">
 				{{#each font-awesome}}
-				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">
+				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4" data-clipboard-text="fa fa-{{name}}">
 					<div class="thumb">
 						<i class="fa fa-{{name}}"></i>
 					</div>
@@ -98,7 +98,7 @@
 			</div>
 			<div class="section row section-ionicons">
 				{{#each ionicons}}
-				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">
+				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4" data-clipboard-text="ionicons ion-{{name}}">
 					<div class="thumb">
 						<i class="ionicons ion-{{name}}"></i>
 					</div>
@@ -120,6 +120,7 @@
 		<script src="bower_components/jquery/jquery.min.js"></script>
 		<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 		<script src="js/vendor/jquery.fastLiveFilter.js"></script>
+		<script src="bower_components/zeroclipboard/ZeroClipboard.min.js"></script>
 		<script src="js/offline.js"></script>
 	</body>
 </html>

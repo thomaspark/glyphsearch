@@ -1,8 +1,9 @@
 var $filters = $("#filter a");
 
-$(".entry").click(function(){
-	var name = $(this).find("i").attr("class");
-	window.prompt ("Copy to clipboard:", name);
+ZeroClipboard.setDefaults( { moviePath: 'bower_components/zeroclipboard/ZeroClipboard.swf' } );
+var clip = new ZeroClipboard( $(".entry") );
+clip.on( 'complete', function(client, args) {
+        alert("Copied text to clipboard: " + args.text );
 });
 
 $("#search")
