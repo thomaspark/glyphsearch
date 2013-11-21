@@ -76,6 +76,10 @@ body {
 	margin-bottom: 0;
 }
 
+#entries .section {
+	position: relative;
+}
+
 .entry {
 	padding: 2em 0.7em 1em;
 	height: 170px;
@@ -84,7 +88,7 @@ body {
 	overflow: hidden;
 }
 
-.zeroclipboard-is-hover {
+.entry:hover, .zeroclipboard-is-hover {
 	background-color: #2c3e50;
 	color: #fff;
 	cursor: pointer;

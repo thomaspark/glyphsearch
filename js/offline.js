@@ -1,10 +1,17 @@
 var $filters = $("#filter a");
 
 ZeroClipboard.setDefaults( { moviePath: 'bower_components/zeroclipboard/ZeroClipboard.swf' } );
-var clip = new ZeroClipboard( $(".entry") );
+var clip = new ZeroClipboard( );
 clip.on( 'complete', function(client, args) {
         alert("Copied text to clipboard: " + args.text );
 });
+clip.on( 'mouseout', function(client, args) {
+    $(".entry").removeClass("zeroclipboard-is-hover");
+});
+clip.on( 'noflash', function ( client, args ) {
+  alert("You don't support flash");
+} );
+clip.glue( $(".entry") , $(".section") );
 
 $("#search")
 	.keyup(function(e) {
