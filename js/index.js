@@ -1,5 +1,5 @@
 var index = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").initIndex('icons'),
-	innerTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">' +
+	innerTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4" data-clipboard-text="fa fa-{{name}}">' +
 		'<div class="description">{{{class}}}</div>' +
 		'<div class="thumb"><i class="{{{class}}}"></i></div>' +
 		'<div class="name">{{{_highlightResult.name.value}}}</div>' +
@@ -7,7 +7,7 @@ var index = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").
 		'<div class="clearfix"></div>' +
 		'</div>',
 	innerTemplateCompiled = Hogan.compile(innerTemplate),
-	allTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">' +
+	allTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4" data-clipboard-text="fa fa-{{name}}">' +
 		'<div class="description">{{{class}}}</div>' +
 		'<div class="thumb"><i class="{{{class}}}"></i></div>' +
 		'<div class="name">{{{name}}}</div>' +
@@ -66,6 +66,8 @@ function load(htmls) {
 	for (var i in htmls) {
 		$('#' + i).html(htmls[i]);
 	}
+	// glue the element with the flash movie for copying
+	clip.glue( $(".entry") );
 }
 
 function handlers() {
@@ -87,11 +89,6 @@ function handlers() {
 
 	$(".search-term").click(function() {
 		$("#search").val($(this).text()).change();
-	});
-
-	$(".section.row").on("click", ".entry", function(){
-		var name = $(this).find(".description").text();
-		window.prompt("Copy to clipboard:", name);
 	});
 
 	$filters.click(function(e){
@@ -117,8 +114,28 @@ $.getJSON("./data/batch.json", function(data) {
 	handlers();
 });
 
-ZeroClipboard.setDefaults( { moviePath: 'bower_components/zeroclipboard/ZeroClipboard.swf' } );
-var clip = new ZeroClipboard( $(".entry") );
-clip.on( 'complete', function(client, args) {
-        alert("Copied text to clipboard: " + args.text );
-});
+ZeroClipboard.setDefaults( { moviePath: "bower_components/zeroclipboard/ZeroClipboard.swf" } );
+var clip = new ZeroClipboard();
+//The complete event is fired when the text is successfully copied to the clipboard.
+clip.on("load",function() {
+	clip.on("complete", function(client, args) {
+		var messages = ["COPIED!", "GOT IT!", "PASTE ME!"];
+		var colors = ["#1abc9c", "#2ecc71", "#9b59b6", "#3498db", "#34495e", "#e74c3c"];
+	    var randomTextNum = Math.floor(Math.random() * messages.length);
+	    var randomColorNum = Math.floor(Math.random() * colors.length);
+	    $(".copied div").html(messages[randomTextNum]);
+	    $(".copied").css("background-color", colors[randomColorNum]).show().find("div").addClass("animateIn");
+	    setTimeout('$(".copied div").removeClass("animateIn").addClass("animateOut");$(".copied").fadeOut(function(){$(".copied div").removeClass("animateOut")})', 700);
+	});
+	//The mouseout event is fired when the user's mouse pointer leaves the Flash movie.
+	clip.on( "mouseout", function(client, args) {
+	    $(".entry").removeClass("zeroclipboard-is-hover");
+	});
+})
+//The noflash event is fired when the user doesn't have flash installed on their system.
+clip.on( "noflash", function ( client, args ) {
+  	$(".section.row").on("click", ".entry", function(){
+		var name = $(this).find(".description").text();
+		window.prompt("Copy to clipboard:", name);
+	});
+} );
