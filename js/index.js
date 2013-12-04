@@ -114,7 +114,7 @@ $.getJSON("./data/batch.json", function(data) {
 	handlers();
 });
 
-ZeroClipboard.setDefaults( { moviePath: "bower_components/zeroclipboard/ZeroClipboard.swf" } );
+ZeroClipboard.setDefaults({ moviePath: "bower_components/zeroclipboard/ZeroClipboard.swf" });
 var clip = new ZeroClipboard();
 //The complete event is fired when the text is successfully copied to the clipboard.
 clip.on("load",function() {
