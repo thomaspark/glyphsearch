@@ -114,7 +114,11 @@ $.getJSON("./data/batch.json", function(data) {
 	handlers();
 });
 
-ZeroClipboard.setDefaults({ moviePath: "bower_components/zeroclipboard/ZeroClipboard.swf" });
+ZeroClipboard.setDefaults({
+	moviePath: "bower_components/zeroclipboard/ZeroClipboard.swf",
+	forceHandCursor: true
+});
+
 var clip = new ZeroClipboard();
 var flashEnabled;
 
