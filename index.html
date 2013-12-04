@@ -1,115 +1,115 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<title>GlyphSearch: search for icons from Font Awesome, Glyphicons, IcoMoon, and Ionicons</title>
-		<meta name="description" content="Search for icons from Font Awesome, Glyphicons, IcoMoon, and Ionicons">
-		<meta name="viewport" content="width=device-width">
+  <head>
+    <meta charset="utf-8">
+    <title>GlyphSearch: search for icons from Font Awesome, Glyphicons, IcoMoon, and Ionicons</title>
+    <meta name="description" content="Search for icons from Font Awesome, Glyphicons, IcoMoon, and Ionicons">
+    <meta name="viewport" content="width=device-width">
 
-		<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
-		<link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
-		<link rel="stylesheet" href="bower_components/ionicons/css/ionicons.css">
-		<link rel="stylesheet" href="bower_components/icomoon/style.css">
-		<link rel="stylesheet" href="css/main.css">
-	</head>
-	<body>
-		<div class="copied">
-			<div>GOT IT!</div>
-		</div>
-		<div class="header">
-			<div class="container">
-				<h1>GlyphSearch</h1>
-				<p class="tagline">Search for icons from <a target="_blank" href="http://fontawesome.io/">Font Awesome</a>, <a target="_blank" href="http://glyphicons.com/">Glyphicons</a>, <a target="_blank" href="http://icomoon.io/#icons">IcoMoon</a>, and <a target="_blank" href="http://ionicons.com/">Ionicons</a> <a class="fa fa-info-circle" target="_blank" href="http://thomaspark.me/2013/11/glyphsearch-improving-the-search-for-icon-fonts/"></a></p>
-			</div>
-			<div class="social hidden-xs">
-				<iframe id="gh-fork" src="http://ghbtns.com/github-btn.html?user=thomaspark&repo=glyphsearch&type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53px" height="20px"></iframe>
-				<iframe id="gh-star" src="http://ghbtns.com/github-btn.html?user=thomaspark&repo=glyphsearch&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110px" height="20px"></iframe>
-				<a href="https://twitter.com/thomashpark" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @thomashpark</a>
-				<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://glyphsearch.com" data-via="thomashpark">Tweet</a>
-			</div>
-		</div>
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="bower_components/ionicons/css/ionicons.css">
+    <link rel="stylesheet" href="bower_components/icomoon/style.css">
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+    <div class="copied">
+      <div>GOT IT!</div>
+    </div>
+    <div class="header">
+      <div class="container">
+        <h1>GlyphSearch</h1>
+        <p class="tagline">Search for icons from <a target="_blank" href="http://fontawesome.io/">Font Awesome</a>, <a target="_blank" href="http://glyphicons.com/">Glyphicons</a>, <a target="_blank" href="http://icomoon.io/#icons">IcoMoon</a>, and <a target="_blank" href="http://ionicons.com/">Ionicons</a> <a class="fa fa-info-circle" target="_blank" href="http://thomaspark.me/2013/11/glyphsearch-improving-the-search-for-icon-fonts/"></a></p>
+      </div>
+      <div class="social hidden-xs">
+        <iframe id="gh-fork" src="http://ghbtns.com/github-btn.html?user=thomaspark&repo=glyphsearch&type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53px" height="20px"></iframe>
+        <iframe id="gh-star" src="http://ghbtns.com/github-btn.html?user=thomaspark&repo=glyphsearch&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110px" height="20px"></iframe>
+        <a href="https://twitter.com/thomashpark" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @thomashpark</a>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://glyphsearch.com" data-via="thomashpark">Tweet</a>
+      </div>
+    </div>
 
-		<div class="search-bar">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-4 col-lg-offset-4">
-						<div class="input-group">
-							<input type="text" id="search" class="form-control" placeholder="Search" autocomplete="off" spellcheck="off" />
-							<span class="input-group-btn">
-								<button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown">
-									<span id="filter-label">All</span> <span class="caret"></span>
-								</button>
-								<ul class="dropdown-menu" role="menu" id="filter">
-									<li><a href="#" data-filter="all">All</a></li>
-									<li><a href="#" data-filter="font-awesome">Font Awesome</a></li>
-									<li><a href="#" data-filter="glyphicons">Glyphicons</a></li>
-									<li><a href="#" data-filter="icomoon">IcoMoon</a></li>
-									<li><a href="#" data-filter="ionicons">Ionicons</a></li>
-								</ul>
-							</span>
-						</div>
-						<span class="help-block">Try searching <a class="search-term">brand</a>, <a class="search-term">currency</a>, <a class="search-term">directional</a>, and <a class="search-term">medical</a></span>
-					</div>
-				</div>
+    <div class="search-bar">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-lg-offset-4">
+            <div class="input-group">
+              <input type="text" id="search" class="form-control" placeholder="Search" autocomplete="off" spellcheck="off" />
+              <span class="input-group-btn">
+                <button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown">
+                  <span id="filter-label">All</span> <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu" id="filter">
+                  <li><a href="#" data-filter="all">All</a></li>
+                  <li><a href="#" data-filter="font-awesome">Font Awesome</a></li>
+                  <li><a href="#" data-filter="glyphicons">Glyphicons</a></li>
+                  <li><a href="#" data-filter="icomoon">IcoMoon</a></li>
+                  <li><a href="#" data-filter="ionicons">Ionicons</a></li>
+                </ul>
+              </span>
+            </div>
+            <span class="help-block">Try searching <a class="search-term">brand</a>, <a class="search-term">currency</a>, <a class="search-term">directional</a>, and <a class="search-term">medical</a></span>
+          </div>
+        </div>
 
-			</div>
-		</div>
+      </div>
+    </div>
 
-		<div class="container" id="entries">
+    <div class="container" id="entries">
 
-			<div class="section page-header section-font-awesome">
-				<h1>Font Awesome</h1>
-			</div>
-			<div class="section row section-font-awesome" id="font-awesome">
-			</div>
+      <div class="section page-header section-font-awesome">
+        <h1>Font Awesome</h1>
+      </div>
+      <div class="section row section-font-awesome" id="font-awesome">
+      </div>
 
-			<div class="section page-header section-glyphicons">
-				<h1>Glyphicons</h1>
-			</div>
-			<div class="section row section-glyphicons" id="glyphicons">
-			</div>
+      <div class="section page-header section-glyphicons">
+        <h1>Glyphicons</h1>
+      </div>
+      <div class="section row section-glyphicons" id="glyphicons">
+      </div>
 
-			<div class="section page-header section-icomoon">
-				<h1>IcoMoon</h1>
-			</div>
-			<div class="section row section-icomoon" id="icomoon">
-			</div>
+      <div class="section page-header section-icomoon">
+        <h1>IcoMoon</h1>
+      </div>
+      <div class="section row section-icomoon" id="icomoon">
+      </div>
 
-			<div class="section page-header section-ionicons">
-				<h1>Ionicons</h1>
-			</div>
-			<div class="section row section-ionicons" id="ionicons">
-			</div>
+      <div class="section page-header section-ionicons">
+        <h1>Ionicons</h1>
+      </div>
+      <div class="section row section-ionicons" id="ionicons">
+      </div>
 
-			<hr>
+      <hr>
 
-			<footer>
-				<p class="text-center">
-					<span>Created by <a target="_blank" href="http://thomaspark.me/">Thomas Park</a></span> &bull; 
-					<span>Powered by <a target="_blank" href="http://www.algolia.com/">Algolia</a></span> &bull; 
-					<span>Theme by <a target="_blank" href="http://bootswatch.com">Bootswatch</a></span>
-				</p>
-			</footer>
+      <footer>
+        <p class="text-center">
+          <span>Created by <a target="_blank" href="http://thomaspark.me/">Thomas Park</a></span> &bull; 
+          <span>Powered by <a target="_blank" href="http://www.algolia.com/">Algolia</a></span> &bull; 
+          <span>Theme by <a target="_blank" href="http://bootswatch.com">Bootswatch</a></span>
+        </p>
+      </footer>
 
-		</div> <!-- /container -->
-		<script src="bower_components/jquery/jquery.min.js"></script>
-		<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-		<script src="bower_components/hogan/web/builds/2.0.0/hogan-2.0.0.min.js"></script>
-		<script src="js/vendor/algoliasearch.min.js"></script>
-		<script src="bower_components/zeroclipboard/ZeroClipboard.min.js"></script>
-		<script src="js/index.js"></script>
-		<script type="text/javascript">
-			!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-		</script>
-		<script>
-			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    </div> <!-- /container -->
+    <script src="bower_components/jquery/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/hogan/web/builds/2.0.0/hogan-2.0.0.min.js"></script>
+    <script src="js/vendor/algoliasearch.min.js"></script>
+    <script src="bower_components/zeroclipboard/ZeroClipboard.min.js"></script>
+    <script src="js/index.js"></script>
+    <script type="text/javascript">
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-			ga('create', 'UA-23019901-8', 'glyphsearch.com');
-			ga('send', 'pageview');
+      ga('create', 'UA-23019901-8', 'glyphsearch.com');
+      ga('send', 'pageview');
 
-		</script>
-	</body>
+    </script>
+  </body>
 </html>
