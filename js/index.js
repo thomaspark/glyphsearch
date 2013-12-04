@@ -15,8 +15,15 @@ var index = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").
     '<div class="clearfix"></div>' +
     '</div>',
   allTemplateCompiled = Hogan.compile(allTemplate),
-  icons = {},
-  flashEnabled = false;
+  icons = {};
+
+ZeroClipboard.setDefaults({
+  moviePath: "bower_components/zeroclipboard/ZeroClipboard.swf",
+  forceHandCursor: true
+});
+
+var clip = new ZeroClipboard(),
+    flashEnabled = false;
 
 function search(v) {
   v = $.trim(v);
@@ -108,13 +115,6 @@ function handlers() {
       $(".section-" + filter).removeClass("hide");
     }
   });
-
-  ZeroClipboard.setDefaults({
-    moviePath: "bower_components/zeroclipboard/ZeroClipboard.swf",
-    forceHandCursor: true
-  });
-
-  var clip = new ZeroClipboard();
 
   clip.on("load", function() {
     flashEnabled = true;
