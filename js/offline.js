@@ -17,6 +17,8 @@ clip.on("load",function() {
 	clip.on( "mouseout", function(client, args) {
 	    $(".entry").removeClass("zeroclipboard-is-hover");
 	});
+	// glue the element with the flash movie for copying
+	clip.glue( $(".entry") );
 })
 //The noflash event is fired when the user doesn't have flash installed on their system.
 clip.on( "noflash", function ( client, args ) {
