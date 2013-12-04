@@ -66,8 +66,6 @@ function load(htmls) {
 	for (var i in htmls) {
 		$('#' + i).html(htmls[i]);
 	}
-	// glue the element with the flash movie for copying
-	clip.glue( $(".entry") );
 }
 
 function handlers() {
@@ -118,6 +116,8 @@ ZeroClipboard.setDefaults({ moviePath: "bower_components/zeroclipboard/ZeroClipb
 var clip = new ZeroClipboard();
 //The complete event is fired when the text is successfully copied to the clipboard.
 clip.on("load",function() {
+	// glue the element with the flash movie for copying
+	clip.glue( $(".entry") );
 	clip.on("complete", function(client, args) {
 		var messages = ["COPIED!", "GOT IT!", "PASTE ME!"];
 		var colors = ["#1abc9c", "#2ecc71", "#9b59b6", "#3498db", "#34495e", "#e74c3c"];
