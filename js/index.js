@@ -66,6 +66,8 @@ function load(htmls) {
 	for (var i in htmls) {
 		$('#' + i).html(htmls[i]);
 	}
+
+	if (flashEnabled) clip.glue($(".entry"));
 }
 
 function handlers() {
@@ -114,8 +116,11 @@ $.getJSON("./data/batch.json", function(data) {
 
 ZeroClipboard.setDefaults({ moviePath: "bower_components/zeroclipboard/ZeroClipboard.swf" });
 var clip = new ZeroClipboard();
+var flashEnabled;
+
 //The complete event is fired when the text is successfully copied to the clipboard.
 clip.on("load",function() {
+	flashEnabled = true;
 	// glue the element with the flash movie for copying
 	clip.glue( $(".entry") );
 	clip.on("complete", function(client, args) {
@@ -134,6 +139,7 @@ clip.on("load",function() {
 })
 //The noflash event is fired when the user doesn't have flash installed on their system.
 clip.on( "noflash", function (client, args) {
+	flashEnabled = false;
   	$(".section.row").on("click", ".entry", function(){
 		var name = $(this).find(".description").text();
 		window.prompt("Copy to clipboard:", name);
