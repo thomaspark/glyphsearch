@@ -133,7 +133,7 @@ clip.on("load",function() {
 	});
 })
 //The noflash event is fired when the user doesn't have flash installed on their system.
-clip.on( "noflash", function ( client, args ) {
+clip.on( "noflash", function (client, args) {
   	$(".section.row").on("click", ".entry", function(){
 		var name = $(this).find(".description").text();
 		window.prompt("Copy to clipboard:", name);
