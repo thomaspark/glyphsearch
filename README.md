@@ -26,6 +26,4 @@ Thanks to the creators of:
 * [IcoMoon](http://icomoon.io/)
 * [Ionicons](http://ionicons.com)
 
-Contributors
-
-* [Sylvain Utard](http://github.com/redox)
+And the [contributors](https://github.com/thomaspark/glyphsearch/graphs/contributors).
