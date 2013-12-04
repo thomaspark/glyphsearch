@@ -13,6 +13,9 @@
 		<link rel="stylesheet" href="css/main.css">
 	</head>
 	<body>
+		<div class="copied">
+			<div>GOT IT!</div>
+		</div>
 		<div class="header">
 			<div class="container">
 				<h1>GlyphSearch</h1>
@@ -81,9 +84,11 @@
 			<hr>
 
 			<footer>
-				<p>Created by <a target="_blank" href="http://thomaspark.me/">Thomas Park</a></p>
-				<p>Powered by <a target="_blank" href="http://www.algolia.com/">Algolia</a></p>
-				<p>Theme by <a target="_blank" href="http://bootswatch.com">Bootswatch</a></p>
+				<p class="text-center">
+					<span>Created by <a target="_blank" href="http://thomaspark.me/">Thomas Park</a></span> &bull; 
+					<span>Powered by <a target="_blank" href="http://www.algolia.com/">Algolia</a></span> &bull; 
+					<span>Theme by <a target="_blank" href="http://bootswatch.com">Bootswatch</a></span>
+				</p>
 			</footer>
 
 		</div> <!-- /container -->
@@ -91,6 +96,7 @@
 		<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 		<script src="bower_components/hogan/web/builds/2.0.0/hogan-2.0.0.min.js"></script>
 		<script src="js/vendor/algoliasearch.min.js"></script>
+		<script src="bower_components/zeroclipboard/ZeroClipboard.min.js"></script>
 		<script src="js/index.js"></script>
 		<script type="text/javascript">
 			!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");

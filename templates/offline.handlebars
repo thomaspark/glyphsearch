@@ -13,6 +13,9 @@
 		<link rel="stylesheet" href="css/main.css">
 	</head>
 	<body>
+		<div class="copied">
+			<div>GOT IT!</div>
+		</div>
 		<div class="header">
 			<div class="container">
 				<h1>GlyphSearch</h1>
@@ -53,7 +56,7 @@
 			</div>
 			<div class="section row section-font-awesome">
 				{{#each font-awesome}}
-				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">
+				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4" data-clipboard-text="fa fa-{{name}}">
 					<div class="thumb">
 						<i class="fa fa-{{name}}"></i>
 					</div>
@@ -68,7 +71,7 @@
 			</div>
 			<div class="section row section-glyphicons">
 				{{#each glyphicons}}
-				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">
+				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4" data-clipboard-text="glyphicon glyphicon-{{name}}">
 					<div class="thumb">
 						<i class="glyphicon glyphicon-{{name}}"></i>
 					</div>
@@ -83,7 +86,7 @@
 			</div>
 			<div class="section row section-icomoon">
 				{{#each icomoon}}
-				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">
+				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4" data-clipboard-text="icomoon icon-{{name}}">
 					<div class="thumb">
 						<i class="icomoon icon-{{name}}"></i>
 					</div>
@@ -98,7 +101,7 @@
 			</div>
 			<div class="section row section-ionicons">
 				{{#each ionicons}}
-				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4">
+				<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4" data-clipboard-text="ionicons ion-{{name}}">
 					<div class="thumb">
 						<i class="ionicons ion-{{name}}"></i>
 					</div>
@@ -111,15 +114,18 @@
 			<hr>
 
 			<footer>
-				<p>Created by <a target="_blank" href="http://thomaspark.me/">Thomas Park</a></p>
-				<p>Powered by <a target="_blank" href="http://www.algolia.com/">Algolia</a></p>
-				<p>Theme by <a target="_blank" href="http://bootswatch.com">Bootswatch</a></p>
+				<p class="text-center">
+					<span>Created by <a target="_blank" href="http://thomaspark.me/">Thomas Park</a></span> &bull; 
+					<span>Powered by <a target="_blank" href="http://www.algolia.com/">Algolia</a></span> &bull; 
+					<span>Theme by <a target="_blank" href="http://bootswatch.com">Bootswatch</a></span>
+				</p>
 			</footer>
 
 		</div> <!-- /container -->
 		<script src="bower_components/jquery/jquery.min.js"></script>
 		<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 		<script src="js/vendor/jquery.fastLiveFilter.js"></script>
+		<script src="bower_components/zeroclipboard/ZeroClipboard.min.js"></script>
 		<script src="js/offline.js"></script>
 	</body>
 </html>
