@@ -86,11 +86,11 @@ body {
   text-align: center;
   word-wrap: break-word;
   overflow: hidden;
-  -webkit-transition: background-color 200ms;
-  -moz-transition: background-color 200ms;
-  -ms-transition: background-color 200ms;
-  -o-transition: background-color 200ms;
-  transition: background-color 200ms;
+  -webkit-transition: all 200ms;
+  -moz-transition: all 200ms;
+  -ms-transition: all 200ms;
+  -o-transition: all 200ms;
+  transition: all 200ms;
 }
 
 .zeroclipboard-is-hover {
