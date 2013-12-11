@@ -906,7 +906,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "female",
-    "tags": "gender, sex, person,  user",
+    "tags": "gender, sex, person, user",
     "class": "fa fa-female"
   },
   

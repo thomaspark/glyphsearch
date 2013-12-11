@@ -43,12 +43,14 @@ ZeroClipboard.setDefaults({
 var clip = new ZeroClipboard();
 
 clip.on("load", function() {
-  clip.on("complete", function() {
+  clip.on("complete", function(client, args) {
     var messages = ["COPIED!", "GOT IT!", "PASTE ME!"];
     var colors = ["#1abc9c", "#2ecc71", "#9b59b6", "#3498db", "#34495e", "#e74c3c"];
     var randomTextNum = Math.floor(Math.random() * messages.length);
     var randomColorNum = Math.floor(Math.random() * colors.length);
     $(".copied div").html(messages[randomTextNum]);
+    $("#big-icon").removeClass();
+    $("#big-icon").addClass(args.text);
     $(".copied").css("background-color", colors[randomColorNum]).show().find("div").addClass("animateIn");
     setTimeout('$(".copied div").removeClass("animateIn").addClass("animateOut");$(".copied").fadeOut(function(){$(".copied div").removeClass("animateOut")})', 700);
   });
