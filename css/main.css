@@ -169,7 +169,7 @@ footer p {
   font-weight: 200;
     font-size: 100px;
     color: #ecf0f1;
-    margin-top: 300px;
+    margin-top: 400px;
     text-shadow: 2px 2px #2c3e50;
     background: rgba(255, 255, 255, 0.4);
     padding: 30px 0;
@@ -280,4 +280,15 @@ footer p {
         transform: scale(1);
         opacity: 1;
     }
+}
+
+#big-icon {
+  position: absolute;
+  top: 20%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  color: rgba(255,255,255,0.4);
+  font-size: 15em;
+  z-index: -1;
 }
