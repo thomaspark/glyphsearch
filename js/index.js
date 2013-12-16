@@ -1,5 +1,5 @@
 var index = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").initIndex('icons'),
-  innerTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4" data-clipboard-text="fa fa-{{name}}">' +
+  innerTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4" data-clipboard-text="{{{class}}}">' +
     '<div class="description">{{{class}}}</div>' +
     '<div class="thumb"><i class="{{{class}}}"></i></div>' +
     '<div class="name">{{{_highlightResult.name.value}}}</div>' +
@@ -7,7 +7,7 @@ var index = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").
     '<div class="clearfix"></div>' +
     '</div>',
   innerTemplateCompiled = Hogan.compile(innerTemplate),
-  allTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4" data-clipboard-text="fa fa-{{name}}">' +
+  allTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4" data-clipboard-text="{{{class}}}">' +
     '<div class="description">{{{class}}}</div>' +
     '<div class="thumb"><i class="{{{class}}}"></i></div>' +
     '<div class="name">{{{name}}}</div>' +
