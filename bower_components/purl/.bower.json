@@ -1,0 +1,28 @@
+{
+  "author": "allmarkedup",
+  "name": "purl",
+  "version": "2.3.1",
+  "description": "An AMD compatible utility to parse urls and provide easy access to their attributes (such as the protocol, host, port etc), path segments, querystring parameters, fragment parameters and more.",
+  "main": "purl.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allmarkedup/purl"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/allmarkedup/purl/blob/master/LICENSE"
+    }
+  ],
+  "homepage": "https://github.com/allmarkedup/purl",
+  "_release": "2.3.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.3.1",
+    "commit": "24b9f33becd855e1c42895583e3f42799a06fdda"
+  },
+  "_source": "git://github.com/allmarkedup/purl.git",
+  "_target": "~2.3.1",
+  "_originalSource": "purl",
+  "_direct": true
+}

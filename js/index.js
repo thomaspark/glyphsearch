@@ -15,7 +15,9 @@ var index = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").
     '<div class="clearfix"></div>' +
     '</div>',
   allTemplateCompiled = Hogan.compile(allTemplate),
-  icons = {};
+  icons = {},
+  $filters = $("#filter a"),
+  qs = $.url().param();
 
 ZeroClipboard.setDefaults({
   moviePath: "bower_components/zeroclipboard/ZeroClipboard.swf",
@@ -24,6 +26,37 @@ ZeroClipboard.setDefaults({
 
 var clip = new ZeroClipboard(),
     flashEnabled = false;
+
+function doFilter(filter){
+  var qs = $.url().param();
+  qs.library = filter;
+  history.replaceState(null, "GlyphSearch", "?" + $.param(qs));
+  var libraryItem = $("ul").find("[data-filter='" + filter + "']");
+  $filters.removeClass("active");
+  libraryItem.addClass("active");
+  $("#filter-label").text(libraryItem.text());
+
+  if (filter == "all") {
+    $(".section").removeClass("hide");
+    return;
+  } else {
+    $(".section").addClass("hide");
+    $(".section-" + filter).removeClass("hide");
+  }
+}
+
+function doQuery(){
+  var qs = $.url().param(),
+      query = $("#search").val();
+
+  if (query.length > 0) {
+    qs.query = query;
+  } else {
+    delete qs.query;
+  }
+
+  history.replaceState(null, "GlyphSearch", "?" + $.param(qs));
+}
 
 function search(v) {
   v = $.trim(v);
@@ -46,6 +79,7 @@ function search(v) {
 
     }, {hitsPerPage: 1000});
   }
+  doQuery();
 }
 
 function generate(data, template, output) {
@@ -95,25 +129,15 @@ function handlers() {
     $(this).attr("placeholder", "Search");
   });
 
-  $(".search-term").click(function() {
-    $("#search").val($(this).text()).change();
+  $(".search-term").click(function(){
+    $("#search").val($(this).text()).focus().change();
+    doQuery();
   });
 
   $filters.click(function(e){
     e.preventDefault();
     var filter = $(this).attr("data-filter");
-
-    $filters.removeClass("active");
-    $(this).addClass("active");
-    $("#filter-label").text($(this).text());
-
-    if (filter == "all"){
-      $(".section").removeClass("hide");
-      return;
-    } else {
-      $(".section").addClass("hide");
-      $(".section-" + filter).removeClass("hide");
-    }
+    doFilter(filter);
   });
 
   clip.on("load", function() {
@@ -149,4 +173,10 @@ function handlers() {
 $.getJSON("./data/batch.json", function(data) {
   generate(data, allTemplateCompiled, icons);
   handlers();
+  if(qs.library) {
+    doFilter(qs.library);
+  }
+  if(qs.query) {
+    $("#search").val(qs.query).change();
+  }
 });

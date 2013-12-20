@@ -1,10 +1,43 @@
 var $filters = $("#filter a");
+var qs = $.url().param();
+
+function doFilter(filter){
+  var qs = $.url().param();
+  qs.library = filter;
+  history.replaceState(null, "GlyphSearch", "?" + $.param(qs));
+  var libraryItem = $("ul").find("[data-filter='" + filter + "']");
+  $filters.removeClass("active");
+  libraryItem.addClass("active");
+  $("#filter-label").text(libraryItem.text());
+
+  if (filter == "all") {
+    $(".section").removeClass("hide");
+    return;
+  } else {
+    $(".section").addClass("hide");
+    $(".section-" + filter).removeClass("hide");
+  }
+}
+
+function doQuery(){
+  var qs = $.url().param(),
+      query = $("#search").val();
+
+  if (query.length > 0) {
+    qs.query = query;
+  } else {
+    delete qs.query;
+  }
+
+  history.replaceState(null, "GlyphSearch", "?" + $.param(qs));
+}
 
 $("#search")
   .keyup(function(e) {
     if (e.keyCode == 27) {
       $(this).val("").change();
     }
+    doQuery();
   })
   .focus(function(){
     $(this).attr("placeholder", "");
@@ -16,23 +49,14 @@ $("#search")
 
 $(".search-term").click(function(){
   $("#search").val($(this).text()).focus().change();
+  doQuery();
 });
+
 
 $filters.click(function(e){
   e.preventDefault();
   var filter = $(this).attr("data-filter");
-
-  $filters.removeClass("active");
-  $(this).addClass("active");
-  $("#filter-label").text($(this).text());
-
-  if (filter == "all"){
-    $(".section").removeClass("hide");
-    return;
-  } else {
-    $(".section").addClass("hide");
-    $(".section-" + filter).removeClass("hide");
-  }
+  doFilter(filter);
 });
 
 ZeroClipboard.setDefaults({
@@ -67,4 +91,13 @@ clip.on( "noflash", function() {
     var name = $(this).find(".description").text();
     window.prompt("Copy to clipboard:", name);
   });
+});
+
+$(function() {
+  if (qs.library) {
+    doFilter(qs.library);
+  }
+  if (qs.query) {
+    $("#search").val(qs.query).change();
+  }
 });
