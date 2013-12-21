@@ -109,6 +109,7 @@ function load(htmls) {
     $('#' + i).html(htmls[i]);
   }
 
+  $(".entry").addClass("loaded");
   if (flashEnabled) clip.glue($(".entry"));
 }
 
@@ -171,8 +172,10 @@ function handlers() {
 }
 
 $.getJSON("./data/batch.json", function(data) {
-  generate(data, allTemplateCompiled, icons);
   handlers();
+  if(!qs.library && !qs.query) {
+    generate(data, allTemplateCompiled, icons);
+  }
   if(qs.library) {
     doFilter(qs.library);
   }

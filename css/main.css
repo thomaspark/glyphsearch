@@ -91,6 +91,15 @@ body {
   -ms-transition: all 200ms;
   -o-transition: all 200ms;
   transition: all 200ms;
+  opacity: 0;
+}
+
+.entry.loaded {
+  -webkit-animation: copiedKeyFrames 0.3s ease-in forwards;
+  -moz-animation: copiedKeyFrames 0.3s ease-in forwards;
+  -ms-animation: copiedKeyFrames 0.3s ease-in forwards;
+  -o-animation: copiedKeyFrames 0.3s ease-in forwards;
+  animation: copiedKeyFrames 0.3s ease-in forwards;
 }
 
 .zeroclipboard-is-hover {
