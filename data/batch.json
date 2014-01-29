@@ -1501,7 +1501,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "map-marker",
-    "tags": "",
+    "tags": "location",
     "class": "fa fa-map-marker"
   },
   
@@ -3281,7 +3281,7 @@
   {
     "_tags": ["glyphicons"],
     "name": "map-marker",
-    "tags": "",
+    "tags": "location",
     "class": "glyphicon glyphicon-map-marker"
   },
   
@@ -4403,7 +4403,7 @@
   {
     "_tags": ["ionicons"],
     "name": "compass",
-    "tags": "directions, map, navigation",
+    "tags": "directions, map, navigation, location",
     "class": "ionicons ion-compass"
   },
   
@@ -4851,7 +4851,7 @@
   {
     "_tags": ["ionicons"],
     "name": "map",
-    "tags": "",
+    "tags": "location",
     "class": "ionicons ion-map"
   },
   
@@ -6468,14 +6468,14 @@
   {
     "_tags": ["ionicons"],
     "name": "ios7-navigate",
-    "tags": "map",
+    "tags": "map, location",
     "class": "ionicons ion-ios7-navigate"
   },
   
   {
     "_tags": ["ionicons"],
     "name": "ios7-navigate-outline",
-    "tags": "map",
+    "tags": "map, location",
     "class": "ionicons ion-ios7-navigate-outline"
   },
   
@@ -7660,7 +7660,7 @@
   {
     "_tags": ["icomoon"],
     "name": "compass",
-    "tags": "directions, map, navigation",
+    "tags": "directions, map, navigation, location",
     "class": "icomoon icon-compass"
   },
   
@@ -8815,14 +8815,14 @@
   {
     "_tags": ["icomoon"],
     "name": "map",
-    "tags": "",
+    "tags": "location",
     "class": "icomoon icon-map"
   },
   
   {
     "_tags": ["icomoon"],
     "name": "map-2",
-    "tags": "",
+    "tags": "location",
     "class": "icomoon icon-map-2"
   },
   

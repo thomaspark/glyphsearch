@@ -815,7 +815,8 @@
       "tags": "gender, sex, person, user"
     },
     {
-      "name": "map-marker"
+      "name": "map-marker",
+      "tags": "location"
     },
     {
       "name": "maxcdn",
@@ -1762,7 +1763,8 @@
       "name": "magnet"
     },
     {
-      "name": "map-marker"
+      "name": "map-marker",
+      "tags": "location"
     },
     {
       "name": "minus"
@@ -2348,7 +2350,7 @@
     },
     {
       "name": "compass",
-      "tags": "directions, map, navigation"
+      "tags": "directions, map, navigation, location"
     },
     {
       "name": "compose",
@@ -2581,7 +2583,8 @@
       "tags": "gender, sex, user, person"
     },
     {
-      "name": "map"
+      "name": "map",
+      "tags": "location"
     },
     {
       "name": "medkit",
@@ -3438,11 +3441,11 @@
     },
     {
       "name": "ios7-navigate",
-      "tags": "map"
+      "tags": "map, location"
     },
     {
       "name": "ios7-navigate-outline",
-      "tags": "map"
+      "tags": "map, location"
     },
     {
       "name": "ios7-paperplane",
@@ -4110,7 +4113,7 @@
     },
     {
       "name": "compass",
-      "tags": "directions, map, navigation"
+      "tags": "directions, map, navigation, location"
     },
     {
       "name": "confused",
@@ -4770,11 +4773,11 @@
     },
     {
       "name": "map",
-      "tags": ""
+      "tags": "location"
     },
     {
       "name": "map-2",
-      "tags": ""
+      "tags": "location"
     },
     {
       "name": "menu",
