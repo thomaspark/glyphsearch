@@ -2299,21 +2299,21 @@
   {
     "_tags": ["font-awesome"],
     "name": "times",
-    "tags": "",
+    "tags": "close",
     "class": "fa fa-times"
   },
   
   {
     "_tags": ["font-awesome"],
     "name": "times-circle",
-    "tags": "",
+    "tags": "close",
     "class": "fa fa-times-circle"
   },
   
   {
     "_tags": ["font-awesome"],
     "name": "times-circle-o",
-    "tags": "",
+    "tags": "close",
     "class": "fa fa-times-circle-o"
   },
   
