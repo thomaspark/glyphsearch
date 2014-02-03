@@ -1233,13 +1233,16 @@
       "tags": "film, movie, admission"
     },
     {
-      "name": "times"
+      "name": "times",
+      "tags": "close"
     },
     {
-      "name": "times-circle"
+      "name": "times-circle",
+      "tags": "close"
     },
     {
-      "name": "times-circle-o"
+      "name": "times-circle-o",
+      "tags": "close"
     },
     {
       "name": "tint"
