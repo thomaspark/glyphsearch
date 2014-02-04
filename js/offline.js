@@ -100,4 +100,5 @@ $(function() {
   if (qs.query) {
     $("#search").val(qs.query).change();
   }
+  $(".entry").addClass("loaded");
 });
