@@ -8,9 +8,12 @@
   "license": "MIT",
   "dependencies": {
     "bootstrap": "~3.0.2",
+    "bootswatch": "~3.1.1",
     "font-awesome": "~4.0.3",
-    "ionicons": "~1.3.3",
+    "hogan": "~3.0.0",
     "icomoon": "~0.0.1",
-    "hogan": "~3.0.0"
+    "ionicons": "~1.3.3",
+    "purl": "~2.3.1",
+    "zeroclipboard": "~1.2.3"
   }
 }
