@@ -2,97 +2,127 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>GlyphSearch: search for icons from Font Awesome, Glyphicons, IcoMoon, and Ionicons</title>
+    <title>GlyphSearch: Search for icons from Font Awesome, Glyphicons, IcoMoon, and Ionicons</title>
     <meta name="description" content="Search for icons from Font Awesome, Glyphicons, IcoMoon, and Ionicons">
     <meta name="viewport" content="width=device-width">
 
-    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bower_components/bootswatch/flatly/bootstrap.min.css">
     <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="bower_components/ionicons/css/ionicons.css">
     <link rel="stylesheet" href="bower_components/icomoon/style.css">
     <link rel="stylesheet" href="css/main.css">
   </head>
   <body>
-    <div class="copied">
-      <i id="big-icon"></i>
-      <div>GOT IT!</div>
-    </div>
-    <div class="header">
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <div class="navbar navbar-default navbar-fixed-top">
       <div class="container">
-        <h1>GlyphSearch</h1>
-        <p class="tagline">Search for icons from <a target="_blank" href="http://fontawesome.io/">Font Awesome</a>, <a target="_blank" href="http://glyphicons.com/">Glyphicons</a>, <a target="_blank" href="http://icomoon.io/#icons">IcoMoon</a>, and <a target="_blank" href="http://ionicons.com/">Ionicons</a> <a class="fa fa-info-circle" target="_blank" href="http://thomaspark.me/2013/11/glyphsearch-improving-the-search-for-icon-fonts/"></a></p>
-      </div>
-      <div class="social hidden-xs">
-        <iframe id="gh-fork" src="http://ghbtns.com/github-btn.html?user=thomaspark&repo=glyphsearch&type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53px" height="20px"></iframe>
-        <iframe id="gh-star" src="http://ghbtns.com/github-btn.html?user=thomaspark&repo=glyphsearch&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110px" height="20px"></iframe>
-        <a href="https://twitter.com/thomashpark" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @thomashpark</a>
-        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://glyphsearch.com" data-via="thomashpark">Tweet</a>
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="./">GlyphSearch</a>
+        </div>
+        <div class="navbar-collapse collapse navbar-responsive-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="#" data-toggle="modal" data-target="#about">About</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+              <iframe id="gh-star" src="http://ghbtns.com/github-btn.html?user=thomaspark&repo=glyphsearch&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="105px" height="20px"></iframe>
+              <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://glyphsearch.com" data-via="thomashpark">Tweet</a>
+              <div class="fb-like" data-href="http://glyphsearch.com" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
 
     <div class="search-bar">
       <div class="container">
         <div class="row">
-          <div class="col-lg-4 col-lg-offset-4">
-            <div class="input-group">
-              <input type="text" id="search" class="form-control" placeholder="Search" autocomplete="off" spellcheck="off" />
-              <span class="input-group-btn">
-                <button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown">
-                  <span id="filter-label">All</span> <span class="caret"></span>
-                </button>
-                <ul class="dropdown-menu" role="menu" id="filter">
-                  <li><a href="#" data-filter="all">All</a></li>
-                  <li><a href="#" data-filter="font-awesome">Font Awesome</a></li>
-                  <li><a href="#" data-filter="glyphicons">Glyphicons</a></li>
-                  <li><a href="#" data-filter="icomoon">IcoMoon</a></li>
-                  <li><a href="#" data-filter="ionicons">Ionicons</a></li>
-                </ul>
-              </span>
+          <div class="col-lg-6 col-lg-offset-3">
+            <input type="text" id="search" class="form-control" placeholder="Search">
+          </div>
+          <div class="col-lg-6 col-lg-offset-3">
+            <div id="libraries" class="btn-group">
+              <button type="button" class="btn btn-primary btn-sm active" data-library="all">All</button>
+              <button type="button" class="btn btn-primary btn-sm" data-library="font-awesome">Font Awesome</button>
+              <button type="button" class="btn btn-primary btn-sm" data-library="glyphicons">Glyphicons</button>
+              <button type="button" class="btn btn-primary btn-sm" data-library="icomoon">IcoMoon</button>
+              <button type="button" class="btn btn-primary btn-sm" data-library="ionicons">Ionicons</button>
             </div>
-            <span class="help-block">Try searching <a class="search-term">brand</a>, <a class="search-term">currency</a>, <a class="search-term">directional</a>, and <a class="search-term">medical</a></span>
           </div>
         </div>
-
       </div>
     </div>
 
-    <div class="container" id="entries">
+    <div class="container">
 
-      <div class="section page-header section-font-awesome">
-        <h1>Font Awesome</h1>
-      </div>
-      <div class="section row section-font-awesome" id="font-awesome">
-      </div>
-
-      <div class="section page-header section-glyphicons">
-        <h1>Glyphicons</h1>
-      </div>
-      <div class="section row section-glyphicons" id="glyphicons">
+      <div id="font-awesome" class="section clearfix">
+        <div class="header">
+          <h1>Font Awesome</h1>
+        </div>
+        <div class="icons">
+        </div>
       </div>
 
-      <div class="section page-header section-icomoon">
-        <h1>IcoMoon</h1>
-      </div>
-      <div class="section row section-icomoon" id="icomoon">
-      </div>
-
-      <div class="section page-header section-ionicons">
-        <h1>Ionicons</h1>
-      </div>
-      <div class="section row section-ionicons" id="ionicons">
+      <div id="glyphicons" class="section clearfix">
+        <div class="header">
+          <h1>Glyphicons</h1>
+        </div>
+        <div class="icons">
+        </div>
       </div>
 
-      <hr>
+      <div id="icomoon" class="section clearfix">
+        <div class="header">
+          <h1>IcoMoon</h1>
+        </div>
+        <div class="icons">
+        </div>
+      </div>
 
-      <footer>
-        <p class="text-center">
-          <span>Created by <a target="_blank" href="http://thomaspark.me/">Thomas Park</a></span> &bull; 
-          <span>Powered by <a target="_blank" href="http://www.algolia.com/">Algolia</a></span> &bull; 
-          <span>Theme by <a target="_blank" href="http://bootswatch.com">Bootswatch</a></span>
-        </p>
-      </footer>
+      <div id="ionicons" class="section clearfix">
+        <div class="header">
+          <h1>Ionicons</h1>
+        </div>
+        <div class="icons">
+        </div>
+      </div>
 
-    </div> <!-- /container -->
+    </div>
+
+    <div id="about" class="modal fade">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title">About GlyphSearch</h4>
+          </div>
+          <div class="modal-body">
+            <p class="tagline">Search for icons from <a target="_blank" href="http://fontawesome.io/">Font Awesome</a>, <a target="_blank" href="http://glyphicons.com/">Glyphicons</a>, <a target="_blank" href="http://icomoon.io/#icons">IcoMoon</a>, and <a target="_blank" href="http://ionicons.com/">Ionicons</a>.</p>
+            <p>Created by <a target="_blank" href="http://thomaspark.me/">Thomas Park</a>. Powered by <a target="_blank" href="http://www.algolia.com/">Algolia</a>. Theme by <a target="_blank" href="http://bootswatch.com">Bootswatch</a>.</p>
+            <p>More information about GlyphSearch <a href="http://thomaspark.me/2013/11/glyphsearch-improving-the-search-for-icon-fonts/">here</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="copied">
+      <i id="big-icon"></i>
+      <div>Copied!</div>
+    </div>
+
     <script src="bower_components/jquery/jquery.min.js"></script>
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="bower_components/hogan/web/builds/2.0.0/hogan-2.0.0.min.js"></script>

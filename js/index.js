@@ -16,7 +16,7 @@ var index = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").
     '</div>',
   allTemplateCompiled = Hogan.compile(allTemplate),
   icons = {},
-  $filters = $("#filter a"),
+  $libraries = $("#libraries > button"),
   qs = $.url().param();
 
 ZeroClipboard.setDefaults({
@@ -27,25 +27,23 @@ ZeroClipboard.setDefaults({
 var clip = new ZeroClipboard(),
     flashEnabled = false;
 
-function doFilter(filter){
+function setLibrary(library) {
   var qs = $.url().param();
-  qs.library = filter;
+  qs.library = library;
   history.replaceState(null, "GlyphSearch", "?" + $.param(qs));
-  var libraryItem = $("ul").find("[data-filter='" + filter + "']");
-  $filters.removeClass("active");
-  libraryItem.addClass("active");
-  $("#filter-label").text(libraryItem.text());
+  $libraries.removeClass("active");
+  $("[data-library='" + library + "']").addClass("active");
 
-  if (filter == "all") {
+  if (library == "all") {
     $(".section").removeClass("hide");
     return;
   } else {
     $(".section").addClass("hide");
-    $(".section-" + filter).removeClass("hide");
+    $(".section#" + library).removeClass("hide");
   }
 }
 
-function doQuery(){
+function doQuery() {
   var qs = $.url().param(),
       query = $("#search").val();
 
@@ -85,7 +83,7 @@ function search(v) {
 function generate(data, template, output) {
   data.forEach(function(v, i){
     var lib,
-      html;
+        html;
 
     if (v.name) {
       lib = v._tags[0];
@@ -103,17 +101,18 @@ function generate(data, template, output) {
 }
 
 function load(htmls) {
-  $('.section.row').empty();
+  $('.header').hide();
+  $('.icons').empty();
 
   for (var i in htmls) {
-    $('#' + i).html(htmls[i]);
+    $('#' + i + ' .icons').html(htmls[i]).prev().show();
   }
 
   if (flashEnabled) clip.glue($(".entry"));
 }
 
 function handlers() {
-  var $filters = $("#filter a");
+  var $libraries = $("#libraries > button");
 
   $('#search').change(function() {
     search($(this).val());
@@ -129,29 +128,18 @@ function handlers() {
     $(this).attr("placeholder", "Search");
   });
 
-  $(".search-term").click(function(){
-    $("#search").val($(this).text()).focus().change();
-    doQuery();
-  });
-
-  $filters.click(function(e){
+  $libraries.click(function(e){
     e.preventDefault();
-    var filter = $(this).attr("data-filter");
-    doFilter(filter);
+    var library = $(this).attr("data-library");
+    setLibrary(library);
   });
 
   clip.on("load", function() {
     flashEnabled = true;
 
     clip.on("complete", function(client, args) {
-      var messages = ["COPIED!", "GOT IT!", "PASTE ME!"];
-      var colors = ["#1abc9c", "#2ecc71", "#9b59b6", "#3498db", "#34495e", "#e74c3c"];
-      var randomTextNum = Math.floor(Math.random() * messages.length);
-      var randomColorNum = Math.floor(Math.random() * colors.length);
-      $(".copied div").html(messages[randomTextNum]);
-      $("#big-icon").removeClass();
-      $("#big-icon").addClass(args.text);
-      $(".copied").css("background-color", colors[randomColorNum]).show().find("div").addClass("animateIn");
+      $("#big-icon").removeClass().addClass(args.text);
+      $(".copied").show().find("div").addClass("animateIn");
       setTimeout('$(".copied div").removeClass("animateIn").addClass("animateOut");$(".copied").fadeOut(function(){$(".copied div").removeClass("animateOut")})', 700);
     });
 
@@ -174,7 +162,7 @@ $.getJSON("./data/batch.json", function(data) {
   generate(data, allTemplateCompiled, icons);
   handlers();
   if(qs.library) {
-    doFilter(qs.library);
+    setLibrary(qs.library);
   }
   if(qs.query) {
     $("#search").val(qs.query).change();

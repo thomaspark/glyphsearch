@@ -3,81 +3,52 @@
    ========================================================================== */
 
 body {
+  padding-top: 61px;
   padding-bottom: 6em;
 }
 
+.navbar {
+  max-height: 61px;
+  overflow: hidden;
+}
+
+.navbar-fixed-top {
+  position: absolute;
+}
+
+.navbar-right li {
+  padding-top: 19px;
+}
+
+.fb_iframe_widget span {
+  width: 90px !important;
+  height: 25px !important;
+}
+
+.search-bar {
+  padding: 1em 0;
+  margin-bottom: 2em;
+  background-color: #ECF0F1;
+  text-align: center;
+}
+
+#search {
+  position: relative;
+  margin-bottom: 0.5em;
+}
+
+.section {
+  margin-bottom: 2em;
+}
+
 .header {
-  padding: 1em 0 2em;
-  background-color: #1c2533;
-  background: -webkit-linear-gradient(70deg,#080f1f 30%,#2b4b5a 87%,#435e67 100%);
-  background: -o-linear-gradient(70deg,#080f1f 30%,#2b4b5a 87%,#435e67 100%);
-  background: -ms-linear-gradient(70deg,#080f1f 30%,#2b4b5a 87%,#435e67 100%);
-  background: -moz-linear-gradient(70deg,#080f1f 30%,#2b4b5a 87%,#435e67 100%);
-  background: linear-gradient(20deg,#080f1f 30%,#2b4b5a 87%,#435e67 100%);
-  background-attachment: fixed;
-  color: #fff;
+  margin: 1em 0;
+  border: none;
   text-align: center;
 }
 
 .header h1 {
-  font-size: 60px;
-}
-
-.header a {
-  color: #fff;
-}
-
-.tagline .fa {
-  margin-left: 0.5em;
-}
-
-.tagline .fa:hover {
-  text-decoration: none;
-}
-
-.social {
-  margin-top: 1em;
-}
-
-.twitter-share-button {
-  width: 90px !important;
-}
-
-.search-bar {
-  padding: 3em 0 2em;
-  margin-bottom: 2em;
-  background-color: #ECF0F1;
-}
-
-#search {
-  border-color: #18bc9c;
-  text-align: left;
-}
-
-.dropdown-menu {
-  left: auto;
-  right: 0;
-}
-
-.help-block {
-  font-size: 13px;
-  text-align: center;
-}
-
-.search-term {
-  cursor: pointer;
-}
-
-.page-header {
-  margin: 21px 0 0;
-}
-
-.page-header h1 {
   margin-bottom: 0;
-}
-
-#entries .section {
-  position: relative;
 }
 
 .entry {
@@ -134,10 +105,6 @@ footer p {
     font-size: 18px;
   }
 
-  .tagline {
-    font-size: 12px;
-  }
-
   .search-bar {
     padding: 2em 0 1em;
   }
@@ -156,23 +123,21 @@ footer p {
     width: 140%;
     height: 100%;
     text-align: center;
-    z-index: 200;
-    top: 0px;
+    z-index: 1040;
+    top: 0;
     left: -20%;
     display: none;
     opacity: 1;
-    background: #3498db;
+    background-color: #34495e;
 }
 
 .copied div {
-  font-family: "Lato";
   font-weight: 200;
-    font-size: 100px;
-    color: #ecf0f1;
-    margin-top: 400px;
-    text-shadow: 2px 2px #2c3e50;
-    background: rgba(255, 255, 255, 0.4);
-    padding: 30px 0;
+  font-size: 100px;
+  color: #ecf0f1;
+  margin-top: 400px;
+  background: rgba(255, 255, 255, 0.4);
+  padding: 30px 0;
 }
 
 .copied div.animateIn {
@@ -288,7 +253,7 @@ footer p {
   left: 0;
   width: 100%;
   text-align: center;
-  color: rgba(255,255,255,0.4);
+  color: rgba(255, 255, 255, 0.4);
   font-size: 15em;
   z-index: -1;
 }
