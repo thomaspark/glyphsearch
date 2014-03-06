@@ -20,6 +20,11 @@ body {
   padding-top: 19px;
 }
 
+.fb_iframe_widget {
+  display: inline-block !important;
+  width: auto !important;
+}
+
 .fb_iframe_widget span {
   width: 90px !important;
   height: 25px !important;
