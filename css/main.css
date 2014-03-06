@@ -108,18 +108,30 @@ footer p {
 
   h1 {
     font-size: 18px;
+  .navbar-header {
+    float: left;
   }
 
   .search-bar {
     padding: 2em 0 1em;
+  .navbar-nav {
+    float: right;
   }
 
   #search {
     font-size: 16px;
   }
 
+  #libraries button {
+    font-size: 9px;
+  }
+
   .entry {
     height: 120px;
+  }
+
+  .entry .name {
+    font-size: 12px;
   }
 }
 
