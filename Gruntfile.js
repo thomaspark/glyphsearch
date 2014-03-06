@@ -5,11 +5,6 @@ module.exports = function(grunt) {
           template: 'templates/batch.handlebars',
           templateData: 'data/icons.json',
           output: './data/batch.json'
-        },
-        offline: {
-          template: 'templates/offline.handlebars',
-          templateData: 'data/icons.json',
-          output: './offline.html'
         }
     }
   });
