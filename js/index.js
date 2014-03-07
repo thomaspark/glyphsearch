@@ -151,7 +151,7 @@ function handlers() {
   });
 
   clip.on("noflash", function() {
-    $(".section.row").on("click", ".entry", function(){
+    $(".icons").on("click", ".entry", function(){
       var name = $(this).find(".description").text();
       window.prompt("Copy to clipboard:", name);
     });
