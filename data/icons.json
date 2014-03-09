@@ -448,7 +448,8 @@
       "tags": "euro, currency, money"
     },
     {
-      "name": "exchange"
+      "name": "exchange",
+      "tags": "transfer, arrows"
     },
     {
       "name": "exclamation"
@@ -2063,7 +2064,8 @@
       "tags": "chess, game, rook"
     },
     {
-      "name": "transfer"
+      "name": "transfer",
+      "tags": "exchange, arrows"
     },
     {
       "name": "trash",

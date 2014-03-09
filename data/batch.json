@@ -815,7 +815,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "exchange",
-    "tags": "",
+    "tags": "transfer, arrows",
     "class": "fa fa-exchange"
   },
   
@@ -3855,7 +3855,7 @@
   {
     "_tags": ["glyphicons"],
     "name": "transfer",
-    "tags": "",
+    "tags": "exchange, arrows",
     "class": "glyphicon glyphicon-transfer"
   },
   
