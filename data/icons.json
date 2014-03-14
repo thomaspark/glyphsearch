@@ -2257,6 +2257,10 @@
       "tags": "suitcase, business"
     },
     {
+      "name": "bug",
+      "tags": ""
+    },
+    {
       "name": "calculator"
     },
     {
@@ -2388,6 +2392,10 @@
       "tags": "globe, planet, world"
     },
     {
+      "name": "edit",
+      "tags": ""
+    },
+    {
       "name": "egg",
       "tags": "food"
     },
@@ -2431,6 +2439,10 @@
     {
       "name": "fork",
       "tags": "cutlery, food"
+    },
+    {
+      "name": "fork-repo",
+      "tags": ""
     },
     {
       "name": "forward",
@@ -2617,6 +2629,10 @@
       "name": "minus-round"
     },
     {
+      "name": "model-s",
+      "tags": ""
+    },
+    {
       "name": "monitor",
       "tags": "computer"
     },
@@ -2637,8 +2653,16 @@
       "name": "navigate"
     },
     {
+      "name": "no-smoking",
+      "tags": ""
+    },
+    {
       "name": "nuclear",
       "tags": "warning, danger"
+    },
+    {
+      "name": "paper-airplane",
+      "tags": ""
     },
     {
       "name": "paperclip",
@@ -2819,6 +2843,10 @@
       "tags": "brand"
     },
     {
+      "name": "social-freebsd-devil",
+      "tags": ""
+    },
+    {
       "name": "social-github",
       "tags": "brand, code"
     },
@@ -2982,6 +3010,10 @@
       "tags": "delete"
     },
     {
+      "name": "tux",
+      "tags": "bird, penguin"
+    },
+    {
       "name": "umbrella",
       "tags": "weather"
     },
@@ -3031,6 +3063,262 @@
     {
       "name": "wrench",
       "tags": "tool, settings"
+    },
+    {
+      "name": "android-add",
+      "tags": "plus"
+    },
+    {
+      "name": "android-add-contact",
+      "tags": ""
+    },
+    {
+      "name": "android-alarm",
+      "tags": "time"
+    },
+    {
+      "name": "android-archive",
+      "tags": ""
+    },
+    {
+      "name": "android-arrow-back",
+      "tags": ""
+    },
+    {
+      "name": "android-arrow-down-left",
+      "tags": ""
+    },
+    {
+      "name": "android-arrow-down-right",
+      "tags": ""
+    },
+    {
+      "name": "android-arrow-up-left",
+      "tags": ""
+    },
+    {
+      "name": "android-arrow-up-right",
+      "tags": ""
+    },
+    {
+      "name": "android-battery",
+      "tags": ""
+    },
+    {
+      "name": "android-book",
+      "tags": ""
+    },
+    {
+      "name": "android-call",
+      "tags": "phone"
+    },
+    {
+      "name": "android-calendar",
+      "tags": ""
+    },
+    {
+      "name": "android-camera",
+      "tags": ""
+    },
+    {
+      "name": "android-chat",
+      "tags": "quotes, speech bubble"
+    },
+    {
+      "name": "android-checkmark",
+      "tags": ""
+    },
+    {
+      "name": "android-clock",
+      "tags": "time"
+    },
+    {
+      "name": "android-close",
+      "tags": "times"
+    },
+    {
+      "name": "android-contact",
+      "tags": "person, user"
+    },
+    {
+      "name": "android-contacts",
+      "tags": "people, users"
+    },
+    {
+      "name": "android-data",
+      "tags": "timer, chart, graph"
+    },
+    {
+      "name": "android-developer",
+      "tags": "braces"
+    },
+    {
+      "name": "android-display",
+      "tags": ""
+    },
+    {
+      "name": "android-download",
+      "tags": ""
+    },
+    {
+      "name": "android-dropdown",
+      "tags": ""
+    },
+    {
+      "name": "android-earth",
+      "tags": "globe, planet"
+    },
+    {
+      "name": "android-folder",
+      "tags": ""
+    },
+    {
+      "name": "android-forums",
+      "tags": ""
+    },
+    {
+      "name": "android-friends",
+      "tags": "people, users"
+    },
+    {
+      "name": "android-hand",
+      "tags": ""
+    },
+    {
+      "name": "android-image",
+      "tags": "email"
+    },
+    {
+      "name": "android-inbox",
+      "tags": ""
+    },
+    {
+      "name": "android-information",
+      "tags": ""
+    },
+    {
+      "name": "android-keypad",
+      "tags": ""
+    },
+    {
+      "name": "android-lightbulb",
+      "tags": ""
+    },
+    {
+      "name": "android-locate",
+      "tags": ""
+    },
+    {
+      "name": "android-location",
+      "tags": ""
+    },
+    {
+      "name": "android-mail",
+      "tags": "envelope"
+    },
+    {
+      "name": "android-microphone",
+      "tags": ""
+    },
+    {
+      "name": "android-mixer",
+      "tags": ""
+    },
+    {
+      "name": "android-more",
+      "tags": ""
+    },
+    {
+      "name": "android-note",
+      "tags": "paper"
+    },
+    {
+      "name": "android-playstore",
+      "tags": ""
+    },
+    {
+      "name": "android-printer",
+      "tags": ""
+    },
+    {
+      "name": "android-promotion",
+      "tags": "labels, pricetags"
+    },
+    {
+      "name": "android-reminder",
+      "tags": "bell"
+    },
+    {
+      "name": "android-remove",
+      "tags": "minus"
+    },
+    {
+      "name": "android-search",
+      "tags": "find, magnifying glass"
+    },
+    {
+      "name": "android-send",
+      "tags": "paper airplane"
+    },
+    {
+      "name": "android-settings",
+      "tags": ""
+    },
+    {
+      "name": "android-share",
+      "tags": ""
+    },
+    {
+      "name": "android-social",
+      "tags": "people"
+    },
+    {
+      "name": "android-social-user",
+      "tags": "person"
+    },
+    {
+      "name": "android-sort",
+      "tags": ""
+    },
+    {
+      "name": "android-star",
+      "tags": ""
+    },
+    {
+      "name": "android-stopwatch",
+      "tags": "timer"
+    },
+    {
+      "name": "android-storage",
+      "tags": "power"
+    },
+    {
+      "name": "android-system-back",
+      "tags": ""
+    },
+    {
+      "name": "android-system-home",
+      "tags": ""
+    },
+    {
+      "name": "android-system-windows",
+      "tags": ""
+    },
+    {
+      "name": "android-timer",
+      "tags": "hourglass"
+    },
+    {
+      "name": "android-trash",
+      "tags": ""
+    },
+    {
+      "name": "android-volume",
+      "tags": ""
+    },
+    {
+      "name": "android-wifi",
+      "tags": ""
     },
     {
       "name": "ios7-alarm",
@@ -3194,6 +3482,18 @@
     {
       "name": "ios7-clock",
       "tags": "timer"
+    },
+    {
+      "name": "ios7-close",
+      "tags": ""
+    },
+    {
+      "name": "ios7-close-outline",
+      "tags": ""
+    },
+    {
+      "name": "ios7-close-empty",
+      "tags": ""
     },
     {
       "name": "ios7-cloud",

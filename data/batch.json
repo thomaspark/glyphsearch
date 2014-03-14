@@ -4213,6 +4213,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "bug",
+    "tags": "",
+    "class": "ionicons ion-bug"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "calculator",
     "tags": "",
     "class": "ionicons ion-calculator"
@@ -4465,6 +4472,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "edit",
+    "tags": "",
+    "class": "ionicons ion-edit"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "egg",
     "tags": "food",
     "class": "ionicons ion-egg"
@@ -4552,6 +4566,13 @@
     "name": "fork",
     "tags": "cutlery, food",
     "class": "ionicons ion-fork"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "fork-repo",
+    "tags": "",
+    "class": "ionicons ion-fork-repo"
   },
   
   {
@@ -4906,6 +4927,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "model-s",
+    "tags": "",
+    "class": "ionicons ion-model-s"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "monitor",
     "tags": "computer",
     "class": "ionicons ion-monitor"
@@ -4948,9 +4976,23 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "no-smoking",
+    "tags": "",
+    "class": "ionicons ion-no-smoking"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "nuclear",
     "tags": "warning, danger",
     "class": "ionicons ion-nuclear"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "paper-airplane",
+    "tags": "",
+    "class": "ionicons ion-paper-airplane"
   },
   
   {
@@ -5277,6 +5319,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "social-freebsd-devil",
+    "tags": "",
+    "class": "ionicons ion-social-freebsd-devil"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "social-github",
     "tags": "brand, code",
     "class": "ionicons ion-social-github"
@@ -5564,6 +5613,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "tux",
+    "tags": "bird, penguin",
+    "class": "ionicons ion-tux"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "umbrella",
     "tags": "weather",
     "class": "ionicons ion-umbrella"
@@ -5658,6 +5714,454 @@
     "name": "wrench",
     "tags": "tool, settings",
     "class": "ionicons ion-wrench"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-add",
+    "tags": "plus",
+    "class": "ionicons ion-android-add"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-add-contact",
+    "tags": "",
+    "class": "ionicons ion-android-add-contact"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-alarm",
+    "tags": "time",
+    "class": "ionicons ion-android-alarm"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-archive",
+    "tags": "",
+    "class": "ionicons ion-android-archive"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-back",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-back"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-down-left",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-down-left"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-down-right",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-down-right"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-up-left",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-up-left"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-up-right",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-up-right"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-battery",
+    "tags": "",
+    "class": "ionicons ion-android-battery"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-book",
+    "tags": "",
+    "class": "ionicons ion-android-book"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-call",
+    "tags": "phone",
+    "class": "ionicons ion-android-call"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-calendar",
+    "tags": "",
+    "class": "ionicons ion-android-calendar"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-camera",
+    "tags": "",
+    "class": "ionicons ion-android-camera"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-chat",
+    "tags": "quotes, speech bubble",
+    "class": "ionicons ion-android-chat"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-checkmark",
+    "tags": "",
+    "class": "ionicons ion-android-checkmark"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-clock",
+    "tags": "time",
+    "class": "ionicons ion-android-clock"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-close",
+    "tags": "times",
+    "class": "ionicons ion-android-close"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-contact",
+    "tags": "person, user",
+    "class": "ionicons ion-android-contact"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-contacts",
+    "tags": "people, users",
+    "class": "ionicons ion-android-contacts"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-data",
+    "tags": "timer, chart, graph",
+    "class": "ionicons ion-android-data"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-developer",
+    "tags": "braces",
+    "class": "ionicons ion-android-developer"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-display",
+    "tags": "",
+    "class": "ionicons ion-android-display"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-download",
+    "tags": "",
+    "class": "ionicons ion-android-download"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-dropdown",
+    "tags": "",
+    "class": "ionicons ion-android-dropdown"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-earth",
+    "tags": "globe, planet",
+    "class": "ionicons ion-android-earth"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-folder",
+    "tags": "",
+    "class": "ionicons ion-android-folder"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-forums",
+    "tags": "",
+    "class": "ionicons ion-android-forums"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-friends",
+    "tags": "people, users",
+    "class": "ionicons ion-android-friends"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-hand",
+    "tags": "",
+    "class": "ionicons ion-android-hand"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-image",
+    "tags": "email",
+    "class": "ionicons ion-android-image"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-inbox",
+    "tags": "",
+    "class": "ionicons ion-android-inbox"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-information",
+    "tags": "",
+    "class": "ionicons ion-android-information"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-keypad",
+    "tags": "",
+    "class": "ionicons ion-android-keypad"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-lightbulb",
+    "tags": "",
+    "class": "ionicons ion-android-lightbulb"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-locate",
+    "tags": "",
+    "class": "ionicons ion-android-locate"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-location",
+    "tags": "",
+    "class": "ionicons ion-android-location"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-mail",
+    "tags": "envelope",
+    "class": "ionicons ion-android-mail"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-microphone",
+    "tags": "",
+    "class": "ionicons ion-android-microphone"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-mixer",
+    "tags": "",
+    "class": "ionicons ion-android-mixer"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-more",
+    "tags": "",
+    "class": "ionicons ion-android-more"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-note",
+    "tags": "paper",
+    "class": "ionicons ion-android-note"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-playstore",
+    "tags": "",
+    "class": "ionicons ion-android-playstore"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-printer",
+    "tags": "",
+    "class": "ionicons ion-android-printer"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-promotion",
+    "tags": "labels, pricetags",
+    "class": "ionicons ion-android-promotion"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-reminder",
+    "tags": "bell",
+    "class": "ionicons ion-android-reminder"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-remove",
+    "tags": "minus",
+    "class": "ionicons ion-android-remove"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-search",
+    "tags": "find, magnifying glass",
+    "class": "ionicons ion-android-search"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-send",
+    "tags": "paper airplane",
+    "class": "ionicons ion-android-send"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-settings",
+    "tags": "",
+    "class": "ionicons ion-android-settings"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-share",
+    "tags": "",
+    "class": "ionicons ion-android-share"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-social",
+    "tags": "people",
+    "class": "ionicons ion-android-social"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-social-user",
+    "tags": "person",
+    "class": "ionicons ion-android-social-user"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-sort",
+    "tags": "",
+    "class": "ionicons ion-android-sort"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-star",
+    "tags": "",
+    "class": "ionicons ion-android-star"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-stopwatch",
+    "tags": "timer",
+    "class": "ionicons ion-android-stopwatch"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-storage",
+    "tags": "power",
+    "class": "ionicons ion-android-storage"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-system-back",
+    "tags": "",
+    "class": "ionicons ion-android-system-back"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-system-home",
+    "tags": "",
+    "class": "ionicons ion-android-system-home"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-system-windows",
+    "tags": "",
+    "class": "ionicons ion-android-system-windows"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-timer",
+    "tags": "hourglass",
+    "class": "ionicons ion-android-timer"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-trash",
+    "tags": "",
+    "class": "ionicons ion-android-trash"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-volume",
+    "tags": "",
+    "class": "ionicons ion-android-volume"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-wifi",
+    "tags": "",
+    "class": "ionicons ion-android-wifi"
   },
   
   {
@@ -5966,6 +6470,27 @@
     "name": "ios7-clock",
     "tags": "timer",
     "class": "ionicons ion-ios7-clock"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-close",
+    "tags": "",
+    "class": "ionicons ion-ios7-close"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-close-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-close-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-close-empty",
+    "tags": "",
+    "class": "ionicons ion-ios7-close-empty"
   },
   
   {
