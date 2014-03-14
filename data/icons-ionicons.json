@@ -1,0 +1,1917 @@
+{
+  "ionicons": [
+    {
+      "name": "alert"
+    },
+    {
+      "name": "alert-circled"
+    },
+    {
+      "name": "archive",
+      "tags": "email"
+    },
+    {
+      "name": "arrow-down-a",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-left-a",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-right-a",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-up-a",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-down-b",
+      "tags": "directional, triangle"
+    },
+    {
+      "name": "arrow-left-b",
+      "tags": "directional, triangle"
+    },
+    {
+      "name": "arrow-right-b",
+      "tags": "directional, triangle"
+    },
+    {
+      "name": "arrow-up-b",
+      "tags": "directional, triangle"
+    },
+    {
+      "name": "arrow-down-c",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-left-c",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-right-c",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-up-c",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-graph-down-left",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-graph-down-right",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-graph-up-left",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-graph-up-right",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-move"
+    },
+    {
+      "name": "arrow-resize"
+    },
+    {
+      "name": "arrow-return-left",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-return-right",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-shrink",
+      "tags": "resize, collapse"
+    },
+    {
+      "name": "arrow-swap"
+    },
+    {
+      "name": "at",
+      "tags": "email"
+    },
+    {
+      "name": "bag",
+      "tags": "shopping"
+    },
+    {
+      "name": "battery-charging"
+    },
+    {
+      "name": "battery-empty"
+    },
+    {
+      "name": "battery-full"
+    },
+    {
+      "name": "battery-half"
+    },
+    {
+      "name": "battery-low"
+    },
+    {
+      "name": "beaker",
+      "tags": "flask, science"
+    },
+    {
+      "name": "bluetooth"
+    },
+    {
+      "name": "bookmark"
+    },
+    {
+      "name": "briefcase",
+      "tags": "suitcase, business"
+    },
+    {
+      "name": "bug",
+      "tags": ""
+    },
+    {
+      "name": "calculator"
+    },
+    {
+      "name": "calendar",
+      "tags": "date"
+    },
+    {
+      "name": "camera",
+      "tags": "photographs"
+    },
+    {
+      "name": "card",
+      "tags": "credit card, shopping, money"
+    },
+    {
+      "name": "chatbox",
+      "tags": "speech bubble"
+    },
+    {
+      "name": "chatbox-working",
+      "tags": "speech bubble"
+    },
+    {
+      "name": "chatboxes",
+      "tags": "speech bubble"
+    },
+    {
+      "name": "chatbubble",
+      "tags": "speech bubble"
+    },
+    {
+      "name": "chatbubble-working",
+      "tags": "speech bubble"
+    },
+    {
+      "name": "chatbubbles",
+      "tags": "speech bubble"
+    },
+    {
+      "name": "checkmark"
+    },
+    {
+      "name": "checkmark-circled"
+    },
+    {
+      "name": "checkmark-round"
+    },
+    {
+      "name": "chevron-down",
+      "tags": "directional"
+    },
+    {
+      "name": "chevron-left",
+      "tags": "directional"
+    },
+    {
+      "name": "chevron-right",
+      "tags": "directional"
+    },
+    {
+      "name": "chevron-up",
+      "tags": "directional"
+    },
+    {
+      "name": "clipboard"
+    },
+    {
+      "name": "clock",
+      "tags": "timer"
+    },
+    {
+      "name": "close"
+    },
+    {
+      "name": "close-circled"
+    },
+    {
+      "name": "close-round"
+    },
+    {
+      "name": "cloud",
+      "tags": "weather"
+    },
+    {
+      "name": "code"
+    },
+    {
+      "name": "code-download"
+    },
+    {
+      "name": "code-working"
+    },
+    {
+      "name": "coffee",
+      "tags": "cup, drink, mug"
+    },
+    {
+      "name": "compass",
+      "tags": "directions, map, navigation, location"
+    },
+    {
+      "name": "compose",
+      "tags": "email"
+    },
+    {
+      "name": "connection-bars",
+      "tags": "graph"
+    },
+    {
+      "name": "contrast"
+    },
+    {
+      "name": "disc",
+      "tags": "cd"
+    },
+    {
+      "name": "document",
+      "tags": "text editor, file"
+    },
+    {
+      "name": "document-text",
+      "tags": "text editor, file"
+    },
+    {
+      "name": "drag"
+    },
+    {
+      "name": "earth",
+      "tags": "globe, planet, world"
+    },
+    {
+      "name": "edit",
+      "tags": ""
+    },
+    {
+      "name": "egg",
+      "tags": "food"
+    },
+    {
+      "name": "eject"
+    },
+    {
+      "name": "email"
+    },
+    {
+      "name": "eye"
+    },
+    {
+      "name": "female",
+      "tags": "gender, sex"
+    },
+    {
+      "name": "filing"
+    },
+    {
+      "name": "film-marker"
+    },
+    {
+      "name": "flag"
+    },
+    {
+      "name": "flash",
+      "tags": "lightning bolt"
+    },
+    {
+      "name": "flash-off",
+      "tags": "lightning bolt"
+    },
+    {
+      "name": "flask",
+      "tags": "beaker, science"
+    },
+    {
+      "name": "folder"
+    },
+    {
+      "name": "fork",
+      "tags": "cutlery, food"
+    },
+    {
+      "name": "fork-repo",
+      "tags": ""
+    },
+    {
+      "name": "forward",
+      "tags": "email"
+    },
+    {
+      "name": "game-controller-a"
+    },
+    {
+      "name": "game-controller-b"
+    },
+    {
+      "name": "gear-a",
+      "tags": "cog, settings"
+    },
+    {
+      "name": "gear-b",
+      "tags": "cog, settings"
+    },
+    {
+      "name": "grid",
+      "tags": "text editor"
+    },
+    {
+      "name": "hammer",
+      "tags": "tool"
+    },
+    {
+      "name": "headphone",
+      "tags": "audio, music"
+    },
+    {
+      "name": "heart",
+      "tags": "like, rate, ratings"
+    },
+    {
+      "name": "help"
+    },
+    {
+      "name": "help-buoy",
+      "tags": "lifesaver, support"
+    },
+    {
+      "name": "help-circled",
+      "tags": "question mark"
+    },
+    {
+      "name": "home"
+    },
+    {
+      "name": "icecream",
+      "tags": "food, dessert, ice cream"
+    },
+    {
+      "name": "image",
+      "tags": "picture, photograph"
+    },
+    {
+      "name": "images",
+      "tags": "pictures, photographs"
+    },
+    {
+      "name": "information"
+    },
+    {
+      "name": "information-circled"
+    },
+    {
+      "name": "ionic",
+      "tags": "brand, science, chemistry"
+    },
+    {
+      "name": "ipad",
+      "tags": "brand, apple, device, computer"
+    },
+    {
+      "name": "iphone",
+      "tags": "brand, apple, device, mobile phone"
+    },
+    {
+      "name": "ipod",
+      "tags": "brand, apple, device, music, mp3"
+    },
+    {
+      "name": "jet",
+      "tags": "airplane"
+    },
+    {
+      "name": "key"
+    },
+    {
+      "name": "knife",
+      "tags": "cutlery, food"
+    },
+    {
+      "name": "laptop",
+      "tags": "computer"
+    },
+    {
+      "name": "leaf",
+      "tags": "plant"
+    },
+    {
+      "name": "levels",
+      "tags": "audio, settings"
+    },
+    {
+      "name": "lightbulb"
+    },
+    {
+      "name": "link",
+      "tags": "chain"
+    },
+    {
+      "name": "load-a",
+      "tags": "loading"
+    },
+    {
+      "name": "load-b",
+      "tags": "loading"
+    },
+    {
+      "name": "load-c",
+      "tags": "loading"
+    },
+    {
+      "name": "load-d",
+      "tags": "loading"
+    },
+    {
+      "name": "location",
+      "tags": "map"
+    },
+    {
+      "name": "locked"
+    },
+    {
+      "name": "log-in"
+    },
+    {
+      "name": "log-out"
+    },
+    {
+      "name": "loop"
+    },
+    {
+      "name": "magnet"
+    },
+    {
+      "name": "male",
+      "tags": "gender, sex"
+    },
+    {
+      "name": "man",
+      "tags": "gender, sex, user, person"
+    },
+    {
+      "name": "map",
+      "tags": "location"
+    },
+    {
+      "name": "medkit",
+      "tags": "medical"
+    },
+    {
+      "name": "mic-a",
+      "tags": "audio"
+    },
+    {
+      "name": "mic-b",
+      "tags": "audio"
+    },
+    {
+      "name": "mic-c",
+      "tags": "audio"
+    },
+    {
+      "name": "minus"
+    },
+    {
+      "name": "minus-circled"
+    },
+    {
+      "name": "minus-round"
+    },
+    {
+      "name": "model-s",
+      "tags": ""
+    },
+    {
+      "name": "monitor",
+      "tags": "computer"
+    },
+    {
+      "name": "more",
+      "tags": "dots, menu"
+    },
+    {
+      "name": "music-note"
+    },
+    {
+      "name": "navicon"
+    },
+    {
+      "name": "navicon-round"
+    },
+    {
+      "name": "navigate"
+    },
+    {
+      "name": "no-smoking",
+      "tags": ""
+    },
+    {
+      "name": "nuclear",
+      "tags": "warning, danger"
+    },
+    {
+      "name": "paper-airplane",
+      "tags": ""
+    },
+    {
+      "name": "paperclip",
+      "tags": "email, file attachment"
+    },
+    {
+      "name": "pause"
+    },
+    {
+      "name": "person",
+      "tags": "user"
+    },
+    {
+      "name": "person-add",
+      "tags": "user"
+    },
+    {
+      "name": "person-stalker",
+      "tags": "users, people"
+    },
+    {
+      "name": "pie-graph"
+    },
+    {
+      "name": "pin"
+    },
+    {
+      "name": "pinpoint",
+      "tags": "aim, reticle, target"
+    },
+    {
+      "name": "pizza",
+      "tags": "food"
+    },
+    {
+      "name": "plane",
+      "tags": "airplane"
+    },
+    {
+      "name": "play",
+      "tags": "video player, triangle"
+    },
+    {
+      "name": "plus",
+      "tags": "add"
+    },
+    {
+      "name": "plus-circled"
+    },
+    {
+      "name": "plus-round"
+    },
+    {
+      "name": "pound",
+      "tags": "hash, number"
+    },
+    {
+      "name": "power",
+      "tags": "off, on"
+    },
+    {
+      "name": "pricetag",
+      "tags": "shopping"
+    },
+    {
+      "name": "pricetags",
+      "tags": "shopping"
+    },
+    {
+      "name": "printer",
+      "tags": "computer"
+    },
+    {
+      "name": "radio-waves",
+      "tags": "sound, audio, broadcast"
+    },
+    {
+      "name": "record",
+      "tags": "video player, circle"
+    },
+    {
+      "name": "refresh",
+      "tags": "reload"
+    },
+    {
+      "name": "reply",
+      "tags": "email"
+    },
+    {
+      "name": "reply-all",
+      "tags": "email"
+    },
+    {
+      "name": "search",
+      "tags": "magnifying glass"
+    },
+    {
+      "name": "settings",
+      "tags": "tools"
+    },
+    {
+      "name": "share"
+    },
+    {
+      "name": "shuffle",
+      "tags": "video player"
+    },
+    {
+      "name": "skip-backward",
+      "tags": "video player"
+    },
+    {
+      "name": "skip-forward",
+      "tags": "video payer"
+    },
+    {
+      "name": "social-android",
+      "tags": "brand, google"
+    },
+    {
+      "name": "social-android-outline",
+      "tags": "brand, google"
+    },
+    {
+      "name": "social-apple",
+      "tags": "brand"
+    },
+    {
+      "name": "social-apple-outline",
+      "tags": "brand"
+    },
+    {
+      "name": "social-bitcoin",
+      "tags": "currency, money, brand"
+    },
+    {
+      "name": "social-bitcoin-outline",
+      "tags": "currency, money, brand"
+    },
+    {
+      "name": "social-buffer",
+      "tags": "brand"
+    },
+    {
+      "name": "social-buffer-outline",
+      "tags": "brand"
+    },
+    {
+      "name": "social-designernews",
+      "tags": "brand"
+    },
+    {
+      "name": "social-designernews-outline",
+      "tags": "brand"
+    },
+    {
+      "name": "social-dribbble",
+      "tags": "brand, basketball"
+    },
+    {
+      "name": "social-dribbble-outline",
+      "tags": "brand, basketball"
+    },
+    {
+      "name": "social-dropbox",
+      "tags": "brand"
+    },
+    {
+      "name": "social-dropbox-outline",
+      "tags": "brand"
+    },
+    {
+      "name": "social-facebook",
+      "tags": "brand"
+    },
+    {
+      "name": "social-facebook-outline",
+      "tags": "brand"
+    },
+    {
+      "name": "social-freebsd-devil",
+      "tags": ""
+    },
+    {
+      "name": "social-github",
+      "tags": "brand, code"
+    },
+    {
+      "name": "social-github-outline",
+      "tags": "brand, code"
+    },
+    {
+      "name": "social-googleplus",
+      "tags": "brand"
+    },
+    {
+      "name": "social-googleplus-outline",
+      "tags": "brand"
+    },
+    {
+      "name": "social-hackernews",
+      "tags": "brand"
+    },
+    {
+      "name": "social-hackernews-outline",
+      "tags": "brand"
+    },
+    {
+      "name": "social-linkedin",
+      "tags": "brand"
+    },
+    {
+      "name": "social-linkedin-outline",
+      "tags": "brand"
+    },
+    {
+      "name": "social-pinterest",
+      "tags": "brand"
+    },
+    {
+      "name": "social-pinterest-outline",
+      "tags": "brand"
+    },
+    {
+      "name": "social-reddit",
+      "tags": "brand"
+    },
+    {
+      "name": "social-reddit-outline",
+      "tags": "brand"
+    },
+    {
+      "name": "social-rss",
+      "tags": "brand"
+    },
+    {
+      "name": "social-rss-outline",
+      "tags": "brand"
+    },
+    {
+      "name": "social-skype",
+      "tags": "brand, microsoft"
+    },
+    {
+      "name": "social-skype-outline",
+      "tags": "brand, microsoft"
+    },
+    {
+      "name": "social-tumblr",
+      "tags": "brand, yahoo"
+    },
+    {
+      "name": "social-tumblr-outline",
+      "tags": "brand, yahoo"
+    },
+    {
+      "name": "social-twitter",
+      "tags": "brand"
+    },
+    {
+      "name": "social-twitter-outline",
+      "tags": "brand"
+    },
+    {
+      "name": "social-vimeo",
+      "tags": "brand, video"
+    },
+    {
+      "name": "social-vimeo-outline",
+      "tags": "brand, video"
+    },
+    {
+      "name": "social-windows",
+      "tags": "brand, microsoft"
+    },
+    {
+      "name": "social-windows-outline",
+      "tags": "brand, microsoft"
+    },
+    {
+      "name": "social-wordpress",
+      "tags": "brand"
+    },
+    {
+      "name": "social-wordpress-outline",
+      "tags": "brand"
+    },
+    {
+      "name": "social-yahoo",
+      "tags": "brand"
+    },
+    {
+      "name": "social-yahoo-outline",
+      "tags": "brand"
+    },
+    {
+      "name": "social-youtube",
+      "tags": "brand, video, google"
+    },
+    {
+      "name": "social-youtube-outline",
+      "tags": "brand, video, google"
+    },
+    {
+      "name": "speakerphone",
+      "tags": "bullhorn"
+    },
+    {
+      "name": "speedometer",
+      "tags": "dashboard, tachometer"
+    },
+    {
+      "name": "spoon",
+      "tags": "cutlery, food"
+    },
+    {
+      "name": "star",
+      "tags": "like, rate, ratings"
+    },
+    {
+      "name": "stats-bars",
+      "tags": "graph"
+    },
+    {
+      "name": "stop",
+      "tags": "video player, square"
+    },
+    {
+      "name": "thermometer"
+    },
+    {
+      "name": "thumbsdown",
+      "tags": "unlike, unfavorite"
+    },
+    {
+      "name": "thumbsup",
+      "tags": "like, favorite"
+    },
+    {
+      "name": "trash-a",
+      "tags": "delete"
+    },
+    {
+      "name": "trash-b",
+      "tags": "delete"
+    },
+    {
+      "name": "tux",
+      "tags": "bird, penguin"
+    },
+    {
+      "name": "umbrella",
+      "tags": "weather"
+    },
+    {
+      "name": "unlocked"
+    },
+    {
+      "name": "upload"
+    },
+    {
+      "name": "usb"
+    },
+    {
+      "name": "videocamera"
+    },
+    {
+      "name": "volume-high",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "volume-low",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "volume-medium",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "volume-mute",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "waterdrop",
+      "tags": "rain, weather"
+    },
+    {
+      "name": "wifi"
+    },
+    {
+      "name": "wineglass",
+      "tags": "drink, glass"
+    },
+    {
+      "name": "woman",
+      "tags": "gender, sex, person"
+    },
+    {
+      "name": "wrench",
+      "tags": "tool, settings"
+    },
+    {
+      "name": "android-add",
+      "tags": "plus"
+    },
+    {
+      "name": "android-add-contact",
+      "tags": ""
+    },
+    {
+      "name": "android-alarm",
+      "tags": "time"
+    },
+    {
+      "name": "android-archive",
+      "tags": ""
+    },
+    {
+      "name": "android-arrow-back",
+      "tags": ""
+    },
+    {
+      "name": "android-arrow-down-left",
+      "tags": ""
+    },
+    {
+      "name": "android-arrow-down-right",
+      "tags": ""
+    },
+    {
+      "name": "android-arrow-up-left",
+      "tags": ""
+    },
+    {
+      "name": "android-arrow-up-right",
+      "tags": ""
+    },
+    {
+      "name": "android-battery",
+      "tags": ""
+    },
+    {
+      "name": "android-book",
+      "tags": ""
+    },
+    {
+      "name": "android-call",
+      "tags": "phone"
+    },
+    {
+      "name": "android-calendar",
+      "tags": ""
+    },
+    {
+      "name": "android-camera",
+      "tags": ""
+    },
+    {
+      "name": "android-chat",
+      "tags": "quotes, speech bubble"
+    },
+    {
+      "name": "android-checkmark",
+      "tags": ""
+    },
+    {
+      "name": "android-clock",
+      "tags": "time"
+    },
+    {
+      "name": "android-close",
+      "tags": "times"
+    },
+    {
+      "name": "android-contact",
+      "tags": "person, user"
+    },
+    {
+      "name": "android-contacts",
+      "tags": "people, users"
+    },
+    {
+      "name": "android-data",
+      "tags": "timer, chart, graph"
+    },
+    {
+      "name": "android-developer",
+      "tags": "braces"
+    },
+    {
+      "name": "android-display",
+      "tags": ""
+    },
+    {
+      "name": "android-download",
+      "tags": ""
+    },
+    {
+      "name": "android-dropdown",
+      "tags": ""
+    },
+    {
+      "name": "android-earth",
+      "tags": "globe, planet"
+    },
+    {
+      "name": "android-folder",
+      "tags": ""
+    },
+    {
+      "name": "android-forums",
+      "tags": ""
+    },
+    {
+      "name": "android-friends",
+      "tags": "people, users"
+    },
+    {
+      "name": "android-hand",
+      "tags": ""
+    },
+    {
+      "name": "android-image",
+      "tags": "email"
+    },
+    {
+      "name": "android-inbox",
+      "tags": ""
+    },
+    {
+      "name": "android-information",
+      "tags": ""
+    },
+    {
+      "name": "android-keypad",
+      "tags": ""
+    },
+    {
+      "name": "android-lightbulb",
+      "tags": ""
+    },
+    {
+      "name": "android-locate",
+      "tags": ""
+    },
+    {
+      "name": "android-location",
+      "tags": ""
+    },
+    {
+      "name": "android-mail",
+      "tags": "envelope"
+    },
+    {
+      "name": "android-microphone",
+      "tags": ""
+    },
+    {
+      "name": "android-mixer",
+      "tags": ""
+    },
+    {
+      "name": "android-more",
+      "tags": ""
+    },
+    {
+      "name": "android-note",
+      "tags": "paper"
+    },
+    {
+      "name": "android-playstore",
+      "tags": ""
+    },
+    {
+      "name": "android-printer",
+      "tags": ""
+    },
+    {
+      "name": "android-promotion",
+      "tags": "labels, pricetags"
+    },
+    {
+      "name": "android-reminder",
+      "tags": "bell"
+    },
+    {
+      "name": "android-remove",
+      "tags": "minus"
+    },
+    {
+      "name": "android-search",
+      "tags": "find, magnifying glass"
+    },
+    {
+      "name": "android-send",
+      "tags": "paper airplane"
+    },
+    {
+      "name": "android-settings",
+      "tags": ""
+    },
+    {
+      "name": "android-share",
+      "tags": ""
+    },
+    {
+      "name": "android-social",
+      "tags": "people"
+    },
+    {
+      "name": "android-social-user",
+      "tags": "person"
+    },
+    {
+      "name": "android-sort",
+      "tags": ""
+    },
+    {
+      "name": "android-star",
+      "tags": ""
+    },
+    {
+      "name": "android-stopwatch",
+      "tags": "timer"
+    },
+    {
+      "name": "android-storage",
+      "tags": "power"
+    },
+    {
+      "name": "android-system-back",
+      "tags": ""
+    },
+    {
+      "name": "android-system-home",
+      "tags": ""
+    },
+    {
+      "name": "android-system-windows",
+      "tags": ""
+    },
+    {
+      "name": "android-timer",
+      "tags": "hourglass"
+    },
+    {
+      "name": "android-trash",
+      "tags": ""
+    },
+    {
+      "name": "android-volume",
+      "tags": ""
+    },
+    {
+      "name": "android-wifi",
+      "tags": ""
+    },
+    {
+      "name": "ios7-alarm",
+      "tags": "clock"
+    },
+    {
+      "name": "ios7-alarm-outline",
+      "tags": "clock"
+    },
+    {
+      "name": "ios7-albums"
+    },
+    {
+      "name": "ios7-arrow-back",
+      "tags": "directional"
+    },
+    {
+      "name": "ios7-arrow-down",
+      "tags": "directional"
+    },
+    {
+      "name": "ios7-arrow-forward",
+      "tags": "directional"
+    },
+    {
+      "name": "ios7-arrow-left",
+      "tags": "directional"
+    },
+    {
+      "name": "ios7-arrow-right",
+      "tags": "directional"
+    },
+    {
+      "name": "ios7-arrow-up",
+      "tags": "directional"
+    },
+    {
+      "name": "ios7-arrow-thin-down",
+      "tags": "directional"
+    },
+    {
+      "name": "ios7-arrow-thin-left",
+      "tags": "directional"
+    },
+    {
+      "name": "ios7-arrow-thin-right",
+      "tags": "directional"
+    },
+    {
+      "name": "ios7-arrow-thin-up",
+      "tags": "directional"
+    },
+    {
+      "name": "ios7-at",
+      "tags": "email"
+    },
+    {
+      "name": "ios7-at-outline",
+      "tags": "email"
+    },
+    {
+      "name": "ios7-bell",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "ios7-bell-outline",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "ios7-bolt",
+      "tags": "lightning bolt, flash"
+    },
+    {
+      "name": "ios7-bolt-outline",
+      "tags": "lightning bolt, flash"
+    },
+    {
+      "name": "ios7-bookmarks"
+    },
+    {
+      "name": "ios7-bookmarks-outline"
+    },
+    {
+      "name": "ios7-box"
+    },
+    {
+      "name": "ios7-box-outline"
+    },
+    {
+      "name": "ios7-briefcase",
+      "tags": "suitcase, business"
+    },
+    {
+      "name": "ios7-briefcase-outline",
+      "tags": "suitcase, business"
+    },
+    {
+      "name": "ios7-browsers"
+    },
+    {
+      "name": "ios7-calculator"
+    },
+    {
+      "name": "ios7-calculator-outline"
+    },
+    {
+      "name": "ios7-calendar",
+      "tags": "date"
+    },
+    {
+      "name": "ios7-calendar-outline",
+      "tags": "date"
+    },
+    {
+      "name": "ios7-camera",
+      "tags": "photographs"
+    },
+    {
+      "name": "ios7-camera-outline",
+      "tags": "photographs"
+    },
+    {
+      "name": "ios7-cart",
+      "tags": "shopping"
+    },
+    {
+      "name": "ios7-cart-outline",
+      "tags": "shopping"
+    },
+    {
+      "name": "ios7-chatboxes",
+      "tags": "speech bubble"
+    },
+    {
+      "name": "ios7-chatboxes-outline",
+      "tags": "speech bubble"
+    },
+    {
+      "name": "ios7-chatbubble",
+      "tags": "speech bubble"
+    },
+    {
+      "name": "ios7-chatbubble-outline",
+      "tags": "speech bubble"
+    },
+    {
+      "name": "ios7-checkmark"
+    },
+    {
+      "name": "ios7-checkmark-empty"
+    },
+    {
+      "name": "ios7-checkmark-outline"
+    },
+    {
+      "name": "ios7-circle-filled"
+    },
+    {
+      "name": "ios7-circle-outline"
+    },
+    {
+      "name": "ios7-clock",
+      "tags": "timer"
+    },
+    {
+      "name": "ios7-close",
+      "tags": ""
+    },
+    {
+      "name": "ios7-close-outline",
+      "tags": ""
+    },
+    {
+      "name": "ios7-close-empty",
+      "tags": ""
+    },
+    {
+      "name": "ios7-cloud",
+      "tags": "weather"
+    },
+    {
+      "name": "ios7-cloud-download"
+    },
+    {
+      "name": "ios7-cloud-download-outline"
+    },
+    {
+      "name": "ios7-cloud-outline"
+    },
+    {
+      "name": "ios7-cloud-upload"
+    },
+    {
+      "name": "ios7-cloud-upload-outline"
+    },
+    {
+      "name": "ios7-cloudy",
+      "tags": "weather"
+    },
+    {
+      "name": "ios7-cloudy-outline",
+      "tags": "weather"
+    },
+    {
+      "name": "ios7-cog",
+      "tags": "gear, settings"
+    },
+    {
+      "name": "ios7-cog-outline",
+      "tags": "gears, settings"
+    },
+    {
+      "name": "ios7-compose",
+      "tags": "email"
+    },
+    {
+      "name": "ios7-compose-outline",
+      "tags": "email"
+    },
+    {
+      "name": "ios7-contact",
+      "tags": "user"
+    },
+    {
+      "name": "ios7-contact-outline",
+      "tags": "user"
+    },
+    {
+      "name": "ios7-copy",
+      "tags": "clipboard"
+    },
+    {
+      "name": "ios7-copy-outline",
+      "tags": "clipboard"
+    },
+    {
+      "name": "ios7-download"
+    },
+    {
+      "name": "ios7-download-outline"
+    },
+    {
+      "name": "ios7-drag",
+      "tags": "bars, more, reorder"
+    },
+    {
+      "name": "ios7-email"
+    },
+    {
+      "name": "ios7-email-outline"
+    },
+    {
+      "name": "ios7-eye",
+      "tags": "show"
+    },
+    {
+      "name": "ios7-eye-outline",
+      "tags": "show"
+    },
+    {
+      "name": "ios7-fastforward",
+      "tags": "video player"
+    },
+    {
+      "name": "ios7-fastforward-outline",
+      "tags": "video player"
+    },
+    {
+      "name": "ios7-filing"
+    },
+    {
+      "name": "ios7-film"
+    },
+    {
+      "name": "ios7-film-outline"
+    },
+    {
+      "name": "ios7-flag"
+    },
+    {
+      "name": "ios7-flag-outline"
+    },
+    {
+      "name": "ios7-folder"
+    },
+    {
+      "name": "ios7-folder-outline"
+    },
+    {
+      "name": "ios7-gear",
+      "tags": "cog, settings"
+    },
+    {
+      "name": "ios7-gear-outline",
+      "tags": "cogs, settings"
+    },
+    {
+      "name": "ios7-glasses"
+    },
+    {
+      "name": "ios7-glasses-outline"
+    },
+    {
+      "name": "ios7-heart",
+      "tags": "favorite, like, rate, ratings"
+    },
+    {
+      "name": "ios7-heart-outline",
+      "tags": "favorite, like, rate, ratings"
+    },
+    {
+      "name": "ios7-help"
+    },
+    {
+      "name": "ios7-help-empty"
+    },
+    {
+      "name": "ios7-help-outline"
+    },
+    {
+      "name": "ios7-infinite",
+      "tags": "infinity, math symbol"
+    },
+    {
+      "name": "ios7-infinite-outline",
+      "tags": "infinity, math symbol"
+    },
+    {
+      "name": "ios7-information"
+    },
+    {
+      "name": "ios7-information-empty"
+    },
+    {
+      "name": "ios7-information-outline"
+    },
+    {
+      "name": "ios7-ionic-outline",
+      "tags": "brand, science, chemistry"
+    },
+    {
+      "name": "ios7-keypad",
+      "tags": "grid"
+    },
+    {
+      "name": "ios7-keypad-outline",
+      "tags": "grid"
+    },
+    {
+      "name": "ios7-lightbulb"
+    },
+    {
+      "name": "ios7-lightbulb-outline"
+    },
+    {
+      "name": "ios7-location",
+      "tags": "map"
+    },
+    {
+      "name": "ios7-location-outline",
+      "tags": "map"
+    },
+    {
+      "name": "ios7-locked"
+    },
+    {
+      "name": "ios7-locked-outline"
+    },
+    {
+      "name": "ios7-medkit",
+      "tags": "medical"
+    },
+    {
+      "name": "ios7-medkit-outline",
+      "tags": "medical"
+    },
+    {
+      "name": "ios7-mic",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "ios7-mic-off",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "ios7-mic-outline",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "ios7-minus"
+    },
+    {
+      "name": "ios7-minus-empty"
+    },
+    {
+      "name": "ios7-minus-outline"
+    },
+    {
+      "name": "ios7-monitor",
+      "tags": "computer"
+    },
+    {
+      "name": "ios7-monitor-outline",
+      "tags": "computer"
+    },
+    {
+      "name": "ios7-moon"
+    },
+    {
+      "name": "ios7-moon-outline"
+    },
+    {
+      "name": "ios7-more",
+      "tags": "dots, menu"
+    },
+    {
+      "name": "ios7-more-outline",
+      "tags": "dots, menu"
+    },
+    {
+      "name": "ios7-musical-note"
+    },
+    {
+      "name": "ios7-musical-notes"
+    },
+    {
+      "name": "ios7-navigate",
+      "tags": "map, location"
+    },
+    {
+      "name": "ios7-navigate-outline",
+      "tags": "map, location"
+    },
+    {
+      "name": "ios7-paperplane",
+      "tags": "airplane"
+    },
+    {
+      "name": "ios7-paperplane-outline",
+      "tags": "airplane"
+    },
+    {
+      "name": "ios7-partlysunny",
+      "tags": "weather"
+    },
+    {
+      "name": "ios7-partlysunny-outline",
+      "tags": "weather"
+    },
+    {
+      "name": "ios7-pause",
+      "tags": "video player"
+    },
+    {
+      "name": "ios7-pause-outline",
+      "tags": "video player"
+    },
+    {
+      "name": "ios7-people",
+      "tags": "users"
+    },
+    {
+      "name": "ios7-people-outline",
+      "tags": "users"
+    },
+    {
+      "name": "ios7-person",
+      "tags": "user"
+    },
+    {
+      "name": "ios7-person-outline",
+      "tags": "user"
+    },
+    {
+      "name": "ios7-personadd",
+      "tags": "user"
+    },
+    {
+      "name": "ios7-personadd-outline",
+      "tags": "user"
+    },
+    {
+      "name": "ios7-photos"
+    },
+    {
+      "name": "ios7-photos-outline"
+    },
+    {
+      "name": "ios7-pie",
+      "tags": "graph"
+    },
+    {
+      "name": "ios7-pie-outline",
+      "tags": "graph"
+    },
+    {
+      "name": "ios7-play",
+      "tags": "video player"
+    },
+    {
+      "name": "ios7-play-outline",
+      "tags": "video player"
+    },
+    {
+      "name": "ios7-plus"
+    },
+    {
+      "name": "ios7-plus-empty"
+    },
+    {
+      "name": "ios7-plus-outline"
+    },
+    {
+      "name": "ios7-pricetag",
+      "tags": "shopping"
+    },
+    {
+      "name": "ios7-pricetag-outline",
+      "tags": "shopping"
+    },
+    {
+      "name": "ios7-printer",
+      "tags": "computer"
+    },
+    {
+      "name": "ios7-rainy",
+      "tags": "weather"
+    },
+    {
+      "name": "ios7-rainy-outline",
+      "tags": "weather"
+    },
+    {
+      "name": "ios7-recording",
+      "tags": "video player"
+    },
+    {
+      "name": "ios7-recording-outline",
+      "tags": "video player"
+    },
+    {
+      "name": "ios7-redo",
+      "tags": "text editor"
+    },
+    {
+      "name": "ios7-redo-outline",
+      "tags": "text editor"
+    },
+    {
+      "name": "ios7-refresh",
+      "tags": "reload"
+    },
+    {
+      "name": "ios7-refresh-empty",
+      "tags": "reload"
+    },
+    {
+      "name": "ios7-refresh-outline",
+      "tags": "reload"
+    },
+    {
+      "name": "ios7-reload",
+      "tags": "refresh"
+    },
+    {
+      "name": "ios7-rewind",
+      "tags": "video player"
+    },
+    {
+      "name": "ios7-rewind-outline",
+      "tags": "video player"
+    },
+    {
+      "name": "ios7-search",
+      "tags": "magnifying glass"
+    },
+    {
+      "name": "ios7-search-strong",
+      "tags": "magnifying glass"
+    },
+    {
+      "name": "ios7-skipbackward",
+      "tags": "video player"
+    },
+    {
+      "name": "ios7-skipbackward-outline",
+      "tags": "video player"
+    },
+    {
+      "name": "ios7-skipforward",
+      "tags": "video player"
+    },
+    {
+      "name": "ios7-skipforward-outline",
+      "tags": "video player"
+    },
+    {
+      "name": "ios7-speedometer",
+      "tags": "dashboard, tachometer"
+    },
+    {
+      "name": "ios7-speedometer-outline",
+      "tags": "dashboard, tachometer"
+    },
+    {
+      "name": "ios7-star",
+      "tags": "like, favorite, rate, ratings"
+    },
+    {
+      "name": "ios7-star-outline",
+      "tags": "like, favorite, rate, ratings"
+    },
+    {
+      "name": "ios7-stopwatch",
+      "tags": "timer, clock"
+    },
+    {
+      "name": "ios7-stopwatch-outline",
+      "tags": "timer, clock"
+    },
+    {
+      "name": "ios7-sunny",
+      "tags": "weather"
+    },
+    {
+      "name": "ios7-sunny-outline",
+      "tags": "weather"
+    },
+    {
+      "name": "ios7-telephone"
+    },
+    {
+      "name": "ios7-telephone-outline"
+    },
+    {
+      "name": "ios7-thunderstorm",
+      "tags": "weather"
+    },
+    {
+      "name": "ios7-thunderstorm-outline",
+      "tags": "weather"
+    },
+    {
+      "name": "ios7-time",
+      "tags": "clock"
+    },
+    {
+      "name": "ios7-time-outline",
+      "tags": "clock"
+    },
+    {
+      "name": "ios7-timer",
+      "tags": "clock"
+    },
+    {
+      "name": "ios7-timer-outline",
+      "tags": "clock"
+    },
+    {
+      "name": "ios7-trash",
+      "tags": "delete"
+    },
+    {
+      "name": "ios7-trash-outline",
+      "tags": "delete"
+    },
+    {
+      "name": "ios7-undo",
+      "tags": "text editor"
+    },
+    {
+      "name": "ios7-undo-outline",
+      "tags": "text editor"
+    },
+    {
+      "name": "ios7-unlocked"
+    },
+    {
+      "name": "ios7-unlocked-outline"
+    },
+    {
+      "name": "ios7-upload"
+    },
+    {
+      "name": "ios7-upload-outline"
+    },
+    {
+      "name": "ios7-videocam",
+      "tags": "camera"
+    },
+    {
+      "name": "ios7-videocam-outline",
+      "tags": "camera"
+    },
+    {
+      "name": "ios7-volume-high",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "ios7-volume-low",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "ios7-wineglass",
+      "tags": "drink, glass"
+    },
+    {
+      "name": "ios7-wineglass-outline",
+      "tags": "drink, glass"
+    },
+    {
+      "name": "ios7-world",
+      "tags": "globe, earth, planet"
+    },
+    {
+      "name": "ios7-world-outline",
+      "tags": "globe, earth, planet"
+    }
+  ]
+}

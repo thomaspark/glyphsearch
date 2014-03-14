@@ -1,0 +1,1379 @@
+{
+  "font-awesome": [
+    {
+      "name": "adjust"
+    },
+    {
+      "name": "adn",
+      "tags": "brand social"
+    },
+    {
+      "name": "align-center",
+      "tags": "text editor"
+    },
+    {
+      "name": "align-justify",
+      "tags": "text editor"
+    },
+    {
+      "name": "align-left",
+      "tags": "text editor"
+    },
+    {
+      "name": "align-right",
+      "tags": "text editor"
+    },
+    {
+      "name": "ambulance",
+      "tags": "medical, vehicle"
+    },
+    {
+      "name": "anchor"
+    },
+    {
+      "name": "android",
+      "tags": "brand, robot, google"
+    },
+    {
+      "name": "angle-double-down",
+      "tags": "directional"
+    },
+    {
+      "name": "angle-double-left",
+      "tags": "directional"
+    },
+    {
+      "name": "angle-double-right",
+      "tags": "directional"
+    },
+    {
+      "name": "angle-double-up",
+      "tags": "directional"
+    },
+    {
+      "name": "angle-down",
+      "tags": "directional"
+    },
+    {
+      "name": "angle-left",
+      "tags": "directional"
+    },
+    {
+      "name": "angle-right",
+      "tags": "directional"
+    },
+    {
+      "name": "angle-up",
+      "tags": "directional"
+    },
+    {
+      "name": "apple",
+      "tags": "brand, food, fruit"
+    },
+    {
+      "name": "archive",
+      "tags": "email"
+    },
+    {
+      "name": "arrow-circle-down",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-circle-left",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-circle-right",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-circle-up",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-circle-o-down",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-circle-o-left",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-circle-o-right",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-circle-o-up",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-down",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-left",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-right",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-up",
+      "tags": "directional"
+    },
+    {
+      "name": "arrows",
+      "tags": "move"
+    },
+    {
+      "name": "arrows-alt",
+      "tags": "fullscreen, resize, video player"
+    },
+    {
+      "name": "arrows-h",
+      "tags": "fullscreen, resize, video player, horizontal"
+    },
+    {
+      "name": "arrows-v",
+      "tags": "fullscreen, resize, video player, vertical"
+    },
+    {
+      "name": "asterisk"
+    },
+    {
+      "name": "backward",
+      "tags": "video player"
+    },
+    {
+      "name": "ban"
+    },
+    {
+      "name": "bar-chart-o"
+    },
+    {
+      "name": "barcode"
+    },
+    {
+      "name": "bars",
+      "tags": "menu, more, reorder"
+    },
+    {
+      "name": "beer",
+      "tags": "drink, mug, stein"
+    },
+    {
+      "name": "bell",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "bell-o",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "bitbucket",
+      "tags": "brand, code, social"
+    },
+    {
+      "name": "bitbucket-square",
+      "tags": "brand, code, social"
+    },
+    {
+      "name": "bold",
+      "tags": "text editor"
+    },
+    {
+      "name": "bolt",
+      "tags": "flash, lightning bolt"
+    },
+    {
+      "name": "book"
+    },
+    {
+      "name": "btc",
+      "tags": "bitcoin, brand, currency, money"
+    },
+    {
+      "name": "building-o"
+    },
+    {
+      "name": "bullhorn",
+      "tags": "speakerphone"
+    },
+    {
+      "name": "bullseye",
+      "tags": "aim, target"
+    },
+    {
+      "name": "calendar",
+      "tags": "date"
+    },
+    {
+      "name": "calendar-o",
+      "tags": "date"
+    },
+    {
+      "name": "camera",
+      "tags": "photographs"
+    },
+    {
+      "name": "camera-retro",
+      "tags": "photographs"
+    },
+    {
+      "name": "caret-down",
+      "tags": "directional, triangle"
+    },
+    {
+      "name": "caret-left",
+      "tags": "directional, triangle"
+    },
+    {
+      "name": "caret-right",
+      "tags": "directional, triangle"
+    },
+    {
+      "name": "caret-square-o-down",
+      "tags": "toggle-down, directional"
+    },
+    {
+      "name": "caret-square-o-left",
+      "tags": "toggle-left, directional"
+    },
+    {
+      "name": "caret-square-o-right",
+      "tags": "toggle-right, directional"
+    },
+    {
+      "name": "caret-square-o-up",
+      "tags": "toggle-up, directional"
+    },
+    {
+      "name": "caret-up",
+      "tags": "directional, triangle"
+    },
+    {
+      "name": "certificate",
+      "tags": "seal, prize, award"
+    },
+    {
+      "name": "chain-broken",
+      "tags": "unlink, text editor"
+    },
+    {
+      "name": "check"
+    },
+    {
+      "name": "check-circle"
+    },
+    {
+      "name": "check-circle-o"
+    },
+    {
+      "name": "check-square",
+      "tags": "form control"
+    },
+    {
+      "name": "check-square-o",
+      "tags": "form control"
+    },
+    {
+      "name": "chevron-circle-down",
+      "tags": "directional"
+    },
+    {
+      "name": "chevron-circle-left",
+      "tags": "directional"
+    },
+    {
+      "name": "chevron-circle-right",
+      "tags": "directional"
+    },
+    {
+      "name": "chevron-circle-up",
+      "tags": "directional"
+    },
+    {
+      "name": "chevron-down",
+      "tags": "directional"
+    },
+    {
+      "name": "chevron-left",
+      "tags": "directional"
+    },
+    {
+      "name": "chevron-right",
+      "tags": "directional"
+    },
+    {
+      "name": "chevron-up",
+      "tags": "directional"
+    },
+    {
+      "name": "circle",
+      "tags": "form control"
+    },
+    {
+      "name": "circle-o",
+      "tags": "form control"
+    },
+    {
+      "name": "clipboard",
+      "tags": "paste, text editor"
+    },
+    {
+      "name": "clock-o",
+      "tags": "timer"
+    },
+    {
+      "name": "cloud"
+    },
+    {
+      "name": "cloud-download"
+    },
+    {
+      "name": "cloud-upload"
+    },
+    {
+      "name": "code",
+      "tags": "source"
+    },
+    {
+      "name": "code-fork",
+      "tags": "git"
+    },
+    {
+      "name": "coffee",
+      "tags": "cup, drink, mug"
+    },
+    {
+      "name": "cog",
+      "tags": "gear, settings"
+    },
+    {
+      "name": "cogs",
+      "tags": "gears, settings"
+    },
+    {
+      "name": "columns",
+      "tags": "text editor"
+    },
+    {
+      "name": "comment",
+      "tags": "chat, speech bubble"
+    },
+    {
+      "name": "comment-o",
+      "tags": "chat, speech bubble"
+    },
+    {
+      "name": "comments",
+      "tags": "chat, speech bubble"
+    },
+    {
+      "name": "comments-o",
+      "tags": "chat, speech bubble"
+    },
+    {
+      "name": "compass",
+      "tags": "directions, map, navigation"
+    },
+    {
+      "name": "compress",
+      "tags": "arrows, resize, video player"
+    },
+    {
+      "name": "credit-card",
+      "tags": "money, payment"
+    },
+    {
+      "name": "crop"
+    },
+    {
+      "name": "crosshairs"
+    },
+    {
+      "name": "css3",
+      "tags": "brand, web"
+    },
+    {
+      "name": "cutlery",
+      "tags": "food, fork, knife"
+    },
+    {
+      "name": "desktop",
+      "tags": "computer, pc, monitor"
+    },
+    {
+      "name": "dot-circle-o",
+      "tags": "form control, target"
+    },
+    {
+      "name": "download"
+    },
+    {
+      "name": "dribbble",
+      "tags": "brand, social, basketball"
+    },
+    {
+      "name": "dropbox",
+      "tags": "brand"
+    },
+    {
+      "name": "eject",
+      "tags": "video player"
+    },
+    {
+      "name": "ellipsis-h",
+      "tags": "horizontal"
+    },
+    {
+      "name": "ellipsis-v",
+      "tags": "vertical"
+    },
+    {
+      "name": "envelope",
+      "tags": "email"
+    },
+    {
+      "name": "envelope-o",
+      "tags": "email"
+    },
+    {
+      "name": "eraser",
+      "tags": "text editor, undo, delete"
+    },
+    {
+      "name": "eur",
+      "tags": "euro, currency, money"
+    },
+    {
+      "name": "exchange",
+      "tags": "transfer, arrows"
+    },
+    {
+      "name": "exclamation"
+    },
+    {
+      "name": "exclamation-circle"
+    },
+    {
+      "name": "exclamation-triangle",
+      "tags": "warning"
+    },
+    {
+      "name": "expand",
+      "tags": "arrows, resize, video player"
+    },
+    {
+      "name": "external-link"
+    },
+    {
+      "name": "external-link-square"
+    },
+    {
+      "name": "eye",
+      "tags": "show"
+    },
+    {
+      "name": "eye-slash",
+      "tags": "hide"
+    },
+    {
+      "name": "facebook",
+      "tags": "brand, social"
+    },
+    {
+      "name": "facebook-square",
+      "tags": "brand, social"
+    },
+    {
+      "name": "fast-backward",
+      "tags": "video player"
+    },
+    {
+      "name": "fast-forward",
+      "tags": "video player"
+    },
+    {
+      "name": "female",
+      "tags": "gender, sex, person, user"
+    },
+    {
+      "name": "fighter-jet",
+      "tags": "airplane"
+    },
+    {
+      "name": "file",
+      "tags": "text editor, document"
+    },
+    {
+      "name": "file-o",
+      "tags": "text editor, document"
+    },
+    {
+      "name": "file-text",
+      "tags": "text editor, document"
+    },
+    {
+      "name": "file-text-o",
+      "tags": "text editor, document"
+    },
+    {
+      "name": "files-o",
+      "tags": "copy, clipboard, documents"
+    },
+    {
+      "name": "film"
+    },
+    {
+      "name": "filter"
+    },
+    {
+      "name": "fire",
+      "tags": "flame, hot"
+    },
+    {
+      "name": "fire-extinguisher"
+    },
+    {
+      "name": "flag"
+    },
+    {
+      "name": "flag-checkered"
+    },
+    {
+      "name": "flag-o"
+    },
+    {
+      "name": "flask",
+      "tags": "beaker, science"
+    },
+    {
+      "name": "flickr",
+      "tags": "brand, yahoo, social, photos"
+    },
+    {
+      "name": "floppy-o",
+      "tags": "save, text editor"
+    },
+    {
+      "name": "folder"
+    },
+    {
+      "name": "folder-o"
+    },
+    {
+      "name": "folder-open"
+    },
+    {
+      "name": "folder-open-o"
+    },
+    {
+      "name": "font",
+      "tags": "text editor"
+    },
+    {
+      "name": "forward",
+      "tags": "video player"
+    },
+    {
+      "name": "foursquare",
+      "tags": "brand, social"
+    },
+    {
+      "name": "frown-o",
+      "tags": "face, smiley, ratings, rate, unlike"
+    },
+    {
+      "name": "gamepad",
+      "tags": "controller"
+    },
+    {
+      "name": "gavel",
+      "tags": "legal, judge"
+    },
+    {
+      "name": "gbp",
+      "tags": "currency, money"
+    },
+    {
+      "name": "gift",
+      "tags": "present"
+    },
+    {
+      "name": "github",
+      "tags": "brand, code, social"
+    },
+    {
+      "name": "github-alt",
+      "tags": "brand, code, social"
+    },
+    {
+      "name": "github-square",
+      "tags": "brand, code, social"
+    },
+    {
+      "name": "gittip",
+      "tags": "brand, social, heart"
+    },
+    {
+      "name": "glass",
+      "tags": "drink, martini"
+    },
+    {
+      "name": "globe",
+      "tags": "earth, planet, world"
+    },
+    {
+      "name": "google-plus",
+      "tags": "brand, social"
+    },
+    {
+      "name": "google-plus-square",
+      "tags": "brand, social"
+    },
+    {
+      "name": "group",
+      "tags": "users, people"
+    },
+    {
+      "name": "h-square",
+      "tags": "medical"
+    },
+    {
+      "name": "hand-o-down",
+      "tags": "directional, finger, pointer"
+    },
+    {
+      "name": "hand-o-left",
+      "tags": "directional, finger, pointer"
+    },
+    {
+      "name": "hand-o-right",
+      "tags": "directional, finger, pointer"
+    },
+    {
+      "name": "hand-o-up",
+      "tags": "directional, finger, pointer"
+    },
+    {
+      "name": "hdd-o",
+      "tags": "hard drive, computer, disk"
+    },
+    {
+      "name": "headphones",
+      "tags": "music, audio, sound"
+    },
+    {
+      "name": "heart",
+      "tags": "like, favorite"
+    },
+    {
+      "name": "heart-o",
+      "tags": "unlike, unfavorite"
+    },
+    {
+      "name": "home"
+    },
+    {
+      "name": "hospital-o",
+      "tags": "medical, building"
+    },
+    {
+      "name": "html5",
+      "tags": "brand, web"
+    },
+    {
+      "name": "inbox",
+      "tags": "email"
+    },
+    {
+      "name": "indent",
+      "tags": "text editor"
+    },
+    {
+      "name": "info"
+    },
+    {
+      "name": "info-circle"
+    },
+    {
+      "name": "inr",
+      "tags": "rupee, currency, money"
+    },
+    {
+      "name": "instagram",
+      "tags": "brand, camera, facebook, social, photos"
+    },
+    {
+      "name": "italic",
+      "tags": "text editor"
+    },
+    {
+      "name": "jpy",
+      "tags": "cny, rmb, yen, currency, money"
+    },
+    {
+      "name": "key"
+    },
+    {
+      "name": "keyboard-o",
+      "tags": "computer"
+    },
+    {
+      "name": "krw",
+      "tags": "won, currency, money"
+    },
+    {
+      "name": "laptop",
+      "tags": "computer"
+    },
+    {
+      "name": "leaf",
+      "tags": "plant"
+    },
+    {
+      "name": "lemon-o",
+      "tags": "food, fruit"
+    },
+    {
+      "name": "level-down"
+    },
+    {
+      "name": "level-up"
+    },
+    {
+      "name": "lightbulb-o"
+    },
+    {
+      "name": "link",
+      "tags": "chain, text editor"
+    },
+    {
+      "name": "linkedin",
+      "tags": "brand, social"
+    },
+    {
+      "name": "linkedin-square",
+      "tags": "brand, social"
+    },
+    {
+      "name": "linux",
+      "tags": "brand, penguin, bird, animal"
+    },
+    {
+      "name": "list",
+      "tags": "text editor"
+    },
+    {
+      "name": "list-alt",
+      "tags": "text editor"
+    },
+    {
+      "name": "list-ol",
+      "tags": "text editor"
+    },
+    {
+      "name": "list-ul",
+      "tags": "text editor"
+    },
+    {
+      "name": "location-arrow"
+    },
+    {
+      "name": "lock"
+    },
+    {
+      "name": "long-arrow-down",
+      "tags": "directional"
+    },
+    {
+      "name": "long-arrow-left",
+      "tags": "directional"
+    },
+    {
+      "name": "long-arrow-right",
+      "tags": "directional"
+    },
+    {
+      "name": "long-arrow-up",
+      "tags": "directional"
+    },
+    {
+      "name": "magic",
+      "tags": "wand"
+    },
+    {
+      "name": "magnet"
+    },
+    {
+      "name": "mail-reply-all",
+      "tags": "email"
+    },
+    {
+      "name": "male",
+      "tags": "gender, sex, person, user"
+    },
+    {
+      "name": "map-marker",
+      "tags": "location"
+    },
+    {
+      "name": "maxcdn",
+      "tags": "brand"
+    },
+    {
+      "name": "medkit",
+      "tags": "medical"
+    },
+    {
+      "name": "meh-o",
+      "tags": "face, smiley, ratings, rate"
+    },
+    {
+      "name": "microphone",
+      "tags": "audio, sound, voice"
+    },
+    {
+      "name": "microphone-slash",
+      "tags": "audio, sound, voice"
+    },
+    {
+      "name": "minus"
+    },
+    {
+      "name": "minus-circle"
+    },
+    {
+      "name": "minus-square",
+      "tags": "form control, collapse"
+    },
+    {
+      "name": "minus-square-o",
+      "tags": "form control, resize, collapse"
+    },
+    {
+      "name": "mobile",
+      "tags": "mobile-phone"
+    },
+    {
+      "name": "money",
+      "tags": "currency, dollar bill, payment"
+    },
+    {
+      "name": "moon-o"
+    },
+    {
+      "name": "music"
+    },
+    {
+      "name": "outdent",
+      "tags": "dedent, text editor"
+    },
+    {
+      "name": "paperclip",
+      "tags": "text editor, email, file attachment"
+    },
+    {
+      "name": "pagelines",
+      "tags": "brand, leaf, plant"
+    },
+    {
+      "name": "pause",
+      "tags": "video player"
+    },
+    {
+      "name": "pencil"
+    },
+    {
+      "name": "pencil-square",
+      "tags": "edit"
+    },
+    {
+      "name": "pencil-square-o"
+    },
+    {
+      "name": "phone",
+      "tags": "telephone"
+    },
+    {
+      "name": "phone-square",
+      "tags": "telephone"
+    },
+    {
+      "name": "picture-o"
+    },
+    {
+      "name": "pinterest",
+      "tags": "brand, social"
+    },
+    {
+      "name": "pinterest-square",
+      "tags": "brand, social"
+    },
+    {
+      "name": "plane",
+      "tags": "airplane, jet"
+    },
+    {
+      "name": "play",
+      "tags": "video player, triangle"
+    },
+    {
+      "name": "play-circle",
+      "tags": "video player"
+    },
+    {
+      "name": "play-circle-o",
+      "tags": "video player"
+    },
+    {
+      "name": "plus",
+      "tags": "add"
+    },
+    {
+      "name": "plus-circle"
+    },
+    {
+      "name": "plus-square",
+      "tags": "medical"
+    },
+    {
+      "name": "plus-square-o",
+      "tags": "form controls, expand, resize"
+    },
+    {
+      "name": "power-off",
+      "tags": "on"
+    },
+    {
+      "name": "print",
+      "tags": "printer, computer"
+    },
+    {
+      "name": "puzzle-piece",
+      "tags": "jigsaw"
+    },
+    {
+      "name": "qrcode"
+    },
+    {
+      "name": "question"
+    },
+    {
+      "name": "question-circle"
+    },
+    {
+      "name": "quote-left"
+    },
+    {
+      "name": "quote-right"
+    },
+    {
+      "name": "random"
+    },
+    {
+      "name": "refresh",
+      "tags": "reload"
+    },
+    {
+      "name": "renren",
+      "tags": "brand, social"
+    },
+    {
+      "name": "repeat",
+      "tags": "rotate-right, text editor"
+    },
+    {
+      "name": "reply",
+      "tags": "mail-reply, email"
+    },
+    {
+      "name": "reply-all",
+      "tags": "email"
+    },
+    {
+      "name": "retweet"
+    },
+    {
+      "name": "road"
+    },
+    {
+      "name": "rocket",
+      "tags": "spaceship"
+    },
+    {
+      "name": "rub",
+      "tags": "ruble, rouble, currency, money"
+    },
+    {
+      "name": "rss"
+    },
+    {
+      "name": "rss-square"
+    },
+    {
+      "name": "scissors",
+      "tags": "cut, text editor, clipboard"
+    },
+    {
+      "name": "search",
+      "tags": "magnifying glass"
+    },
+    {
+      "name": "search-minus",
+      "tags": "zoom out, magnifying glass"
+    },
+    {
+      "name": "search-plus",
+      "tags": "zoom in, magnifying glass"
+    },
+    {
+      "name": "share",
+      "tags": "mail-forward, email"
+    },
+    {
+      "name": "share-square"
+    },
+    {
+      "name": "share-square-o"
+    },
+    {
+      "name": "shield"
+    },
+    {
+      "name": "shopping-cart"
+    },
+    {
+      "name": "sign-in"
+    },
+    {
+      "name": "sign-out"
+    },
+    {
+      "name": "signal",
+      "tags": "bars, graph"
+    },
+    {
+      "name": "sitemap"
+    },
+    {
+      "name": "skype",
+      "tags": "brand, social, microsoft"
+    },
+    {
+      "name": "smile-o",
+      "tags": "face, smiley, ratings, rate, like"
+    },
+    {
+      "name": "sort",
+      "tags": "unsorted"
+    },
+    {
+      "name": "sort-alpha-asc"
+    },
+    {
+      "name": "sort-alpha-desc"
+    },
+    {
+      "name": "sort-amount-asc"
+    },
+    {
+      "name": "sort-amount-desc"
+    },
+    {
+      "name": "sort-asc",
+      "tags": "sort-down, triangle"
+    },
+    {
+      "name": "sort-desc",
+      "tags": "sort-up, triangle"
+    },
+    {
+      "name": "sort-numeric-asc"
+    },
+    {
+      "name": "sort-numeric-desc"
+    },
+    {
+      "name": "spinner",
+      "tags": "loading"
+    },
+    {
+      "name": "square",
+      "tags": "form control"
+    },
+    {
+      "name": "square-o",
+      "tags": "form control"
+    },
+    {
+      "name": "stack-exchange",
+      "tags": "brand, social"
+    },
+    {
+      "name": "stack-overflow",
+      "tags": "brand, code, social"
+    },
+    {
+      "name": "star",
+      "tags": "favorite, ratings, rate"
+    },
+    {
+      "name": "star-half",
+      "tags": "ratings, rate"
+    },
+    {
+      "name": "star-half-o",
+      "tags": "star-half-empty, star-half-full, ratings, rate"
+    },
+    {
+      "name": "star-o",
+      "tags": "favorite, ratings, rate"
+    },
+    {
+      "name": "step-backward",
+      "tags": "video player"
+    },
+    {
+      "name": "step-forward",
+      "tags": "video player"
+    },
+    {
+      "name": "stethoscope",
+      "tags": "medical"
+    },
+    {
+      "name": "stop",
+      "tags": "video player, square"
+    },
+    {
+      "name": "strikethrough",
+      "tags": "text editor"
+    },
+    {
+      "name": "subscript"
+    },
+    {
+      "name": "suitcase",
+      "tags": "briefcase, business"
+    },
+    {
+      "name": "sun-o",
+      "tags": "weather"
+    },
+    {
+      "name": "superscript"
+    },
+    {
+      "name": "table",
+      "tags": "text editor"
+    },
+    {
+      "name": "tablet",
+      "tags": "computer, ipad"
+    },
+    {
+      "name": "tachometer",
+      "tags": "dashboard, speedometer"
+    },
+    {
+      "name": "tag"
+    },
+    {
+      "name": "tags"
+    },
+    {
+      "name": "tasks"
+    },
+    {
+      "name": "terminal"
+    },
+    {
+      "name": "text-height",
+      "tags": "text editor"
+    },
+    {
+      "name": "text-width",
+      "tags": "text editor"
+    },
+    {
+      "name": "th",
+      "tags": "text editor"
+    },
+    {
+      "name": "th-large",
+      "tags": "text editor"
+    },
+    {
+      "name": "th-list",
+      "tags": "text editor"
+    },
+    {
+      "name": "thumb-tack"
+    },
+    {
+      "name": "thumbs-down",
+      "tags": "unlike, ratings, rate"
+    },
+    {
+      "name": "thumbs-o-down",
+      "tags": "unlike, ratings, rate"
+    },
+    {
+      "name": "thumbs-o-up",
+      "tags": "like, ratings, rate"
+    },
+    {
+      "name": "thumbs-up",
+      "tags": "unlike, ratings, rate"
+    },
+    {
+      "name": "ticket",
+      "tags": "film, movie, admission"
+    },
+    {
+      "name": "times",
+      "tags": "close"
+    },
+    {
+      "name": "times-circle",
+      "tags": "close"
+    },
+    {
+      "name": "times-circle-o",
+      "tags": "close"
+    },
+    {
+      "name": "tint"
+    },
+    {
+      "name": "trash-o",
+      "tags": "delete"
+    },
+    {
+      "name": "trello",
+      "tags": "brand, social"
+    },
+    {
+      "name": "trophy",
+      "tags": "prize, award"
+    },
+    {
+      "name": "truck",
+      "tags": "vehicle"
+    },
+    {
+      "name": "try",
+      "tags": "turkish lira, currency, money"
+    },
+    {
+      "name": "tumblr",
+      "tags": "brand, yahoo, social"
+    },
+    {
+      "name": "tumblr-square",
+      "tags": "brand, yahoo, social"
+    },
+    {
+      "name": "twitter",
+      "tags": "brand, bird, animal, social"
+    },
+    {
+      "name": "twitter-square",
+      "tags": "brand, bird, animal, social"
+    },
+    {
+      "name": "umbrella"
+    },
+    {
+      "name": "underline",
+      "tags": "text editor"
+    },
+    {
+      "name": "undo",
+      "tags": "rotate-left, text editor"
+    },
+    {
+      "name": "unlock"
+    },
+    {
+      "name": "unlock-alt"
+    },
+    {
+      "name": "upload"
+    },
+    {
+      "name": "usd",
+      "tags": "dollar, currency, money"
+    },
+    {
+      "name": "user",
+      "tags": "person"
+    },
+    {
+      "name": "user-md",
+      "tags": "medical, doctor"
+    },
+    {
+      "name": "video-camera"
+    },
+    {
+      "name": "vimeo-square",
+      "tags": "brand, video, social"
+    },
+    {
+      "name": "vk",
+      "tags": "brand, social"
+    },
+    {
+      "name": "volume-down",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "volume-off",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "volume-up",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "weibo",
+      "tags": "brand, social"
+    },
+    {
+      "name": "wheelchair",
+      "tags": "medical, handicapped"
+    },
+    {
+      "name": "windows",
+      "tags": "brand, microsoft"
+    },
+    {
+      "name": "wrench",
+      "tags": "tool, settings"
+    },
+    {
+      "name": "xing",
+      "tags": "brand, social"
+    },
+    {
+      "name": "xing-square",
+      "tags": "brand, social"
+    },
+    {
+      "name": "youtube",
+      "tags": "brand, video, google, social"
+    },
+    {
+      "name": "youtube-play",
+      "tags": "brand, video player, google, social"
+    },
+    {
+      "name": "youtube-square",
+      "tags": "brand, video, google, social"
+    }
+  ]
+}

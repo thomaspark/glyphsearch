@@ -1,0 +1,747 @@
+{
+  "glyphicons": [
+    {
+      "name": "adjust"
+    },
+    {
+      "name": "align-center",
+      "tags": "text editor"
+    },
+    {
+      "name": "align-justify",
+      "tags": "text editor"
+    },
+    {
+      "name": "align-left",
+      "tags": "text editor"
+    },
+    {
+      "name": "align-right",
+      "tags": "text editor"
+    },
+    {
+      "name": "arrow-down",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-left",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-right",
+      "tags": "directional"
+    },
+    {
+      "name": "arrow-up",
+      "tags": "directional"
+    },
+    {
+      "name": "asterisk"
+    },
+    {
+      "name": "backward",
+      "tags": "video player"
+    },
+    {
+      "name": "ban-circle"
+    },
+    {
+      "name": "barcode"
+    },
+    {
+      "name": "bell",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "bold",
+      "tags": "text editor"
+    },
+    {
+      "name": "book"
+    },
+    {
+      "name": "bookmark"
+    },
+    {
+      "name": "briefcase",
+      "tags": "suitcase, business"
+    },
+    {
+      "name": "bullhorn",
+      "tags": "speakerphone"
+    },
+    {
+      "name": "calendar",
+      "tags": "date"
+    },
+    {
+      "name": "camera",
+      "tags": "photographs"
+    },
+    {
+      "name": "certificate",
+      "tags": "seal, prize, award"
+    },
+    {
+      "name": "check",
+      "tags": "form control"
+    },
+    {
+      "name": "chevron-down",
+      "tags": "directional"
+    },
+    {
+      "name": "chevron-left",
+      "tags": "directional"
+    },
+    {
+      "name": "chevron-right",
+      "tags": "directional"
+    },
+    {
+      "name": "chevron-up",
+      "tags": "directional"
+    },
+    {
+      "name": "circle-arrow-down",
+      "tags": "directional"
+    },
+    {
+      "name": "circle-arrow-left",
+      "tags": "directional"
+    },
+    {
+      "name": "circle-arrow-right",
+      "tags": "directional"
+    },
+    {
+      "name": "circle-arrow-up",
+      "tags": "directional"
+    },
+    {
+      "name": "cloud",
+      "tags": "weather"
+    },
+    {
+      "name": "cloud-download"
+    },
+    {
+      "name": "cloud-upload"
+    },
+    {
+      "name": "cog",
+      "tags": "gear, settings"
+    },
+    {
+      "name": "collapse-down",
+      "tags": "directional"
+    },
+    {
+      "name": "collapse-up",
+      "tags": "directional"
+    },
+    {
+      "name": "comment",
+      "tags": "chat, speech bubble"
+    },
+    {
+      "name": "compressed"
+    },
+    {
+      "name": "copyright-mark"
+    },
+    {
+      "name": "credit-card",
+      "tags": "money, payment"
+    },
+    {
+      "name": "cutlery",
+      "tags": "food, fork, knife"
+    },
+    {
+      "name": "dashboard",
+      "tags": "tachometer, speedometer"
+    },
+    {
+      "name": "download"
+    },
+    {
+      "name": "download-alt"
+    },
+    {
+      "name": "earphone",
+      "tags": "telephone"
+    },
+    {
+      "name": "edit",
+      "tags": "text editor"
+    },
+    {
+      "name": "eject"
+    },
+    {
+      "name": "envelope",
+      "tags": "email"
+    },
+    {
+      "name": "euro",
+      "tags": "currency, money"
+    },
+    {
+      "name": "exclamation-sign"
+    },
+    {
+      "name": "expand",
+      "tags": "directional"
+    },
+    {
+      "name": "export",
+      "tags": "text editor"
+    },
+    {
+      "name": "eye-close",
+      "tags": "hide"
+    },
+    {
+      "name": "eye-open",
+      "tags": "show"
+    },
+    {
+      "name": "facetime-video",
+      "tags": "video player, camera"
+    },
+    {
+      "name": "fast-backward",
+      "tags": "video player"
+    },
+    {
+      "name": "fast-forward",
+      "tags": "video player"
+    },
+    {
+      "name": "file",
+      "tags": "text editor, document"
+    },
+    {
+      "name": "film"
+    },
+    {
+      "name": "filter"
+    },
+    {
+      "name": "fire",
+      "tags": "flame, hot"
+    },
+    {
+      "name": "flag"
+    },
+    {
+      "name": "flash",
+      "tags": "lightning bolt"
+    },
+    {
+      "name": "floppy-disk",
+      "tags": "text editor"
+    },
+    {
+      "name": "floppy-open",
+      "tags": "text editor, disk"
+    },
+    {
+      "name": "floppy-remove",
+      "tags": "text editor, disk"
+    },
+    {
+      "name": "floppy-save",
+      "tags": "text editor, disk"
+    },
+    {
+      "name": "floppy-saved",
+      "tags": "text editor, disk"
+    },
+    {
+      "name": "folder-close",
+      "tags": "text editor"
+    },
+    {
+      "name": "folder-open",
+      "tags": "text editor"
+    },
+    {
+      "name": "font",
+      "tags": "text editor"
+    },
+    {
+      "name": "forward",
+      "tags": "video player"
+    },
+    {
+      "name": "fullscreen",
+      "tags": "video player"
+    },
+    {
+      "name": "gbp",
+      "tags": "currency, money"
+    },
+    {
+      "name": "gift",
+      "tags": "present"
+    },
+    {
+      "name": "glass",
+      "tags": "drink, martini"
+    },
+    {
+      "name": "globe",
+      "tags": "earth, planet, world"
+    },
+    {
+      "name": "hand-down",
+      "tags": "directional, finger, pointer"
+    },
+    {
+      "name": "hand-left",
+      "tags": "directional, finger, pointer"
+    },
+    {
+      "name": "hand-right",
+      "tags": "directional, finger, pointer"
+    },
+    {
+      "name": "hand-up",
+      "tags": "directional, finger, pointer"
+    },
+    {
+      "name": "hd-video",
+      "tags": "video player"
+    },
+    {
+      "name": "hdd",
+      "tags": "hard drive, computer, disk"
+    },
+    {
+      "name": "header",
+      "tags": "text editor"
+    },
+    {
+      "name": "headphones",
+      "tags": "music, audio, sound"
+    },
+    {
+      "name": "heart",
+      "tags": "like, favorite"
+    },
+    {
+      "name": "heart-empty",
+      "tags": "unlike, unfavorite"
+    },
+    {
+      "name": "home"
+    },
+    {
+      "name": "import",
+      "tags": "text editor"
+    },
+    {
+      "name": "inbox",
+      "tags": "email"
+    },
+    {
+      "name": "indent-left",
+      "tags": "text editor"
+    },
+    {
+      "name": "indent-right",
+      "tags": "text editor"
+    },
+    {
+      "name": "info-sign"
+    },
+    {
+      "name": "italic",
+      "tags": "text editor"
+    },
+    {
+      "name": "leaf"
+    },
+    {
+      "name": "link",
+      "tags": "text editor, chain"
+    },
+    {
+      "name": "list",
+      "tags": "text editor"
+    },
+    {
+      "name": "list-alt",
+      "tags": "text editor"
+    },
+    {
+      "name": "lock"
+    },
+    {
+      "name": "log-in"
+    },
+    {
+      "name": "log-out"
+    },
+    {
+      "name": "magnet"
+    },
+    {
+      "name": "map-marker",
+      "tags": "location"
+    },
+    {
+      "name": "minus"
+    },
+    {
+      "name": "minus-sign"
+    },
+    {
+      "name": "move"
+    },
+    {
+      "name": "music"
+    },
+    {
+      "name": "new-window"
+    },
+    {
+      "name": "off",
+      "tags": "on, power"
+    },
+    {
+      "name": "ok"
+    },
+    {
+      "name": "ok-circle"
+    },
+    {
+      "name": "ok-sign"
+    },
+    {
+      "name": "open",
+      "tags": "text editor"
+    },
+    {
+      "name": "paperclip",
+      "tags": "text editor, email, file attachment"
+    },
+    {
+      "name": "pause"
+    },
+    {
+      "name": "pencil"
+    },
+    {
+      "name": "phone",
+      "tags": "mobile"
+    },
+    {
+      "name": "phone-alt",
+      "tags": "telephone"
+    },
+    {
+      "name": "picture",
+      "tags": "text editor"
+    },
+    {
+      "name": "plane",
+      "tags": "airplane, jet"
+    },
+    {
+      "name": "play",
+      "tags": "video player, triangle"
+    },
+    {
+      "name": "play-circle",
+      "tags": "video player"
+    },
+    {
+      "name": "plus",
+      "tags": "add"
+    },
+    {
+      "name": "plus-sign"
+    },
+    {
+      "name": "print",
+      "tags": "printer, computer"
+    },
+    {
+      "name": "pushpin"
+    },
+    {
+      "name": "qrcode"
+    },
+    {
+      "name": "question-sign"
+    },
+    {
+      "name": "random",
+      "tags": "video player"
+    },
+    {
+      "name": "record",
+      "tags": "video player"
+    },
+    {
+      "name": "refresh",
+      "tags": "reload"
+    },
+    {
+      "name": "registration-mark"
+    },
+    {
+      "name": "remove"
+    },
+    {
+      "name": "remove-circle"
+    },
+    {
+      "name": "remove-sign"
+    },
+    {
+      "name": "repeat",
+      "tags": "text editor"
+    },
+    {
+      "name": "resize-full",
+      "tags": "video player"
+    },
+    {
+      "name": "resize-horizontal"
+    },
+    {
+      "name": "resize-small",
+      "tags": "video player"
+    },
+    {
+      "name": "resize-vertical"
+    },
+    {
+      "name": "retweet"
+    },
+    {
+      "name": "road"
+    },
+    {
+      "name": "save",
+      "tags": "text editor"
+    },
+    {
+      "name": "saved",
+      "tags": "text editor"
+    },
+    {
+      "name": "screenshot"
+    },
+    {
+      "name": "sd-video",
+      "tags": "video player"
+    },
+    {
+      "name": "search",
+      "tags": "magnifying glass"
+    },
+    {
+      "name": "send",
+      "tags": "email, paper airplane"
+    },
+    {
+      "name": "share"
+    },
+    {
+      "name": "share-alt"
+    },
+    {
+      "name": "shopping-cart"
+    },
+    {
+      "name": "signal",
+      "tags": "bars, graph"
+    },
+    {
+      "name": "sort",
+      "tags": "text editor"
+    },
+    {
+      "name": "sort-by-alphabet",
+      "tags": "text editor"
+    },
+    {
+      "name": "sort-by-alphabet-alt",
+      "tags": "text editor"
+    },
+    {
+      "name": "sort-by-attributes",
+      "tags": "text editor"
+    },
+    {
+      "name": "sort-by-attributes-alt",
+      "tags": "text editor"
+    },
+    {
+      "name": "sort-by-order",
+      "tags": "text editor"
+    },
+    {
+      "name": "sort-by-order-alt",
+      "tags": "text editor"
+    },
+    {
+      "name": "sound-5-1",
+      "tags": "video player, audio"
+    },
+    {
+      "name": "sound-6-1",
+      "tags": "video player, audio"
+    },
+    {
+      "name": "sound-7-1",
+      "tags": "video player, audio"
+    },
+    {
+      "name": "sound-dolby",
+      "tags": "video player, audio"
+    },
+    {
+      "name": "sound-stereo",
+      "tags": "video player, audio"
+    },
+    {
+      "name": "star",
+      "tags": "favorite, ratings, rate"
+    },
+    {
+      "name": "star-empty",
+      "tags": "favorite, ratings, rate"
+    },
+    {
+      "name": "stats",
+      "tags": "graph"
+    },
+    {
+      "name": "step-backward"
+    },
+    {
+      "name": "step-forward"
+    },
+    {
+      "name": "stop",
+      "tags": "video player, square"
+    },
+    {
+      "name": "subtitles",
+      "tags": "video player"
+    },
+    {
+      "name": "tag",
+      "tags": "pricetag, shopping"
+    },
+    {
+      "name": "tags",
+      "tags": "pricetags, shopping"
+    },
+    {
+      "name": "tasks"
+    },
+    {
+      "name": "text-height",
+      "tags": "text editor"
+    },
+    {
+      "name": "text-width",
+      "tags": "text editor"
+    },
+    {
+      "name": "th",
+      "tags": "text editor"
+    },
+    {
+      "name": "th-large",
+      "tags": "text editor"
+    },
+    {
+      "name": "th-list",
+      "tags": "text editor"
+    },
+    {
+      "name": "thumbs-down",
+      "tags": "unlike, ratings, rate"
+    },
+    {
+      "name": "thumbs-up",
+      "tags": "like, ratings, rate"
+    },
+    {
+      "name": "time"
+    },
+    {
+      "name": "tint"
+    },
+    {
+      "name": "tower",
+      "tags": "chess, game, rook"
+    },
+    {
+      "name": "transfer",
+      "tags": "exchange, arrows"
+    },
+    {
+      "name": "trash",
+      "tags": "delete"
+    },
+    {
+      "name": "tree-conifer",
+      "tags": "plant"
+    },
+    {
+      "name": "tree-deciduous",
+      "tags": "plant"
+    },
+    {
+      "name": "unchecked",
+      "tags": "form control"
+    },
+    {
+      "name": "upload"
+    },
+    {
+      "name": "usd",
+      "tags": "currency, money, dollar"
+    },
+    {
+      "name": "user",
+      "tags": "person"
+    },
+    {
+      "name": "volume-down",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "volume-off",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "volume-up",
+      "tags": "audio, sound"
+    },
+    {
+      "name": "warning-sign"
+    },
+    {
+      "name": "wrench",
+      "tags": "tool, settings"
+    },
+    {
+      "name": "zoom-in",
+      "tags": "magnifying glass"
+    },
+    {
+      "name": "zoom-out",
+      "tags": "magnifying glass"
+    }
+  ]
+}
