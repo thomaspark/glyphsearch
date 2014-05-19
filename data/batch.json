@@ -296,6 +296,20 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "behance",
+    "tags": "brand, social",
+    "class": "fa fa-behance"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "behance-square",
+    "tags": "brand, social",
+    "class": "fa fa-behance-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "bell",
     "tags": "audio, sound",
     "class": "fa fa-bell"
@@ -338,6 +352,13 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "bomb",
+    "tags": "",
+    "class": "fa fa-bomb"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "book",
     "tags": "",
     "class": "fa fa-book"
@@ -348,6 +369,13 @@
     "name": "btc",
     "tags": "bitcoin, brand, currency, money",
     "class": "fa fa-btc"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "building",
+    "tags": "",
+    "class": "fa fa-building"
   },
   
   {
@@ -397,6 +425,13 @@
     "name": "camera-retro",
     "tags": "photographs",
     "class": "fa fa-camera-retro"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "car",
+    "tags": "automobile",
+    "class": "fa fa-car"
   },
   
   {
@@ -562,6 +597,13 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "child",
+    "tags": "",
+    "class": "fa fa-child"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "circle",
     "tags": "form control",
     "class": "fa fa-circle"
@@ -572,6 +614,20 @@
     "name": "circle-o",
     "tags": "form control",
     "class": "fa fa-circle-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "circle-o-notch",
+    "tags": "",
+    "class": "fa fa-circle-o-notch"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "circle-thin",
+    "tags": "",
+    "class": "fa fa-circle-thin"
   },
   
   {
@@ -621,6 +677,13 @@
     "name": "code-fork",
     "tags": "git",
     "class": "fa fa-code-fork"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "codepen",
+    "tags": "brand",
+    "class": "fa fa-codepen"
   },
   
   {
@@ -723,6 +786,20 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "cube",
+    "tags": "",
+    "class": "fa fa-cube"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "cubes",
+    "tags": "",
+    "class": "fa fa-cubes"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "cutlery",
     "tags": "food, fork, knife",
     "class": "fa fa-cutlery"
@@ -730,9 +807,37 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "database",
+    "tags": "",
+    "class": "fa fa-database"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "delicious",
+    "tags": "brand, social",
+    "class": "fa fa-delicious"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "desktop",
     "tags": "computer, pc, monitor",
     "class": "fa fa-desktop"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "deviantart",
+    "tags": "brand",
+    "class": "fa fa-deviantart"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "digg",
+    "tags": "brand, social",
+    "class": "fa fa-digg"
   },
   
   {
@@ -765,6 +870,13 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "drupal",
+    "tags": "brand",
+    "class": "fa fa-drupal"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "eject",
     "tags": "video player",
     "class": "fa fa-eject"
@@ -786,6 +898,13 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "empire",
+    "tags": "",
+    "class": "fa fa-empire"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "envelope",
     "tags": "email",
     "class": "fa fa-envelope"
@@ -796,6 +915,13 @@
     "name": "envelope-o",
     "tags": "email",
     "class": "fa fa-envelope-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "envelope-square",
+    "tags": "email",
+    "class": "fa fa-envelope-square"
   },
   
   {
@@ -905,6 +1031,13 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "fax",
+    "tags": "",
+    "class": "fa fa-fax"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "female",
     "tags": "gender, sex, person, user",
     "class": "fa fa-female"
@@ -926,9 +1059,58 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "file-archive-o",
+    "tags": "zip",
+    "class": "fa fa-file-archive-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "file-audio-o",
+    "tags": "sound",
+    "class": "fa fa-file-audio-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "file-code-o",
+    "tags": "",
+    "class": "fa fa-file-code-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "file-image-o",
+    "tags": "photo, picture",
+    "class": "fa fa-file-image-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "file-excel-o",
+    "tags": "",
+    "class": "fa fa-file-excel-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "file-o",
     "tags": "text editor, document",
     "class": "fa fa-file-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "file-pdf-o",
+    "tags": "",
+    "class": "fa fa-file-pdf-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "file-powerpoint-o",
+    "tags": "",
+    "class": "fa fa-file-powerpoint-o"
   },
   
   {
@@ -943,6 +1125,20 @@
     "name": "file-text-o",
     "tags": "text editor, document",
     "class": "fa fa-file-text-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "file-video-o",
+    "tags": "",
+    "class": "fa fa-file-video-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "file-word-o",
+    "tags": "",
+    "class": "fa fa-file-word-o"
   },
   
   {
@@ -1108,6 +1304,20 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "git",
+    "tags": "brand, code, social",
+    "class": "fa fa-git"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "git-square",
+    "tags": "brand, code, social",
+    "class": "fa fa-git-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "github",
     "tags": "brand, code, social",
     "class": "fa fa-github"
@@ -1150,6 +1360,13 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "google",
+    "tags": "brand, social",
+    "class": "fa fa-google"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "google-plus",
     "tags": "brand, social",
     "class": "fa fa-google-plus"
@@ -1164,6 +1381,13 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "graduation-cap",
+    "tags": "education, mortar board",
+    "class": "fa fa-graduation-cap"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "group",
     "tags": "users, people",
     "class": "fa fa-group"
@@ -1174,6 +1398,13 @@
     "name": "h-square",
     "tags": "medical",
     "class": "fa fa-h-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "hacker-news",
+    "tags": "brand, social, ycombinator",
+    "class": "fa fa-hacker-news"
   },
   
   {
@@ -1213,6 +1444,13 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "header",
+    "tags": "",
+    "class": "fa fa-header"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "headphones",
     "tags": "music, audio, sound",
     "class": "fa fa-headphones"
@@ -1230,6 +1468,13 @@
     "name": "heart-o",
     "tags": "unlike, unfavorite",
     "class": "fa fa-heart-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "history",
+    "tags": "",
+    "class": "fa fa-history"
   },
   
   {
@@ -1304,9 +1549,23 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "joomla",
+    "tags": "brand",
+    "class": "fa fa-joomla"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "jpy",
     "tags": "cny, rmb, yen, currency, money",
     "class": "fa fa-jpy"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "jsfiddle",
+    "tags": "brand, code",
+    "class": "fa fa-jsfiddle"
   },
   
   {
@@ -1328,6 +1587,13 @@
     "name": "krw",
     "tags": "won, currency, money",
     "class": "fa fa-krw"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "language",
+    "tags": "translation",
+    "class": "fa fa-language"
   },
   
   {
@@ -1363,6 +1629,13 @@
     "name": "level-up",
     "tags": "",
     "class": "fa fa-level-up"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "life-ring",
+    "tags": "bouy, life-saver, support",
+    "class": "fa fa-life-ring"
   },
   
   {
@@ -1598,9 +1871,30 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "openid",
+    "tags": "brand",
+    "class": "fa fa-openid"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "outdent",
     "tags": "dedent, text editor",
     "class": "fa fa-outdent"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "paper-plane",
+    "tags": "airplane, sent",
+    "class": "fa fa-paper-plane"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "paper-plane-o",
+    "tags": "airplane",
+    "class": "fa fa-paper-plane-o"
   },
   
   {
@@ -1619,9 +1913,23 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "paragraph",
+    "tags": "text editor",
+    "class": "fa fa-paragraph"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "pause",
     "tags": "video player",
     "class": "fa fa-pause"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "paw",
+    "tags": "animal, pet",
+    "class": "fa fa-paw"
   },
   
   {
@@ -1664,6 +1972,20 @@
     "name": "picture-o",
     "tags": "",
     "class": "fa fa-picture-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "pied-piper",
+    "tags": "brand",
+    "class": "fa fa-pied-piper"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "pied-piper-alt",
+    "tags": "brand",
+    "class": "fa fa-pied-piper-alt"
   },
   
   {
@@ -1759,6 +2081,13 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "qq",
+    "tags": "brand",
+    "class": "fa fa-qq"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "qrcode",
     "tags": "",
     "class": "fa fa-qrcode"
@@ -1797,6 +2126,34 @@
     "name": "random",
     "tags": "",
     "class": "fa fa-random"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "rebel",
+    "tags": "",
+    "class": "fa fa-rebel"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "recycle",
+    "tags": "",
+    "class": "fa fa-recycle"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "reddit",
+    "tags": "brand, alien, social",
+    "class": "fa fa-reddit"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "reddit-square",
+    "tags": "brand, alien, social",
+    "class": "fa fa-reddit-square"
   },
   
   {
@@ -1914,14 +2271,21 @@
   {
     "_tags": ["font-awesome"],
     "name": "share-square",
-    "tags": "",
+    "tags": "social",
     "class": "fa fa-share-square"
   },
   
   {
     "_tags": ["font-awesome"],
+    "name": "share-alt-square",
+    "tags": "social",
+    "class": "fa fa-share-alt-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "share-square-o",
-    "tags": "",
+    "tags": "social",
     "class": "fa fa-share-square-o"
   },
   
@@ -1976,9 +2340,30 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "slack",
+    "tags": "brand, hash, pound",
+    "class": "fa fa-slack"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "sliders",
+    "tags": "settings",
+    "class": "fa fa-sliders"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "smile-o",
     "tags": "face, smiley, ratings, rate, like",
     "class": "fa fa-smile-o"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "soundcloud",
+    "tags": "brand, social, music",
+    "class": "fa fa-soundcloud"
   },
   
   {
@@ -2046,9 +2431,30 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "space-shuttle",
+    "tags": "",
+    "class": "fa fa-space-shuttle"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "spinner",
     "tags": "loading",
     "class": "fa fa-spinner"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "spoon",
+    "tags": "",
+    "class": "fa fa-spoon"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "spotify",
+    "tags": "brand, social, music",
+    "class": "fa fa-spotify"
   },
   
   {
@@ -2109,6 +2515,20 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "steam",
+    "tags": "brand, social, games, valve",
+    "class": "fa fa-steam"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "steam-square",
+    "tags": "brand, social, games, valve",
+    "class": "fa fa-steam-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "step-backward",
     "tags": "video player",
     "class": "fa fa-step-backward"
@@ -2140,6 +2560,20 @@
     "name": "strikethrough",
     "tags": "text editor",
     "class": "fa fa-strikethrough"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "stumbleupon",
+    "tags": "brand, social",
+    "class": "fa fa-stumbleupon"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "stumbleupon-circle",
+    "tags": "brand, social",
+    "class": "fa fa-stumbleupon-circle"
   },
   
   {
@@ -2214,8 +2648,22 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "taxi",
+    "tags": "cab, automobile, car",
+    "class": "fa fa-taxi"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "tencent-weibo",
+    "tags": "brand, social",
+    "class": "fa fa-tencent-weibo"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "terminal",
-    "tags": "",
+    "tags": "console",
     "class": "fa fa-terminal"
   },
   
@@ -2333,6 +2781,13 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "tree",
+    "tags": "",
+    "class": "fa fa-tree"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "trello",
     "tags": "brand, social",
     "class": "fa fa-trello"
@@ -2410,6 +2865,13 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "university",
+    "tags": "bank, institution, building",
+    "class": "fa fa-university"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "unlock",
     "tags": "",
     "class": "fa fa-unlock"
@@ -2466,6 +2928,13 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "vine",
+    "tags": "brand, social",
+    "class": "fa fa-vine"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "vk",
     "tags": "brand, social",
     "class": "fa fa-vk"
@@ -2501,6 +2970,13 @@
   
   {
     "_tags": ["font-awesome"],
+    "name": "weixin",
+    "tags": "brand, social, chat",
+    "class": "fa fa-weixin"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
     "name": "wheelchair",
     "tags": "medical, handicapped",
     "class": "fa fa-wheelchair"
@@ -2511,6 +2987,13 @@
     "name": "windows",
     "tags": "brand, microsoft",
     "class": "fa fa-windows"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "wordpress",
+    "tags": "brand, social",
+    "class": "fa fa-wordpress"
   },
   
   {
@@ -2532,6 +3015,13 @@
     "name": "xing-square",
     "tags": "brand, social",
     "class": "fa fa-xing-square"
+  },
+  
+  {
+    "_tags": ["font-awesome"],
+    "name": "yahoo",
+    "tags": "brand",
+    "class": "fa fa-yahoo"
   },
   
   {

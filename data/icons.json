@@ -163,6 +163,14 @@
 			"tags": "drink, mug, stein"
 		},
 		{
+			"name": "behance",
+			"tags": "brand, social"
+		},
+		{
+			"name": "behance-square",
+			"tags": "brand, social"
+		},
+		{
 			"name": "bell",
 			"tags": "audio, sound"
 		},
@@ -187,11 +195,17 @@
 			"tags": "flash, lightning bolt"
 		},
 		{
+			"name": "bomb"
+		},
+		{
 			"name": "book"
 		},
 		{
 			"name": "btc",
 			"tags": "bitcoin, brand, currency, money"
+		},
+		{
+			"name": "building"
 		},
 		{
 			"name": "building-o"
@@ -219,6 +233,10 @@
 		{
 			"name": "camera-retro",
 			"tags": "photographs"
+		},
+		{
+			"name": "car",
+			"tags": "automobile"
 		},
 		{
 			"name": "caret-down",
@@ -310,12 +328,21 @@
 			"tags": "directional"
 		},
 		{
+			"name": "child"
+		},
+		{
 			"name": "circle",
 			"tags": "form control"
 		},
 		{
 			"name": "circle-o",
 			"tags": "form control"
+		},
+		{
+			"name": "circle-o-notch"
+		},
+		{
+			"name": "circle-thin"
 		},
 		{
 			"name": "clipboard",
@@ -341,6 +368,10 @@
 		{
 			"name": "code-fork",
 			"tags": "git"
+		},
+		{
+			"name": "codepen",
+			"tags": "brand"
 		},
 		{
 			"name": "coffee",
@@ -397,12 +428,33 @@
 			"tags": "brand, web"
 		},
 		{
+			"name": "cube"
+		},
+		{
+			"name": "cubes"
+		},
+		{
 			"name": "cutlery",
 			"tags": "food, fork, knife"
 		},
 		{
+			"name": "database"
+		},
+		{
+			"name": "delicious",
+			"tags": "brand, social"
+		},
+		{
 			"name": "desktop",
 			"tags": "computer, pc, monitor"
+		},
+		{
+			"name": "deviantart",
+			"tags": "brand"
+		},
+		{
+			"name": "digg",
+			"tags": "brand, social"
 		},
 		{
 			"name": "dot-circle-o",
@@ -420,6 +472,10 @@
 			"tags": "brand"
 		},
 		{
+			"name": "drupal",
+			"tags": "brand"
+		},
+		{
 			"name": "eject",
 			"tags": "video player"
 		},
@@ -432,11 +488,18 @@
 			"tags": "vertical"
 		},
 		{
+			"name": "empire"
+		},
+		{
 			"name": "envelope",
 			"tags": "email"
 		},
 		{
 			"name": "envelope-o",
+			"tags": "email"
+		},
+		{
+			"name": "envelope-square",
 			"tags": "email"
 		},
 		{
@@ -496,6 +559,9 @@
 			"tags": "video player"
 		},
 		{
+			"name": "fax"
+		},
+		{
 			"name": "female",
 			"tags": "gender, sex, person, user"
 		},
@@ -508,8 +574,32 @@
 			"tags": "text editor, document"
 		},
 		{
+			"name": "file-archive-o",
+			"tags": "zip"
+		},
+		{
+			"name": "file-audio-o",
+			"tags": "sound"
+		},
+		{
+			"name": "file-code-o"
+		},
+		{
+			"name": "file-image-o",
+			"tags": "photo, picture"
+		},
+		{
+			"name": "file-excel-o"
+		},
+		{
 			"name": "file-o",
 			"tags": "text editor, document"
+		},
+		{
+			"name": "file-pdf-o"
+		},
+		{
+			"name": "file-powerpoint-o"
 		},
 		{
 			"name": "file-text",
@@ -518,6 +608,12 @@
 		{
 			"name": "file-text-o",
 			"tags": "text editor, document"
+		},
+		{
+			"name": "file-video-o"
+		},
+		{
+			"name": "file-word-o"
 		},
 		{
 			"name": "files-o",
@@ -602,6 +698,14 @@
 			"tags": "present"
 		},
 		{
+			"name": "git",
+			"tags": "brand, code, social"
+		},
+		{
+			"name": "git-square",
+			"tags": "brand, code, social"
+		},
+		{
 			"name": "github",
 			"tags": "brand, code, social"
 		},
@@ -626,6 +730,10 @@
 			"tags": "earth, planet, world"
 		},
 		{
+			"name": "google",
+			"tags": "brand, social"
+		},
+		{
 			"name": "google-plus",
 			"tags": "brand, social"
 		},
@@ -634,12 +742,20 @@
 			"tags": "brand, social"
 		},
 		{
+			"name": "graduation-cap",
+			"tags": "education, mortar board"
+		},
+		{
 			"name": "group",
 			"tags": "users, people"
 		},
 		{
 			"name": "h-square",
 			"tags": "medical"
+		},
+		{
+			"name": "hacker-news",
+			"tags": "brand, social, ycombinator"
 		},
 		{
 			"name": "hand-o-down",
@@ -662,6 +778,9 @@
 			"tags": "hard drive, computer, disk"
 		},
 		{
+			"name": "header"
+		},
+		{
 			"name": "headphones",
 			"tags": "music, audio, sound"
 		},
@@ -672,6 +791,9 @@
 		{
 			"name": "heart-o",
 			"tags": "unlike, unfavorite"
+		},
+		{
+			"name": "history"
 		},
 		{
 			"name": "home"
@@ -711,8 +833,16 @@
 			"tags": "text editor"
 		},
 		{
+			"name": "joomla",
+			"tags": "brand"
+		},
+		{
 			"name": "jpy",
 			"tags": "cny, rmb, yen, currency, money"
+		},
+		{
+			"name": "jsfiddle",
+			"tags": "brand, code"
 		},
 		{
 			"name": "key"
@@ -724,6 +854,10 @@
 		{
 			"name": "krw",
 			"tags": "won, currency, money"
+		},
+		{
+			"name": "language",
+			"tags": "translation"
 		},
 		{
 			"name": "laptop",
@@ -742,6 +876,10 @@
 		},
 		{
 			"name": "level-up"
+		},
+		{
+			"name": "life-ring",
+			"tags": "bouy, life-saver, support"
 		},
 		{
 			"name": "lightbulb-o"
@@ -868,8 +1006,20 @@
 			"name": "music"
 		},
 		{
+			"name": "openid",
+			"tags": "brand"
+		},
+		{
 			"name": "outdent",
 			"tags": "dedent, text editor"
+		},
+		{
+			"name": "paper-plane",
+			"tags": "airplane, sent"
+		},
+		{
+			"name": "paper-plane-o",
+			"tags": "airplane"
 		},
 		{
 			"name": "paperclip",
@@ -880,8 +1030,16 @@
 			"tags": "brand, leaf, plant"
 		},
 		{
+			"name": "paragraph",
+			"tags": "text editor"
+		},
+		{
 			"name": "pause",
 			"tags": "video player"
+		},
+		{
+			"name": "paw",
+			"tags": "animal, pet"
 		},
 		{
 			"name": "pencil"
@@ -903,6 +1061,14 @@
 		},
 		{
 			"name": "picture-o"
+		},
+		{
+			"name": "pied-piper",
+			"tags": "brand"
+		},
+		{
+			"name": "pied-piper-alt",
+			"tags": "brand"
 		},
 		{
 			"name": "pinterest",
@@ -956,6 +1122,10 @@
 			"tags": "jigsaw"
 		},
 		{
+			"name": "qq",
+			"tags": "brand"
+		},
+		{
 			"name": "qrcode"
 		},
 		{
@@ -972,6 +1142,20 @@
 		},
 		{
 			"name": "random"
+		},
+		{
+			"name": "rebel"
+		},
+		{
+			"name": "recycle"
+		},
+		{
+			"name": "reddit",
+			"tags": "brand, alien, social"
+		},
+		{
+			"name": "reddit-square",
+			"tags": "brand, alien, social"
 		},
 		{
 			"name": "refresh",
@@ -1034,10 +1218,16 @@
 			"tags": "mail-forward, email"
 		},
 		{
-			"name": "share-square"
+			"name": "share-square",
+			"tags": "social"
 		},
 		{
-			"name": "share-square-o"
+			"name": "share-alt-square",
+			"tags": "social"
+		},
+		{
+			"name": "share-square-o",
+			"tags": "social"
 		},
 		{
 			"name": "shield"
@@ -1063,8 +1253,20 @@
 			"tags": "brand, social, microsoft"
 		},
 		{
+			"name": "slack",
+			"tags": "brand, hash, pound"
+		},
+		{
+			"name": "sliders",
+			"tags": "settings"
+		},
+		{
 			"name": "smile-o",
 			"tags": "face, smiley, ratings, rate, like"
+		},
+		{
+			"name": "soundcloud",
+			"tags": "brand, social, music"
 		},
 		{
 			"name": "sort",
@@ -1097,8 +1299,18 @@
 			"name": "sort-numeric-desc"
 		},
 		{
+			"name": "space-shuttle"
+		},
+		{
 			"name": "spinner",
 			"tags": "loading"
+		},
+		{
+			"name": "spoon"
+		},
+		{
+			"name": "spotify",
+			"tags": "brand, social, music"
 		},
 		{
 			"name": "square",
@@ -1133,6 +1345,14 @@
 			"tags": "favorite, ratings, rate"
 		},
 		{
+			"name": "steam",
+			"tags": "brand, social, games, valve"
+		},
+		{
+			"name": "steam-square",
+			"tags": "brand, social, games, valve"
+		},
+		{
 			"name": "step-backward",
 			"tags": "video player"
 		},
@@ -1151,6 +1371,14 @@
 		{
 			"name": "strikethrough",
 			"tags": "text editor"
+		},
+		{
+			"name": "stumbleupon",
+			"tags": "brand, social"
+		},
+		{
+			"name": "stumbleupon-circle",
+			"tags": "brand, social"
 		},
 		{
 			"name": "subscript"
@@ -1188,7 +1416,16 @@
 			"name": "tasks"
 		},
 		{
-			"name": "terminal"
+			"name": "taxi",
+			"tags": "cab, automobile, car"
+		},
+		{
+			"name": "tencent-weibo",
+			"tags": "brand, social"
+		},
+		{
+			"name": "terminal",
+			"tags": "console"
 		},
 		{
 			"name": "text-height",
@@ -1253,6 +1490,9 @@
 			"tags": "delete"
 		},
 		{
+			"name": "tree"
+		},
+		{
 			"name": "trello",
 			"tags": "brand, social"
 		},
@@ -1296,6 +1536,10 @@
 			"tags": "rotate-left, text editor"
 		},
 		{
+			"name": "university",
+			"tags": "bank, institution, building"
+		},
+		{
 			"name": "unlock"
 		},
 		{
@@ -1324,6 +1568,10 @@
 			"tags": "brand, video, social"
 		},
 		{
+			"name": "vine",
+			"tags": "brand, social"
+		},
+		{
 			"name": "vk",
 			"tags": "brand, social"
 		},
@@ -1344,12 +1592,20 @@
 			"tags": "brand, social"
 		},
 		{
+			"name": "weixin",
+			"tags": "brand, social, chat"
+		},
+		{
 			"name": "wheelchair",
 			"tags": "medical, handicapped"
 		},
 		{
 			"name": "windows",
 			"tags": "brand, microsoft"
+		},
+		{
+			"name": "wordpress",
+			"tags": "brand, social"
 		},
 		{
 			"name": "wrench",
@@ -1362,6 +1618,10 @@
 		{
 			"name": "xing-square",
 			"tags": "brand, social"
+		},
+		{
+			"name": "yahoo",
+			"tags": "brand"
 		},
 		{
 			"name": "youtube",
