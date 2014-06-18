@@ -116,6 +116,11 @@ function handlers() {
 
   $('#search').change(function() {
     search($(this).val());
+  }).keydown(function(e) {
+    if (e.which == 13) {
+      e.preventDefault();
+      return;
+    }
   }).keyup(function(e) {
     if (e.which == 27) {
       $(this).val('').change();
