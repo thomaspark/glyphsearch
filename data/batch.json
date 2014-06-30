@@ -11172,5 +11172,1246 @@
   },
    
 
+  
+  {
+    "_tags": ["octicons"],
+    "name": "alert",
+    "tags": "warning, triangle, exclamation, point",
+    "class": "mega-octicon octicon-alert"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "alignment-align",
+    "tags": "dot, arrow, point, toward, direction",
+    "class": "mega-octicon octicon-alignment-align"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "alignment-aligned-to",
+    "tags": "dot, arrow, point, away, direction",
+    "class": "mega-octicon octicon-alignment-aligned-to"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "alignment-unalign",
+    "tags": "break, separate, snap, gap",
+    "class": "mega-octicon octicon-alignment-unalign"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "arrow-down",
+    "tags": "point, direction",
+    "class": "mega-octicon octicon-arrow-down"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "arrow-left",
+    "tags": "point, direction",
+    "class": "mega-octicon octicon-arrow-left"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "arrow-right",
+    "tags": "point, direction",
+    "class": "mega-octicon octicon-arrow-right"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "arrow-small-down",
+    "tags": "point, direction",
+    "class": "mega-octicon octicon-arrow-small-down"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "arrow-small-left",
+    "tags": "point, direction, little, tiny",
+    "class": "mega-octicon octicon-arrow-small-left"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "arrow-small-right",
+    "tags": "point, direction, little, tiny",
+    "class": "mega-octicon octicon-arrow-small-right"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "arrow-small-up",
+    "tags": "point, direction, little, tiny",
+    "class": "mega-octicon octicon-arrow-small-up"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "arrow-up",
+    "tags": "point, direction",
+    "class": "mega-octicon octicon-arrow-up"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "beer",
+    "tags": "drink, cup, meetup",
+    "class": "mega-octicon octicon-beer"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "book",
+    "tags": "book, journal, wiki, readme",
+    "class": "mega-octicon octicon-book"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "bookmark",
+    "tags": "tabbard",
+    "class": "mega-octicon octicon-bookmark"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "briefcase",
+    "tags": "suitcase, business",
+    "class": "mega-octicon octicon-briefcase"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "broadcast",
+    "tags": "rss, radio, signal",
+    "class": "mega-octicon octicon-broadcast"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "browser",
+    "tags": "window, web",
+    "class": "mega-octicon octicon-browser"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "bug",
+    "tags": "insect",
+    "class": "mega-octicon octicon-bug"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "calendar",
+    "tags": "time, day, month, year",
+    "class": "mega-octicon octicon-calendar"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "check",
+    "tags": "mark, yes, confirm, accept, ok, success",
+    "class": "mega-octicon octicon-check"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "checklist",
+    "tags": "todo",
+    "class": "mega-octicon octicon-checklist"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "chevron-down",
+    "tags": "triangle, arrow",
+    "class": "mega-octicon octicon-chevron-down"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "chevron-left",
+    "tags": "triangle, arrow",
+    "class": "mega-octicon octicon-chevron-left"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "chevron-right",
+    "tags": "triangle, arrow",
+    "class": "mega-octicon octicon-chevron-right"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "chevron-up",
+    "tags": "triangle, arrow",
+    "class": "mega-octicon octicon-chevron-up"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "circle-slash",
+    "tags": "no, deny, fail, failure, error, bad",
+    "class": "mega-octicon octicon-circle-slash"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "circuit-board",
+    "tags": "developer, hardware, electricity",
+    "class": "mega-octicon octicon-circuit-board"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "clippy",
+    "tags": "copy, paste, save, capture",
+    "class": "mega-octicon octicon-clippy"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "clock",
+    "tags": "time, hour, minute, second",
+    "class": "mega-octicon octicon-clock"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "cloud-download",
+    "tags": "save, install, get",
+    "class": "mega-octicon octicon-cloud-download"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "cloud-upload",
+    "tags": "put, export",
+    "class": "mega-octicon octicon-cloud-upload"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "code",
+    "tags": "brackets",
+    "class": "mega-octicon octicon-code"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "color-mode",
+    "tags": "black, white, switch, toggle",
+    "class": "mega-octicon octicon-color-mode"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "comment",
+    "tags": "speak, bubble",
+    "class": "mega-octicon octicon-comment"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "comment-discussion",
+    "tags": "converse, talk",
+    "class": "mega-octicon octicon-comment-discussion"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "credit-card",
+    "tags": "money, billing, payments, transactions",
+    "class": "mega-octicon octicon-credit-card"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "dash",
+    "tags": "hyphen, range",
+    "class": "mega-octicon octicon-dash"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "dashboard",
+    "tags": "speed, dial",
+    "class": "mega-octicon octicon-dashboard"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "database",
+    "tags": "disks, data",
+    "class": "mega-octicon octicon-database"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "device-camera",
+    "tags": "photo, picture, image, snapshot",
+    "class": "mega-octicon octicon-device-camera"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "device-camera-video",
+    "tags": "watch, view, media, stream",
+    "class": "mega-octicon octicon-device-camera-video"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "device-desktop",
+    "tags": "computer, monitor",
+    "class": "mega-octicon octicon-device-desktop"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "device-mobile",
+    "tags": "phone, iphone, cellphone",
+    "class": "mega-octicon octicon-device-mobile"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "diff",
+    "tags": "difference, changes, compare",
+    "class": "mega-octicon octicon-diff"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "diff-added",
+    "tags": "new, addition",
+    "class": "mega-octicon octicon-diff-added"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "diff-ignored",
+    "tags": "slash",
+    "class": "mega-octicon octicon-diff-ignored"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "diff-modified",
+    "tags": "dot, changed, updated",
+    "class": "mega-octicon octicon-diff-modified"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "diff-removed",
+    "tags": "deleted, subtracted, dash",
+    "class": "mega-octicon octicon-diff-removed"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "diff-renamed",
+    "tags": "moved, arrow",
+    "class": "mega-octicon octicon-diff-renamed"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "ellipsis",
+    "tags": "read, more, hidden, expand",
+    "class": "mega-octicon octicon-ellipsis"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "eye",
+    "tags": "look, watch, see",
+    "class": "mega-octicon octicon-eye"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "file-binary",
+    "tags": "image, video, word, powerpoint, excel",
+    "class": "mega-octicon octicon-file-binary"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "file-code",
+    "tags": "text, javascript, html, css, php, ruby, coffeescript, sass, scss",
+    "class": "mega-octicon octicon-file-code"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "file-directory",
+    "tags": "folder",
+    "class": "mega-octicon octicon-file-directory"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "file-media",
+    "tags": "image, video, audio",
+    "class": "mega-octicon octicon-file-media"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "file-pdf",
+    "tags": "adobe",
+    "class": "mega-octicon octicon-file-pdf"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "file-submodule",
+    "tags": "folder",
+    "class": "mega-octicon octicon-file-submodule"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "file-symlink-directory",
+    "tags": "folder, subfolder, link, alias",
+    "class": "mega-octicon octicon-file-symlink-directory"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "file-symlink-file",
+    "tags": "link, alias",
+    "class": "mega-octicon octicon-file-symlink-file"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "file-text",
+    "tags": "document",
+    "class": "mega-octicon octicon-file-text"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "file-zip",
+    "tags": "compress, archive",
+    "class": "mega-octicon octicon-file-zip"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "flame",
+    "tags": "fire, hot, burn, trending",
+    "class": "mega-octicon octicon-flame"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "fold",
+    "tags": "unfold, hide, collapse",
+    "class": "mega-octicon octicon-fold"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "gear",
+    "tags": "settings",
+    "class": "mega-octicon octicon-gear"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "gift",
+    "tags": "package, present, skill, craft, freebie",
+    "class": "mega-octicon octicon-gift"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "gist",
+    "tags": "",
+    "class": "mega-octicon octicon-gist"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "gist-secret",
+    "tags": "",
+    "class": "mega-octicon octicon-gist-secret"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "git-branch",
+    "tags": "",
+    "class": "mega-octicon octicon-git-branch"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "git-commit",
+    "tags": "save",
+    "class": "mega-octicon octicon-git-commit"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "git-compare",
+    "tags": "difference, changes",
+    "class": "mega-octicon octicon-git-compare"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "git-merge",
+    "tags": "join",
+    "class": "mega-octicon octicon-git-merge"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "git-pull-request",
+    "tags": "review",
+    "class": "mega-octicon octicon-git-pull-request"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "globe",
+    "tags": "world",
+    "class": "mega-octicon octicon-globe"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "graph",
+    "tags": "trend, stats, statistics",
+    "class": "mega-octicon octicon-graph"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "heart",
+    "tags": "love",
+    "class": "mega-octicon octicon-heart"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "history",
+    "tags": "time, past, revert, back",
+    "class": "mega-octicon octicon-history"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "home",
+    "tags": "welcome, index, house, building",
+    "class": "mega-octicon octicon-home"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "horizontal-rule",
+    "tags": "hr",
+    "class": "mega-octicon octicon-horizontal-rule"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "hourglass",
+    "tags": "timer, loading, status, chemex, progress",
+    "class": "mega-octicon octicon-hourglass"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "hubot",
+    "tags": "robot",
+    "class": "mega-octicon octicon-hubot"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "inbox",
+    "tags": "mail, todo, new, messages",
+    "class": "mega-octicon octicon-inbox"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "info",
+    "tags": "help",
+    "class": "mega-octicon octicon-info"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "issue-closed",
+    "tags": "done, complete",
+    "class": "mega-octicon octicon-issue-closed"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "issue-opened",
+    "tags": "new",
+    "class": "mega-octicon octicon-issue-opened"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "issue-reopened",
+    "tags": "regression",
+    "class": "mega-octicon octicon-issue-reopened"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "jersey",
+    "tags": "team, game, basketball",
+    "class": "mega-octicon octicon-jersey"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "jump-down",
+    "tags": "go, to, arrow, triangle",
+    "class": "mega-octicon octicon-jump-down"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "jump-left",
+    "tags": "go, to, arrow, triangle",
+    "class": "mega-octicon octicon-jump-left"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "jump-right",
+    "tags": "go, to, arrow, triangle",
+    "class": "mega-octicon octicon-jump-right"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "jump-up",
+    "tags": "go, to, arrow, triangle",
+    "class": "mega-octicon octicon-jump-up"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "key",
+    "tags": "key, lock, secure, safe",
+    "class": "mega-octicon octicon-key"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "keyboard",
+    "tags": "type, keys, write, shortcuts",
+    "class": "mega-octicon octicon-keyboard"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "law",
+    "tags": "",
+    "class": "mega-octicon octicon-law"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "light-bulb",
+    "tags": "idea",
+    "class": "mega-octicon octicon-light-bulb"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "link",
+    "tags": "connect, hyperlink",
+    "class": "mega-octicon octicon-link"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "link-external",
+    "tags": "out, see, more, go, to",
+    "class": "mega-octicon octicon-link-external"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "list-ordered",
+    "tags": "numbers, tasks, todo, items",
+    "class": "mega-octicon octicon-list-ordered"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "list-unordered",
+    "tags": "bullet, point, tasks, todo, items",
+    "class": "mega-octicon octicon-list-unordered"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "location",
+    "tags": "here, marker",
+    "class": "mega-octicon octicon-location"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "lock",
+    "tags": "secure, safe, protected",
+    "class": "mega-octicon octicon-lock"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "logo-github",
+    "tags": "brand",
+    "class": "mega-octicon octicon-logo-github"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "mail",
+    "tags": "email, unread",
+    "class": "mega-octicon octicon-mail"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "mail-read",
+    "tags": "email, open",
+    "class": "mega-octicon octicon-mail-read"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "mail-reply",
+    "tags": "email",
+    "class": "mega-octicon octicon-mail-reply"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "mark-github",
+    "tags": "octocat",
+    "class": "mega-octicon octicon-mark-github"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "markdown",
+    "tags": "markup, style",
+    "class": "mega-octicon octicon-markdown"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "megaphone",
+    "tags": "bullhorn, loud, shout, broadcast",
+    "class": "mega-octicon octicon-megaphone"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "mention",
+    "tags": "at, ping",
+    "class": "mega-octicon octicon-mention"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "microscope",
+    "tags": "science, education, study, development, testing",
+    "class": "mega-octicon octicon-microscope"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "milestone",
+    "tags": "marker",
+    "class": "mega-octicon octicon-milestone"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "mirror",
+    "tags": "reflect",
+    "class": "mega-octicon octicon-mirror"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "mortar-board",
+    "tags": "",
+    "class": "mega-octicon octicon-mortar-board"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "move-down",
+    "tags": "jump, go, to, arrow",
+    "class": "mega-octicon octicon-move-down"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "move-left",
+    "tags": "jump, go, to, arrow",
+    "class": "mega-octicon octicon-move-left"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "move-right",
+    "tags": "jump, go, to, arrow",
+    "class": "mega-octicon octicon-move-right"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "move-up",
+    "tags": "jump, go, to, arrow",
+    "class": "mega-octicon octicon-move-up"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "mute",
+    "tags": "quiet, sound, audio, turn, off",
+    "class": "mega-octicon octicon-mute"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "no-newline",
+    "tags": "return",
+    "class": "mega-octicon octicon-no-newline"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "octoface",
+    "tags": "octocat",
+    "class": "mega-octicon octicon-octoface"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "organization",
+    "tags": "people, group, team",
+    "class": "mega-octicon octicon-organization"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "package",
+    "tags": "box, ship",
+    "class": "mega-octicon octicon-package"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "paintcan",
+    "tags": "style, theme, art, color",
+    "class": "mega-octicon octicon-paintcan"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "pencil",
+    "tags": "edit, change, update, write",
+    "class": "mega-octicon octicon-pencil"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "person",
+    "tags": "people, man, woman, human",
+    "class": "mega-octicon octicon-person"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "pin",
+    "tags": "people, save, star, bookmark",
+    "class": "mega-octicon octicon-pin"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "playback-fast-forward",
+    "tags": "",
+    "class": "mega-octicon octicon-playback-fast-forward"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "playback-pause",
+    "tags": "stop, quiet, sound, audio",
+    "class": "mega-octicon octicon-playback-pause"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "playback-play",
+    "tags": "go, sound, audio",
+    "class": "mega-octicon octicon-playback-play"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "playback-rewind",
+    "tags": "sound, audio, back, previous",
+    "class": "mega-octicon octicon-playback-rewind"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "plug",
+    "tags": "hook, webhook",
+    "class": "mega-octicon octicon-plug"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "plus",
+    "tags": "add, new, more",
+    "class": "mega-octicon octicon-plus"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "podium",
+    "tags": "speak, talks",
+    "class": "mega-octicon octicon-podium"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "primitive-dot",
+    "tags": "circle",
+    "class": "mega-octicon octicon-primitive-dot"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "primitive-square",
+    "tags": "box",
+    "class": "mega-octicon octicon-primitive-square"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "pulse",
+    "tags": "graph, trend, line",
+    "class": "mega-octicon octicon-pulse"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "puzzle",
+    "tags": "addon, plugin",
+    "class": "mega-octicon octicon-puzzle"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "question",
+    "tags": "help, explain",
+    "class": "mega-octicon octicon-question"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "quote",
+    "tags": "quotation",
+    "class": "mega-octicon octicon-quote"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "radio-tower",
+    "tags": "broadcast",
+    "class": "mega-octicon octicon-radio-tower"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "repo",
+    "tags": "book, journal",
+    "class": "mega-octicon octicon-repo"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "repo-clone",
+    "tags": "book, journal",
+    "class": "mega-octicon octicon-repo-clone"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "repo-force-push",
+    "tags": "book, journal, put",
+    "class": "mega-octicon octicon-repo-force-push"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "repo-forked",
+    "tags": "book, journal, copy",
+    "class": "mega-octicon octicon-repo-forked"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "repo-pull",
+    "tags": "book, journal, get",
+    "class": "mega-octicon octicon-repo-pull"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "repo-push",
+    "tags": "book, journal, put",
+    "class": "mega-octicon octicon-repo-push"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "rocket",
+    "tags": "staff, stafftools, blast, off, space",
+    "class": "mega-octicon octicon-rocket"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "rss",
+    "tags": "broadcast, feed",
+    "class": "mega-octicon octicon-rss"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "ruby",
+    "tags": "code",
+    "class": "mega-octicon octicon-ruby"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "screen-full",
+    "tags": "view",
+    "class": "mega-octicon octicon-screen-full"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "screen-normal",
+    "tags": "view",
+    "class": "mega-octicon octicon-screen-normal"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "search",
+    "tags": "magnifying, glass",
+    "class": "mega-octicon octicon-search"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "server",
+    "tags": "computers, racks, ops",
+    "class": "mega-octicon octicon-server"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "settings",
+    "tags": "sliders, filters",
+    "class": "mega-octicon octicon-settings"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "sign-in",
+    "tags": "door, arrow, direction, enter",
+    "class": "mega-octicon octicon-sign-in"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "sign-out",
+    "tags": "door, arrow, direction, leave",
+    "class": "mega-octicon octicon-sign-out"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "split",
+    "tags": "diverg, fork, path",
+    "class": "mega-octicon octicon-split"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "squirrel",
+    "tags": "ship, shipit",
+    "class": "mega-octicon octicon-squirrel"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "star",
+    "tags": "save, remember, like",
+    "class": "mega-octicon octicon-star"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "steps",
+    "tags": "feet, footprints, walk",
+    "class": "mega-octicon octicon-steps"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "stop",
+    "tags": "block, spam",
+    "class": "mega-octicon octicon-stop"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "sync",
+    "tags": "cycle, refresh, loop",
+    "class": "mega-octicon octicon-sync"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "tag",
+    "tags": "release",
+    "class": "mega-octicon octicon-tag"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "telescope",
+    "tags": "science, space, look, view, explore",
+    "class": "mega-octicon octicon-telescope"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "terminal",
+    "tags": "code, ops, shell",
+    "class": "mega-octicon octicon-terminal"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "three-bars",
+    "tags": "hamburger",
+    "class": "mega-octicon octicon-three-bars"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "tools",
+    "tags": "screwdriver, wrench, settings",
+    "class": "mega-octicon octicon-tools"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "trashcan",
+    "tags": "garbage, rubbish, recycle, delete",
+    "class": "mega-octicon octicon-trashcan"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "triangle-down",
+    "tags": "arrow, point, direction",
+    "class": "mega-octicon octicon-triangle-down"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "triangle-left",
+    "tags": "arrow, point, direction",
+    "class": "mega-octicon octicon-triangle-left"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "triangle-right",
+    "tags": "arrow, point, direction",
+    "class": "mega-octicon octicon-triangle-right"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "triangle-up",
+    "tags": "arrow, point, direction",
+    "class": "mega-octicon octicon-triangle-up"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "unfold",
+    "tags": "expand, open, reveal",
+    "class": "mega-octicon octicon-unfold"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "unmute",
+    "tags": "loud, volume, audio, sound, play",
+    "class": "mega-octicon octicon-unmute"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "versions",
+    "tags": "history",
+    "class": "mega-octicon octicon-versions"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "x",
+    "tags": "remove, close, delete",
+    "class": "mega-octicon octicon-x"
+  },
+  
+  {
+    "_tags": ["octicons"],
+    "name": "zap",
+    "tags": "electricity, lightning, props, like, star, save",
+    "class": "mega-octicon octicon-zap"
+  },
+  
+
   {}
 ]
