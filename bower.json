@@ -14,6 +14,7 @@
     "icomoon": "~0.0.1",
     "ionicons": "~1.4.1",
     "purl": "~2.3.1",
-    "zeroclipboard": "~1.2.3"
+    "zeroclipboard": "~1.2.3",
+    "octicons": "~2.0.2"
   }
 }

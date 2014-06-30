@@ -6101,5 +6101,715 @@
 			"name": "ios7-world-outline",
 			"tags": "globe, earth, planet"
 		}
+	],
+	"octicons": [
+		{
+			"name": "alert",
+			"tags": "warning, triangle, exclamation, point"
+		},
+		{
+			"name": "alignment-align",
+			"tags": "dot, arrow, point, toward, direction"
+		},
+		{
+			"name": "alignment-aligned-to",
+			"tags": "dot, arrow, point, away, direction"
+		},
+		{
+			"name": "alignment-unalign",
+			"tags": "break, separate, snap, gap"
+		},
+		{
+			"name": "arrow-down",
+			"tags": "point, direction"
+		},
+		{
+			"name": "arrow-left",
+			"tags": "point, direction"
+		},
+		{
+			"name": "arrow-right",
+			"tags": "point, direction"
+		},
+		{
+			"name": "arrow-small-down",
+			"tags": "point, direction"
+		},
+		{
+			"name": "arrow-small-left",
+			"tags": "point, direction, little, tiny"
+		},
+		{
+			"name": "arrow-small-right",
+			"tags": "point, direction, little, tiny"
+		},
+		{
+			"name": "arrow-small-up",
+			"tags": "point, direction, little, tiny"
+		},
+		{
+			"name": "arrow-up",
+			"tags": "point, direction"
+		},
+		{
+			"name": "beer",
+			"tags": "drink, cup, meetup"
+		},
+		{
+			"name": "book",
+			"tags": "book, journal, wiki, readme"
+		},
+		{
+			"name": "bookmark",
+			"tags": "tabbard"
+		},
+		{
+			"name": "briefcase",
+			"tags": "suitcase, business"
+		},
+		{
+			"name": "broadcast",
+			"tags": "rss, radio, signal"
+		},
+		{
+			"name": "browser",
+			"tags": "window, web"
+		},
+		{
+			"name": "bug",
+			"tags": "insect"
+		},
+		{
+			"name": "calendar",
+			"tags": "time, day, month, year"
+		},
+		{
+			"name": "check",
+			"tags": "mark, yes, confirm, accept, ok, success"
+		},
+		{
+			"name": "checklist",
+			"tags": "todo"
+		},
+		{
+			"name": "chevron-down",
+			"tags": "triangle, arrow"
+		},
+		{
+			"name": "chevron-left",
+			"tags": "triangle, arrow"
+		},
+		{
+			"name": "chevron-right",
+			"tags": "triangle, arrow"
+		},
+		{
+			"name": "chevron-up",
+			"tags": "triangle, arrow"
+		},
+		{
+			"name": "circle-slash",
+			"tags": "no, deny, fail, failure, error, bad"
+		},
+		{
+			"name": "circuit-board",
+			"tags": "developer, hardware, electricity"
+		},
+		{
+			"name": "clippy",
+			"tags": "copy, paste, save, capture"
+		},
+		{
+			"name": "clock",
+			"tags": "time, hour, minute, second"
+		},
+		{
+			"name": "cloud-download",
+			"tags": "save, install, get"
+		},
+		{
+			"name": "cloud-upload",
+			"tags": "put, export"
+		},
+		{
+			"name": "code",
+			"tags": "brackets"
+		},
+		{
+			"name": "color-mode",
+			"tags": "black, white, switch, toggle"
+		},
+		{
+			"name": "comment",
+			"tags": "speak, bubble"
+		},
+		{
+			"name": "comment-discussion",
+			"tags": "converse, talk"
+		},
+		{
+			"name": "credit-card",
+			"tags": "money, billing, payments, transactions"
+		},
+		{
+			"name": "dash",
+			"tags": "hyphen, range"
+		},
+		{
+			"name": "dashboard",
+			"tags": "speed, dial"
+		},
+		{
+			"name": "database",
+			"tags": "disks, data"
+		},
+		{
+			"name": "device-camera",
+			"tags": "photo, picture, image, snapshot"
+		},
+		{
+			"name": "device-camera-video",
+			"tags": "watch, view, media, stream"
+		},
+		{
+			"name": "device-desktop",
+			"tags": "computer, monitor"
+		},
+		{
+			"name": "device-mobile",
+			"tags": "phone, iphone, cellphone"
+		},
+		{
+			"name": "diff",
+			"tags": "difference, changes, compare"
+		},
+		{
+			"name": "diff-added",
+			"tags": "new, addition"
+		},
+		{
+			"name": "diff-ignored",
+			"tags": "slash"
+		},
+		{
+			"name": "diff-modified",
+			"tags": "dot, changed, updated"
+		},
+		{
+			"name": "diff-removed",
+			"tags": "deleted, subtracted, dash"
+		},
+		{
+			"name": "diff-renamed",
+			"tags": "moved, arrow"
+		},
+		{
+			"name": "ellipsis",
+			"tags": "read, more, hidden, expand"
+		},
+		{
+			"name": "eye",
+			"tags": "look, watch, see"
+		},
+		{
+			"name": "file-binary",
+			"tags": "image, video, word, powerpoint, excel"
+		},
+		{
+			"name": "file-code",
+			"tags": "text, javascript, html, css, php, ruby, coffeescript, sass, scss"
+		},
+		{
+			"name": "file-directory",
+			"tags": "folder"
+		},
+		{
+			"name": "file-media",
+			"tags": "image, video, audio"
+		},
+		{
+			"name": "file-pdf",
+			"tags": "adobe"
+		},
+		{
+			"name": "file-submodule",
+			"tags": "folder"
+		},
+		{
+			"name": "file-symlink-directory",
+			"tags": "folder, subfolder, link, alias"
+		},
+		{
+			"name": "file-symlink-file",
+			"tags": "link, alias"
+		},
+		{
+			"name": "file-text",
+			"tags": "document"
+		},
+		{
+			"name": "file-zip",
+			"tags": "compress, archive"
+		},
+		{
+			"name": "flame",
+			"tags": "fire, hot, burn, trending"
+		},
+		{
+			"name": "fold",
+			"tags": "unfold, hide, collapse"
+		},
+		{
+			"name": "gear",
+			"tags": "settings"
+		},
+		{
+			"name": "gift",
+			"tags": "package, present, skill, craft, freebie"
+		},
+		{
+			"name": "gist",
+			"tags": ""
+		},
+		{
+			"name": "gist-secret",
+			"tags": ""
+		},
+		{
+			"name": "git-branch",
+			"tags": ""
+		},
+		{
+			"name": "git-commit",
+			"tags": "save"
+		},
+		{
+			"name": "git-compare",
+			"tags": "difference, changes"
+		},
+		{
+			"name": "git-merge",
+			"tags": "join"
+		},
+		{
+			"name": "git-pull-request",
+			"tags": "review"
+		},
+		{
+			"name": "globe",
+			"tags": "world"
+		},
+		{
+			"name": "graph",
+			"tags": "trend, stats, statistics"
+		},
+		{
+			"name": "heart",
+			"tags": "love"
+		},
+		{
+			"name": "history",
+			"tags": "time, past, revert, back"
+		},
+		{
+			"name": "home",
+			"tags": "welcome, index, house, building"
+		},
+		{
+			"name": "horizontal-rule",
+			"tags": "hr"
+		},
+		{
+			"name": "hourglass",
+			"tags": "timer, loading, status, chemex, progress"
+		},
+		{
+			"name": "hubot",
+			"tags": "robot"
+		},
+		{
+			"name": "inbox",
+			"tags": "mail, todo, new, messages"
+		},
+		{
+			"name": "info",
+			"tags": "help"
+		},
+		{
+			"name": "issue-closed",
+			"tags": "done, complete"
+		},
+		{
+			"name": "issue-opened",
+			"tags": "new"
+		},
+		{
+			"name": "issue-reopened",
+			"tags": "regression"
+		},
+		{
+			"name": "jersey",
+			"tags": "team, game, basketball"
+		},
+		{
+			"name": "jump-down",
+			"tags": "go, to, arrow, triangle"
+		},
+		{
+			"name": "jump-left",
+			"tags": "go, to, arrow, triangle"
+		},
+		{
+			"name": "jump-right",
+			"tags": "go, to, arrow, triangle"
+		},
+		{
+			"name": "jump-up",
+			"tags": "go, to, arrow, triangle"
+		},
+		{
+			"name": "key",
+			"tags": "key, lock, secure, safe"
+		},
+		{
+			"name": "keyboard",
+			"tags": "type, keys, write, shortcuts"
+		},
+		{
+			"name": "law",
+			"tags": ""
+		},
+		{
+			"name": "light-bulb",
+			"tags": "idea"
+		},
+		{
+			"name": "link",
+			"tags": "connect, hyperlink"
+		},
+		{
+			"name": "link-external",
+			"tags": "out, see, more, go, to"
+		},
+		{
+			"name": "list-ordered",
+			"tags": "numbers, tasks, todo, items"
+		},
+		{
+			"name": "list-unordered",
+			"tags": "bullet, point, tasks, todo, items"
+		},
+		{
+			"name": "location",
+			"tags": "here, marker"
+		},
+		{
+			"name": "lock",
+			"tags": "secure, safe, protected"
+		},
+		{
+			"name": "logo-github",
+			"tags": "brand"
+		},
+		{
+			"name": "mail",
+			"tags": "email, unread"
+		},
+		{
+			"name": "mail-read",
+			"tags": "email, open"
+		},
+		{
+			"name": "mail-reply",
+			"tags": "email"
+		},
+		{
+			"name": "mark-github",
+			"tags": "octocat"
+		},
+		{
+			"name": "markdown",
+			"tags": "markup, style"
+		},
+		{
+			"name": "megaphone",
+			"tags": "bullhorn, loud, shout, broadcast"
+		},
+		{
+			"name": "mention",
+			"tags": "at, ping"
+		},
+		{
+			"name": "microscope",
+			"tags": "science, education, study, development, testing"
+		},
+		{
+			"name": "milestone",
+			"tags": "marker"
+		},
+		{
+			"name": "mirror",
+			"tags": "reflect"
+		},
+		{
+			"name": "mortar-board",
+			"tags": ""
+		},
+		{
+			"name": "move-down",
+			"tags": "jump, go, to, arrow"
+		},
+		{
+			"name": "move-left",
+			"tags": "jump, go, to, arrow"
+		},
+		{
+			"name": "move-right",
+			"tags": "jump, go, to, arrow"
+		},
+		{
+			"name": "move-up",
+			"tags": "jump, go, to, arrow"
+		},
+		{
+			"name": "mute",
+			"tags": "quiet, sound, audio, turn, off"
+		},
+		{
+			"name": "no-newline",
+			"tags": "return"
+		},
+		{
+			"name": "octoface",
+			"tags": "octocat"
+		},
+		{
+			"name": "organization",
+			"tags": "people, group, team"
+		},
+		{
+			"name": "package",
+			"tags": "box, ship"
+		},
+		{
+			"name": "paintcan",
+			"tags": "style, theme, art, color"
+		},
+		{
+			"name": "pencil",
+			"tags": "edit, change, update, write"
+		},
+		{
+			"name": "person",
+			"tags": "people, man, woman, human"
+		},
+		{
+			"name": "pin",
+			"tags": "people, save, star, bookmark"
+		},
+		{
+			"name": "playback-fast-forward",
+			"tags": ""
+		},
+		{
+			"name": "playback-pause",
+			"tags": "stop, quiet, sound, audio"
+		},
+		{
+			"name": "playback-play",
+			"tags": "go, sound, audio"
+		},
+		{
+			"name": "playback-rewind",
+			"tags": "sound, audio, back, previous"
+		},
+		{
+			"name": "plug",
+			"tags": "hook, webhook"
+		},
+		{
+			"name": "plus",
+			"tags": "add, new, more"
+		},
+		{
+			"name": "podium",
+			"tags": "speak, talks"
+		},
+		{
+			"name": "primitive-dot",
+			"tags": "circle"
+		},
+		{
+			"name": "primitive-square",
+			"tags": "box"
+		},
+		{
+			"name": "pulse",
+			"tags": "graph, trend, line"
+		},
+		{
+			"name": "puzzle",
+			"tags": "addon, plugin"
+		},
+		{
+			"name": "question",
+			"tags": "help, explain"
+		},
+		{
+			"name": "quote",
+			"tags": "quotation"
+		},
+		{
+			"name": "radio-tower",
+			"tags": "broadcast"
+		},
+		{
+			"name": "repo",
+			"tags": "book, journal"
+		},
+		{
+			"name": "repo-clone",
+			"tags": "book, journal"
+		},
+		{
+			"name": "repo-force-push",
+			"tags": "book, journal, put"
+		},
+		{
+			"name": "repo-forked",
+			"tags": "book, journal, copy"
+		},
+		{
+			"name": "repo-pull",
+			"tags": "book, journal, get"
+		},
+		{
+			"name": "repo-push",
+			"tags": "book, journal, put"
+		},
+		{
+			"name": "rocket",
+			"tags": "staff, stafftools, blast, off, space"
+		},
+		{
+			"name": "rss",
+			"tags": "broadcast, feed"
+		},
+		{
+			"name": "ruby",
+			"tags": "code"
+		},
+		{
+			"name": "screen-full",
+			"tags": "view"
+		},
+		{
+			"name": "screen-normal",
+			"tags": "view"
+		},
+		{
+			"name": "search",
+			"tags": "magnifying, glass"
+		},
+		{
+			"name": "server",
+			"tags": "computers, racks, ops"
+		},
+		{
+			"name": "settings",
+			"tags": "sliders, filters"
+		},
+		{
+			"name": "sign-in",
+			"tags": "door, arrow, direction, enter"
+		},
+		{
+			"name": "sign-out",
+			"tags": "door, arrow, direction, leave"
+		},
+		{
+			"name": "split",
+			"tags": "diverg, fork, path"
+		},
+		{
+			"name": "squirrel",
+			"tags": "ship, shipit"
+		},
+		{
+			"name": "star",
+			"tags": "save, remember, like"
+		},
+		{
+			"name": "steps",
+			"tags": "feet, footprints, walk"
+		},
+		{
+			"name": "stop",
+			"tags": "block, spam"
+		},
+		{
+			"name": "sync",
+			"tags": "cycle, refresh, loop"
+		},
+		{
+			"name": "tag",
+			"tags": "release"
+		},
+		{
+			"name": "telescope",
+			"tags": "science, space, look, view, explore"
+		},
+		{
+			"name": "terminal",
+			"tags": "code, ops, shell"
+		},
+		{
+			"name": "three-bars",
+			"tags": "hamburger"
+		},
+		{
+			"name": "tools",
+			"tags": "screwdriver, wrench, settings"
+		},
+		{
+			"name": "trashcan",
+			"tags": "garbage, rubbish, recycle, delete"
+		},
+		{
+			"name": "triangle-down",
+			"tags": "arrow, point, direction"
+		},
+		{
+			"name": "triangle-left",
+			"tags": "arrow, point, direction"
+		},
+		{
+			"name": "triangle-right",
+			"tags": "arrow, point, direction"
+		},
+		{
+			"name": "triangle-up",
+			"tags": "arrow, point, direction"
+		},
+		{
+			"name": "unfold",
+			"tags": "expand, open, reveal"
+		},
+		{
+			"name": "unmute",
+			"tags": "loud, volume, audio, sound, play"
+		},
+		{
+			"name": "versions",
+			"tags": "history"
+		},
+		{
+			"name": "x",
+			"tags": "remove, close, delete"
+		},
+		{
+			"name": "zap",
+			"tags": "electricity, lightning, props, like, star, save"
+		}
 	]
 }

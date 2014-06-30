@@ -35,5 +35,14 @@
   },
   {{/each}} 
 
+  {{#each octicons}}
+  {
+    "_tags": ["octicons"],
+    "name": "{{name}}",
+    "tags": "{{tags}}",
+    "class": "mega-octicon octicon-{{name}}"
+  },
+  {{/each}}
+
   {}
 ]
