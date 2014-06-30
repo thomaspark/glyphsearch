@@ -4465,6 +4465,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "aperture",
+    "tags": "camera, photos",
+    "class": "ionicons ion-aperture"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "archive",
     "tags": "email",
     "class": "ionicons ion-archive"
@@ -4626,6 +4633,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "asterisk",
+    "tags": "",
+    "class": "ionicons ion-asterisk"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "at",
     "tags": "email",
     "class": "ionicons ion-at"
@@ -4689,6 +4703,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "bonfire",
+    "tags": "campfire, flame",
+    "class": "ionicons ion-bonfire"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "bookmark",
     "tags": "",
     "class": "ionicons ion-bookmark"
@@ -4734,6 +4755,13 @@
     "name": "card",
     "tags": "credit card, shopping, money",
     "class": "ionicons ion-card"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "cash",
+    "tags": "dollar, money",
+    "class": "ionicons ion-cash"
   },
   
   {
@@ -4836,6 +4864,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "closed-captioning",
+    "tags": "",
+    "class": "ionicons ion-closed-captioning"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "clock",
     "tags": "timer",
     "class": "ionicons ion-clock"
@@ -4923,6 +4958,13 @@
     "name": "contrast",
     "tags": "",
     "class": "ionicons ion-contrast"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "cube",
+    "tags": "box",
+    "class": "ionicons ion-cube"
   },
   
   {
@@ -5018,9 +5060,23 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "fireball",
+    "tags": "flame",
+    "class": "ionicons ion-fireball"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "flag",
     "tags": "",
     "class": "ionicons ion-flag"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "flame",
+    "tags": "fire",
+    "class": "ionicons ion-flame"
   },
   
   {
@@ -5061,7 +5117,7 @@
   {
     "_tags": ["ionicons"],
     "name": "fork-repo",
-    "tags": "",
+    "tags": "git",
     "class": "ionicons ion-fork-repo"
   },
   
@@ -5070,6 +5126,13 @@
     "name": "forward",
     "tags": "email",
     "class": "ionicons ion-forward"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "funnel",
+    "tags": "filter",
+    "class": "ionicons ion-funnel"
   },
   
   {
@@ -5123,9 +5186,23 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "happy",
+    "tags": "smile, face",
+    "class": "ionicons ion-happy"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "heart",
     "tags": "like, rate, ratings",
     "class": "ionicons ion-heart"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "heart-broken",
+    "tags": "",
+    "class": "ionicons ion-heart-broken"
   },
   
   {
@@ -5375,6 +5452,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "merge",
+    "tags": "git",
+    "class": "ionicons ion-merge"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "mic-a",
     "tags": "audio",
     "class": "ionicons ion-mic-a"
@@ -5438,6 +5522,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "mouse",
+    "tags": "",
+    "class": "ionicons ion-mouse"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "music-note",
     "tags": "",
     "class": "ionicons ion-music-note"
@@ -5466,6 +5557,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "network",
+    "tags": "",
+    "class": "ionicons ion-network"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "no-smoking",
     "tags": "",
     "class": "ionicons ion-no-smoking"
@@ -5476,6 +5574,13 @@
     "name": "nuclear",
     "tags": "warning, danger",
     "class": "ionicons ion-nuclear"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "outlet",
+    "tags": "",
+    "class": "ionicons ion-outlet"
   },
   
   {
@@ -5557,6 +5662,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "planet",
+    "tags": "saturn, space",
+    "class": "ionicons ion-planet"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "play",
     "tags": "video player, triangle",
     "class": "ionicons ion-play"
@@ -5581,6 +5693,13 @@
     "name": "plus-round",
     "tags": "",
     "class": "ionicons ion-plus-round"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "podium",
+    "tags": "",
+    "class": "ionicons ion-podium"
   },
   
   {
@@ -5620,6 +5739,27 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "pull-request",
+    "tags": "github",
+    "class": "ionicons ion-pull-request"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "qr-scanner",
+    "tags": "",
+    "class": "ionicons ion-qr-scanner"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "quote",
+    "tags": "",
+    "class": "ionicons ion-quote"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "radio-waves",
     "tags": "sound, audio, broadcast",
     "class": "ionicons ion-radio-waves"
@@ -5651,6 +5791,34 @@
     "name": "reply-all",
     "tags": "email",
     "class": "ionicons ion-reply-all"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ribbon-a",
+    "tags": "award, medal, prize",
+    "class": "ionicons ion-ribbon-a"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ribbon-b",
+    "tags": "award, medal, prize",
+    "class": "ionicons ion-ribbon-b"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "sad",
+    "tags": "face, frown",
+    "class": "ionicons ion-sad"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "scissors",
+    "tags": "cut",
+    "class": "ionicons ion-scissors"
   },
   
   {
@@ -5809,6 +5977,20 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "social-foursquare",
+    "tags": "brand",
+    "class": "ionicons ion-social-foursquare"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-foursquare-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-foursquare-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "social-freebsd-devil",
     "tags": "",
     "class": "ionicons ion-social-freebsd-devil"
@@ -5826,6 +6008,20 @@
     "name": "social-github-outline",
     "tags": "brand, code",
     "class": "ionicons ion-social-github-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-google",
+    "tags": "brand",
+    "class": "ionicons ion-social-google"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-google-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-google-outline"
   },
   
   {
@@ -5854,6 +6050,20 @@
     "name": "social-hackernews-outline",
     "tags": "brand",
     "class": "ionicons ion-social-hackernews-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-instagram",
+    "tags": "brand",
+    "class": "ionicons ion-social-instagram"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-instagram-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-instagram-outline"
   },
   
   {
@@ -5942,6 +6152,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "social-tux",
+    "tags": "bird, linux, penguin",
+    "class": "ionicons ion-social-tux"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "social-twitter",
     "tags": "brand",
     "class": "ionicons ion-social-twitter"
@@ -5952,6 +6169,20 @@
     "name": "social-twitter-outline",
     "tags": "brand",
     "class": "ionicons ion-social-twitter-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-usd",
+    "tags": "dollar, money",
+    "class": "ionicons ion-social-usd"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "social-usd-outline",
+    "tags": "dollar, money",
+    "class": "ionicons ion-social-usd-outline"
   },
   
   {
@@ -6089,6 +6320,20 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "toggle",
+    "tags": "",
+    "class": "ionicons ion-toggle"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "toggle-filled",
+    "tags": "",
+    "class": "ionicons ion-toggle-filled"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "trash-a",
     "tags": "delete",
     "class": "ionicons ion-trash-a"
@@ -6103,9 +6348,9 @@
   
   {
     "_tags": ["ionicons"],
-    "name": "tux",
-    "tags": "bird, penguin",
-    "class": "ionicons ion-tux"
+    "name": "trophy",
+    "tags": "award, prize",
+    "class": "ionicons ion-trophy"
   },
   
   {
@@ -6113,6 +6358,13 @@
     "name": "umbrella",
     "tags": "weather",
     "class": "ionicons ion-umbrella"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "university",
+    "tags": "education, graduate",
+    "class": "ionicons ion-university"
   },
   
   {
@@ -6169,6 +6421,13 @@
     "name": "volume-mute",
     "tags": "audio, sound",
     "class": "ionicons ion-volume-mute"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "wand",
+    "tags": "magic",
+    "class": "ionicons ion-wand"
   },
   
   {
@@ -6253,6 +6512,13 @@
     "name": "android-arrow-down-right",
     "tags": "",
     "class": "ionicons ion-android-arrow-down-right"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-forward",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-forward"
   },
   
   {
@@ -6372,6 +6638,13 @@
     "name": "android-download",
     "tags": "",
     "class": "ionicons ion-android-download"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "android-drawer",
+    "tags": "more",
+    "class": "ionicons ion-android-drawer"
   },
   
   {
@@ -6586,6 +6859,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "android-stair-drawer",
+    "tags": "",
+    "class": "ionicons ion-android-stair-drawer"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "android-star",
     "tags": "",
     "class": "ionicons ion-android-star"
@@ -6642,6 +6922,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "android-user-menu",
+    "tags": "",
+    "class": "ionicons ion-android-user-menu"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "android-volume",
     "tags": "",
     "class": "ionicons ion-android-volume"
@@ -6673,6 +6960,34 @@
     "name": "ios7-albums",
     "tags": "",
     "class": "ionicons ion-ios7-albums"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-americanfootball",
+    "tags": "sports",
+    "class": "ionicons ion-ios7-americanfootball"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-americanfootball-outline",
+    "tags": "sports",
+    "class": "ionicons ion-ios7-americanfootball-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-analytics",
+    "tags": "",
+    "class": "ionicons ion-ios7-analytics"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-analytics-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-analytics-outline"
   },
   
   {
@@ -6757,6 +7072,48 @@
     "name": "ios7-at-outline",
     "tags": "email",
     "class": "ionicons ion-ios7-at-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-barcode",
+    "tags": "",
+    "class": "ionicons ion-ios7-barcode"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-barcode-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-barcode-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-baseball",
+    "tags": "sports",
+    "class": "ionicons ion-ios7-baseball"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-baseball-outline",
+    "tags": "sports",
+    "class": "ionicons ion-ios7-baseball-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-basketball",
+    "tags": "sports",
+    "class": "ionicons ion-ios7-basketball"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-basketball-outline",
+    "tags": "sports",
+    "class": "ionicons ion-ios7-basketball-outline"
   },
   
   {
@@ -7132,6 +7489,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "ios7-expand",
+    "tags": "",
+    "class": "ionicons ion-ios7-expand"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "ios7-eye",
     "tags": "show",
     "class": "ionicons ion-ios7-eye"
@@ -7209,6 +7573,20 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "ios7-football",
+    "tags": "sports, soccer",
+    "class": "ionicons ion-ios7-football"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-football-outline",
+    "tags": "sports, soccer",
+    "class": "ionicons ion-ios7-football-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "ios7-gear",
     "tags": "cog, settings",
     "class": "ionicons ion-ios7-gear"
@@ -7252,22 +7630,36 @@
   {
     "_tags": ["ionicons"],
     "name": "ios7-help",
-    "tags": "",
+    "tags": "question mark",
     "class": "ionicons ion-ios7-help"
   },
   
   {
     "_tags": ["ionicons"],
     "name": "ios7-help-empty",
-    "tags": "",
+    "tags": "question mark",
     "class": "ionicons ion-ios7-help-empty"
   },
   
   {
     "_tags": ["ionicons"],
     "name": "ios7-help-outline",
-    "tags": "",
+    "tags": "question mark",
     "class": "ionicons ion-ios7-help-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-home-outline",
+    "tags": "house",
+    "class": "ionicons ion-ios7-home-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-home",
+    "tags": "house",
+    "class": "ionicons ion-ios7-home"
   },
   
   {
@@ -7370,6 +7762,20 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "ios7-loop",
+    "tags": "refresh, reload",
+    "class": "ionicons ion-ios7-loop"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-loop-strong",
+    "tags": "refresh, reload",
+    "class": "ionicons ion-ios7-loop-strong"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "ios7-medkit",
     "tags": "medical",
     "class": "ionicons ion-ios7-medkit"
@@ -7441,14 +7847,14 @@
   {
     "_tags": ["ionicons"],
     "name": "ios7-moon",
-    "tags": "",
+    "tags": "night",
     "class": "ionicons ion-ios7-moon"
   },
   
   {
     "_tags": ["ionicons"],
     "name": "ios7-moon-outline",
-    "tags": "",
+    "tags": "night",
     "class": "ionicons ion-ios7-moon-outline"
   },
   
@@ -7496,6 +7902,20 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "ios7-paper",
+    "tags": "",
+    "class": "ionicons ion-ios7-paper"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-paper-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-paper-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "ios7-paperplane",
     "tags": "airplane",
     "class": "ionicons ion-ios7-paperplane"
@@ -7534,6 +7954,20 @@
     "name": "ios7-pause-outline",
     "tags": "video player",
     "class": "ionicons ion-ios7-pause-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-paw",
+    "tags": "animal",
+    "class": "ionicons ion-ios7-paw"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-paw-outline",
+    "tags": "animal",
+    "class": "ionicons ion-ios7-paw-outline"
   },
   
   {
@@ -7657,9 +8091,37 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "ios7-pricetags",
+    "tags": "shopping",
+    "class": "ionicons ion-ios7-pricetags"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-pricetags-outline",
+    "tags": "shopping",
+    "class": "ionicons ion-ios7-pricetags-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "ios7-printer",
     "tags": "computer",
     "class": "ionicons ion-ios7-printer"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-pulse",
+    "tags": "signal",
+    "class": "ionicons ion-ios7-pulse"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-pulse-strong",
+    "tags": "signal",
+    "class": "ionicons ion-ios7-pulse-strong"
   },
   
   {
@@ -7734,6 +8196,20 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "ios7-reverse-camera",
+    "tags": "",
+    "class": "ionicons ion-ios7-reverse-camera"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-reverse-camera-outline",
+    "tags": "",
+    "class": "ionicons ion-ios7-reverse-camera-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "ios7-rewind",
     "tags": "video player",
     "class": "ionicons ion-ios7-rewind"
@@ -7758,6 +8234,27 @@
     "name": "ios7-search-strong",
     "tags": "magnifying glass",
     "class": "ionicons ion-ios7-search-strong"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-settings",
+    "tags": "",
+    "class": "ionicons ion-ios7-settings"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-settings-strong",
+    "tags": "",
+    "class": "ionicons ion-ios7-settings-strong"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-shrink",
+    "tags": "collapse",
+    "class": "ionicons ion-ios7-shrink"
   },
   
   {
@@ -7811,6 +8308,13 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "ios7-star-half",
+    "tags": "rate, ratings",
+    "class": "ionicons ion-ios7-star-half"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "ios7-star-outline",
     "tags": "like, favorite, rate, ratings",
     "class": "ionicons ion-ios7-star-outline"
@@ -7860,6 +8364,20 @@
   
   {
     "_tags": ["ionicons"],
+    "name": "ios7-tennisball",
+    "tags": "sports",
+    "class": "ionicons ion-ios7-tennisball"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-tennisball-outline",
+    "tags": "sports",
+    "class": "ionicons ion-ios7-tennisball-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
     "name": "ios7-thunderstorm",
     "tags": "weather",
     "class": "ionicons ion-ios7-thunderstorm"
@@ -7898,6 +8416,20 @@
     "name": "ios7-timer-outline",
     "tags": "clock",
     "class": "ionicons ion-ios7-timer-outline"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-toggle",
+    "tags": "settings",
+    "class": "ionicons ion-ios7-toggle"
+  },
+  
+  {
+    "_tags": ["ionicons"],
+    "name": "ios7-toggle-outline",
+    "tags": "settings",
+    "class": "ionicons ion-ios7-toggle-outline"
   },
   
   {

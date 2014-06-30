@@ -7,6 +7,10 @@
       "name": "alert-circled"
     },
     {
+      "name": "aperture",
+      "tags": "camera, photos"
+    },
+    {
       "name": "archive",
       "tags": "email"
     },
@@ -96,6 +100,9 @@
       "name": "arrow-swap"
     },
     {
+      "name": "asterisk"
+    },
+    {
       "name": "at",
       "tags": "email"
     },
@@ -126,6 +133,10 @@
       "name": "bluetooth"
     },
     {
+      "name": "bonfire",
+      "tags": "campfire, flame"
+    },
+    {
       "name": "bookmark"
     },
     {
@@ -150,6 +161,10 @@
     {
       "name": "card",
       "tags": "credit card, shopping, money"
+    },
+    {
+      "name": "cash",
+      "tags": "dollar, money"
     },
     {
       "name": "chatbox",
@@ -204,6 +219,9 @@
       "name": "clipboard"
     },
     {
+      "name": "closed-captioning"
+    },
+    {
       "name": "clock",
       "tags": "timer"
     },
@@ -247,6 +265,10 @@
     },
     {
       "name": "contrast"
+    },
+    {
+      "name": "cube",
+      "tags": "box"
     },
     {
       "name": "disc",
@@ -295,7 +317,15 @@
       "name": "film-marker"
     },
     {
+      "name": "fireball",
+      "tags": "flame"
+    },
+    {
       "name": "flag"
+    },
+    {
+      "name": "flame",
+      "tags": "fire"
     },
     {
       "name": "flash",
@@ -318,11 +348,15 @@
     },
     {
       "name": "fork-repo",
-      "tags": ""
+      "tags": "git"
     },
     {
       "name": "forward",
       "tags": "email"
+    },
+    {
+      "name": "funnel",
+      "tags": "filter"
     },
     {
       "name": "game-controller-a"
@@ -351,8 +385,15 @@
       "tags": "audio, music"
     },
     {
+      "name": "happy",
+      "tags": "smile, face"
+    },
+    {
       "name": "heart",
       "tags": "like, rate, ratings"
+    },
+    {
+      "name": "heart-broken"
     },
     {
       "name": "help"
@@ -484,6 +525,10 @@
       "tags": "medical"
     },
     {
+      "name": "merge",
+      "tags": "git"
+    },
+    {
       "name": "mic-a",
       "tags": "audio"
     },
@@ -517,6 +562,9 @@
       "tags": "dots, menu"
     },
     {
+      "name": "mouse"
+    },
+    {
       "name": "music-note"
     },
     {
@@ -529,12 +577,18 @@
       "name": "navigate"
     },
     {
+      "name": "network"
+    },
+    {
       "name": "no-smoking",
       "tags": ""
     },
     {
       "name": "nuclear",
       "tags": "warning, danger"
+    },
+    {
+      "name": "outlet"
     },
     {
       "name": "paper-airplane",
@@ -578,6 +632,10 @@
       "tags": "airplane"
     },
     {
+      "name": "planet",
+      "tags": "saturn, space"
+    },
+    {
       "name": "play",
       "tags": "video player, triangle"
     },
@@ -590,6 +648,9 @@
     },
     {
       "name": "plus-round"
+    },
+    {
+      "name": "podium"
     },
     {
       "name": "pound",
@@ -612,6 +673,16 @@
       "tags": "computer"
     },
     {
+      "name": "pull-request",
+      "tags": "github"
+    },
+    {
+      "name": "qr-scanner"
+    },
+    {
+      "name": "quote"
+    },
+    {
       "name": "radio-waves",
       "tags": "sound, audio, broadcast"
     },
@@ -630,6 +701,22 @@
     {
       "name": "reply-all",
       "tags": "email"
+    },
+    {
+      "name": "ribbon-a",
+      "tags": "award, medal, prize"
+    },
+    {
+      "name": "ribbon-b",
+      "tags": "award, medal, prize"
+    },
+    {
+      "name": "sad",
+      "tags": "face, frown"
+    },
+    {
+      "name": "scissors",
+      "tags": "cut"
     },
     {
       "name": "search",
@@ -719,6 +806,14 @@
       "tags": "brand"
     },
     {
+      "name": "social-foursquare",
+      "tags": "brand"
+    },
+    {
+      "name": "social-foursquare-outline",
+      "tags": "brand"
+    },
+    {
       "name": "social-freebsd-devil",
       "tags": ""
     },
@@ -729,6 +824,14 @@
     {
       "name": "social-github-outline",
       "tags": "brand, code"
+    },
+    {
+      "name": "social-google",
+      "tags": "brand"
+    },
+    {
+      "name": "social-google-outline",
+      "tags": "brand"
     },
     {
       "name": "social-googleplus",
@@ -744,6 +847,14 @@
     },
     {
       "name": "social-hackernews-outline",
+      "tags": "brand"
+    },
+    {
+      "name": "social-instagram",
+      "tags": "brand"
+    },
+    {
+      "name": "social-instagram-outline",
       "tags": "brand"
     },
     {
@@ -795,12 +906,24 @@
       "tags": "brand, yahoo"
     },
     {
+      "name": "social-tux",
+      "tags": "bird, linux, penguin"
+    },
+    {
       "name": "social-twitter",
       "tags": "brand"
     },
     {
       "name": "social-twitter-outline",
       "tags": "brand"
+    },
+    {
+      "name": "social-usd",
+      "tags": "dollar, money"
+    },
+    {
+      "name": "social-usd-outline",
+      "tags": "dollar, money"
     },
     {
       "name": "social-vimeo",
@@ -878,6 +1001,12 @@
       "tags": "like, favorite"
     },
     {
+      "name": "toggle"
+    },
+    {
+      "name": "toggle-filled"
+    },
+    {
       "name": "trash-a",
       "tags": "delete"
     },
@@ -886,12 +1015,16 @@
       "tags": "delete"
     },
     {
-      "name": "tux",
-      "tags": "bird, penguin"
+      "name": "trophy",
+      "tags": "award, prize"
     },
     {
       "name": "umbrella",
       "tags": "weather"
+    },
+    {
+      "name": "university",
+      "tags": "education, graduate"
     },
     {
       "name": "unlocked"
@@ -920,6 +1053,10 @@
     {
       "name": "volume-mute",
       "tags": "audio, sound"
+    },
+    {
+      "name": "wand",
+      "tags": "magic"
     },
     {
       "name": "waterdrop",
@@ -966,6 +1103,10 @@
     },
     {
       "name": "android-arrow-down-right",
+      "tags": ""
+    },
+    {
+      "name": "android-arrow-forward",
       "tags": ""
     },
     {
@@ -1035,6 +1176,10 @@
     {
       "name": "android-download",
       "tags": ""
+    },
+    {
+      "name": "android-drawer",
+      "tags": "more"
     },
     {
       "name": "android-dropdown",
@@ -1157,6 +1302,10 @@
       "tags": ""
     },
     {
+      "name": "android-stair-drawer",
+      "tags": ""
+    },
+    {
       "name": "android-star",
       "tags": ""
     },
@@ -1189,6 +1338,10 @@
       "tags": ""
     },
     {
+      "name": "android-user-menu",
+      "tags": ""
+    },
+    {
       "name": "android-volume",
       "tags": ""
     },
@@ -1206,6 +1359,20 @@
     },
     {
       "name": "ios7-albums"
+    },
+    {
+      "name": "ios7-americanfootball",
+      "tags": "sports"
+    },
+    {
+      "name": "ios7-americanfootball-outline",
+      "tags": "sports"
+    },
+    {
+      "name": "ios7-analytics"
+    },
+    {
+      "name": "ios7-analytics-outline"
     },
     {
       "name": "ios7-arrow-back",
@@ -1254,6 +1421,28 @@
     {
       "name": "ios7-at-outline",
       "tags": "email"
+    },
+    {
+      "name": "ios7-barcode"
+    },
+    {
+      "name": "ios7-barcode-outline"
+    },
+    {
+      "name": "ios7-baseball",
+      "tags": "sports"
+    },
+    {
+      "name": "ios7-baseball-outline",
+      "tags": "sports"
+    },
+    {
+      "name": "ios7-basketball",
+      "tags": "sports"
+    },
+    {
+      "name": "ios7-basketball-outline",
+      "tags": "sports"
     },
     {
       "name": "ios7-bell",
@@ -1447,6 +1636,9 @@
       "name": "ios7-email-outline"
     },
     {
+      "name": "ios7-expand"
+    },
+    {
       "name": "ios7-eye",
       "tags": "show"
     },
@@ -1484,6 +1676,14 @@
       "name": "ios7-folder-outline"
     },
     {
+      "name": "ios7-football",
+      "tags": "sports, soccer"
+    },
+    {
+      "name": "ios7-football-outline",
+      "tags": "sports, soccer"
+    },
+    {
       "name": "ios7-gear",
       "tags": "cog, settings"
     },
@@ -1506,13 +1706,24 @@
       "tags": "favorite, like, rate, ratings"
     },
     {
-      "name": "ios7-help"
+      "name": "ios7-help",
+      "tags": "question mark"
     },
     {
-      "name": "ios7-help-empty"
+      "name": "ios7-help-empty",
+      "tags": "question mark"
     },
     {
-      "name": "ios7-help-outline"
+      "name": "ios7-help-outline",
+      "tags": "question mark"
+    },
+    {
+      "name": "ios7-home-outline",
+      "tags": "house"
+    },
+    {
+      "name": "ios7-home",
+      "tags": "house"
     },
     {
       "name": "ios7-infinite",
@@ -1564,6 +1775,14 @@
       "name": "ios7-locked-outline"
     },
     {
+      "name": "ios7-loop",
+      "tags": "refresh, reload"
+    },
+    {
+      "name": "ios7-loop-strong",
+      "tags": "refresh, reload"
+    },
+    {
       "name": "ios7-medkit",
       "tags": "medical"
     },
@@ -1601,10 +1820,12 @@
       "tags": "computer"
     },
     {
-      "name": "ios7-moon"
+      "name": "ios7-moon",
+      "tags": "night"
     },
     {
-      "name": "ios7-moon-outline"
+      "name": "ios7-moon-outline",
+      "tags": "night"
     },
     {
       "name": "ios7-more",
@@ -1629,6 +1850,12 @@
       "tags": "map, location"
     },
     {
+      "name": "ios7-paper"
+    },
+    {
+      "name": "ios7-paper-outline"
+    },
+    {
       "name": "ios7-paperplane",
       "tags": "airplane"
     },
@@ -1651,6 +1878,14 @@
     {
       "name": "ios7-pause-outline",
       "tags": "video player"
+    },
+    {
+      "name": "ios7-paw",
+      "tags": "animal"
+    },
+    {
+      "name": "ios7-paw-outline",
+      "tags": "animal"
     },
     {
       "name": "ios7-people",
@@ -1716,8 +1951,24 @@
       "tags": "shopping"
     },
     {
+      "name": "ios7-pricetags",
+      "tags": "shopping"
+    },
+    {
+      "name": "ios7-pricetags-outline",
+      "tags": "shopping"
+    },
+    {
       "name": "ios7-printer",
       "tags": "computer"
+    },
+    {
+      "name": "ios7-pulse",
+      "tags": "signal"
+    },
+    {
+      "name": "ios7-pulse-strong",
+      "tags": "signal"
     },
     {
       "name": "ios7-rainy",
@@ -1760,6 +2011,12 @@
       "tags": "refresh"
     },
     {
+      "name": "ios7-reverse-camera"
+    },
+    {
+      "name": "ios7-reverse-camera-outline"
+    },
+    {
       "name": "ios7-rewind",
       "tags": "video player"
     },
@@ -1774,6 +2031,16 @@
     {
       "name": "ios7-search-strong",
       "tags": "magnifying glass"
+    },
+    {
+      "name": "ios7-settings"
+    },
+    {
+      "name": "ios7-settings-strong"
+    },
+    {
+      "name": "ios7-shrink",
+      "tags": "collapse"
     },
     {
       "name": "ios7-skipbackward",
@@ -1804,6 +2071,10 @@
       "tags": "like, favorite, rate, ratings"
     },
     {
+      "name": "ios7-star-half",
+      "tags": "rate, ratings"
+    },
+    {
       "name": "ios7-star-outline",
       "tags": "like, favorite, rate, ratings"
     },
@@ -1830,6 +2101,14 @@
       "name": "ios7-telephone-outline"
     },
     {
+      "name": "ios7-tennisball",
+      "tags": "sports"
+    },
+    {
+      "name": "ios7-tennisball-outline",
+      "tags": "sports"
+    },
+    {
       "name": "ios7-thunderstorm",
       "tags": "weather"
     },
@@ -1852,6 +2131,14 @@
     {
       "name": "ios7-timer-outline",
       "tags": "clock"
+    },
+    {
+      "name": "ios7-toggle",
+      "tags": "settings"
+    },
+    {
+      "name": "ios7-toggle-outline",
+      "tags": "settings"
     },
     {
       "name": "ios7-trash",
