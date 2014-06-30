@@ -1,11 +1,9 @@
 # GlyphSearch
-Search for icons from [Font Awesome](http://fontawesome.io), [Glyphicons](http://glyphicons.com), [IcoMoon](http://icomoon.io/), and [Ionicons](http://ionicons.com).
-
-Get started at [glyphsearch.com](http://glyphsearch.com).
+Visit [GlyphSearch](http://glyphsearch.com) to search for icons from [Font Awesome](http://fontawesome.io), [Glyphicons](http://glyphicons.com), [IcoMoon](http://icomoon.io/), [Ionicons](http://ionicons.com), and [Octicons](http://octicons.github.com/).
 
 ## Build
 
-Run `grunt build` to build `offline.html` after you've modified the data in `/data` or templates in `/template`.
+Run `grunt build` to build after you've modified the icon data in `/data`.
 
 
 ## Author
@@ -25,5 +23,6 @@ Thanks to the creators of:
 * [Glyphicons](http://glyphicons.com)
 * [IcoMoon](http://icomoon.io/)
 * [Ionicons](http://ionicons.com)
+* [Octicons](http://octicons.github.com/)
 
 And the [contributors](https://github.com/thomaspark/glyphsearch/graphs/contributors).
