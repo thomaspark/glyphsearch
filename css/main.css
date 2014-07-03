@@ -16,8 +16,9 @@ body {
   position: absolute;
 }
 
-.navbar-right li {
-  padding-top: 19px;
+.social {
+  margin-top: 2em;
+  text-align: center;
 }
 
 .fb_iframe_widget {
@@ -40,6 +41,7 @@ body {
 #search {
   position: relative;
   margin-bottom: 0.5em;
+  -webkit-appearance: none;
 }
 
 .section {
@@ -54,6 +56,7 @@ body {
 
 .header h1 {
   margin-bottom: 0;
+  font-size: 30px;
 }
 
 .entry {
@@ -261,35 +264,4 @@ body {
       transform: scale(1);
       opacity: 1;
   }
-}
- 
-.fade-in {
-  opacity:0;
-  -webkit-animation: fadeIn ease-in 1s;
-  -moz-animation: fadeIn ease-in 1s;
-  animation: fadeIn ease-in 1s;
-  -webkit-animation-fill-mode: forwards;
-  -moz-animation-fill-mode: forwards;
-  animation-fill-mode: forwards;
-  -webkit-animation-duration: 1s;
-  -moz-animation-duration: 1s;
-  animation-duration: 1s;
-  -webkit-animation-delay: 1s;
-  -moz-animation-delay: 1s;
-  animation-delay: 1s;
-}
-
-@-webkit-keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-@-moz-keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
 }
