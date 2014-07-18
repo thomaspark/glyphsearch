@@ -74,6 +74,7 @@ function search(v) {
 
       var result = {};
       generate(content.hits, innerTemplateCompiled, result);
+      load(result);
 
     }, {hitsPerPage: 1000});
   }
@@ -96,16 +97,14 @@ function generate(data, template, output) {
       }
     }
   });
-
-  load(output);
 }
 
 function load(htmls) {
-  $('.header').hide();
+  $('.section').hide();
   $('.icons').empty();
 
   for (var i in htmls) {
-    $('#' + i + ' .icons').html(htmls[i]).prev().show();
+    $('#' + i + ' .icons').html(htmls[i]).parent().show();
   }
 
   if (flashEnabled) clip.glue($(".entry"));
@@ -166,10 +165,14 @@ function handlers() {
 $.getJSON("./data/batch.json", function(data) {
   generate(data, allTemplateCompiled, icons);
   handlers();
+
   if(qs.library) {
     setLibrary(qs.library);
   }
   if(qs.query) {
-    $("#search").val(qs.query).change();
+    $("#search").val(qs.query);
+    search(qs.query);
+  } else {
+    load(icons);
   }
 });

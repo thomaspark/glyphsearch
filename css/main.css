@@ -59,6 +59,10 @@ body {
   font-size: 30px;
 }
 
+.section {
+  display: none;
+}
+
 .entry {
   padding: 2em 0.7em 1em;
   height: 170px;
