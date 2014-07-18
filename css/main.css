@@ -7,6 +7,16 @@ body {
   padding-bottom: 6em;
 }
 
+body,
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.btn {
+  -webkit-font-smoothing: inherit;
+}
+
 .navbar {
   max-height: 61px;
   overflow: hidden;
