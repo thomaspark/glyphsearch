@@ -35,6 +35,10 @@
 			"tags": "brand, robot, google"
 		},
 		{
+			"name": "angellist",
+			"tags": "peace, hand"
+		},
+		{
 			"name": "angle-double-down",
 			"tags": "directional"
 		},
@@ -73,6 +77,10 @@
 		{
 			"name": "archive",
 			"tags": "email"
+		},
+		{
+			"name": "area-chart",
+			"tags": "graph"
 		},
 		{
 			"name": "arrow-circle-down",
@@ -142,6 +150,10 @@
 			"name": "asterisk"
 		},
 		{
+			"name": "at",
+			"tags": "email"
+		},
+		{
 			"name": "backward",
 			"tags": "video player"
 		},
@@ -177,6 +189,24 @@
 		{
 			"name": "bell-o",
 			"tags": "audio, sound"
+		},
+		{
+			"name": "bell-slash",
+			"tags": "audio, sound, mute"
+		},
+		{
+			"name": "bell-slash-o",
+			"tags": "audio, sound, mute"
+		},
+		{
+			"name": "bicycle"
+		},
+		{
+			"name": "binoculars"
+		},
+		{
+			"name": "birthday-cake",
+			"tags": "party"
 		},
 		{
 			"name": "bitbucket",
@@ -217,6 +247,14 @@
 		{
 			"name": "bullseye",
 			"tags": "aim, target"
+		},
+		{
+			"name": "bus",
+			"tags": "transportation"
+		},
+		{
+			"name": "calculator",
+			"tags": "math"
 		},
 		{
 			"name": "calendar",
@@ -269,6 +307,34 @@
 		{
 			"name": "caret-up",
 			"tags": "directional, triangle"
+		},
+		{
+			"name": "cc",
+			"tags": "closed captioning"
+		},
+		{
+			"name": "cc-amex",
+			"tags": "credit card, american express, payment"
+		},
+		{
+			"name": "cc-discover",
+			"tags": "credit card, payment"
+		},
+		{
+			"name": "cc-mastercard",
+			"tags": "credit card, payment"
+		},
+		{
+			"name": "cc-paypal",
+			"tags": "payment"
+		},
+		{
+			"name": "cc-stripe",
+			"tags": "payment"
+		},
+		{
+			"name": "cc-visa",
+			"tags": "credit card, payment"
 		},
 		{
 			"name": "certificate",
@@ -414,6 +480,9 @@
 			"tags": "arrows, resize, video player"
 		},
 		{
+			"name": "copyright"
+		},
+		{
 			"name": "credit-card",
 			"tags": "money, payment"
 		},
@@ -537,6 +606,9 @@
 		{
 			"name": "eye",
 			"tags": "show"
+		},
+		{
+			"name": "eyedropper"
 		},
 		{
 			"name": "eye-slash",
@@ -682,6 +754,10 @@
 			"tags": "face, smiley, ratings, rate, unlike"
 		},
 		{
+			"name": "futbol-o",
+			"tags": "soccer, ball, sports"
+		},
+		{
 			"name": "gamepad",
 			"tags": "controller"
 		},
@@ -740,6 +816,10 @@
 		{
 			"name": "google-plus-square",
 			"tags": "brand, social"
+		},
+		{
+			"name": "google-wallet",
+			"tags": "brand, payment"
 		},
 		{
 			"name": "graduation-cap",
@@ -807,6 +887,10 @@
 			"tags": "brand, web"
 		},
 		{
+			"name": "ils",
+			"tags": "shekel, israeli, money, currency"
+		},
+		{
 			"name": "inbox",
 			"tags": "email"
 		},
@@ -827,6 +911,9 @@
 		{
 			"name": "instagram",
 			"tags": "brand, camera, facebook, social, photos"
+		},
+		{
+			"name": "ioxhost"
 		},
 		{
 			"name": "italic",
@@ -864,6 +951,12 @@
 			"tags": "computer"
 		},
 		{
+			"name": "lastfm"
+		},
+		{
+			"name": "lastfm-square"
+		},
+		{
 			"name": "leaf",
 			"tags": "plant"
 		},
@@ -883,6 +976,10 @@
 		},
 		{
 			"name": "lightbulb-o"
+		},
+		{
+			"name": "line-chart",
+			"tags": "graph"
 		},
 		{
 			"name": "link",
@@ -962,6 +1059,9 @@
 			"tags": "brand"
 		},
 		{
+			"name": "meanpath"
+		},
+		{
 			"name": "medkit",
 			"tags": "medical"
 		},
@@ -1006,6 +1106,9 @@
 			"name": "music"
 		},
 		{
+			"name": "newspaper-o"
+		},
+		{
 			"name": "openid",
 			"tags": "brand"
 		},
@@ -1030,6 +1133,10 @@
 			"tags": "brand, leaf, plant"
 		},
 		{
+			"name": "paint-brush",
+			"tags": "art"
+		},
+		{
 			"name": "paragraph",
 			"tags": "text editor"
 		},
@@ -1040,6 +1147,10 @@
 		{
 			"name": "paw",
 			"tags": "animal, pet"
+		},
+		{
+			"name": "paypal",
+			"tags": "payment"
 		},
 		{
 			"name": "pencil"
@@ -1061,6 +1172,10 @@
 		},
 		{
 			"name": "picture-o"
+		},
+		{
+			"name": "pie-chart",
+			"tags": "graph"
 		},
 		{
 			"name": "pied-piper",
@@ -1093,6 +1208,10 @@
 		{
 			"name": "play-circle-o",
 			"tags": "video player"
+		},
+		{
+			"name": "plug",
+			"tags": "power"
 		},
 		{
 			"name": "plus",
@@ -1259,6 +1378,9 @@
 		{
 			"name": "sliders",
 			"tags": "settings"
+		},
+		{
+			"name": "slideshare"
 		},
 		{
 			"name": "smile-o",
@@ -1486,6 +1608,18 @@
 			"name": "tint"
 		},
 		{
+			"name": "toggle-off",
+			"tags": "settings, switch"
+		},
+		{
+			"name": "toggle-on",
+			"tags": "settings, switch"
+		},
+		{
+			"name": "trash",
+			"tags": "delete"
+		},
+		{
 			"name": "trash-o",
 			"tags": "delete"
 		},
@@ -1509,12 +1643,20 @@
 			"tags": "turkish lira, currency, money"
 		},
 		{
+			"name": "tty",
+			"tags": "teletype"
+		},
+		{
 			"name": "tumblr",
 			"tags": "brand, yahoo, social"
 		},
 		{
 			"name": "tumblr-square",
 			"tags": "brand, yahoo, social"
+		},
+		{
+			"name": "twitch",
+			"tags": "brand, video, social"
 		},
 		{
 			"name": "twitter",
@@ -1600,6 +1742,10 @@
 			"tags": "medical, handicapped"
 		},
 		{
+			"name": "wifi",
+			"tags": "internet, signal, broadcast"
+		},
+		{
 			"name": "windows",
 			"tags": "brand, microsoft"
 		},
@@ -1622,6 +1768,10 @@
 		{
 			"name": "yahoo",
 			"tags": "brand"
+		},
+		{
+			"name": "yelp",
+			"tags": "brand, social"
 		},
 		{
 			"name": "youtube",
