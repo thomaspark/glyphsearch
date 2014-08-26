@@ -8591,7 +8591,7 @@
   {
     "_tags": ["icomoon"],
     "name": "android",
-    "tags": "brand, google",
+    "tags": "brand, robot, google",
     "class": "icomoon icon-android"
   },
   
@@ -12856,7 +12856,7 @@
   {
     "_tags": ["octicons"],
     "name": "terminal",
-    "tags": "code, ops, shell",
+    "tags": "code, console, shell",
     "class": "mega-octicon octicon-terminal"
   },
   

@@ -658,7 +658,7 @@
     },
     {
       "name": "terminal",
-      "tags": "code, ops, shell"
+      "tags": "code, console, shell"
     },
     {
       "name": "three-bars",

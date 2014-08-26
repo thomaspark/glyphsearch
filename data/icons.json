@@ -2408,7 +2408,7 @@
 		},
 		{
 			"name": "android",
-			"tags": "brand, google"
+			"tags": "brand, robot, google"
 		},
 		{
 			"name": "angry",
@@ -7048,7 +7048,7 @@
 		},
 		{
 			"name": "terminal",
-			"tags": "code, ops, shell"
+			"tags": "code, console, shell"
 		},
 		{
 			"name": "three-bars",
