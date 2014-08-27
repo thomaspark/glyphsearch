@@ -13225,5 +13225,1988 @@
   },
   
 
+  
+  {
+    "_tags": ["foundation"],
+    "name": "heart",
+    "tags": "heart",
+    "class": "fi-heart"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "star",
+    "tags": "star",
+    "class": "fi-star"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "plus",
+    "tags": "plus",
+    "class": "fi-plus"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "minus",
+    "tags": "minus",
+    "class": "fi-minus"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "x",
+    "tags": "x",
+    "class": "fi-x"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "check",
+    "tags": "check",
+    "class": "fi-check"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "upload",
+    "tags": "upload",
+    "class": "fi-upload"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "download",
+    "tags": "download",
+    "class": "fi-download"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "widget",
+    "tags": "widget",
+    "class": "fi-widget"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "marker",
+    "tags": "marker",
+    "class": "fi-marker"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "refresh",
+    "tags": "refresh",
+    "class": "fi-refresh"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "home",
+    "tags": "home",
+    "class": "fi-home"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "trash",
+    "tags": "trash",
+    "class": "fi-trash"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "paperclip",
+    "tags": "paperclip",
+    "class": "fi-paperclip"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "lock",
+    "tags": "lock",
+    "class": "fi-lock"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "unlock",
+    "tags": "unlock",
+    "class": "fi-unlock"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "calendar",
+    "tags": "calendar",
+    "class": "fi-calendar"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "cloud",
+    "tags": "cloud",
+    "class": "fi-cloud"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "magnifying-glass",
+    "tags": "magnifying-glass",
+    "class": "fi-magnifying-glass"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "zoom-out",
+    "tags": "zoom-out",
+    "class": "fi-zoom-out"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "zoom-in",
+    "tags": "zoom-in",
+    "class": "fi-zoom-in"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "wrench",
+    "tags": "wrench",
+    "class": "fi-wrench"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "rss",
+    "tags": "rss",
+    "class": "fi-rss"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "share",
+    "tags": "share",
+    "class": "fi-share"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "flag",
+    "tags": "flag",
+    "class": "fi-flag"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "list-thumbnails",
+    "tags": "list-thumbnails",
+    "class": "fi-list-thumbnails"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "list",
+    "tags": "list",
+    "class": "fi-list"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "thumbnails",
+    "tags": "thumbnails",
+    "class": "fi-thumbnails"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "annotate",
+    "tags": "annotate",
+    "class": "fi-annotate"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "folder",
+    "tags": "folder",
+    "class": "fi-folder"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "folder-lock",
+    "tags": "folder-lock",
+    "class": "fi-folder-lock"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "folder-add",
+    "tags": "folder-add",
+    "class": "fi-folder-add"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "clock",
+    "tags": "clock",
+    "class": "fi-clock"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "play-video",
+    "tags": "play-video",
+    "class": "fi-play-video"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "crop",
+    "tags": "crop",
+    "class": "fi-crop"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "archive",
+    "tags": "archive",
+    "class": "fi-archive"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "pencil",
+    "tags": "pencil",
+    "class": "fi-pencil"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "graph-trend",
+    "tags": "graph-trend",
+    "class": "fi-graph-trend"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "graph-bar",
+    "tags": "graph-bar",
+    "class": "fi-graph-bar"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "graph-horizontal",
+    "tags": "graph-horizontal",
+    "class": "fi-graph-horizontal"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "graph-pie",
+    "tags": "graph-pie",
+    "class": "fi-graph-pie"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "checkbox",
+    "tags": "checkbox",
+    "class": "fi-checkbox"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "minus-circle",
+    "tags": "minus-circle",
+    "class": "fi-minus-circle"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "x-circle",
+    "tags": "x-circle",
+    "class": "fi-x-circle"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "eye",
+    "tags": "eye",
+    "class": "fi-eye"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "database",
+    "tags": "database",
+    "class": "fi-database"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "results",
+    "tags": "results",
+    "class": "fi-results"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "results-demographics",
+    "tags": "results-demographics",
+    "class": "fi-results-demographics"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "like",
+    "tags": "like",
+    "class": "fi-like"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "dislike",
+    "tags": "dislike",
+    "class": "fi-dislike"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "upload-cloud",
+    "tags": "upload-cloud",
+    "class": "fi-upload-cloud"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "camera",
+    "tags": "camera",
+    "class": "fi-camera"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "alert",
+    "tags": "alert",
+    "class": "fi-alert"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "bookmark",
+    "tags": "bookmark",
+    "class": "fi-bookmark"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "contrast",
+    "tags": "contrast",
+    "class": "fi-contrast"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "mail",
+    "tags": "mail",
+    "class": "fi-mail"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "video",
+    "tags": "video",
+    "class": "fi-video"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "phone",
+    "tags": "phone",
+    "class": "fi-phone"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "comment",
+    "tags": "comment",
+    "class": "fi-comment"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "comment-video",
+    "tags": "comment-video",
+    "class": "fi-comment-video"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "comment-quotes",
+    "tags": "comment-quotes",
+    "class": "fi-comment-quotes"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "comment-minus",
+    "tags": "comment-minus",
+    "class": "fi-comment-minus"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "comments",
+    "tags": "comments",
+    "class": "fi-comments"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "microphone",
+    "tags": "microphone",
+    "class": "fi-microphone"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "megaphone",
+    "tags": "megaphone",
+    "class": "fi-megaphone"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "sound",
+    "tags": "sound",
+    "class": "fi-sound"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "address-book",
+    "tags": "address-book",
+    "class": "fi-address-book"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "bluetooth",
+    "tags": "bluetooth",
+    "class": "fi-bluetooth"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "html5",
+    "tags": "html5",
+    "class": "fi-html5"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "css3",
+    "tags": "css3",
+    "class": "fi-css3"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "layout",
+    "tags": "layout",
+    "class": "fi-layout"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "web",
+    "tags": "web",
+    "class": "fi-web"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "foundation",
+    "tags": "foundation",
+    "class": "fi-foundation"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page",
+    "tags": "page",
+    "class": "fi-page"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page-csv",
+    "tags": "page-csv",
+    "class": "fi-page-csv"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page-doc",
+    "tags": "page-doc",
+    "class": "fi-page-doc"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page-pdf",
+    "tags": "page-pdf",
+    "class": "fi-page-pdf"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page-export",
+    "tags": "page-export",
+    "class": "fi-page-export"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page-export-csv",
+    "tags": "page-export-csv",
+    "class": "fi-page-export-csv"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page-export-doc",
+    "tags": "page-export-doc",
+    "class": "fi-page-export-doc"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page-export-pdf",
+    "tags": "page-export-pdf",
+    "class": "fi-page-export-pdf"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page-add",
+    "tags": "page-add",
+    "class": "fi-page-add"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page-remove",
+    "tags": "page-remove",
+    "class": "fi-page-remove"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page-delete",
+    "tags": "page-delete",
+    "class": "fi-page-delete"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page-edit",
+    "tags": "page-edit",
+    "class": "fi-page-edit"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page-search",
+    "tags": "page-search",
+    "class": "fi-page-search"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page-copy",
+    "tags": "page-copy",
+    "class": "fi-page-copy"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page-filled",
+    "tags": "page-filled",
+    "class": "fi-page-filled"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "page-multiple",
+    "tags": "page-multiple",
+    "class": "fi-page-multiple"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "arrow-up",
+    "tags": "arrow-up",
+    "class": "fi-arrow-up"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "arrow-right",
+    "tags": "arrow-right",
+    "class": "fi-arrow-right"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "arrow-down",
+    "tags": "arrow-down",
+    "class": "fi-arrow-down"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "arrow-left",
+    "tags": "arrow-left",
+    "class": "fi-arrow-left"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "arrows-out",
+    "tags": "arrows-out",
+    "class": "fi-arrows-out"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "arrows-in",
+    "tags": "arrows-in",
+    "class": "fi-arrows-in"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "arrows-expand",
+    "tags": "arrows-expand",
+    "class": "fi-arrows-expand"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "arrows-compress",
+    "tags": "arrows-compress",
+    "class": "fi-arrows-compress"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "torso",
+    "tags": "torso",
+    "class": "fi-torso"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "torso-female",
+    "tags": "torso-female",
+    "class": "fi-torso-female"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "torsos",
+    "tags": "torsos",
+    "class": "fi-torsos"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "torsos-female-male",
+    "tags": "torsos-female-male",
+    "class": "fi-torsos-female-male"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "torsos-male-female",
+    "tags": "torsos-male-female",
+    "class": "fi-torsos-male-female"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "torsos-all",
+    "tags": "torsos-all",
+    "class": "fi-torsos-all"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "torsos-all-female",
+    "tags": "torsos-all-female",
+    "class": "fi-torsos-all-female"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "torso-business",
+    "tags": "torso-business",
+    "class": "fi-torso-business"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "monitor",
+    "tags": "monitor",
+    "class": "fi-monitor"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "laptop",
+    "tags": "laptop",
+    "class": "fi-laptop"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "tablet-portrait",
+    "tags": "tablet-portrait",
+    "class": "fi-tablet-portrait"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "tablet-landscape",
+    "tags": "tablet-landscape",
+    "class": "fi-tablet-landscape"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "mobile",
+    "tags": "mobile",
+    "class": "fi-mobile"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "mobile-signal",
+    "tags": "mobile-signal",
+    "class": "fi-mobile-signal"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "usb",
+    "tags": "usb",
+    "class": "fi-usb"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "bold",
+    "tags": "bold",
+    "class": "fi-bold"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "italic",
+    "tags": "italic",
+    "class": "fi-italic"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "underline",
+    "tags": "underline",
+    "class": "fi-underline"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "strikethrough",
+    "tags": "strikethrough",
+    "class": "fi-strikethrough"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "text-color",
+    "tags": "text-color",
+    "class": "fi-text-color"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "background-color",
+    "tags": "background-color",
+    "class": "fi-background-color"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "superscript",
+    "tags": "superscript",
+    "class": "fi-superscript"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "subscript",
+    "tags": "subscript",
+    "class": "fi-subscript"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "align-left",
+    "tags": "align-left",
+    "class": "fi-align-left"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "align-center",
+    "tags": "align-center",
+    "class": "fi-align-center"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "align-right",
+    "tags": "align-right",
+    "class": "fi-align-right"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "align-justify",
+    "tags": "align-justify",
+    "class": "fi-align-justify"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "list-number",
+    "tags": "list-number",
+    "class": "fi-list-number"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "list-bullet",
+    "tags": "list-bullet",
+    "class": "fi-list-bullet"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "indent-more",
+    "tags": "indent-more",
+    "class": "fi-indent-more"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "indent-less",
+    "tags": "indent-less",
+    "class": "fi-indent-less"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "print",
+    "tags": "print",
+    "class": "fi-print"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "save",
+    "tags": "save",
+    "class": "fi-save"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "photo",
+    "tags": "photo",
+    "class": "fi-photo"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "filter",
+    "tags": "filter",
+    "class": "fi-filter"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "paint-bucket",
+    "tags": "paint-bucket",
+    "class": "fi-paint-bucket"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "link",
+    "tags": "link",
+    "class": "fi-link"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "unlink",
+    "tags": "unlink",
+    "class": "fi-unlink"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "quote",
+    "tags": "quote",
+    "class": "fi-quote"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "play",
+    "tags": "play",
+    "class": "fi-play"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "stop",
+    "tags": "stop",
+    "class": "fi-stop"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "pause",
+    "tags": "pause",
+    "class": "fi-pause"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "previous",
+    "tags": "previous",
+    "class": "fi-previous"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "rewind",
+    "tags": "rewind",
+    "class": "fi-rewind"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "fast-forward",
+    "tags": "fast-forward",
+    "class": "fi-fast-forward"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "next",
+    "tags": "next",
+    "class": "fi-next"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "record",
+    "tags": "record",
+    "class": "fi-record"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "play-circle",
+    "tags": "play-circle",
+    "class": "fi-play-circle"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "volume-none",
+    "tags": "volume-none",
+    "class": "fi-volume-none"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "volume",
+    "tags": "volume",
+    "class": "fi-volume"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "volume-strike",
+    "tags": "volume-strike",
+    "class": "fi-volume-strike"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "loop",
+    "tags": "loop",
+    "class": "fi-loop"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "shuffle",
+    "tags": "shuffle",
+    "class": "fi-shuffle"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "eject",
+    "tags": "eject",
+    "class": "fi-eject"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "rewind-ten",
+    "tags": "rewind-ten",
+    "class": "fi-rewind-ten"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "dollar",
+    "tags": "dollar",
+    "class": "fi-dollar"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "euro",
+    "tags": "euro",
+    "class": "fi-euro"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "pound",
+    "tags": "pound",
+    "class": "fi-pound"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "yen",
+    "tags": "yen",
+    "class": "fi-yen"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "bitcoin",
+    "tags": "bitcoin",
+    "class": "fi-bitcoin"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "bitcoin-circle",
+    "tags": "bitcoin-circle",
+    "class": "fi-bitcoin-circle"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "credit-card",
+    "tags": "credit-card",
+    "class": "fi-credit-card"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "shopping-cart",
+    "tags": "shopping-cart",
+    "class": "fi-shopping-cart"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "burst",
+    "tags": "burst",
+    "class": "fi-burst"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "burst-new",
+    "tags": "burst-new",
+    "class": "fi-burst-new"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "burst-sale",
+    "tags": "burst-sale",
+    "class": "fi-burst-sale"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "paypal",
+    "tags": "paypal",
+    "class": "fi-paypal"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "price-tag",
+    "tags": "price-tag",
+    "class": "fi-price-tag"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "pricetag-multiple",
+    "tags": "pricetag-multiple",
+    "class": "fi-pricetag-multiple"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "shopping-bag",
+    "tags": "shopping-bag",
+    "class": "fi-shopping-bag"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "dollar-bill",
+    "tags": "dollar-bill",
+    "class": "fi-dollar-bill"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "wheelchair",
+    "tags": "wheelchair",
+    "class": "fi-wheelchair"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "braille",
+    "tags": "braille",
+    "class": "fi-braille"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "closed-caption",
+    "tags": "closed-caption",
+    "class": "fi-closed-caption"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "blind",
+    "tags": "blind",
+    "class": "fi-blind"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "asl",
+    "tags": "asl",
+    "class": "fi-asl"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "hearing-aid",
+    "tags": "hearing-aid",
+    "class": "fi-hearing-aid"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "guide-dog",
+    "tags": "guide-dog",
+    "class": "fi-guide-dog"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "universal-access",
+    "tags": "universal-access",
+    "class": "fi-universal-access"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "telephone-accessible",
+    "tags": "telephone-accessible",
+    "class": "fi-telephone-accessible"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "elevator",
+    "tags": "elevator",
+    "class": "fi-elevator"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "male",
+    "tags": "male",
+    "class": "fi-male"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "female",
+    "tags": "female",
+    "class": "fi-female"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "male-female",
+    "tags": "male-female",
+    "class": "fi-male-female"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "male-symbol",
+    "tags": "male-symbol",
+    "class": "fi-male-symbol"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "female-symbol",
+    "tags": "female-symbol",
+    "class": "fi-female-symbol"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-500px",
+    "tags": "social-500px",
+    "class": "fi-social-500px"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-adobe",
+    "tags": "social-adobe",
+    "class": "fi-social-adobe"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-amazon",
+    "tags": "social-amazon",
+    "class": "fi-social-amazon"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-android",
+    "tags": "social-android",
+    "class": "fi-social-android"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-apple",
+    "tags": "social-apple",
+    "class": "fi-social-apple"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-behance",
+    "tags": "social-behance",
+    "class": "fi-social-behance"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-bing",
+    "tags": "social-bing",
+    "class": "fi-social-bing"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-blogger",
+    "tags": "social-blogger",
+    "class": "fi-social-blogger"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-delicious",
+    "tags": "social-delicious",
+    "class": "fi-social-delicious"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-designer-news",
+    "tags": "social-designer-news",
+    "class": "fi-social-designer-news"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-deviant-art",
+    "tags": "social-deviant-art",
+    "class": "fi-social-deviant-art"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-digg",
+    "tags": "social-digg",
+    "class": "fi-social-digg"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-dribbble",
+    "tags": "social-dribbble",
+    "class": "fi-social-dribbble"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-drive",
+    "tags": "social-drive",
+    "class": "fi-social-drive"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-dropbox",
+    "tags": "social-dropbox",
+    "class": "fi-social-dropbox"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-evernote",
+    "tags": "social-evernote",
+    "class": "fi-social-evernote"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-facebook",
+    "tags": "social-facebook",
+    "class": "fi-social-facebook"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-flickr",
+    "tags": "social-flickr",
+    "class": "fi-social-flickr"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-forrst",
+    "tags": "social-forrst",
+    "class": "fi-social-forrst"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-foursquare",
+    "tags": "social-foursquare",
+    "class": "fi-social-foursquare"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-game-center",
+    "tags": "social-game-center",
+    "class": "fi-social-game-center"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-github",
+    "tags": "social-github",
+    "class": "fi-social-github"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-google-plus",
+    "tags": "social-google-plus",
+    "class": "fi-social-google-plus"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-hacker-news",
+    "tags": "social-hacker-news",
+    "class": "fi-social-hacker-news"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-hi5",
+    "tags": "social-hi5",
+    "class": "fi-social-hi5"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-instagram",
+    "tags": "social-instagram",
+    "class": "fi-social-instagram"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-joomla",
+    "tags": "social-joomla",
+    "class": "fi-social-joomla"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-lastfm",
+    "tags": "social-lastfm",
+    "class": "fi-social-lastfm"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-linkedin",
+    "tags": "social-linkedin",
+    "class": "fi-social-linkedin"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-medium",
+    "tags": "social-medium",
+    "class": "fi-social-medium"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-myspace",
+    "tags": "social-myspace",
+    "class": "fi-social-myspace"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-orkut",
+    "tags": "social-orkut",
+    "class": "fi-social-orkut"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-path",
+    "tags": "social-path",
+    "class": "fi-social-path"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-picasa",
+    "tags": "social-picasa",
+    "class": "fi-social-picasa"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-pinterest",
+    "tags": "social-pinterest",
+    "class": "fi-social-pinterest"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-rdio",
+    "tags": "social-rdio",
+    "class": "fi-social-rdio"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-reddit",
+    "tags": "social-reddit",
+    "class": "fi-social-reddit"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-skype",
+    "tags": "social-skype",
+    "class": "fi-social-skype"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-skillshare",
+    "tags": "social-skillshare",
+    "class": "fi-social-skillshare"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-smashing-mag",
+    "tags": "social-smashing-mag",
+    "class": "fi-social-smashing-mag"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-snapchat",
+    "tags": "social-snapchat",
+    "class": "fi-social-snapchat"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-spotify",
+    "tags": "social-spotify",
+    "class": "fi-social-spotify"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-squidoo",
+    "tags": "social-squidoo",
+    "class": "fi-social-squidoo"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-stack-overflow",
+    "tags": "social-stack-overflow",
+    "class": "fi-social-stack-overflow"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-steam",
+    "tags": "social-steam",
+    "class": "fi-social-steam"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-stumbleupon",
+    "tags": "social-stumbleupon",
+    "class": "fi-social-stumbleupon"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-treehouse",
+    "tags": "social-treehouse",
+    "class": "fi-social-treehouse"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-tumblr",
+    "tags": "social-tumblr",
+    "class": "fi-social-tumblr"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-twitter",
+    "tags": "social-twitter",
+    "class": "fi-social-twitter"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-vimeo",
+    "tags": "social-vimeo",
+    "class": "fi-social-vimeo"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-windows",
+    "tags": "social-windows",
+    "class": "fi-social-windows"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-xbox-20",
+    "tags": "social-xbox-20",
+    "class": "fi-social-xbox-20"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-yahoo",
+    "tags": "social-yahoo",
+    "class": "fi-social-yahoo"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-yelp",
+    "tags": "social-yelp",
+    "class": "fi-social-yelp"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-youtube",
+    "tags": "social-youtube",
+    "class": "fi-social-youtube"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-zerply",
+    "tags": "social-zerply",
+    "class": "fi-social-zerply"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "social-zurb",
+    "tags": "social-zurb",
+    "class": "fi-social-zurb"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "compass",
+    "tags": "compass",
+    "class": "fi-compass"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "music",
+    "tags": "music",
+    "class": "fi-music"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "lightbulb",
+    "tags": "lightbulb",
+    "class": "fi-lightbulb"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "battery-full",
+    "tags": "battery-full",
+    "class": "fi-battery-full"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "battery-half",
+    "tags": "battery-half",
+    "class": "fi-battery-half"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "battery-empty",
+    "tags": "battery-empty",
+    "class": "fi-battery-empty"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "projection-screen",
+    "tags": "projection-screen",
+    "class": "fi-projection-screen"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "info",
+    "tags": "info",
+    "class": "fi-info"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "power",
+    "tags": "power",
+    "class": "fi-power"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "asterisk",
+    "tags": "asterisk",
+    "class": "fi-asterisk"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "at-sign",
+    "tags": "at-sign",
+    "class": "fi-at-sign"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "key",
+    "tags": "key",
+    "class": "fi-key"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "ticket",
+    "tags": "ticket",
+    "class": "fi-ticket"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "book",
+    "tags": "book",
+    "class": "fi-book"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "book-bookmark",
+    "tags": "book-bookmark",
+    "class": "fi-book-bookmark"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "anchor",
+    "tags": "anchor",
+    "class": "fi-anchor"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "puzzle",
+    "tags": "puzzle",
+    "class": "fi-puzzle"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "foot",
+    "tags": "foot",
+    "class": "fi-foot"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "paw",
+    "tags": "paw",
+    "class": "fi-paw"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "mountains",
+    "tags": "mountains",
+    "class": "fi-mountains"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "trees",
+    "tags": "trees",
+    "class": "fi-trees"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "sheriff-badge",
+    "tags": "sheriff-badge",
+    "class": "fi-sheriff-badge"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "first-aid",
+    "tags": "first-aid",
+    "class": "fi-first-aid"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "trophy",
+    "tags": "trophy",
+    "class": "fi-trophy"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "prohibited",
+    "tags": "prohibited",
+    "class": "fi-prohibited"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "no-dogs",
+    "tags": "no-dogs",
+    "class": "fi-no-dogs"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "no-smoking",
+    "tags": "no-smoking",
+    "class": "fi-no-smoking"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "safety-cone",
+    "tags": "safety-cone",
+    "class": "fi-safety-cone"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "shield",
+    "tags": "shield",
+    "class": "fi-shield"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "crown",
+    "tags": "crown",
+    "class": "fi-crown"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "target",
+    "tags": "target",
+    "class": "fi-target"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "target-two",
+    "tags": "target-two",
+    "class": "fi-target-two"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "die-one",
+    "tags": "die-one",
+    "class": "fi-die-one"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "die-two",
+    "tags": "die-two",
+    "class": "fi-die-two"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "die-three",
+    "tags": "die-three",
+    "class": "fi-die-three"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "die-four",
+    "tags": "die-four",
+    "class": "fi-die-four"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "die-five",
+    "tags": "die-five",
+    "class": "fi-die-five"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "die-six",
+    "tags": "die-six",
+    "class": "fi-die-six"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "skull",
+    "tags": "skull",
+    "class": "fi-skull"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "map",
+    "tags": "map",
+    "class": "fi-map"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "clipboard",
+    "tags": "clipboard",
+    "class": "fi-clipboard"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "clipboard-pencil",
+    "tags": "clipboard-pencil",
+    "class": "fi-clipboard-pencil"
+  },
+  
+  {
+    "_tags": ["foundation"],
+    "name": "clipboard-notes",
+    "tags": "clipboard-notes",
+    "class": "fi-clipboard-notes"
+  },
+  
+
   {}
 ]
