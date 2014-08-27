@@ -1,0 +1,5 @@
+{
+  "name": "foundation-icon-fonts",
+  "version": "3.0.0",
+  "main": ["foundation-icons.css"]
+}
