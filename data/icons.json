@@ -1788,1136 +1788,854 @@
 	],
 	"foundation": [
 		{
-			"name": "heart",
-			"tags": "heart"
+			"name": "heart"
 		},
 		{
-			"name": "star",
-			"tags": "star"
+			"name": "star"
 		},
 		{
-			"name": "plus",
-			"tags": "plus"
+			"name": "plus"
 		},
 		{
-			"name": "minus",
-			"tags": "minus"
+			"name": "minus"
 		},
 		{
-			"name": "x",
-			"tags": "x"
+			"name": "x"
 		},
 		{
-			"name": "check",
-			"tags": "check"
+			"name": "check"
 		},
 		{
-			"name": "upload",
-			"tags": "upload"
+			"name": "upload"
 		},
 		{
-			"name": "download",
-			"tags": "download"
+			"name": "download"
 		},
 		{
-			"name": "widget",
-			"tags": "widget"
+			"name": "widget"
 		},
 		{
-			"name": "marker",
-			"tags": "marker"
+			"name": "marker"
 		},
 		{
-			"name": "refresh",
-			"tags": "refresh"
+			"name": "refresh"
 		},
 		{
-			"name": "home",
-			"tags": "home"
+			"name": "home"
 		},
 		{
-			"name": "trash",
-			"tags": "trash"
+			"name": "trash"
 		},
 		{
-			"name": "paperclip",
-			"tags": "paperclip"
+			"name": "paperclip"
 		},
 		{
-			"name": "lock",
-			"tags": "lock"
+			"name": "lock"
 		},
 		{
-			"name": "unlock",
-			"tags": "unlock"
+			"name": "unlock"
 		},
 		{
-			"name": "calendar",
-			"tags": "calendar"
+			"name": "calendar"
 		},
 		{
-			"name": "cloud",
-			"tags": "cloud"
+			"name": "cloud"
 		},
 		{
-			"name": "magnifying-glass",
-			"tags": "magnifying-glass"
+			"name": "magnifying-glass"
 		},
 		{
-			"name": "zoom-out",
-			"tags": "zoom-out"
+			"name": "zoom-out"
 		},
 		{
-			"name": "zoom-in",
-			"tags": "zoom-in"
+			"name": "zoom-in"
 		},
 		{
-			"name": "wrench",
-			"tags": "wrench"
+			"name": "wrench"
 		},
 		{
-			"name": "rss",
-			"tags": "rss"
+			"name": "rss"
 		},
 		{
-			"name": "share",
-			"tags": "share"
+			"name": "share"
 		},
 		{
-			"name": "flag",
-			"tags": "flag"
+			"name": "flag"
 		},
 		{
-			"name": "list-thumbnails",
-			"tags": "list-thumbnails"
+			"name": "list-thumbnails"
 		},
 		{
-			"name": "list",
-			"tags": "list"
+			"name": "list"
 		},
 		{
-			"name": "thumbnails",
-			"tags": "thumbnails"
+			"name": "thumbnails"
 		},
 		{
-			"name": "annotate",
-			"tags": "annotate"
+			"name": "annotate"
 		},
 		{
-			"name": "folder",
-			"tags": "folder"
+			"name": "folder"
 		},
 		{
-			"name": "folder-lock",
-			"tags": "folder-lock"
+			"name": "folder-lock"
 		},
 		{
-			"name": "folder-add",
-			"tags": "folder-add"
+			"name": "folder-add"
 		},
 		{
-			"name": "clock",
-			"tags": "clock"
+			"name": "clock"
 		},
 		{
-			"name": "play-video",
-			"tags": "play-video"
+			"name": "play-video"
 		},
 		{
-			"name": "crop",
-			"tags": "crop"
+			"name": "crop"
 		},
 		{
-			"name": "archive",
-			"tags": "archive"
+			"name": "archive"
 		},
 		{
-			"name": "pencil",
-			"tags": "pencil"
+			"name": "pencil"
 		},
 		{
-			"name": "graph-trend",
-			"tags": "graph-trend"
+			"name": "graph-trend"
 		},
 		{
-			"name": "graph-bar",
-			"tags": "graph-bar"
+			"name": "graph-bar"
 		},
 		{
-			"name": "graph-horizontal",
-			"tags": "graph-horizontal"
+			"name": "graph-horizontal"
 		},
 		{
-			"name": "graph-pie",
-			"tags": "graph-pie"
+			"name": "graph-pie"
 		},
 		{
-			"name": "checkbox",
-			"tags": "checkbox"
+			"name": "checkbox"
 		},
 		{
-			"name": "minus-circle",
-			"tags": "minus-circle"
+			"name": "minus-circle"
 		},
 		{
-			"name": "x-circle",
-			"tags": "x-circle"
+			"name": "x-circle"
 		},
 		{
-			"name": "eye",
-			"tags": "eye"
+			"name": "eye"
 		},
 		{
-			"name": "database",
-			"tags": "database"
+			"name": "database"
 		},
 		{
-			"name": "results",
-			"tags": "results"
+			"name": "results"
 		},
 		{
-			"name": "results-demographics",
-			"tags": "results-demographics"
+			"name": "results-demographics"
 		},
 		{
-			"name": "like",
-			"tags": "like"
+			"name": "like"
 		},
 		{
-			"name": "dislike",
-			"tags": "dislike"
+			"name": "dislike"
 		},
 		{
-			"name": "upload-cloud",
-			"tags": "upload-cloud"
+			"name": "upload-cloud"
 		},
 		{
-			"name": "camera",
-			"tags": "camera"
+			"name": "camera"
 		},
 		{
-			"name": "alert",
-			"tags": "alert"
+			"name": "alert"
 		},
 		{
-			"name": "bookmark",
-			"tags": "bookmark"
+			"name": "bookmark"
 		},
 		{
-			"name": "contrast",
-			"tags": "contrast"
+			"name": "contrast"
 		},
 		{
-			"name": "mail",
-			"tags": "mail"
+			"name": "mail"
 		},
 		{
-			"name": "video",
-			"tags": "video"
+			"name": "video"
 		},
 		{
-			"name": "phone",
+			"name": "telephone",
 			"tags": "phone"
 		},
 		{
-			"name": "comment",
-			"tags": "comment"
+			"name": "comment"
 		},
 		{
-			"name": "comment-video",
-			"tags": "comment-video"
+			"name": "comment-video"
 		},
 		{
-			"name": "comment-quotes",
-			"tags": "comment-quotes"
+			"name": "comment-quotes"
 		},
 		{
-			"name": "comment-minus",
-			"tags": "comment-minus"
+			"name": "comment-minus"
 		},
 		{
-			"name": "comments",
-			"tags": "comments"
+			"name": "comments"
 		},
 		{
-			"name": "microphone",
-			"tags": "microphone"
+			"name": "microphone"
 		},
 		{
-			"name": "megaphone",
-			"tags": "megaphone"
+			"name": "megaphone"
 		},
 		{
-			"name": "sound",
-			"tags": "sound"
+			"name": "sound"
 		},
 		{
-			"name": "address-book",
-			"tags": "address-book"
+			"name": "address-book"
 		},
 		{
-			"name": "bluetooth",
-			"tags": "bluetooth"
+			"name": "bluetooth"
 		},
 		{
-			"name": "html5",
-			"tags": "html5"
+			"name": "html5"
 		},
 		{
-			"name": "css3",
-			"tags": "css3"
+			"name": "css3"
 		},
 		{
-			"name": "layout",
-			"tags": "layout"
+			"name": "layout"
 		},
 		{
-			"name": "web",
-			"tags": "web"
+			"name": "web"
 		},
 		{
-			"name": "foundation",
-			"tags": "foundation"
+			"name": "foundation"
 		},
 		{
-			"name": "page",
-			"tags": "page"
+			"name": "page"
 		},
 		{
-			"name": "page-csv",
-			"tags": "page-csv"
+			"name": "page-csv"
 		},
 		{
-			"name": "page-doc",
-			"tags": "page-doc"
+			"name": "page-doc"
 		},
 		{
-			"name": "page-pdf",
-			"tags": "page-pdf"
+			"name": "page-pdf"
 		},
 		{
-			"name": "page-export",
-			"tags": "page-export"
+			"name": "page-export"
 		},
 		{
-			"name": "page-export-csv",
-			"tags": "page-export-csv"
+			"name": "page-export-csv"
 		},
 		{
-			"name": "page-export-doc",
-			"tags": "page-export-doc"
+			"name": "page-export-doc"
 		},
 		{
-			"name": "page-export-pdf",
-			"tags": "page-export-pdf"
+			"name": "page-export-pdf"
 		},
 		{
-			"name": "page-add",
-			"tags": "page-add"
+			"name": "page-add"
 		},
 		{
-			"name": "page-remove",
-			"tags": "page-remove"
+			"name": "page-remove"
 		},
 		{
-			"name": "page-delete",
-			"tags": "page-delete"
+			"name": "page-delete"
 		},
 		{
-			"name": "page-edit",
-			"tags": "page-edit"
+			"name": "page-edit"
 		},
 		{
-			"name": "page-search",
-			"tags": "page-search"
+			"name": "page-search"
 		},
 		{
-			"name": "page-copy",
-			"tags": "page-copy"
+			"name": "page-copy"
 		},
 		{
-			"name": "page-filled",
-			"tags": "page-filled"
+			"name": "page-filled"
 		},
 		{
-			"name": "page-multiple",
-			"tags": "page-multiple"
+			"name": "page-multiple"
 		},
 		{
-			"name": "arrow-up",
-			"tags": "arrow-up"
+			"name": "arrow-up"
 		},
 		{
-			"name": "arrow-right",
-			"tags": "arrow-right"
+			"name": "arrow-right"
 		},
 		{
-			"name": "arrow-down",
-			"tags": "arrow-down"
+			"name": "arrow-down"
 		},
 		{
-			"name": "arrow-left",
-			"tags": "arrow-left"
+			"name": "arrow-left"
 		},
 		{
-			"name": "arrows-out",
-			"tags": "arrows-out"
+			"name": "arrows-out"
 		},
 		{
-			"name": "arrows-in",
-			"tags": "arrows-in"
+			"name": "arrows-in"
 		},
 		{
-			"name": "arrows-expand",
-			"tags": "arrows-expand"
+			"name": "arrows-expand"
 		},
 		{
-			"name": "arrows-compress",
-			"tags": "arrows-compress"
+			"name": "arrows-compress"
 		},
 		{
-			"name": "torso",
-			"tags": "torso"
+			"name": "torso"
 		},
 		{
-			"name": "torso-female",
-			"tags": "torso-female"
+			"name": "torso-female"
 		},
 		{
-			"name": "torsos",
-			"tags": "torsos"
+			"name": "torsos"
 		},
 		{
-			"name": "torsos-female-male",
-			"tags": "torsos-female-male"
+			"name": "torsos-female-male"
 		},
 		{
-			"name": "torsos-male-female",
-			"tags": "torsos-male-female"
+			"name": "torsos-male-female"
 		},
 		{
-			"name": "torsos-all",
-			"tags": "torsos-all"
+			"name": "torsos-all"
 		},
 		{
-			"name": "torsos-all-female",
-			"tags": "torsos-all-female"
+			"name": "torsos-all-female"
 		},
 		{
-			"name": "torso-business",
-			"tags": "torso-business"
+			"name": "torso-business"
 		},
 		{
-			"name": "monitor",
-			"tags": "monitor"
+			"name": "monitor"
 		},
 		{
-			"name": "laptop",
-			"tags": "laptop"
+			"name": "laptop"
 		},
 		{
-			"name": "tablet-portrait",
-			"tags": "tablet-portrait"
+			"name": "tablet-portrait"
 		},
 		{
-			"name": "tablet-landscape",
-			"tags": "tablet-landscape"
+			"name": "tablet-landscape"
 		},
 		{
-			"name": "mobile",
-			"tags": "mobile"
+			"name": "mobile"
 		},
 		{
-			"name": "mobile-signal",
-			"tags": "mobile-signal"
+			"name": "mobile-signal"
 		},
 		{
-			"name": "usb",
-			"tags": "usb"
+			"name": "usb"
 		},
 		{
-			"name": "bold",
-			"tags": "bold"
+			"name": "bold"
 		},
 		{
-			"name": "italic",
-			"tags": "italic"
+			"name": "italic"
 		},
 		{
-			"name": "underline",
-			"tags": "underline"
+			"name": "underline"
 		},
 		{
-			"name": "strikethrough",
-			"tags": "strikethrough"
+			"name": "strikethrough"
 		},
 		{
-			"name": "text-color",
-			"tags": "text-color"
+			"name": "text-color"
 		},
 		{
-			"name": "background-color",
-			"tags": "background-color"
+			"name": "background-color"
 		},
 		{
-			"name": "superscript",
-			"tags": "superscript"
+			"name": "superscript"
 		},
 		{
-			"name": "subscript",
-			"tags": "subscript"
+			"name": "subscript"
 		},
 		{
-			"name": "align-left",
-			"tags": "align-left"
+			"name": "align-left"
 		},
 		{
-			"name": "align-center",
-			"tags": "align-center"
+			"name": "align-center"
 		},
 		{
-			"name": "align-right",
-			"tags": "align-right"
+			"name": "align-right"
 		},
 		{
-			"name": "align-justify",
-			"tags": "align-justify"
+			"name": "align-justify"
 		},
 		{
-			"name": "list-number",
-			"tags": "list-number"
+			"name": "list-number"
 		},
 		{
-			"name": "list-bullet",
-			"tags": "list-bullet"
+			"name": "list-bullet"
 		},
 		{
-			"name": "indent-more",
-			"tags": "indent-more"
+			"name": "indent-more"
 		},
 		{
-			"name": "indent-less",
-			"tags": "indent-less"
+			"name": "indent-less"
 		},
 		{
-			"name": "print",
-			"tags": "print"
+			"name": "print"
 		},
 		{
-			"name": "save",
-			"tags": "save"
+			"name": "save"
 		},
 		{
-			"name": "photo",
-			"tags": "photo"
+			"name": "photo"
 		},
 		{
-			"name": "filter",
-			"tags": "filter"
+			"name": "filter"
 		},
 		{
-			"name": "paint-bucket",
-			"tags": "paint-bucket"
+			"name": "paint-bucket"
 		},
 		{
-			"name": "link",
-			"tags": "link"
+			"name": "link"
 		},
 		{
-			"name": "unlink",
-			"tags": "unlink"
+			"name": "unlink"
 		},
 		{
-			"name": "quote",
-			"tags": "quote"
+			"name": "quote"
 		},
 		{
-			"name": "play",
-			"tags": "play"
+			"name": "play"
 		},
 		{
-			"name": "stop",
-			"tags": "stop"
+			"name": "stop"
 		},
 		{
-			"name": "pause",
-			"tags": "pause"
+			"name": "pause"
 		},
 		{
-			"name": "previous",
-			"tags": "previous"
+			"name": "previous"
 		},
 		{
-			"name": "rewind",
-			"tags": "rewind"
+			"name": "rewind"
 		},
 		{
-			"name": "fast-forward",
-			"tags": "fast-forward"
+			"name": "fast-forward"
 		},
 		{
-			"name": "next",
-			"tags": "next"
+			"name": "next"
 		},
 		{
-			"name": "record",
-			"tags": "record"
+			"name": "record"
 		},
 		{
-			"name": "play-circle",
-			"tags": "play-circle"
+			"name": "play-circle"
 		},
 		{
-			"name": "volume-none",
-			"tags": "volume-none"
+			"name": "volume-none"
 		},
 		{
-			"name": "volume",
-			"tags": "volume"
+			"name": "volume"
 		},
 		{
-			"name": "volume-strike",
-			"tags": "volume-strike"
+			"name": "volume-strike"
 		},
 		{
-			"name": "loop",
-			"tags": "loop"
+			"name": "loop"
 		},
 		{
-			"name": "shuffle",
-			"tags": "shuffle"
+			"name": "shuffle"
 		},
 		{
-			"name": "eject",
-			"tags": "eject"
+			"name": "eject"
 		},
 		{
-			"name": "rewind-ten",
-			"tags": "rewind-ten"
+			"name": "rewind-ten"
 		},
 		{
-			"name": "dollar",
-			"tags": "dollar"
+			"name": "dollar"
 		},
 		{
-			"name": "euro",
-			"tags": "euro"
+			"name": "euro"
 		},
 		{
-			"name": "pound",
-			"tags": "pound"
+			"name": "pound"
 		},
 		{
-			"name": "yen",
-			"tags": "yen"
+			"name": "yen"
 		},
 		{
-			"name": "bitcoin",
-			"tags": "bitcoin"
+			"name": "bitcoin"
 		},
 		{
-			"name": "bitcoin-circle",
-			"tags": "bitcoin-circle"
+			"name": "bitcoin-circle"
 		},
 		{
-			"name": "credit-card",
-			"tags": "credit-card"
+			"name": "credit-card"
 		},
 		{
-			"name": "shopping-cart",
-			"tags": "shopping-cart"
+			"name": "shopping-cart"
 		},
 		{
-			"name": "burst",
-			"tags": "burst"
+			"name": "burst"
 		},
 		{
-			"name": "burst-new",
-			"tags": "burst-new"
+			"name": "burst-new"
 		},
 		{
-			"name": "burst-sale",
-			"tags": "burst-sale"
+			"name": "burst-sale"
 		},
 		{
-			"name": "paypal",
-			"tags": "paypal"
+			"name": "paypal"
 		},
 		{
-			"name": "price-tag",
-			"tags": "price-tag"
+			"name": "price-tag"
 		},
 		{
-			"name": "pricetag-multiple",
-			"tags": "pricetag-multiple"
+			"name": "pricetag-multiple"
 		},
 		{
-			"name": "shopping-bag",
-			"tags": "shopping-bag"
+			"name": "shopping-bag"
 		},
 		{
-			"name": "dollar-bill",
-			"tags": "dollar-bill"
+			"name": "dollar-bill"
 		},
 		{
-			"name": "wheelchair",
-			"tags": "wheelchair"
+			"name": "wheelchair"
 		},
 		{
-			"name": "braille",
-			"tags": "braille"
+			"name": "braille"
 		},
 		{
-			"name": "closed-caption",
-			"tags": "closed-caption"
+			"name": "closed-caption"
 		},
 		{
-			"name": "blind",
-			"tags": "blind"
+			"name": "blind"
 		},
 		{
-			"name": "asl",
-			"tags": "asl"
+			"name": "asl"
 		},
 		{
-			"name": "hearing-aid",
-			"tags": "hearing-aid"
+			"name": "hearing-aid"
 		},
 		{
-			"name": "guide-dog",
-			"tags": "guide-dog"
+			"name": "guide-dog"
 		},
 		{
-			"name": "universal-access",
-			"tags": "universal-access"
+			"name": "universal-access"
 		},
 		{
-			"name": "telephone-accessible",
-			"tags": "telephone-accessible"
+			"name": "telephone-accessible"
 		},
 		{
-			"name": "elevator",
-			"tags": "elevator"
+			"name": "elevator"
 		},
 		{
-			"name": "male",
-			"tags": "male"
+			"name": "male"
 		},
 		{
-			"name": "female",
-			"tags": "female"
+			"name": "female"
 		},
 		{
-			"name": "male-female",
-			"tags": "male-female"
+			"name": "male-female"
 		},
 		{
-			"name": "male-symbol",
-			"tags": "male-symbol"
+			"name": "male-symbol"
 		},
 		{
-			"name": "female-symbol",
-			"tags": "female-symbol"
+			"name": "female-symbol"
 		},
 		{
-			"name": "social-500px",
-			"tags": "social-500px"
+			"name": "social-500px"
 		},
 		{
-			"name": "social-adobe",
-			"tags": "social-adobe"
+			"name": "social-adobe"
 		},
 		{
-			"name": "social-amazon",
-			"tags": "social-amazon"
+			"name": "social-amazon"
 		},
 		{
-			"name": "social-android",
-			"tags": "social-android"
+			"name": "social-android"
 		},
 		{
-			"name": "social-apple",
-			"tags": "social-apple"
+			"name": "social-apple"
 		},
 		{
-			"name": "social-behance",
-			"tags": "social-behance"
+			"name": "social-behance"
 		},
 		{
-			"name": "social-bing",
-			"tags": "social-bing"
+			"name": "social-bing"
 		},
 		{
-			"name": "social-blogger",
-			"tags": "social-blogger"
+			"name": "social-blogger"
 		},
 		{
-			"name": "social-delicious",
-			"tags": "social-delicious"
+			"name": "social-delicious"
 		},
 		{
-			"name": "social-designer-news",
-			"tags": "social-designer-news"
+			"name": "social-designer-news"
 		},
 		{
-			"name": "social-deviant-art",
-			"tags": "social-deviant-art"
+			"name": "social-deviant-art"
 		},
 		{
-			"name": "social-digg",
-			"tags": "social-digg"
+			"name": "social-digg"
 		},
 		{
-			"name": "social-dribbble",
-			"tags": "social-dribbble"
+			"name": "social-dribbble"
 		},
 		{
-			"name": "social-drive",
-			"tags": "social-drive"
+			"name": "social-drive"
 		},
 		{
-			"name": "social-dropbox",
-			"tags": "social-dropbox"
+			"name": "social-dropbox"
 		},
 		{
-			"name": "social-evernote",
-			"tags": "social-evernote"
+			"name": "social-evernote"
 		},
 		{
-			"name": "social-facebook",
-			"tags": "social-facebook"
+			"name": "social-facebook"
 		},
 		{
-			"name": "social-flickr",
-			"tags": "social-flickr"
+			"name": "social-flickr"
 		},
 		{
-			"name": "social-forrst",
-			"tags": "social-forrst"
+			"name": "social-forrst"
 		},
 		{
-			"name": "social-foursquare",
-			"tags": "social-foursquare"
+			"name": "social-foursquare"
 		},
 		{
-			"name": "social-game-center",
-			"tags": "social-game-center"
+			"name": "social-game-center"
 		},
 		{
-			"name": "social-github",
-			"tags": "social-github"
+			"name": "social-github"
 		},
 		{
-			"name": "social-google-plus",
-			"tags": "social-google-plus"
+			"name": "social-google-plus"
 		},
 		{
-			"name": "social-hacker-news",
-			"tags": "social-hacker-news"
+			"name": "social-hacker-news"
 		},
 		{
-			"name": "social-hi5",
-			"tags": "social-hi5"
+			"name": "social-hi5"
 		},
 		{
-			"name": "social-instagram",
-			"tags": "social-instagram"
+			"name": "social-instagram"
 		},
 		{
-			"name": "social-joomla",
-			"tags": "social-joomla"
+			"name": "social-joomla"
 		},
 		{
-			"name": "social-lastfm",
-			"tags": "social-lastfm"
+			"name": "social-lastfm"
 		},
 		{
-			"name": "social-linkedin",
-			"tags": "social-linkedin"
+			"name": "social-linkedin"
 		},
 		{
-			"name": "social-medium",
-			"tags": "social-medium"
+			"name": "social-medium"
 		},
 		{
-			"name": "social-myspace",
-			"tags": "social-myspace"
+			"name": "social-myspace"
 		},
 		{
-			"name": "social-orkut",
-			"tags": "social-orkut"
+			"name": "social-orkut"
 		},
 		{
-			"name": "social-path",
-			"tags": "social-path"
+			"name": "social-path"
 		},
 		{
-			"name": "social-picasa",
-			"tags": "social-picasa"
+			"name": "social-picasa"
 		},
 		{
-			"name": "social-pinterest",
-			"tags": "social-pinterest"
+			"name": "social-pinterest"
 		},
 		{
-			"name": "social-rdio",
-			"tags": "social-rdio"
+			"name": "social-rdio"
 		},
 		{
-			"name": "social-reddit",
-			"tags": "social-reddit"
+			"name": "social-reddit"
 		},
 		{
-			"name": "social-skype",
-			"tags": "social-skype"
+			"name": "social-skype"
 		},
 		{
-			"name": "social-skillshare",
-			"tags": "social-skillshare"
+			"name": "social-skillshare"
 		},
 		{
-			"name": "social-smashing-mag",
-			"tags": "social-smashing-mag"
+			"name": "social-smashing-mag"
 		},
 		{
-			"name": "social-snapchat",
-			"tags": "social-snapchat"
+			"name": "social-snapchat"
 		},
 		{
-			"name": "social-spotify",
-			"tags": "social-spotify"
+			"name": "social-spotify"
 		},
 		{
-			"name": "social-squidoo",
-			"tags": "social-squidoo"
+			"name": "social-squidoo"
 		},
 		{
-			"name": "social-stack-overflow",
-			"tags": "social-stack-overflow"
+			"name": "social-stack-overflow"
 		},
 		{
-			"name": "social-steam",
-			"tags": "social-steam"
+			"name": "social-steam"
 		},
 		{
-			"name": "social-stumbleupon",
-			"tags": "social-stumbleupon"
+			"name": "social-stumbleupon"
 		},
 		{
-			"name": "social-treehouse",
-			"tags": "social-treehouse"
+			"name": "social-treehouse"
 		},
 		{
-			"name": "social-tumblr",
-			"tags": "social-tumblr"
+			"name": "social-tumblr"
 		},
 		{
-			"name": "social-twitter",
-			"tags": "social-twitter"
+			"name": "social-twitter"
 		},
 		{
-			"name": "social-vimeo",
-			"tags": "social-vimeo"
+			"name": "social-vimeo"
 		},
 		{
-			"name": "social-windows",
-			"tags": "social-windows"
+			"name": "social-windows"
 		},
 		{
-			"name": "social-xbox-20",
-			"tags": "social-xbox-20"
+			"name": "social-xbox-20"
 		},
 		{
-			"name": "social-yahoo",
-			"tags": "social-yahoo"
+			"name": "social-yahoo"
 		},
 		{
-			"name": "social-yelp",
-			"tags": "social-yelp"
+			"name": "social-yelp"
 		},
 		{
-			"name": "social-youtube",
-			"tags": "social-youtube"
+			"name": "social-youtube"
 		},
 		{
-			"name": "social-zerply",
-			"tags": "social-zerply"
+			"name": "social-zerply"
 		},
 		{
-			"name": "social-zurb",
-			"tags": "social-zurb"
+			"name": "social-zurb"
 		},
 		{
-			"name": "compass",
-			"tags": "compass"
+			"name": "compass"
 		},
 		{
-			"name": "music",
-			"tags": "music"
+			"name": "music"
 		},
 		{
-			"name": "lightbulb",
-			"tags": "lightbulb"
+			"name": "lightbulb"
 		},
 		{
-			"name": "battery-full",
-			"tags": "battery-full"
+			"name": "battery-full"
 		},
 		{
-			"name": "battery-half",
-			"tags": "battery-half"
+			"name": "battery-half"
 		},
 		{
-			"name": "battery-empty",
-			"tags": "battery-empty"
+			"name": "battery-empty"
 		},
 		{
-			"name": "projection-screen",
-			"tags": "projection-screen"
+			"name": "projection-screen"
 		},
 		{
-			"name": "info",
-			"tags": "info"
+			"name": "info"
 		},
 		{
-			"name": "power",
-			"tags": "power"
+			"name": "power"
 		},
 		{
-			"name": "asterisk",
-			"tags": "asterisk"
+			"name": "asterisk"
 		},
 		{
-			"name": "at-sign",
-			"tags": "at-sign"
+			"name": "at-sign"
 		},
 		{
-			"name": "key",
-			"tags": "key"
+			"name": "key"
 		},
 		{
-			"name": "ticket",
-			"tags": "ticket"
+			"name": "ticket"
 		},
 		{
-			"name": "book",
-			"tags": "book"
+			"name": "book"
 		},
 		{
-			"name": "book-bookmark",
-			"tags": "book-bookmark"
+			"name": "book-bookmark"
 		},
 		{
-			"name": "anchor",
-			"tags": "anchor"
+			"name": "anchor"
 		},
 		{
-			"name": "puzzle",
-			"tags": "puzzle"
+			"name": "puzzle"
 		},
 		{
-			"name": "foot",
-			"tags": "foot"
+			"name": "foot"
 		},
 		{
-			"name": "paw",
-			"tags": "paw"
+			"name": "paw"
 		},
 		{
-			"name": "mountains",
-			"tags": "mountains"
+			"name": "mountains"
 		},
 		{
-			"name": "trees",
-			"tags": "trees"
+			"name": "trees"
 		},
 		{
-			"name": "sheriff-badge",
-			"tags": "sheriff-badge"
+			"name": "sheriff-badge"
 		},
 		{
-			"name": "first-aid",
-			"tags": "first-aid"
+			"name": "first-aid"
 		},
 		{
-			"name": "trophy",
-			"tags": "trophy"
+			"name": "trophy"
 		},
 		{
-			"name": "prohibited",
-			"tags": "prohibited"
+			"name": "prohibited"
 		},
 		{
-			"name": "no-dogs",
-			"tags": "no-dogs"
+			"name": "no-dogs"
 		},
 		{
-			"name": "no-smoking",
-			"tags": "no-smoking"
+			"name": "no-smoking"
 		},
 		{
-			"name": "safety-cone",
-			"tags": "safety-cone"
+			"name": "safety-cone"
 		},
 		{
-			"name": "shield",
-			"tags": "shield"
+			"name": "shield"
 		},
 		{
-			"name": "crown",
-			"tags": "crown"
+			"name": "crown"
 		},
 		{
-			"name": "target",
-			"tags": "target"
+			"name": "target"
 		},
 		{
-			"name": "target-two",
-			"tags": "target-two"
+			"name": "target-two"
 		},
 		{
-			"name": "die-one",
-			"tags": "die-one"
+			"name": "die-one"
 		},
 		{
-			"name": "die-two",
-			"tags": "die-two"
+			"name": "die-two"
 		},
 		{
-			"name": "die-three",
-			"tags": "die-three"
+			"name": "die-three"
 		},
 		{
-			"name": "die-four",
-			"tags": "die-four"
+			"name": "die-four"
 		},
 		{
-			"name": "die-five",
-			"tags": "die-five"
+			"name": "die-five"
 		},
 		{
-			"name": "die-six",
-			"tags": "die-six"
+			"name": "die-six"
 		},
 		{
-			"name": "skull",
-			"tags": "skull"
+			"name": "skull"
 		},
 		{
-			"name": "map",
-			"tags": "map"
+			"name": "map"
 		},
 		{
-			"name": "clipboard",
-			"tags": "clipboard"
+			"name": "clipboard"
 		},
 		{
-			"name": "clipboard-pencil",
-			"tags": "clipboard-pencil"
+			"name": "clipboard-pencil"
 		},
 		{
-			"name": "clipboard-notes",
-			"tags": "clipboard-notes"
+			"name": "clipboard-notes"
 		}
 	],
 	"glyphicons": [
