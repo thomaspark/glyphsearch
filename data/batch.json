@@ -13229,35 +13229,35 @@
   {
     "_tags": ["foundation"],
     "name": "heart",
-    "tags": "",
+    "tags": "love",
     "class": "fi-heart"
   },
   
   {
     "_tags": ["foundation"],
     "name": "star",
-    "tags": "",
+    "tags": "rating",
     "class": "fi-star"
   },
   
   {
     "_tags": ["foundation"],
     "name": "plus",
-    "tags": "",
+    "tags": "add",
     "class": "fi-plus"
   },
   
   {
     "_tags": ["foundation"],
     "name": "minus",
-    "tags": "",
+    "tags": "subtract",
     "class": "fi-minus"
   },
   
   {
     "_tags": ["foundation"],
     "name": "x",
-    "tags": "",
+    "tags": "close",
     "class": "fi-x"
   },
   
@@ -13285,42 +13285,42 @@
   {
     "_tags": ["foundation"],
     "name": "widget",
-    "tags": "",
+    "tags": "gear, cog, settings",
     "class": "fi-widget"
   },
   
   {
     "_tags": ["foundation"],
     "name": "marker",
-    "tags": "",
+    "tags": "map",
     "class": "fi-marker"
   },
   
   {
     "_tags": ["foundation"],
     "name": "refresh",
-    "tags": "",
+    "tags": "reload",
     "class": "fi-refresh"
   },
   
   {
     "_tags": ["foundation"],
     "name": "home",
-    "tags": "",
+    "tags": "house",
     "class": "fi-home"
   },
   
   {
     "_tags": ["foundation"],
     "name": "trash",
-    "tags": "",
+    "tags": "delete",
     "class": "fi-trash"
   },
   
   {
     "_tags": ["foundation"],
     "name": "paperclip",
-    "tags": "",
+    "tags": "attachment",
     "class": "fi-paperclip"
   },
   
@@ -13348,14 +13348,14 @@
   {
     "_tags": ["foundation"],
     "name": "cloud",
-    "tags": "",
+    "tags": "weather",
     "class": "fi-cloud"
   },
   
   {
     "_tags": ["foundation"],
     "name": "magnifying-glass",
-    "tags": "",
+    "tags": "find, search",
     "class": "fi-magnifying-glass"
   },
   
@@ -13376,7 +13376,7 @@
   {
     "_tags": ["foundation"],
     "name": "wrench",
-    "tags": "",
+    "tags": "tools",
     "class": "fi-wrench"
   },
   
@@ -13453,7 +13453,7 @@
   {
     "_tags": ["foundation"],
     "name": "clock",
-    "tags": "",
+    "tags": "timer",
     "class": "fi-clock"
   },
   
@@ -13509,7 +13509,7 @@
   {
     "_tags": ["foundation"],
     "name": "graph-pie",
-    "tags": "",
+    "tags": "chart",
     "class": "fi-graph-pie"
   },
   
@@ -13537,7 +13537,7 @@
   {
     "_tags": ["foundation"],
     "name": "eye",
-    "tags": "",
+    "tags": "view",
     "class": "fi-eye"
   },
   
@@ -13565,14 +13565,14 @@
   {
     "_tags": ["foundation"],
     "name": "like",
-    "tags": "",
+    "tags": "thumbs up",
     "class": "fi-like"
   },
   
   {
     "_tags": ["foundation"],
     "name": "dislike",
-    "tags": "",
+    "tags": "thumbs down",
     "class": "fi-dislike"
   },
   
@@ -13586,14 +13586,14 @@
   {
     "_tags": ["foundation"],
     "name": "camera",
-    "tags": "",
+    "tags": "photos",
     "class": "fi-camera"
   },
   
   {
     "_tags": ["foundation"],
     "name": "alert",
-    "tags": "",
+    "tags": "warning",
     "class": "fi-alert"
   },
   
@@ -13628,7 +13628,7 @@
   {
     "_tags": ["foundation"],
     "name": "telephone",
-    "tags": "phone",
+    "tags": "",
     "class": "fi-telephone"
   },
   
@@ -13908,42 +13908,42 @@
   {
     "_tags": ["foundation"],
     "name": "torso",
-    "tags": "",
+    "tags": "user, person",
     "class": "fi-torso"
   },
   
   {
     "_tags": ["foundation"],
     "name": "torso-female",
-    "tags": "",
+    "tags": "user, person",
     "class": "fi-torso-female"
   },
   
   {
     "_tags": ["foundation"],
     "name": "torsos",
-    "tags": "",
+    "tags": "users, people",
     "class": "fi-torsos"
   },
   
   {
     "_tags": ["foundation"],
     "name": "torsos-female-male",
-    "tags": "",
+    "tags": "users, people",
     "class": "fi-torsos-female-male"
   },
   
   {
     "_tags": ["foundation"],
     "name": "torsos-male-female",
-    "tags": "",
+    "tags": "users, people",
     "class": "fi-torsos-male-female"
   },
   
   {
     "_tags": ["foundation"],
     "name": "torsos-all",
-    "tags": "",
+    "tags": "users, people",
     "class": "fi-torsos-all"
   },
   
@@ -13957,21 +13957,21 @@
   {
     "_tags": ["foundation"],
     "name": "torso-business",
-    "tags": "",
+    "tags": "user, person",
     "class": "fi-torso-business"
   },
   
   {
     "_tags": ["foundation"],
     "name": "monitor",
-    "tags": "",
+    "tags": "display",
     "class": "fi-monitor"
   },
   
   {
     "_tags": ["foundation"],
     "name": "laptop",
-    "tags": "",
+    "tags": "computer",
     "class": "fi-laptop"
   },
   
@@ -13992,14 +13992,14 @@
   {
     "_tags": ["foundation"],
     "name": "mobile",
-    "tags": "",
+    "tags": "smartphone",
     "class": "fi-mobile"
   },
   
   {
     "_tags": ["foundation"],
     "name": "mobile-signal",
-    "tags": "",
+    "tags": "smartphone",
     "class": "fi-mobile-signal"
   },
   
@@ -14013,28 +14013,28 @@
   {
     "_tags": ["foundation"],
     "name": "bold",
-    "tags": "",
+    "tags": "text",
     "class": "fi-bold"
   },
   
   {
     "_tags": ["foundation"],
     "name": "italic",
-    "tags": "",
+    "tags": "text",
     "class": "fi-italic"
   },
   
   {
     "_tags": ["foundation"],
     "name": "underline",
-    "tags": "",
+    "tags": "text",
     "class": "fi-underline"
   },
   
   {
     "_tags": ["foundation"],
     "name": "strikethrough",
-    "tags": "",
+    "tags": "text",
     "class": "fi-strikethrough"
   },
   
@@ -14048,77 +14048,77 @@
   {
     "_tags": ["foundation"],
     "name": "background-color",
-    "tags": "",
+    "tags": "text",
     "class": "fi-background-color"
   },
   
   {
     "_tags": ["foundation"],
     "name": "superscript",
-    "tags": "",
+    "tags": "text",
     "class": "fi-superscript"
   },
   
   {
     "_tags": ["foundation"],
     "name": "subscript",
-    "tags": "",
+    "tags": "text",
     "class": "fi-subscript"
   },
   
   {
     "_tags": ["foundation"],
     "name": "align-left",
-    "tags": "",
+    "tags": "text",
     "class": "fi-align-left"
   },
   
   {
     "_tags": ["foundation"],
     "name": "align-center",
-    "tags": "",
+    "tags": "text",
     "class": "fi-align-center"
   },
   
   {
     "_tags": ["foundation"],
     "name": "align-right",
-    "tags": "",
+    "tags": "text",
     "class": "fi-align-right"
   },
   
   {
     "_tags": ["foundation"],
     "name": "align-justify",
-    "tags": "",
+    "tags": "text",
     "class": "fi-align-justify"
   },
   
   {
     "_tags": ["foundation"],
     "name": "list-number",
-    "tags": "",
+    "tags": "text",
     "class": "fi-list-number"
   },
   
   {
     "_tags": ["foundation"],
     "name": "list-bullet",
-    "tags": "",
+    "tags": "text",
     "class": "fi-list-bullet"
   },
   
   {
     "_tags": ["foundation"],
     "name": "indent-more",
-    "tags": "",
+    "tags": "text",
     "class": "fi-indent-more"
   },
   
   {
     "_tags": ["foundation"],
     "name": "indent-less",
-    "tags": "",
+    "tags": "text",
     "class": "fi-indent-less"
   },
   
@@ -14160,21 +14160,21 @@
   {
     "_tags": ["foundation"],
     "name": "link",
-    "tags": "",
+    "tags": "chain",
     "class": "fi-link"
   },
   
   {
     "_tags": ["foundation"],
     "name": "unlink",
-    "tags": "",
+    "tags": "chain",
     "class": "fi-unlink"
   },
   
   {
     "_tags": ["foundation"],
     "name": "quote",
-    "tags": "",
+    "tags": "text",
     "class": "fi-quote"
   },
   
@@ -14293,49 +14293,49 @@
   {
     "_tags": ["foundation"],
     "name": "dollar",
-    "tags": "",
+    "tags": "money, currency",
     "class": "fi-dollar"
   },
   
   {
     "_tags": ["foundation"],
     "name": "euro",
-    "tags": "",
+    "tags": "money, currency",
     "class": "fi-euro"
   },
   
   {
     "_tags": ["foundation"],
     "name": "pound",
-    "tags": "",
+    "tags": "money, currency",
     "class": "fi-pound"
   },
   
   {
     "_tags": ["foundation"],
     "name": "yen",
-    "tags": "",
+    "tags": "money, currency",
     "class": "fi-yen"
   },
   
   {
     "_tags": ["foundation"],
     "name": "bitcoin",
-    "tags": "",
+    "tags": "money, currency",
     "class": "fi-bitcoin"
   },
   
   {
     "_tags": ["foundation"],
     "name": "bitcoin-circle",
-    "tags": "",
+    "tags": "money, currency",
     "class": "fi-bitcoin-circle"
   },
   
   {
     "_tags": ["foundation"],
     "name": "credit-card",
-    "tags": "",
+    "tags": "payment",
     "class": "fi-credit-card"
   },
   
@@ -14349,28 +14349,28 @@
   {
     "_tags": ["foundation"],
     "name": "burst",
-    "tags": "",
+    "tags": "seal",
     "class": "fi-burst"
   },
   
   {
     "_tags": ["foundation"],
     "name": "burst-new",
-    "tags": "",
+    "tags": "seal",
     "class": "fi-burst-new"
   },
   
   {
     "_tags": ["foundation"],
     "name": "burst-sale",
-    "tags": "",
+    "tags": "seal",
     "class": "fi-burst-sale"
   },
   
   {
     "_tags": ["foundation"],
     "name": "paypal",
-    "tags": "",
+    "tags": "payment",
     "class": "fi-paypal"
   },
   
@@ -14398,7 +14398,7 @@
   {
     "_tags": ["foundation"],
     "name": "dollar-bill",
-    "tags": "",
+    "tags": "money",
     "class": "fi-dollar-bill"
   },
   
@@ -14475,35 +14475,35 @@
   {
     "_tags": ["foundation"],
     "name": "male",
-    "tags": "",
+    "tags": "gender",
     "class": "fi-male"
   },
   
   {
     "_tags": ["foundation"],
     "name": "female",
-    "tags": "",
+    "tags": "gender",
     "class": "fi-female"
   },
   
   {
     "_tags": ["foundation"],
     "name": "male-female",
-    "tags": "",
+    "tags": "genders",
     "class": "fi-male-female"
   },
   
   {
     "_tags": ["foundation"],
     "name": "male-symbol",
-    "tags": "",
+    "tags": "gender",
     "class": "fi-male-symbol"
   },
   
   {
     "_tags": ["foundation"],
     "name": "female-symbol",
-    "tags": "",
+    "tags": "gender",
     "class": "fi-female-symbol"
   },
   
@@ -14909,7 +14909,7 @@
   {
     "_tags": ["foundation"],
     "name": "compass",
-    "tags": "",
+    "tags": "map, directions",
     "class": "fi-compass"
   },
   
@@ -14951,7 +14951,7 @@
   {
     "_tags": ["foundation"],
     "name": "projection-screen",
-    "tags": "",
+    "tags": "presentation",
     "class": "fi-projection-screen"
   },
   
@@ -14979,7 +14979,7 @@
   {
     "_tags": ["foundation"],
     "name": "at-sign",
-    "tags": "",
+    "tags": "email",
     "class": "fi-at-sign"
   },
   
@@ -15021,7 +15021,7 @@
   {
     "_tags": ["foundation"],
     "name": "puzzle",
-    "tags": "",
+    "tags": "game",
     "class": "fi-puzzle"
   },
   
@@ -15035,7 +15035,7 @@
   {
     "_tags": ["foundation"],
     "name": "paw",
-    "tags": "",
+    "tags": "animal, pet",
     "class": "fi-paw"
   },
   
@@ -15063,14 +15063,14 @@
   {
     "_tags": ["foundation"],
     "name": "first-aid",
-    "tags": "",
+    "tags": "medical",
     "class": "fi-first-aid"
   },
   
   {
     "_tags": ["foundation"],
     "name": "trophy",
-    "tags": "",
+    "tags": "prize, award",
     "class": "fi-trophy"
   },
   
@@ -15084,7 +15084,7 @@
   {
     "_tags": ["foundation"],
     "name": "no-dogs",
-    "tags": "",
+    "tags": "pets",
     "class": "fi-no-dogs"
   },
   
@@ -15133,56 +15133,56 @@
   {
     "_tags": ["foundation"],
     "name": "die-one",
-    "tags": "",
+    "tags": "game",
     "class": "fi-die-one"
   },
   
   {
     "_tags": ["foundation"],
     "name": "die-two",
-    "tags": "",
+    "tags": "game",
     "class": "fi-die-two"
   },
   
   {
     "_tags": ["foundation"],
     "name": "die-three",
-    "tags": "",
+    "tags": "game",
     "class": "fi-die-three"
   },
   
   {
     "_tags": ["foundation"],
     "name": "die-four",
-    "tags": "",
+    "tags": "game",
     "class": "fi-die-four"
   },
   
   {
     "_tags": ["foundation"],
     "name": "die-five",
-    "tags": "",
+    "tags": "game",
     "class": "fi-die-five"
   },
   
   {
     "_tags": ["foundation"],
     "name": "die-six",
-    "tags": "",
+    "tags": "game",
     "class": "fi-die-six"
   },
   
   {
     "_tags": ["foundation"],
     "name": "skull",
-    "tags": "",
+    "tags": "danger, warning",
     "class": "fi-skull"
   },
   
   {
     "_tags": ["foundation"],
     "name": "map",
-    "tags": "",
+    "tags": "directions",
     "class": "fi-map"
   },
   

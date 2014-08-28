@@ -1788,19 +1788,24 @@
 	],
 	"foundation": [
 		{
-			"name": "heart"
+			"name": "heart",
+			"tags": "love"
 		},
 		{
-			"name": "star"
+			"name": "star",
+			"tags": "rating"
 		},
 		{
-			"name": "plus"
+			"name": "plus",
+			"tags": "add"
 		},
 		{
-			"name": "minus"
+			"name": "minus",
+			"tags": "subtract"
 		},
 		{
-			"name": "x"
+			"name": "x",
+			"tags": "close"
 		},
 		{
 			"name": "check"
@@ -1812,22 +1817,28 @@
 			"name": "download"
 		},
 		{
-			"name": "widget"
+			"name": "widget",
+			"tags": "gear, cog, settings"
 		},
 		{
-			"name": "marker"
+			"name": "marker",
+			"tags": "map"
 		},
 		{
-			"name": "refresh"
+			"name": "refresh",
+			"tags": "reload"
 		},
 		{
-			"name": "home"
+			"name": "home",
+			"tags": "house"
 		},
 		{
-			"name": "trash"
+			"name": "trash",
+			"tags": "delete"
 		},
 		{
-			"name": "paperclip"
+			"name": "paperclip",
+			"tags": "attachment"
 		},
 		{
 			"name": "lock"
@@ -1839,10 +1850,12 @@
 			"name": "calendar"
 		},
 		{
-			"name": "cloud"
+			"name": "cloud",
+			"tags": "weather"
 		},
 		{
-			"name": "magnifying-glass"
+			"name": "magnifying-glass",
+			"tags": "find, search"
 		},
 		{
 			"name": "zoom-out"
@@ -1851,7 +1864,8 @@
 			"name": "zoom-in"
 		},
 		{
-			"name": "wrench"
+			"name": "wrench",
+			"tags": "tools"
 		},
 		{
 			"name": "rss"
@@ -1884,7 +1898,8 @@
 			"name": "folder-add"
 		},
 		{
-			"name": "clock"
+			"name": "clock",
+			"tags": "timer"
 		},
 		{
 			"name": "play-video"
@@ -1908,7 +1923,8 @@
 			"name": "graph-horizontal"
 		},
 		{
-			"name": "graph-pie"
+			"name": "graph-pie",
+			"tags": "chart"
 		},
 		{
 			"name": "checkbox"
@@ -1920,7 +1936,8 @@
 			"name": "x-circle"
 		},
 		{
-			"name": "eye"
+			"name": "eye",
+			"tags": "view"
 		},
 		{
 			"name": "database"
@@ -1932,19 +1949,23 @@
 			"name": "results-demographics"
 		},
 		{
-			"name": "like"
+			"name": "like",
+			"tags": "thumbs up"
 		},
 		{
-			"name": "dislike"
+			"name": "dislike",
+			"tags": "thumbs down"
 		},
 		{
 			"name": "upload-cloud"
 		},
 		{
-			"name": "camera"
+			"name": "camera",
+			"tags": "photos"
 		},
 		{
-			"name": "alert"
+			"name": "alert",
+			"tags": "warning"
 		},
 		{
 			"name": "bookmark"
@@ -1959,8 +1980,7 @@
 			"name": "video"
 		},
 		{
-			"name": "telephone",
-			"tags": "phone"
+			"name": "telephone"
 		},
 		{
 			"name": "comment"
@@ -2080,34 +2100,43 @@
 			"name": "arrows-compress"
 		},
 		{
-			"name": "torso"
+			"name": "torso",
+			"tags": "user, person"
 		},
 		{
-			"name": "torso-female"
+			"name": "torso-female",
+			"tags": "user, person"
 		},
 		{
-			"name": "torsos"
+			"name": "torsos",
+			"tags": "users, people"
 		},
 		{
-			"name": "torsos-female-male"
+			"name": "torsos-female-male",
+			"tags": "users, people"
 		},
 		{
-			"name": "torsos-male-female"
+			"name": "torsos-male-female",
+			"tags": "users, people"
 		},
 		{
-			"name": "torsos-all"
+			"name": "torsos-all",
+			"tags": "users, people"
 		},
 		{
 			"name": "torsos-all-female"
 		},
 		{
-			"name": "torso-business"
+			"name": "torso-business",
+			"tags": "user, person"
 		},
 		{
-			"name": "monitor"
+			"name": "monitor",
+			"tags": "display"
 		},
 		{
-			"name": "laptop"
+			"name": "laptop",
+			"tags": "computer"
 		},
 		{
 			"name": "tablet-portrait"
@@ -2116,61 +2145,78 @@
 			"name": "tablet-landscape"
 		},
 		{
-			"name": "mobile"
+			"name": "mobile",
+			"tags": "smartphone"
 		},
 		{
-			"name": "mobile-signal"
+			"name": "mobile-signal",
+			"tags": "smartphone"
 		},
 		{
 			"name": "usb"
 		},
 		{
-			"name": "bold"
+			"name": "bold",
+			"tags": "text"
 		},
 		{
-			"name": "italic"
+			"name": "italic",
+			"tags": "text"
 		},
 		{
-			"name": "underline"
+			"name": "underline",
+			"tags": "text"
 		},
 		{
-			"name": "strikethrough"
+			"name": "strikethrough",
+			"tags": "text"
 		},
 		{
 			"name": "text-color"
 		},
 		{
-			"name": "background-color"
+			"name": "background-color",
+			"tags": "text"
 		},
 		{
-			"name": "superscript"
+			"name": "superscript",
+			"tags": "text"
 		},
 		{
-			"name": "subscript"
+			"name": "subscript",
+			"tags": "text"
 		},
 		{
-			"name": "align-left"
+			"name": "align-left",
+			"tags": "text"
 		},
 		{
-			"name": "align-center"
+			"name": "align-center",
+			"tags": "text"
 		},
 		{
-			"name": "align-right"
+			"name": "align-right",
+			"tags": "text"
 		},
 		{
-			"name": "align-justify"
+			"name": "align-justify",
+			"tags": "text"
 		},
 		{
-			"name": "list-number"
+			"name": "list-number",
+			"tags": "text"
 		},
 		{
-			"name": "list-bullet"
+			"name": "list-bullet",
+			"tags": "text"
 		},
 		{
-			"name": "indent-more"
+			"name": "indent-more",
+			"tags": "text"
 		},
 		{
-			"name": "indent-less"
+			"name": "indent-less",
+			"tags": "text"
 		},
 		{
 			"name": "print"
@@ -2188,13 +2234,16 @@
 			"name": "paint-bucket"
 		},
 		{
-			"name": "link"
+			"name": "link",
+			"tags": "chain"
 		},
 		{
-			"name": "unlink"
+			"name": "unlink",
+			"tags": "chain"
 		},
 		{
-			"name": "quote"
+			"name": "quote",
+			"tags": "text"
 		},
 		{
 			"name": "play"
@@ -2245,40 +2294,51 @@
 			"name": "rewind-ten"
 		},
 		{
-			"name": "dollar"
+			"name": "dollar",
+			"tags": "money, currency"
 		},
 		{
-			"name": "euro"
+			"name": "euro",
+			"tags": "money, currency"
 		},
 		{
-			"name": "pound"
+			"name": "pound",
+			"tags": "money, currency"
 		},
 		{
-			"name": "yen"
+			"name": "yen",
+			"tags": "money, currency"
 		},
 		{
-			"name": "bitcoin"
+			"name": "bitcoin",
+			"tags": "money, currency"
 		},
 		{
-			"name": "bitcoin-circle"
+			"name": "bitcoin-circle",
+			"tags": "money, currency"
 		},
 		{
-			"name": "credit-card"
+			"name": "credit-card",
+			"tags": "payment"
 		},
 		{
 			"name": "shopping-cart"
 		},
 		{
-			"name": "burst"
+			"name": "burst",
+			"tags": "seal"
 		},
 		{
-			"name": "burst-new"
+			"name": "burst-new",
+			"tags": "seal"
 		},
 		{
-			"name": "burst-sale"
+			"name": "burst-sale",
+			"tags": "seal"
 		},
 		{
-			"name": "paypal"
+			"name": "paypal",
+			"tags": "payment"
 		},
 		{
 			"name": "price-tag"
@@ -2290,7 +2350,8 @@
 			"name": "shopping-bag"
 		},
 		{
-			"name": "dollar-bill"
+			"name": "dollar-bill",
+			"tags": "money"
 		},
 		{
 			"name": "wheelchair"
@@ -2323,19 +2384,24 @@
 			"name": "elevator"
 		},
 		{
-			"name": "male"
+			"name": "male",
+			"tags": "gender"
 		},
 		{
-			"name": "female"
+			"name": "female",
+			"tags": "gender"
 		},
 		{
-			"name": "male-female"
+			"name": "male-female",
+			"tags": "genders"
 		},
 		{
-			"name": "male-symbol"
+			"name": "male-symbol",
+			"tags": "gender"
 		},
 		{
-			"name": "female-symbol"
+			"name": "female-symbol",
+			"tags": "gender"
 		},
 		{
 			"name": "social-500px"
@@ -2509,7 +2575,8 @@
 			"name": "social-zurb"
 		},
 		{
-			"name": "compass"
+			"name": "compass",
+			"tags": "map, directions"
 		},
 		{
 			"name": "music"
@@ -2527,7 +2594,8 @@
 			"name": "battery-empty"
 		},
 		{
-			"name": "projection-screen"
+			"name": "projection-screen",
+			"tags": "presentation"
 		},
 		{
 			"name": "info"
@@ -2539,7 +2607,8 @@
 			"name": "asterisk"
 		},
 		{
-			"name": "at-sign"
+			"name": "at-sign",
+			"tags": "email"
 		},
 		{
 			"name": "key"
@@ -2557,13 +2626,15 @@
 			"name": "anchor"
 		},
 		{
-			"name": "puzzle"
+			"name": "puzzle",
+			"tags": "game"
 		},
 		{
 			"name": "foot"
 		},
 		{
-			"name": "paw"
+			"name": "paw",
+			"tags": "animal, pet"
 		},
 		{
 			"name": "mountains"
@@ -2575,16 +2646,19 @@
 			"name": "sheriff-badge"
 		},
 		{
-			"name": "first-aid"
+			"name": "first-aid",
+			"tags": "medical"
 		},
 		{
-			"name": "trophy"
+			"name": "trophy",
+			"tags": "prize, award"
 		},
 		{
 			"name": "prohibited"
 		},
 		{
-			"name": "no-dogs"
+			"name": "no-dogs",
+			"tags": "pets"
 		},
 		{
 			"name": "no-smoking"
@@ -2605,28 +2679,36 @@
 			"name": "target-two"
 		},
 		{
-			"name": "die-one"
+			"name": "die-one",
+			"tags": "game"
 		},
 		{
-			"name": "die-two"
+			"name": "die-two",
+			"tags": "game"
 		},
 		{
-			"name": "die-three"
+			"name": "die-three",
+			"tags": "game"
 		},
 		{
-			"name": "die-four"
+			"name": "die-four",
+			"tags": "game"
 		},
 		{
-			"name": "die-five"
+			"name": "die-five",
+			"tags": "game"
 		},
 		{
-			"name": "die-six"
+			"name": "die-six",
+			"tags": "game"
 		},
 		{
-			"name": "skull"
+			"name": "skull",
+			"tags": "danger, warning"
 		},
 		{
-			"name": "map"
+			"name": "map",
+			"tags": "directions"
 		},
 		{
 			"name": "clipboard"
