@@ -44,5 +44,14 @@
   },
   {{/each}}
 
+  {{#each foundation}}
+  {
+    "_tags": ["foundation"],
+    "name": "{{name}}",
+    "tags": "{{tags}}",
+    "class": "fi-{{name}}"
+  },
+  {{/each}}
+
   {}
 ]

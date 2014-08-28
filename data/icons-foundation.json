@@ -1,0 +1,854 @@
+{
+  "foundation": [
+    {
+      "name": "heart"
+    },
+    {
+      "name": "star"
+    },
+    {
+      "name": "plus"
+    },
+    {
+      "name": "minus"
+    },
+    {
+      "name": "x"
+    },
+    {
+      "name": "check"
+    },
+    {
+      "name": "upload"
+    },
+    {
+      "name": "download"
+    },
+    {
+      "name": "widget"
+    },
+    {
+      "name": "marker"
+    },
+    {
+      "name": "refresh"
+    },
+    {
+      "name": "home"
+    },
+    {
+      "name": "trash"
+    },
+    {
+      "name": "paperclip"
+    },
+    {
+      "name": "lock"
+    },
+    {
+      "name": "unlock"
+    },
+    {
+      "name": "calendar"
+    },
+    {
+      "name": "cloud"
+    },
+    {
+      "name": "magnifying-glass"
+    },
+    {
+      "name": "zoom-out"
+    },
+    {
+      "name": "zoom-in"
+    },
+    {
+      "name": "wrench"
+    },
+    {
+      "name": "rss"
+    },
+    {
+      "name": "share"
+    },
+    {
+      "name": "flag"
+    },
+    {
+      "name": "list-thumbnails"
+    },
+    {
+      "name": "list"
+    },
+    {
+      "name": "thumbnails"
+    },
+    {
+      "name": "annotate"
+    },
+    {
+      "name": "folder"
+    },
+    {
+      "name": "folder-lock"
+    },
+    {
+      "name": "folder-add"
+    },
+    {
+      "name": "clock"
+    },
+    {
+      "name": "play-video"
+    },
+    {
+      "name": "crop"
+    },
+    {
+      "name": "archive"
+    },
+    {
+      "name": "pencil"
+    },
+    {
+      "name": "graph-trend"
+    },
+    {
+      "name": "graph-bar"
+    },
+    {
+      "name": "graph-horizontal"
+    },
+    {
+      "name": "graph-pie"
+    },
+    {
+      "name": "checkbox"
+    },
+    {
+      "name": "minus-circle"
+    },
+    {
+      "name": "x-circle"
+    },
+    {
+      "name": "eye"
+    },
+    {
+      "name": "database"
+    },
+    {
+      "name": "results"
+    },
+    {
+      "name": "results-demographics"
+    },
+    {
+      "name": "like"
+    },
+    {
+      "name": "dislike"
+    },
+    {
+      "name": "upload-cloud"
+    },
+    {
+      "name": "camera"
+    },
+    {
+      "name": "alert"
+    },
+    {
+      "name": "bookmark"
+    },
+    {
+      "name": "contrast"
+    },
+    {
+      "name": "mail"
+    },
+    {
+      "name": "video"
+    },
+    {
+      "name": "telephone",
+      "tags": "phone"
+    },
+    {
+      "name": "comment"
+    },
+    {
+      "name": "comment-video"
+    },
+    {
+      "name": "comment-quotes"
+    },
+    {
+      "name": "comment-minus"
+    },
+    {
+      "name": "comments"
+    },
+    {
+      "name": "microphone"
+    },
+    {
+      "name": "megaphone"
+    },
+    {
+      "name": "sound"
+    },
+    {
+      "name": "address-book"
+    },
+    {
+      "name": "bluetooth"
+    },
+    {
+      "name": "html5"
+    },
+    {
+      "name": "css3"
+    },
+    {
+      "name": "layout"
+    },
+    {
+      "name": "web"
+    },
+    {
+      "name": "foundation"
+    },
+    {
+      "name": "page"
+    },
+    {
+      "name": "page-csv"
+    },
+    {
+      "name": "page-doc"
+    },
+    {
+      "name": "page-pdf"
+    },
+    {
+      "name": "page-export"
+    },
+    {
+      "name": "page-export-csv"
+    },
+    {
+      "name": "page-export-doc"
+    },
+    {
+      "name": "page-export-pdf"
+    },
+    {
+      "name": "page-add"
+    },
+    {
+      "name": "page-remove"
+    },
+    {
+      "name": "page-delete"
+    },
+    {
+      "name": "page-edit"
+    },
+    {
+      "name": "page-search"
+    },
+    {
+      "name": "page-copy"
+    },
+    {
+      "name": "page-filled"
+    },
+    {
+      "name": "page-multiple"
+    },
+    {
+      "name": "arrow-up"
+    },
+    {
+      "name": "arrow-right"
+    },
+    {
+      "name": "arrow-down"
+    },
+    {
+      "name": "arrow-left"
+    },
+    {
+      "name": "arrows-out"
+    },
+    {
+      "name": "arrows-in"
+    },
+    {
+      "name": "arrows-expand"
+    },
+    {
+      "name": "arrows-compress"
+    },
+    {
+      "name": "torso"
+    },
+    {
+      "name": "torso-female"
+    },
+    {
+      "name": "torsos"
+    },
+    {
+      "name": "torsos-female-male"
+    },
+    {
+      "name": "torsos-male-female"
+    },
+    {
+      "name": "torsos-all"
+    },
+    {
+      "name": "torsos-all-female"
+    },
+    {
+      "name": "torso-business"
+    },
+    {
+      "name": "monitor"
+    },
+    {
+      "name": "laptop"
+    },
+    {
+      "name": "tablet-portrait"
+    },
+    {
+      "name": "tablet-landscape"
+    },
+    {
+      "name": "mobile"
+    },
+    {
+      "name": "mobile-signal"
+    },
+    {
+      "name": "usb"
+    },
+    {
+      "name": "bold"
+    },
+    {
+      "name": "italic"
+    },
+    {
+      "name": "underline"
+    },
+    {
+      "name": "strikethrough"
+    },
+    {
+      "name": "text-color"
+    },
+    {
+      "name": "background-color"
+    },
+    {
+      "name": "superscript"
+    },
+    {
+      "name": "subscript"
+    },
+    {
+      "name": "align-left"
+    },
+    {
+      "name": "align-center"
+    },
+    {
+      "name": "align-right"
+    },
+    {
+      "name": "align-justify"
+    },
+    {
+      "name": "list-number"
+    },
+    {
+      "name": "list-bullet"
+    },
+    {
+      "name": "indent-more"
+    },
+    {
+      "name": "indent-less"
+    },
+    {
+      "name": "print"
+    },
+    {
+      "name": "save"
+    },
+    {
+      "name": "photo"
+    },
+    {
+      "name": "filter"
+    },
+    {
+      "name": "paint-bucket"
+    },
+    {
+      "name": "link"
+    },
+    {
+      "name": "unlink"
+    },
+    {
+      "name": "quote"
+    },
+    {
+      "name": "play"
+    },
+    {
+      "name": "stop"
+    },
+    {
+      "name": "pause"
+    },
+    {
+      "name": "previous"
+    },
+    {
+      "name": "rewind"
+    },
+    {
+      "name": "fast-forward"
+    },
+    {
+      "name": "next"
+    },
+    {
+      "name": "record"
+    },
+    {
+      "name": "play-circle"
+    },
+    {
+      "name": "volume-none"
+    },
+    {
+      "name": "volume"
+    },
+    {
+      "name": "volume-strike"
+    },
+    {
+      "name": "loop"
+    },
+    {
+      "name": "shuffle"
+    },
+    {
+      "name": "eject"
+    },
+    {
+      "name": "rewind-ten"
+    },
+    {
+      "name": "dollar"
+    },
+    {
+      "name": "euro"
+    },
+    {
+      "name": "pound"
+    },
+    {
+      "name": "yen"
+    },
+    {
+      "name": "bitcoin"
+    },
+    {
+      "name": "bitcoin-circle"
+    },
+    {
+      "name": "credit-card"
+    },
+    {
+      "name": "shopping-cart"
+    },
+    {
+      "name": "burst"
+    },
+    {
+      "name": "burst-new"
+    },
+    {
+      "name": "burst-sale"
+    },
+    {
+      "name": "paypal"
+    },
+    {
+      "name": "price-tag"
+    },
+    {
+      "name": "pricetag-multiple"
+    },
+    {
+      "name": "shopping-bag"
+    },
+    {
+      "name": "dollar-bill"
+    },
+    {
+      "name": "wheelchair"
+    },
+    {
+      "name": "braille"
+    },
+    {
+      "name": "closed-caption"
+    },
+    {
+      "name": "blind"
+    },
+    {
+      "name": "asl"
+    },
+    {
+      "name": "hearing-aid"
+    },
+    {
+      "name": "guide-dog"
+    },
+    {
+      "name": "universal-access"
+    },
+    {
+      "name": "telephone-accessible"
+    },
+    {
+      "name": "elevator"
+    },
+    {
+      "name": "male"
+    },
+    {
+      "name": "female"
+    },
+    {
+      "name": "male-female"
+    },
+    {
+      "name": "male-symbol"
+    },
+    {
+      "name": "female-symbol"
+    },
+    {
+      "name": "social-500px"
+    },
+    {
+      "name": "social-adobe"
+    },
+    {
+      "name": "social-amazon"
+    },
+    {
+      "name": "social-android"
+    },
+    {
+      "name": "social-apple"
+    },
+    {
+      "name": "social-behance"
+    },
+    {
+      "name": "social-bing"
+    },
+    {
+      "name": "social-blogger"
+    },
+    {
+      "name": "social-delicious"
+    },
+    {
+      "name": "social-designer-news"
+    },
+    {
+      "name": "social-deviant-art"
+    },
+    {
+      "name": "social-digg"
+    },
+    {
+      "name": "social-dribbble"
+    },
+    {
+      "name": "social-drive"
+    },
+    {
+      "name": "social-dropbox"
+    },
+    {
+      "name": "social-evernote"
+    },
+    {
+      "name": "social-facebook"
+    },
+    {
+      "name": "social-flickr"
+    },
+    {
+      "name": "social-forrst"
+    },
+    {
+      "name": "social-foursquare"
+    },
+    {
+      "name": "social-game-center"
+    },
+    {
+      "name": "social-github"
+    },
+    {
+      "name": "social-google-plus"
+    },
+    {
+      "name": "social-hacker-news"
+    },
+    {
+      "name": "social-hi5"
+    },
+    {
+      "name": "social-instagram"
+    },
+    {
+      "name": "social-joomla"
+    },
+    {
+      "name": "social-lastfm"
+    },
+    {
+      "name": "social-linkedin"
+    },
+    {
+      "name": "social-medium"
+    },
+    {
+      "name": "social-myspace"
+    },
+    {
+      "name": "social-orkut"
+    },
+    {
+      "name": "social-path"
+    },
+    {
+      "name": "social-picasa"
+    },
+    {
+      "name": "social-pinterest"
+    },
+    {
+      "name": "social-rdio"
+    },
+    {
+      "name": "social-reddit"
+    },
+    {
+      "name": "social-skype"
+    },
+    {
+      "name": "social-skillshare"
+    },
+    {
+      "name": "social-smashing-mag"
+    },
+    {
+      "name": "social-snapchat"
+    },
+    {
+      "name": "social-spotify"
+    },
+    {
+      "name": "social-squidoo"
+    },
+    {
+      "name": "social-stack-overflow"
+    },
+    {
+      "name": "social-steam"
+    },
+    {
+      "name": "social-stumbleupon"
+    },
+    {
+      "name": "social-treehouse"
+    },
+    {
+      "name": "social-tumblr"
+    },
+    {
+      "name": "social-twitter"
+    },
+    {
+      "name": "social-vimeo"
+    },
+    {
+      "name": "social-windows"
+    },
+    {
+      "name": "social-xbox-20"
+    },
+    {
+      "name": "social-yahoo"
+    },
+    {
+      "name": "social-yelp"
+    },
+    {
+      "name": "social-youtube"
+    },
+    {
+      "name": "social-zerply"
+    },
+    {
+      "name": "social-zurb"
+    },
+    {
+      "name": "compass"
+    },
+    {
+      "name": "music"
+    },
+    {
+      "name": "lightbulb"
+    },
+    {
+      "name": "battery-full"
+    },
+    {
+      "name": "battery-half"
+    },
+    {
+      "name": "battery-empty"
+    },
+    {
+      "name": "projection-screen"
+    },
+    {
+      "name": "info"
+    },
+    {
+      "name": "power"
+    },
+    {
+      "name": "asterisk"
+    },
+    {
+      "name": "at-sign"
+    },
+    {
+      "name": "key"
+    },
+    {
+      "name": "ticket"
+    },
+    {
+      "name": "book"
+    },
+    {
+      "name": "book-bookmark"
+    },
+    {
+      "name": "anchor"
+    },
+    {
+      "name": "puzzle"
+    },
+    {
+      "name": "foot"
+    },
+    {
+      "name": "paw"
+    },
+    {
+      "name": "mountains"
+    },
+    {
+      "name": "trees"
+    },
+    {
+      "name": "sheriff-badge"
+    },
+    {
+      "name": "first-aid"
+    },
+    {
+      "name": "trophy"
+    },
+    {
+      "name": "prohibited"
+    },
+    {
+      "name": "no-dogs"
+    },
+    {
+      "name": "no-smoking"
+    },
+    {
+      "name": "safety-cone"
+    },
+    {
+      "name": "shield"
+    },
+    {
+      "name": "crown"
+    },
+    {
+      "name": "target"
+    },
+    {
+      "name": "target-two"
+    },
+    {
+      "name": "die-one"
+    },
+    {
+      "name": "die-two"
+    },
+    {
+      "name": "die-three"
+    },
+    {
+      "name": "die-four"
+    },
+    {
+      "name": "die-five"
+    },
+    {
+      "name": "die-six"
+    },
+    {
+      "name": "skull"
+    },
+    {
+      "name": "map"
+    },
+    {
+      "name": "clipboard"
+    },
+    {
+      "name": "clipboard-pencil"
+    },
+    {
+      "name": "clipboard-notes"
+    }
+  ]
+}

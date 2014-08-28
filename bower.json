@@ -15,6 +15,7 @@
     "ionicons": "1.5.2",
     "octicons": "2.0.2",
     "purl": "~2.3.1",
-    "zeroclipboard": "~1.2.3"
+    "zeroclipboard": "~1.2.3",
+    "foundation-icon-fonts": "zurb/foundation-icon-fonts"
   }
 }
