@@ -53,5 +53,14 @@
   },
   {{/each}}
 
+  {{#each devicons}}
+  {
+    "_tags": ["devicons"],
+    "name": "{{name}}",
+    "tags": "{{tags}}",
+    "class": "devicons devicons-{{name}}"
+  },
+  {{/each}}
+
   {}
 ]
