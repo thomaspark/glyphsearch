@@ -2866,6 +2866,10 @@
 			"name": "adjust"
 		},
 		{
+			"name": "alert",
+			"tags": "warning, caution, sign"
+		},
+		{
 			"name": "align-center",
 			"tags": "text editor"
 		},
@@ -2880,6 +2884,10 @@
 		{
 			"name": "align-right",
 			"tags": "text editor"
+		},
+		{
+			"name": "apple",
+			"tags": "food, fruit"
 		},
 		{
 			"name": "arrow-down",
@@ -2901,6 +2909,10 @@
 			"name": "asterisk"
 		},
 		{
+			"name": "baby-formula",
+			"tags": "bottle, milk"
+		},
+		{
 			"name": "backward",
 			"tags": "video player"
 		},
@@ -2911,8 +2923,24 @@
 			"name": "barcode"
 		},
 		{
+			"name": "bed",
+			"tags": "sleep, hotel"
+		},
+		{
 			"name": "bell",
 			"tags": "audio, sound"
+		},
+		{
+			"name": "bishop",
+			"tags": "chess, game"
+		},
+		{
+			"name": "bitcoin",
+			"tags": "currency"
+		},
+		{
+			"name": "blackboard",
+			"tags": "screen"
 		},
 		{
 			"name": "bold",
@@ -2939,6 +2967,10 @@
 		{
 			"name": "camera",
 			"tags": "photographs"
+		},
+		{
+			"name": "cd",
+			"tags": "music, disc"
 		},
 		{
 			"name": "certificate",
@@ -3010,6 +3042,10 @@
 			"name": "compressed"
 		},
 		{
+			"name": "copy",
+			"tags": "clipboard"
+		},
+		{
 			"name": "copyright-mark"
 		},
 		{
@@ -3025,10 +3061,17 @@
 			"tags": "tachometer, speedometer"
 		},
 		{
+			"name": "door"
+		},
+		{
 			"name": "download"
 		},
 		{
 			"name": "download-alt"
+		},
+		{
+			"name": "duplicate",
+			"tags": "copy, documents, files"
 		},
 		{
 			"name": "earphone",
@@ -3039,11 +3082,23 @@
 			"tags": "text editor"
 		},
 		{
+			"name": "education",
+			"tags": "hat, graduation"
+		},
+		{
 			"name": "eject"
 		},
 		{
 			"name": "envelope",
 			"tags": "email"
+		},
+		{
+			"name": "equalizer",
+			"tags": "music, audio"
+		},
+		{
+			"name": "erase",
+			"tags": "delete"
 		},
 		{
 			"name": "euro",
@@ -3158,6 +3213,10 @@
 			"tags": "earth, planet, world"
 		},
 		{
+			"name": "grain",
+			"tags": "food, plant, wheat"
+		},
+		{
 			"name": "hand-down",
 			"tags": "directional, finger, pointer"
 		},
@@ -3201,6 +3260,18 @@
 			"name": "home"
 		},
 		{
+			"name": "hourglass",
+			"tags": "timer"
+		},
+		{
+			"name": "ice-lolly",
+			"tags": "dessert, popsicle"
+		},
+		{
+			"name": "ice-lolly-tasted",
+			"tags": "dessert, popsicle"
+		},
+		{
 			"name": "import",
 			"tags": "text editor"
 		},
@@ -3224,7 +3295,26 @@
 			"tags": "text editor"
 		},
 		{
+			"name": "key",
+			"tags": "security"
+		},
+		{
+			"name": "king",
+			"tags": "chess, game"
+		},
+		{
+			"name": "knight",
+			"tags": "chess, game"
+		},
+		{
+			"name": "lamp"
+		},
+		{
 			"name": "leaf"
+		},
+		{
+			"name": "level-up",
+			"tags": "folder"
 		},
 		{
 			"name": "link",
@@ -3255,10 +3345,33 @@
 			"tags": "location"
 		},
 		{
+			"name": "menu-down",
+			"tags": "chevron"
+		},
+		{
+			"name": "menu-hamburger",
+			"tags": "options, more"
+		},
+		{
+			"name": "menu-left",
+			"tags": "chevron"
+		},
+		{
+			"name": "menu-right",
+			"tags": "chevron"
+		},
+		{
+			"name": "menu-up",
+			"tags": "chevron"
+		},
+		{
 			"name": "minus"
 		},
 		{
 			"name": "minus-sign"
+		},
+		{
+			"name": "modal-window"
 		},
 		{
 			"name": "move"
@@ -3270,8 +3383,30 @@
 			"name": "new-window"
 		},
 		{
+			"name": "object-align-bottom"
+		},
+		{
+			"name": "object-align-horizontal"
+		},
+		{
+			"name": "object-align-left"
+		},
+		{
+			"name": "object-align-right"
+		},
+		{
+			"name": "object-align-top"
+		},
+		{
+			"name": "object-align-vertical"
+		},
+		{
 			"name": "off",
 			"tags": "on, power"
+		},
+		{
+			"name": "oil",
+			"tags": "barrel"
 		},
 		{
 			"name": "ok"
@@ -3287,11 +3422,30 @@
 			"tags": "text editor"
 		},
 		{
+			"name": "open-file"
+		},
+		{
+			"name": "option-horizontal",
+			"tags": "more"
+		},
+		{
+			"name": "option-vertical",
+			"tags": "more"
+		},
+		{
 			"name": "paperclip",
 			"tags": "text editor, email, file attachment"
 		},
 		{
+			"name": "paste",
+			"tags": "clipboard"
+		},
+		{
 			"name": "pause"
+		},
+		{
+			"name": "pawn",
+			"tags": "chess, game"
 		},
 		{
 			"name": "pencil"
@@ -3307,6 +3461,10 @@
 		{
 			"name": "picture",
 			"tags": "text editor"
+		},
+		{
+			"name": "piggy-bank",
+			"tags": "savings"
 		},
 		{
 			"name": "plane",
@@ -3336,6 +3494,10 @@
 		},
 		{
 			"name": "qrcode"
+		},
+		{
+			"name": "queen",
+			"tags": "chess, game"
 		},
 		{
 			"name": "question-sign"
@@ -3389,12 +3551,27 @@
 			"name": "road"
 		},
 		{
+			"name": "ruble",
+			"tags": "currency, money"
+		},
+		{
 			"name": "save",
 			"tags": "text editor"
 		},
 		{
+			"name": "save-file"
+		},
+		{
 			"name": "saved",
 			"tags": "text editor"
+		},
+		{
+			"name": "scale",
+			"tags": "measure, weight"
+		},
+		{
+			"name": "scissors",
+			"tags": "cut"
 		},
 		{
 			"name": "screenshot"
@@ -3495,8 +3672,19 @@
 			"tags": "video player, square"
 		},
 		{
+			"name": "subscript",
+			"tags": "text editor"
+		},
+		{
 			"name": "subtitles",
 			"tags": "video player"
+		},
+		{
+			"name": "sunglasses"
+		},
+		{
+			"name": "superscript",
+			"tags": "text editor"
 		},
 		{
 			"name": "tag",
@@ -3510,7 +3698,27 @@
 			"name": "tasks"
 		},
 		{
+			"name": "tent",
+			"tags": "camping"
+		},
+		{
+			"name": "terminal",
+			"tags": "console"
+		},
+		{
+			"name": "text-background",
+			"tags": "text editor"
+		},
+		{
+			"name": "text-color",
+			"tags": "text editor"
+		},
+		{
 			"name": "text-height",
+			"tags": "text editor"
+		},
+		{
+			"name": "text-size",
 			"tags": "text editor"
 		},
 		{
@@ -3564,6 +3772,18 @@
 			"tags": "plant"
 		},
 		{
+			"name": "triangle-bottom"
+		},
+		{
+			"name": "triangle-left"
+		},
+		{
+			"name": "triangle-right"
+		},
+		{
+			"name": "triangle-top"
+		},
+		{
 			"name": "unchecked",
 			"tags": "form control"
 		},
@@ -3596,6 +3816,10 @@
 		{
 			"name": "wrench",
 			"tags": "tool, settings"
+		},
+		{
+			"name": "yen",
+			"tags": "currency, money"
 		},
 		{
 			"name": "zoom-in",

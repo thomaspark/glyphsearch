@@ -1,4 +1,4 @@
-// Superhero 3.1.1
+// Superhero 3.3.2
 // Bootswatch
 // -----------------------------------------------------
 
@@ -11,8 +11,20 @@
   border: none;
   font-size: 12px;
 
-  &-default .navbar-nav {
+  &-default {
 
+    .badge {
+      background-color: #fff;
+      color: @navbar-default-bg;
+    }
+  }
+
+  &-inverse {
+
+    .badge {
+      background-color: #fff;
+      color: @navbar-inverse-bg;
+    }
   }
 }
 
@@ -95,6 +107,19 @@ table,
 .table {
   font-size: 12px;
 
+  a:not(.btn) {
+    color: #fff;
+    text-decoration: underline;
+  }
+
+  .dropdown-menu a {
+    text-decoration: none;
+  }
+
+  .text-muted {
+    color: @text-muted;
+  }
+
   > thead > tr > th,
   > tbody > tr > th,
   > tfoot > tr > th,
@@ -106,6 +131,11 @@ table,
  }
 
 // Forms ======================================================================
+
+input,
+textarea {
+  color: @input-color;
+}
 
 label,
 .radio label,
@@ -122,22 +152,37 @@ label,
 
 .has-warning {
   .help-block,
-  .control-label {
+  .control-label,
+  .form-control-feedback {
     color: @brand-warning;
+  }
+
+  .input-group-addon {
+    border: none;
   }
 }
 
 .has-error {
   .help-block,
-  .control-label {
+  .control-label,
+  .form-control-feedback {
     color: @brand-danger;
+  }
+
+  .input-group-addon {
+    border: none;
   }
 }
 
 .has-success {
   .help-block,
-  .control-label {
+  .control-label,
+  .form-control-feedback {
     color: @brand-success;
+  }
+
+  .input-group-addon {
+    border: none;
   }
 }
 
@@ -196,12 +241,63 @@ label,
   }
 }
 
+.close {
+  opacity: 0.4;
+
+  &:hover,
+  &:focus {
+    opacity: 1;
+  }
+}
+
 // Progress bars ==============================================================
 
 // Containers =================================================================
 
 .well {
   .box-shadow(none);
+}
+
+a.list-group-item {
+
+  &.active,
+  &.active:hover,
+  &.active:focus {
+    border: none;
+  }
+
+  &-success {
+    &.active {
+      background-color: @state-success-bg;
+    }
+
+    &.active:hover,
+    &.active:focus {
+      background-color: darken(@state-success-bg, 5%);
+    }
+  }
+
+  &-warning {
+    &.active {
+      background-color: @state-warning-bg;
+    }
+    
+    &.active:hover,
+    &.active:focus {
+      background-color: darken(@state-warning-bg, 5%);
+    }
+  }
+
+  &-danger {
+    &.active {
+      background-color: @state-danger-bg;
+    }
+    
+    &.active:hover,
+    &.active:focus {
+      background-color: darken(@state-danger-bg, 5%);
+    }
+  }
 }
 
 .panel {

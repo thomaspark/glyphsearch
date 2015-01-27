@@ -1,4 +1,4 @@
-// Journal 3.1.1
+// Journal 3.3.2
 // Bootswatch
 // -----------------------------------------------------
 
@@ -10,10 +10,26 @@
   font-size: 18px;
   font-family: @font-family-sans-serif;
   font-weight: @headings-font-weight;
+
+  &-default {
+
+    .badge {
+      background-color: #000;
+      color: #fff;
+    }
+  }
+
+  &-inverse {
+
+    .badge {
+      background-color: #fff;
+      color: @navbar-inverse-bg;
+    }
+  }
 }
 
 .navbar-brand {
-  font-size: 18px;
+  font-size: inherit;
   font-weight: @headings-font-weight;
   text-transform: uppercase;
 }
@@ -28,7 +44,8 @@
 
 .has-warning {
   .help-block,
-  .control-label {
+  .control-label,
+  .form-control-feedback {
     color: @brand-danger;
   }
 
@@ -40,7 +57,8 @@
 
 .has-error {
   .help-block,
-  .control-label {
+  .control-label,
+  .form-control-feedback {
     color: @brand-primary;
   }
 
@@ -52,7 +70,8 @@
 
 .has-success {
   .help-block,
-  .control-label {
+  .control-label,
+  .form-control-feedback {
     color: @brand-success;
   }
 
@@ -65,6 +84,12 @@
 // Navs =======================================================================
 
 // Indicators =================================================================
+
+.badge {
+  padding-bottom: 4px;
+  vertical-align: 3px;
+  font-size: 10px;
+}
 
 // Progress bars ==============================================================
 

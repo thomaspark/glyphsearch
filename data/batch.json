@@ -3074,6 +3074,12 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "alert",
+    "tags": "warning, caution, sign",
+    "class": "glyphicon glyphicon-alert"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "align-center",
     "tags": "text editor",
     "class": "glyphicon glyphicon-align-center"
@@ -3095,6 +3101,12 @@
     "name": "align-right",
     "tags": "text editor",
     "class": "glyphicon glyphicon-align-right"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "apple",
+    "tags": "food, fruit",
+    "class": "glyphicon glyphicon-apple"
   },
   {
     "_tags": ["glyphicons"],
@@ -3128,6 +3140,12 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "baby-formula",
+    "tags": "bottle, milk",
+    "class": "glyphicon glyphicon-baby-formula"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "backward",
     "tags": "video player",
     "class": "glyphicon glyphicon-backward"
@@ -3146,9 +3164,33 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "bed",
+    "tags": "sleep, hotel",
+    "class": "glyphicon glyphicon-bed"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "bell",
     "tags": "audio, sound",
     "class": "glyphicon glyphicon-bell"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "bishop",
+    "tags": "chess, game",
+    "class": "glyphicon glyphicon-bishop"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "bitcoin",
+    "tags": "currency",
+    "class": "glyphicon glyphicon-bitcoin"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "blackboard",
+    "tags": "screen",
+    "class": "glyphicon glyphicon-blackboard"
   },
   {
     "_tags": ["glyphicons"],
@@ -3191,6 +3233,12 @@
     "name": "camera",
     "tags": "photographs",
     "class": "glyphicon glyphicon-camera"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "cd",
+    "tags": "music, disc",
+    "class": "glyphicon glyphicon-cd"
   },
   {
     "_tags": ["glyphicons"],
@@ -3302,6 +3350,12 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "copy",
+    "tags": "clipboard",
+    "class": "glyphicon glyphicon-copy"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "copyright-mark",
     "tags": "",
     "class": "glyphicon glyphicon-copyright-mark"
@@ -3326,6 +3380,12 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "door",
+    "tags": "",
+    "class": "glyphicon glyphicon-door"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "download",
     "tags": "",
     "class": "glyphicon glyphicon-download"
@@ -3335,6 +3395,12 @@
     "name": "download-alt",
     "tags": "",
     "class": "glyphicon glyphicon-download-alt"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "duplicate",
+    "tags": "copy, documents, files",
+    "class": "glyphicon glyphicon-duplicate"
   },
   {
     "_tags": ["glyphicons"],
@@ -3350,6 +3416,12 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "education",
+    "tags": "hat, graduation",
+    "class": "glyphicon glyphicon-education"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "eject",
     "tags": "",
     "class": "glyphicon glyphicon-eject"
@@ -3359,6 +3431,18 @@
     "name": "envelope",
     "tags": "email",
     "class": "glyphicon glyphicon-envelope"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "equalizer",
+    "tags": "music, audio",
+    "class": "glyphicon glyphicon-equalizer"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "erase",
+    "tags": "delete",
+    "class": "glyphicon glyphicon-erase"
   },
   {
     "_tags": ["glyphicons"],
@@ -3536,6 +3620,12 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "grain",
+    "tags": "food, plant, wheat",
+    "class": "glyphicon glyphicon-grain"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "hand-down",
     "tags": "directional, finger, pointer",
     "class": "glyphicon glyphicon-hand-down"
@@ -3602,6 +3692,24 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "hourglass",
+    "tags": "timer",
+    "class": "glyphicon glyphicon-hourglass"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "ice-lolly",
+    "tags": "dessert, popsicle",
+    "class": "glyphicon glyphicon-ice-lolly"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "ice-lolly-tasted",
+    "tags": "dessert, popsicle",
+    "class": "glyphicon glyphicon-ice-lolly-tasted"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "import",
     "tags": "text editor",
     "class": "glyphicon glyphicon-import"
@@ -3638,9 +3746,39 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "key",
+    "tags": "security",
+    "class": "glyphicon glyphicon-key"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "king",
+    "tags": "chess, game",
+    "class": "glyphicon glyphicon-king"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "knight",
+    "tags": "chess, game",
+    "class": "glyphicon glyphicon-knight"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "lamp",
+    "tags": "",
+    "class": "glyphicon glyphicon-lamp"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "leaf",
     "tags": "",
     "class": "glyphicon glyphicon-leaf"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "level-up",
+    "tags": "folder",
+    "class": "glyphicon glyphicon-level-up"
   },
   {
     "_tags": ["glyphicons"],
@@ -3692,6 +3830,36 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "menu-down",
+    "tags": "chevron",
+    "class": "glyphicon glyphicon-menu-down"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "menu-hamburger",
+    "tags": "options, more",
+    "class": "glyphicon glyphicon-menu-hamburger"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "menu-left",
+    "tags": "chevron",
+    "class": "glyphicon glyphicon-menu-left"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "menu-right",
+    "tags": "chevron",
+    "class": "glyphicon glyphicon-menu-right"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "menu-up",
+    "tags": "chevron",
+    "class": "glyphicon glyphicon-menu-up"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "minus",
     "tags": "",
     "class": "glyphicon glyphicon-minus"
@@ -3701,6 +3869,12 @@
     "name": "minus-sign",
     "tags": "",
     "class": "glyphicon glyphicon-minus-sign"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "modal-window",
+    "tags": "",
+    "class": "glyphicon glyphicon-modal-window"
   },
   {
     "_tags": ["glyphicons"],
@@ -3722,9 +3896,51 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "object-align-bottom",
+    "tags": "",
+    "class": "glyphicon glyphicon-object-align-bottom"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "object-align-horizontal",
+    "tags": "",
+    "class": "glyphicon glyphicon-object-align-horizontal"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "object-align-left",
+    "tags": "",
+    "class": "glyphicon glyphicon-object-align-left"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "object-align-right",
+    "tags": "",
+    "class": "glyphicon glyphicon-object-align-right"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "object-align-top",
+    "tags": "",
+    "class": "glyphicon glyphicon-object-align-top"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "object-align-vertical",
+    "tags": "",
+    "class": "glyphicon glyphicon-object-align-vertical"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "off",
     "tags": "on, power",
     "class": "glyphicon glyphicon-off"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "oil",
+    "tags": "barrel",
+    "class": "glyphicon glyphicon-oil"
   },
   {
     "_tags": ["glyphicons"],
@@ -3752,15 +3968,45 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "open-file",
+    "tags": "",
+    "class": "glyphicon glyphicon-open-file"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "option-horizontal",
+    "tags": "more",
+    "class": "glyphicon glyphicon-option-horizontal"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "option-vertical",
+    "tags": "more",
+    "class": "glyphicon glyphicon-option-vertical"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "paperclip",
     "tags": "text editor, email, file attachment",
     "class": "glyphicon glyphicon-paperclip"
   },
   {
     "_tags": ["glyphicons"],
+    "name": "paste",
+    "tags": "clipboard",
+    "class": "glyphicon glyphicon-paste"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "pause",
     "tags": "",
     "class": "glyphicon glyphicon-pause"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "pawn",
+    "tags": "chess, game",
+    "class": "glyphicon glyphicon-pawn"
   },
   {
     "_tags": ["glyphicons"],
@@ -3785,6 +4031,12 @@
     "name": "picture",
     "tags": "text editor",
     "class": "glyphicon glyphicon-picture"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "piggy-bank",
+    "tags": "savings",
+    "class": "glyphicon glyphicon-piggy-bank"
   },
   {
     "_tags": ["glyphicons"],
@@ -3833,6 +4085,12 @@
     "name": "qrcode",
     "tags": "",
     "class": "glyphicon glyphicon-qrcode"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "queen",
+    "tags": "chess, game",
+    "class": "glyphicon glyphicon-queen"
   },
   {
     "_tags": ["glyphicons"],
@@ -3926,15 +4184,39 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "ruble",
+    "tags": "currency, money",
+    "class": "glyphicon glyphicon-ruble"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "save",
     "tags": "text editor",
     "class": "glyphicon glyphicon-save"
   },
   {
     "_tags": ["glyphicons"],
+    "name": "save-file",
+    "tags": "",
+    "class": "glyphicon glyphicon-save-file"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "saved",
     "tags": "text editor",
     "class": "glyphicon glyphicon-saved"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "scale",
+    "tags": "measure, weight",
+    "class": "glyphicon glyphicon-scale"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "scissors",
+    "tags": "cut",
+    "class": "glyphicon glyphicon-scissors"
   },
   {
     "_tags": ["glyphicons"],
@@ -4094,9 +4376,27 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "subscript",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-subscript"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "subtitles",
     "tags": "video player",
     "class": "glyphicon glyphicon-subtitles"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "sunglasses",
+    "tags": "",
+    "class": "glyphicon glyphicon-sunglasses"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "superscript",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-superscript"
   },
   {
     "_tags": ["glyphicons"],
@@ -4118,9 +4418,39 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "tent",
+    "tags": "camping",
+    "class": "glyphicon glyphicon-tent"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "terminal",
+    "tags": "console",
+    "class": "glyphicon glyphicon-terminal"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "text-background",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-text-background"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "text-color",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-text-color"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "text-height",
     "tags": "text editor",
     "class": "glyphicon glyphicon-text-height"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "text-size",
+    "tags": "text editor",
+    "class": "glyphicon glyphicon-text-size"
   },
   {
     "_tags": ["glyphicons"],
@@ -4202,6 +4532,30 @@
   },
   {
     "_tags": ["glyphicons"],
+    "name": "triangle-bottom",
+    "tags": "",
+    "class": "glyphicon glyphicon-triangle-bottom"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "triangle-left",
+    "tags": "",
+    "class": "glyphicon glyphicon-triangle-left"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "triangle-right",
+    "tags": "",
+    "class": "glyphicon glyphicon-triangle-right"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "triangle-top",
+    "tags": "",
+    "class": "glyphicon glyphicon-triangle-top"
+  },
+  {
+    "_tags": ["glyphicons"],
     "name": "unchecked",
     "tags": "form control",
     "class": "glyphicon glyphicon-unchecked"
@@ -4253,6 +4607,12 @@
     "name": "wrench",
     "tags": "tool, settings",
     "class": "glyphicon glyphicon-wrench"
+  },
+  {
+    "_tags": ["glyphicons"],
+    "name": "yen",
+    "tags": "currency, money",
+    "class": "glyphicon glyphicon-yen"
   },
   {
     "_tags": ["glyphicons"],
