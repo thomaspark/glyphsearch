@@ -171,6 +171,10 @@
       "tags": "menu, more, reorder"
     },
     {
+      "name": "bed",
+      "tags": "hotel"
+    },
+    {
       "name": "beer",
       "tags": "drink, mug, stein"
     },
@@ -253,6 +257,10 @@
       "tags": "transportation"
     },
     {
+      "name": "buysellads",
+      "tags": "brand"
+    },
+    {
       "name": "calculator",
       "tags": "math"
     },
@@ -307,6 +315,14 @@
     {
       "name": "caret-up",
       "tags": "directional, triangle"
+    },
+    {
+      "name": "cart-arrow-down",
+      "tags": "shopping"
+    },
+    {
+      "name": "cart-plus",
+      "tags": "shopping"
     },
     {
       "name": "cc",
@@ -480,6 +496,10 @@
       "tags": "arrows, resize, video player"
     },
     {
+      "name": "connectdevelop",
+      "tags": "brand"
+    },
+    {
       "name": "copyright"
     },
     {
@@ -507,6 +527,10 @@
       "tags": "food, fork, knife"
     },
     {
+      "name": "dashcube",
+      "tags": "brand"
+    },
+    {
       "name": "database"
     },
     {
@@ -520,6 +544,10 @@
     {
       "name": "deviantart",
       "tags": "brand"
+    },
+    {
+      "name": "diamond",
+      "tags": "gem"
     },
     {
       "name": "digg",
@@ -616,6 +644,10 @@
     },
     {
       "name": "facebook",
+      "tags": "brand, social"
+    },
+    {
+      "name": "facebook-official",
       "tags": "brand, social"
     },
     {
@@ -740,6 +772,10 @@
     {
       "name": "font",
       "tags": "text editor"
+    },
+    {
+      "name": "forumbee",
+      "tags": "brand"
     },
     {
       "name": "forward",
@@ -873,6 +909,10 @@
       "tags": "unlike, unfavorite"
     },
     {
+      "name": "heartbeat",
+      "tags": "health"
+    },
+    {
       "name": "history"
     },
     {
@@ -959,6 +999,10 @@
     {
       "name": "leaf",
       "tags": "plant"
+    },
+    {
+      "name": "leanpub",
+      "tags": "brand, book"
     },
     {
       "name": "lemon-o",
@@ -1055,6 +1099,22 @@
       "tags": "location"
     },
     {
+      "name": "mars",
+      "tags": "male, gender"
+    },
+    {
+      "name": "mars-double",
+      "tags": "gay, homosexual, sexual orientation"
+    },
+    {
+      "name": "mars-stroke",
+      "tags": "male, gender"
+    },
+    {
+      "name": "mars-stroke-h",
+      "tags": "male, gender"
+    },
+    {
       "name": "maxcdn",
       "tags": "brand"
     },
@@ -1104,6 +1164,10 @@
     },
     {
       "name": "music"
+    },
+    {
+      "name": "neuter",
+      "tags": "gender"
     },
     {
       "name": "newspaper-o"
@@ -1187,6 +1251,10 @@
     },
     {
       "name": "pinterest",
+      "tags": "brand, social"
+    },
+    {
+      "name": "pinterest-p",
       "tags": "brand, social"
     },
     {
@@ -1333,6 +1401,13 @@
       "tags": "zoom in, magnifying glass"
     },
     {
+      "name": "sellsy",
+      "tags": "brand"
+    },
+    {
+      "name": "server"
+    },
+    {
       "name": "share",
       "tags": "mail-forward, email"
     },
@@ -1352,6 +1427,14 @@
       "name": "shield"
     },
     {
+      "name": "ship",
+      "tags": "boat"
+    },
+    {
+      "name": "shirtsinbulk",
+      "tags": "brand"
+    },
+    {
       "name": "shopping-cart"
     },
     {
@@ -1365,7 +1448,15 @@
       "tags": "bars, graph"
     },
     {
+      "name": "simplybuilt",
+      "tags": "brand"
+    },
+    {
       "name": "sitemap"
+    },
+    {
+      "name": "skyatlas",
+      "tags": "brand"
     },
     {
       "name": "skype",
@@ -1491,6 +1582,10 @@
       "tags": "video player, square"
     },
     {
+      "name": "street-view",
+      "tags": "person, map"
+    },
+    {
       "name": "strikethrough",
       "tags": "text editor"
     },
@@ -1504,6 +1599,10 @@
     },
     {
       "name": "subscript"
+    },
+    {
+      "name": "subway",
+      "tags": "transportation"
     },
     {
       "name": "suitcase",
@@ -1616,6 +1715,18 @@
       "tags": "settings, switch"
     },
     {
+      "name": "train",
+      "tags": "transportation"
+    },
+    {
+      "name": "transgender",
+      "tags": "gender"
+    },
+    {
+      "name": "transgender-alt",
+      "tags": "gender"
+    },
+    {
       "name": "trash",
       "tags": "delete"
     },
@@ -1703,6 +1814,32 @@
       "tags": "medical, doctor"
     },
     {
+      "name": "user-plus"
+    },
+    {
+      "name": "user-secret",
+      "tags": "anonymous, private, incognito"
+    },
+    {
+      "name": "user-times"
+    },
+    {
+      "name": "venus",
+      "tags": "female, gender"
+    },
+    {
+      "name": "venus-double",
+      "tags": "gay, lesbian, homosexual, sexual orientation"
+    },
+    {
+      "name": "venus-mars",
+      "tags": "heterosexual, sexual orientation"
+    },
+    {
+      "name": "viacoin",
+      "tags": "currency"
+    },
+    {
       "name": "video-camera"
     },
     {
@@ -1740,6 +1877,10 @@
     {
       "name": "wheelchair",
       "tags": "medical, handicapped"
+    },
+    {
+      "name": "whatsapp",
+      "tags": "brand, social"
     },
     {
       "name": "wifi",
