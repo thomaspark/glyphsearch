@@ -7,7 +7,7 @@
     "test",
     "tests"
   ],
-  "version": "1.5.2",
+  "version": "2.0.1",
   "name": "Ionicons",
   "license": "MIT",
   "authors": [
@@ -28,13 +28,13 @@
   ],
   "homepage": "https://github.com/driftyco/ionicons",
   "description": "Ionicons - free and beautiful icons from the creators of Ionic Framework",
-  "_release": "1.5.2",
+  "_release": "2.0.1",
   "_resolution": {
     "type": "version",
-    "tag": "v1.5.2",
-    "commit": "f3b69b69b7b4f2769c66d053fea9ced4d596638d"
+    "tag": "v2.0.1",
+    "commit": "ecb4b806831005c25b97ed9089fbb1d7dcc0879c"
   },
   "_source": "git://github.com/driftyco/ionicons.git",
-  "_target": "1.5.2",
+  "_target": "2.0.1",
   "_originalSource": "ionicons"
 }

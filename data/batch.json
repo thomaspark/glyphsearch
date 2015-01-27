@@ -4641,6 +4641,774 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "android-add",
+    "tags": "plus",
+    "class": "ionicons ion-android-add"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-add-circle",
+    "tags": "",
+    "class": "ionicons ion-android-add-circle"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-alarm-clock",
+    "tags": "time",
+    "class": "ionicons ion-android-alarm-clock"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-alert",
+    "tags": "",
+    "class": "ionicons ion-android-alert"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-apps",
+    "tags": "grid",
+    "class": "ionicons ion-android-apps"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-archive",
+    "tags": "",
+    "class": "ionicons ion-android-archive"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-back",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-back"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-down",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-down"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-dropdown",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-dropdown"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-dropdown-circle",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-dropdown-circle"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-dropleft",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-dropleft"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-dropleft-circle",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-dropleft-circle"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-dropright",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-dropright"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-dropright-circle",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-dropright-circle"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-dropup",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-dropup"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-dropup-circle",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-dropup-circle"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-forward",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-forward"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-arrow-up",
+    "tags": "",
+    "class": "ionicons ion-android-arrow-up"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-attach",
+    "tags": "paperclip",
+    "class": "ionicons ion-android-attach"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-bar",
+    "tags": "drink, glass, martini",
+    "class": "ionicons ion-android-bar"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-bicycle",
+    "tags": "transportation",
+    "class": "ionicons ion-android-bicycle"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-boat",
+    "tags": "ship, transportation",
+    "class": "ionicons ion-android-boat"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-bookmark",
+    "tags": "",
+    "class": "ionicons ion-android-bookmark"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-bulb",
+    "tags": "light",
+    "class": "ionicons ion-android-bulb"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-bus",
+    "tags": "transportation",
+    "class": "ionicons ion-android-bus"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-calendar",
+    "tags": "",
+    "class": "ionicons ion-android-calendar"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-call",
+    "tags": "phone",
+    "class": "ionicons ion-android-call"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-camera",
+    "tags": "",
+    "class": "ionicons ion-android-camera"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-cancel",
+    "tags": "",
+    "class": "ionicons ion-android-cancel"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-car",
+    "tags": "automobile, transportation",
+    "class": "ionicons ion-android-car"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-cart",
+    "tags": "",
+    "class": "ionicons ion-android-cart"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-chat",
+    "tags": "quotes, speech bubble",
+    "class": "ionicons ion-android-chat"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-checkbox",
+    "tags": "",
+    "class": "ionicons ion-android-checkbox"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-checkbox-blank",
+    "tags": "",
+    "class": "ionicons ion-android-checkbox-blank"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-checkbox-outline",
+    "tags": "",
+    "class": "ionicons ion-android-checkbox-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-checkbox-outline-blank",
+    "tags": "",
+    "class": "ionicons ion-android-checkbox-outline-blank"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-checkmark-circle",
+    "tags": "",
+    "class": "ionicons ion-android-checkmark-circle"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-clipboard",
+    "tags": "",
+    "class": "ionicons ion-android-clipboard"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-close",
+    "tags": "times",
+    "class": "ionicons ion-android-close"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-cloud",
+    "tags": "weather",
+    "class": "ionicons ion-android-cloud"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-cloud-circle",
+    "tags": "weather",
+    "class": "ionicons ion-android-cloud-circle"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-cloud-done",
+    "tags": "weather",
+    "class": "ionicons ion-android-cloud-done"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-cloud-outline",
+    "tags": "weather",
+    "class": "ionicons ion-android-cloud-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-color-palette",
+    "tags": "art, paint",
+    "class": "ionicons ion-android-color-palette"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-compass",
+    "tags": "map, directions, navigation",
+    "class": "ionicons ion-android-compass"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-contact",
+    "tags": "person, user",
+    "class": "ionicons ion-android-contact"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-contacts",
+    "tags": "people, users",
+    "class": "ionicons ion-android-contacts"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-contract",
+    "tags": "",
+    "class": "ionicons ion-android-contract"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-create",
+    "tags": "pencil, write",
+    "class": "ionicons ion-android-create"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-delete",
+    "tags": "trashcan",
+    "class": "ionicons ion-android-delete"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-desktop",
+    "tags": "monitor, computer",
+    "class": "ionicons ion-android-desktop"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-document",
+    "tags": "file",
+    "class": "ionicons ion-android-document"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-done",
+    "tags": "checkmark",
+    "class": "ionicons ion-android-done"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-done-all",
+    "tags": "checkmark",
+    "class": "ionicons ion-android-done-all"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-download",
+    "tags": "cloud",
+    "class": "ionicons ion-android-download"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-drafts",
+    "tags": "envelope",
+    "class": "ionicons ion-android-drafts"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-exit",
+    "tags": "",
+    "class": "ionicons ion-android-exit"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-expand",
+    "tags": "resize",
+    "class": "ionicons ion-android-expand"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-favorite",
+    "tags": "heart, like",
+    "class": "ionicons ion-android-favorite"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-favorite-outline",
+    "tags": "heart, like",
+    "class": "ionicons ion-android-favorite-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-film",
+    "tags": "movie",
+    "class": "ionicons ion-android-film"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-folder",
+    "tags": "",
+    "class": "ionicons ion-android-folder"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-folder-open",
+    "tags": "",
+    "class": "ionicons ion-android-folder-open"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-funnel",
+    "tags": "filter",
+    "class": "ionicons ion-android-funnel"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-globe",
+    "tags": "earth, world",
+    "class": "ionicons ion-android-globe"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-hand",
+    "tags": "",
+    "class": "ionicons ion-android-hand"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-hangout",
+    "tags": "chat bubble",
+    "class": "ionicons ion-android-hangout"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-happy",
+    "tags": "smiley face",
+    "class": "ionicons ion-android-happy"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-home",
+    "tags": "house",
+    "class": "ionicons ion-android-home"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-image",
+    "tags": "email",
+    "class": "ionicons ion-android-image"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-laptop",
+    "tags": "computer",
+    "class": "ionicons ion-android-laptop"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-list",
+    "tags": "",
+    "class": "ionicons ion-android-list"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-locate",
+    "tags": "target",
+    "class": "ionicons ion-android-locate"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-lock",
+    "tags": "",
+    "class": "ionicons ion-android-lock"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-mail",
+    "tags": "envelope",
+    "class": "ionicons ion-android-mail"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-map",
+    "tags": "",
+    "class": "ionicons ion-android-map"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-menu",
+    "tags": "more, hamburger",
+    "class": "ionicons ion-android-menu"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-microphone",
+    "tags": "audio",
+    "class": "ionicons ion-android-microphone"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-microphone-off",
+    "tags": "audio, mute",
+    "class": "ionicons ion-android-microphone-off"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-more-horizontal",
+    "tags": "",
+    "class": "ionicons ion-android-more-horizontal"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-more-vertical",
+    "tags": "",
+    "class": "ionicons ion-android-more-vertical"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-navigate",
+    "tags": "arrow",
+    "class": "ionicons ion-android-navigate"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-notifications",
+    "tags": "bell",
+    "class": "ionicons ion-android-notifications"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-notifications-none",
+    "tags": "bell",
+    "class": "ionicons ion-android-notifications-none"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-notifications-off",
+    "tags": "bell, mute",
+    "class": "ionicons ion-android-notifications-off"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-open",
+    "tags": "",
+    "class": "ionicons ion-android-open"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-options",
+    "tags": "levels, equalizer",
+    "class": "ionicons ion-android-options"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-people",
+    "tags": "users",
+    "class": "ionicons ion-android-people"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-person",
+    "tags": "user",
+    "class": "ionicons ion-android-person"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-person-add",
+    "tags": "user",
+    "class": "ionicons ion-android-person-add"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-phone-landscape",
+    "tags": "",
+    "class": "ionicons ion-android-phone-landscape"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-phone-portrait",
+    "tags": "",
+    "class": "ionicons ion-android-phone-portrait"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-pin",
+    "tags": "map, marker",
+    "class": "ionicons ion-android-pin"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-plane",
+    "tags": "transportation, travel",
+    "class": "ionicons ion-android-plane"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-playstore",
+    "tags": "shopping",
+    "class": "ionicons ion-android-playstore"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-print",
+    "tags": "",
+    "class": "ionicons ion-android-print"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-radio-button-on",
+    "tags": "",
+    "class": "ionicons ion-android-radio-button-on"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-radio-button-off",
+    "tags": "",
+    "class": "ionicons ion-android-radio-button-off"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-refresh",
+    "tags": "reload",
+    "class": "ionicons ion-android-refresh"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-remove",
+    "tags": "minus",
+    "class": "ionicons ion-android-remove"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-remove-circle",
+    "tags": "minus",
+    "class": "ionicons ion-android-remove-circle"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-restaurant",
+    "tags": "cutlery, food, dining, spoon, knife",
+    "class": "ionicons ion-android-restaurant"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-sad",
+    "tags": "frown, face",
+    "class": "ionicons ion-android-sad"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-search",
+    "tags": "find, magnifying glass",
+    "class": "ionicons ion-android-search"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-send",
+    "tags": "paper airplane",
+    "class": "ionicons ion-android-send"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-settings",
+    "tags": "cog, gear",
+    "class": "ionicons ion-android-settings"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-share",
+    "tags": "arrow",
+    "class": "ionicons ion-android-share"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-share-alt",
+    "tags": "",
+    "class": "ionicons ion-android-share-alt"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-star",
+    "tags": "rating",
+    "class": "ionicons ion-android-star"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-star-half",
+    "tags": "rating",
+    "class": "ionicons ion-android-star-half"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-star-outline",
+    "tags": "rating",
+    "class": "ionicons ion-android-star-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-stopwatch",
+    "tags": "timer",
+    "class": "ionicons ion-android-stopwatch"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-subway",
+    "tags": "transportation",
+    "class": "ionicons ion-android-subway"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-sunny",
+    "tags": "weather",
+    "class": "ionicons ion-android-sunny"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-sync",
+    "tags": "refresh, reload",
+    "class": "ionicons ion-android-sync"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-textsms",
+    "tags": "chat bubble",
+    "class": "ionicons ion-android-textsms"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-time",
+    "tags": "clock",
+    "class": "ionicons ion-android-time"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-train",
+    "tags": "transportation",
+    "class": "ionicons ion-android-train"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-unlock",
+    "tags": "",
+    "class": "ionicons ion-android-unlock"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-upload",
+    "tags": "cloud",
+    "class": "ionicons ion-android-upload"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-volume-down",
+    "tags": "audio",
+    "class": "ionicons ion-android-volume-down"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-volume-mute",
+    "tags": "audio",
+    "class": "ionicons ion-android-volume-mute"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-volume-off",
+    "tags": "audio",
+    "class": "ionicons ion-android-volume-off"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-volume-up",
+    "tags": "audio",
+    "class": "ionicons ion-android-volume-up"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-walk",
+    "tags": "person",
+    "class": "ionicons ion-android-walk"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-warning",
+    "tags": "alert, sign",
+    "class": "ionicons ion-android-warning"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-watch",
+    "tags": "",
+    "class": "ionicons ion-android-watch"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "android-wifi",
+    "tags": "",
+    "class": "ionicons ion-android-wifi"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "aperture",
     "tags": "camera, photos",
     "class": "ionicons ion-aperture"
@@ -4659,45 +5427,9 @@
   },
   {
     "_tags": ["ionicons"],
-    "name": "arrow-left-a",
-    "tags": "directional",
-    "class": "ionicons ion-arrow-left-a"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "arrow-right-a",
-    "tags": "directional",
-    "class": "ionicons ion-arrow-right-a"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "arrow-up-a",
-    "tags": "directional",
-    "class": "ionicons ion-arrow-up-a"
-  },
-  {
-    "_tags": ["ionicons"],
     "name": "arrow-down-b",
-    "tags": "directional, triangle",
+    "tags": "directional, triangle, caret",
     "class": "ionicons ion-arrow-down-b"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "arrow-left-b",
-    "tags": "directional, triangle",
-    "class": "ionicons ion-arrow-left-b"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "arrow-right-b",
-    "tags": "directional, triangle",
-    "class": "ionicons ion-arrow-right-b"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "arrow-up-b",
-    "tags": "directional, triangle",
-    "class": "ionicons ion-arrow-up-b"
   },
   {
     "_tags": ["ionicons"],
@@ -4707,21 +5439,9 @@
   },
   {
     "_tags": ["ionicons"],
-    "name": "arrow-left-c",
-    "tags": "directional",
-    "class": "ionicons ion-arrow-left-c"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "arrow-right-c",
-    "tags": "directional",
-    "class": "ionicons ion-arrow-right-c"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "arrow-up-c",
-    "tags": "directional",
-    "class": "ionicons ion-arrow-up-c"
+    "name": "arrow-expand",
+    "tags": "",
+    "class": "ionicons ion-arrow-expand"
   },
   {
     "_tags": ["ionicons"],
@@ -4749,6 +5469,24 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "arrow-left-a",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-left-a"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-left-b",
+    "tags": "directional, triangle, caret",
+    "class": "ionicons ion-arrow-left-b"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-left-c",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-left-c"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "arrow-move",
     "tags": "",
     "class": "ionicons ion-arrow-move"
@@ -4773,6 +5511,24 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "arrow-right-a",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-right-a"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-right-b",
+    "tags": "directional, triangle, caret",
+    "class": "ionicons ion-arrow-right-b"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-right-c",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-right-c"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "arrow-shrink",
     "tags": "resize, collapse",
     "class": "ionicons ion-arrow-shrink"
@@ -4780,8 +5536,26 @@
   {
     "_tags": ["ionicons"],
     "name": "arrow-swap",
-    "tags": "",
+    "tags": "exchange",
     "class": "ionicons ion-arrow-swap"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-up-a",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-up-a"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-up-b",
+    "tags": "directional, triangle, caret",
+    "class": "ionicons ion-arrow-up-b"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "arrow-up-c",
+    "tags": "directional",
+    "class": "ionicons ion-arrow-up-c"
   },
   {
     "_tags": ["ionicons"],
@@ -4797,6 +5571,18 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "backspace",
+    "tags": "delete",
+    "class": "ionicons ion-backspace"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "backspace-outline",
+    "tags": "delete",
+    "class": "ionicons ion-backspace-outline"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "bag",
     "tags": "shopping",
     "class": "ionicons ion-bag"
@@ -4804,38 +5590,44 @@
   {
     "_tags": ["ionicons"],
     "name": "battery-charging",
-    "tags": "",
+    "tags": "power",
     "class": "ionicons ion-battery-charging"
   },
   {
     "_tags": ["ionicons"],
     "name": "battery-empty",
-    "tags": "",
+    "tags": "power",
     "class": "ionicons ion-battery-empty"
   },
   {
     "_tags": ["ionicons"],
     "name": "battery-full",
-    "tags": "",
+    "tags": "power",
     "class": "ionicons ion-battery-full"
   },
   {
     "_tags": ["ionicons"],
     "name": "battery-half",
-    "tags": "",
+    "tags": "power",
     "class": "ionicons ion-battery-half"
   },
   {
     "_tags": ["ionicons"],
     "name": "battery-low",
-    "tags": "",
+    "tags": "power",
     "class": "ionicons ion-battery-low"
   },
   {
     "_tags": ["ionicons"],
     "name": "beaker",
-    "tags": "flask, science",
+    "tags": "flask, science, chemistry",
     "class": "ionicons ion-beaker"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "beer",
+    "tags": "alcohol, drink, mug",
+    "class": "ionicons ion-beer"
   },
   {
     "_tags": ["ionicons"],
@@ -4857,6 +5649,12 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "bowtie",
+    "tags": "",
+    "class": "ionicons ion-bowtie"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "briefcase",
     "tags": "suitcase, business",
     "class": "ionicons ion-briefcase"
@@ -4864,7 +5662,7 @@
   {
     "_tags": ["ionicons"],
     "name": "bug",
-    "tags": "",
+    "tags": "beetle, insect",
     "class": "ionicons ion-bug"
   },
   {
@@ -4996,20 +5794,26 @@
   {
     "_tags": ["ionicons"],
     "name": "close",
-    "tags": "",
+    "tags": "times",
     "class": "ionicons ion-close"
   },
   {
     "_tags": ["ionicons"],
     "name": "close-circled",
-    "tags": "",
+    "tags": "times",
     "class": "ionicons ion-close-circled"
   },
   {
     "_tags": ["ionicons"],
     "name": "close-round",
-    "tags": "",
+    "tags": "times",
     "class": "ionicons ion-close-round"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "closed-captioning",
+    "tags": "cc",
+    "class": "ionicons ion-closed-captioning"
   },
   {
     "_tags": ["ionicons"],
@@ -5020,19 +5824,19 @@
   {
     "_tags": ["ionicons"],
     "name": "code",
-    "tags": "",
+    "tags": "brackets, source",
     "class": "ionicons ion-code"
   },
   {
     "_tags": ["ionicons"],
     "name": "code-download",
-    "tags": "",
+    "tags": "brackets, source",
     "class": "ionicons ion-code-download"
   },
   {
     "_tags": ["ionicons"],
     "name": "code-working",
-    "tags": "",
+    "tags": "brackets, source",
     "class": "ionicons ion-code-working"
   },
   {
@@ -5050,13 +5854,13 @@
   {
     "_tags": ["ionicons"],
     "name": "compose",
-    "tags": "email",
+    "tags": "email, write",
     "class": "ionicons ion-compose"
   },
   {
     "_tags": ["ionicons"],
     "name": "connection-bars",
-    "tags": "graph",
+    "tags": "graph, signal",
     "class": "ionicons ion-connection-bars"
   },
   {
@@ -5067,6 +5871,12 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "crop",
+    "tags": "",
+    "class": "ionicons ion-crop"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "cube",
     "tags": "box",
     "class": "ionicons ion-cube"
@@ -5074,7 +5884,7 @@
   {
     "_tags": ["ionicons"],
     "name": "disc",
-    "tags": "cd",
+    "tags": "cd, vinyl",
     "class": "ionicons ion-disc"
   },
   {
@@ -5092,7 +5902,7 @@
   {
     "_tags": ["ionicons"],
     "name": "drag",
-    "tags": "",
+    "tags": "bars, hamburger menu, more, reorder",
     "class": "ionicons ion-drag"
   },
   {
@@ -5103,8 +5913,14 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "easel",
+    "tags": "art, presentation",
+    "class": "ionicons ion-easel"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "edit",
-    "tags": "",
+    "tags": "pencil, write",
     "class": "ionicons ion-edit"
   },
   {
@@ -5122,31 +5938,55 @@
   {
     "_tags": ["ionicons"],
     "name": "email",
-    "tags": "",
+    "tags": "envelope",
     "class": "ionicons ion-email"
   },
   {
     "_tags": ["ionicons"],
+    "name": "email-unread",
+    "tags": "envelope",
+    "class": "ionicons ion-email-unread"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "erlenmeyer-flask",
+    "tags": "beaker, chemistry, science",
+    "class": "ionicons ion-erlenmeyer-flask"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "erlenmeyer-flask-bubbles",
+    "tags": "beaker, chemistry, science",
+    "class": "ionicons ion-erlenmeyer-flask-bubbles"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "eye",
-    "tags": "",
+    "tags": "show, view",
     "class": "ionicons ion-eye"
   },
   {
     "_tags": ["ionicons"],
+    "name": "eye-disabled",
+    "tags": "hide, view",
+    "class": "ionicons ion-eye-disabled"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "female",
-    "tags": "gender, sex",
+    "tags": "gender, sex, venus",
     "class": "ionicons ion-female"
   },
   {
     "_tags": ["ionicons"],
     "name": "filing",
-    "tags": "",
+    "tags": "archive",
     "class": "ionicons ion-filing"
   },
   {
     "_tags": ["ionicons"],
     "name": "film-marker",
-    "tags": "",
+    "tags": "movie",
     "class": "ionicons ion-film-marker"
   },
   {
@@ -5181,12 +6021,6 @@
   },
   {
     "_tags": ["ionicons"],
-    "name": "flask",
-    "tags": "beaker, science",
-    "class": "ionicons ion-flask"
-  },
-  {
-    "_tags": ["ionicons"],
     "name": "folder",
     "tags": "",
     "class": "ionicons ion-folder"
@@ -5194,7 +6028,7 @@
   {
     "_tags": ["ionicons"],
     "name": "fork",
-    "tags": "cutlery, food",
+    "tags": "cutlery, food, dining",
     "class": "ionicons ion-fork"
   },
   {
@@ -5206,7 +6040,7 @@
   {
     "_tags": ["ionicons"],
     "name": "forward",
-    "tags": "email",
+    "tags": "arrow, email",
     "class": "ionicons ion-forward"
   },
   {
@@ -5214,18 +6048,6 @@
     "name": "funnel",
     "tags": "filter",
     "class": "ionicons ion-funnel"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "game-controller-a",
-    "tags": "",
-    "class": "ionicons ion-game-controller-a"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "game-controller-b",
-    "tags": "",
-    "class": "ionicons ion-game-controller-b"
   },
   {
     "_tags": ["ionicons"],
@@ -5253,15 +6075,15 @@
   },
   {
     "_tags": ["ionicons"],
-    "name": "headphone",
-    "tags": "audio, music",
-    "class": "ionicons ion-headphone"
+    "name": "happy",
+    "tags": "smiley face",
+    "class": "ionicons ion-happy"
   },
   {
     "_tags": ["ionicons"],
-    "name": "happy",
-    "tags": "smile, face",
-    "class": "ionicons ion-happy"
+    "name": "headphone",
+    "tags": "audio, music",
+    "class": "ionicons ion-headphone"
   },
   {
     "_tags": ["ionicons"],
@@ -5278,7 +6100,7 @@
   {
     "_tags": ["ionicons"],
     "name": "help",
-    "tags": "",
+    "tags": "question mark",
     "class": "ionicons ion-help"
   },
   {
@@ -5296,7 +6118,7 @@
   {
     "_tags": ["ionicons"],
     "name": "home",
-    "tags": "",
+    "tags": "house",
     "class": "ionicons ion-home"
   },
   {
@@ -5332,8 +6154,1616 @@
   {
     "_tags": ["ionicons"],
     "name": "ionic",
-    "tags": "brand, science, chemistry",
+    "tags": "atom, brand, chemistry, science",
     "class": "ionicons ion-ionic"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-alarm",
+    "tags": "clock, reminder, timer",
+    "class": "ionicons ion-ios-alarm"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-alarm-outline",
+    "tags": "clock, reminder, timer",
+    "class": "ionicons ion-ios-alarm-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-albums",
+    "tags": "archive",
+    "class": "ionicons ion-ios-albums"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-albums-outline",
+    "tags": "archive",
+    "class": "ionicons ion-ios-albums-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-americanfootball",
+    "tags": "sports",
+    "class": "ionicons ion-ios-americanfootball"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-americanfootball-outline",
+    "tags": "sports",
+    "class": "ionicons ion-ios-americanfootball-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-analytics",
+    "tags": "signal",
+    "class": "ionicons ion-ios-analytics"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-analytics-outline",
+    "tags": "signal",
+    "class": "ionicons ion-ios-analytics-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-arrow-back",
+    "tags": "directional",
+    "class": "ionicons ion-ios-arrow-back"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-arrow-down",
+    "tags": "chevron, directional",
+    "class": "ionicons ion-ios-arrow-down"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-arrow-forward",
+    "tags": "chevron, directional",
+    "class": "ionicons ion-ios-arrow-forward"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-arrow-left",
+    "tags": "chevron, directional",
+    "class": "ionicons ion-ios-arrow-left"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-arrow-right",
+    "tags": "chevron, directional",
+    "class": "ionicons ion-ios-arrow-right"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-arrow-thin-down",
+    "tags": "directional",
+    "class": "ionicons ion-ios-arrow-thin-down"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-arrow-thin-left",
+    "tags": "directional",
+    "class": "ionicons ion-ios-arrow-thin-left"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-arrow-thin-right",
+    "tags": "directional",
+    "class": "ionicons ion-ios-arrow-thin-right"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-arrow-thin-up",
+    "tags": "directional",
+    "class": "ionicons ion-ios-arrow-thin-up"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-arrow-up",
+    "tags": "chevron, directional",
+    "class": "ionicons ion-ios-arrow-up"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-at",
+    "tags": "email",
+    "class": "ionicons ion-ios-at"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-at-outline",
+    "tags": "email",
+    "class": "ionicons ion-ios-at-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-barcode",
+    "tags": "",
+    "class": "ionicons ion-ios-barcode"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-barcode-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-barcode-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-baseball",
+    "tags": "sports",
+    "class": "ionicons ion-ios-baseball"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-baseball-outline",
+    "tags": "sports",
+    "class": "ionicons ion-ios-baseball-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-basketball",
+    "tags": "sports",
+    "class": "ionicons ion-ios-basketball"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-basketball-outline",
+    "tags": "sports",
+    "class": "ionicons ion-ios-basketball-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-bell",
+    "tags": "audio, sound",
+    "class": "ionicons ion-ios-bell"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-bell-outline",
+    "tags": "audio, sound",
+    "class": "ionicons ion-ios-bell-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-body",
+    "tags": "person",
+    "class": "ionicons ion-ios-body"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-body-outline",
+    "tags": "person",
+    "class": "ionicons ion-ios-body-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-bolt",
+    "tags": "lightning bolt, flash",
+    "class": "ionicons ion-ios-bolt"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-bolt-outline",
+    "tags": "lightning bolt, flash",
+    "class": "ionicons ion-ios-bolt-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-book",
+    "tags": "read",
+    "class": "ionicons ion-ios-book"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-book-outline",
+    "tags": "read",
+    "class": "ionicons ion-ios-book-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-bookmarks",
+    "tags": "",
+    "class": "ionicons ion-ios-bookmarks"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-bookmarks-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-bookmarks-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-box",
+    "tags": "archive",
+    "class": "ionicons ion-ios-box"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-box-outline",
+    "tags": "archive",
+    "class": "ionicons ion-ios-box-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-briefcase",
+    "tags": "suitcase, business",
+    "class": "ionicons ion-ios-briefcase"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-briefcase-outline",
+    "tags": "suitcase, business",
+    "class": "ionicons ion-ios-briefcase-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-browsers",
+    "tags": "boxes",
+    "class": "ionicons ion-ios-browsers"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-browsers-outline",
+    "tags": "boxes",
+    "class": "ionicons ion-ios-browsers-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-calculator",
+    "tags": "",
+    "class": "ionicons ion-ios-calculator"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-calculator-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-calculator-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-calendar",
+    "tags": "date",
+    "class": "ionicons ion-ios-calendar"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-calendar-outline",
+    "tags": "date",
+    "class": "ionicons ion-ios-calendar-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-camera",
+    "tags": "photographs",
+    "class": "ionicons ion-ios-camera"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-camera-outline",
+    "tags": "photographs",
+    "class": "ionicons ion-ios-camera-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-cart",
+    "tags": "shopping",
+    "class": "ionicons ion-ios-cart"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-cart-outline",
+    "tags": "shopping",
+    "class": "ionicons ion-ios-cart-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-chatboxes",
+    "tags": "speech bubble",
+    "class": "ionicons ion-ios-chatboxes"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-chatboxes-outline",
+    "tags": "speech bubble",
+    "class": "ionicons ion-ios-chatboxes-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-chatbubble",
+    "tags": "speech bubble",
+    "class": "ionicons ion-ios-chatbubble"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-chatbubble-outline",
+    "tags": "speech bubble",
+    "class": "ionicons ion-ios-chatbubble-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-checkmark",
+    "tags": "",
+    "class": "ionicons ion-ios-checkmark"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-checkmark-empty",
+    "tags": "",
+    "class": "ionicons ion-ios-checkmark-empty"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-checkmark-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-checkmark-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-circle-filled",
+    "tags": "",
+    "class": "ionicons ion-ios-circle-filled"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-circle-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-circle-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-clock",
+    "tags": "timer",
+    "class": "ionicons ion-ios-clock"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-clock-outline",
+    "tags": "timer",
+    "class": "ionicons ion-ios-clock-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-close",
+    "tags": "times, remove",
+    "class": "ionicons ion-ios-close"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-close-empty",
+    "tags": "times, remove",
+    "class": "ionicons ion-ios-close-empty"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-close-outline",
+    "tags": "times, remove",
+    "class": "ionicons ion-ios-close-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-cloud",
+    "tags": "weather",
+    "class": "ionicons ion-ios-cloud"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-cloud-download",
+    "tags": "",
+    "class": "ionicons ion-ios-cloud-download"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-cloud-download-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-cloud-download-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-cloud-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-cloud-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-cloud-upload",
+    "tags": "",
+    "class": "ionicons ion-ios-cloud-upload"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-cloud-upload-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-cloud-upload-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-cloudy",
+    "tags": "weather",
+    "class": "ionicons ion-ios-cloudy"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-cloudy-night",
+    "tags": "moon, weather",
+    "class": "ionicons ion-ios-cloudy-night"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-cloudy-night-outline",
+    "tags": "moon, weather",
+    "class": "ionicons ion-ios-cloudy-night-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-cloudy-outline",
+    "tags": "weather",
+    "class": "ionicons ion-ios-cloudy-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-cog",
+    "tags": "gear, settings",
+    "class": "ionicons ion-ios-cog"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-cog-outline",
+    "tags": "gears, settings",
+    "class": "ionicons ion-ios-cog-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-color-filter",
+    "tags": "circles, venn diagram",
+    "class": "ionicons ion-ios-color-filter"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-color-filter-outline",
+    "tags": "circles, rings, venn diagram",
+    "class": "ionicons ion-ios-color-filter-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-color-wand",
+    "tags": "magic",
+    "class": "ionicons ion-ios-color-wand"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-color-wand-outline",
+    "tags": "magic",
+    "class": "ionicons ion-ios-color-wand-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-compose",
+    "tags": "email, pencil, write",
+    "class": "ionicons ion-ios-compose"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-compose-outline",
+    "tags": "email, pencil, write",
+    "class": "ionicons ion-ios-compose-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-contact",
+    "tags": "head, user",
+    "class": "ionicons ion-ios-contact"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-contact-outline",
+    "tags": "head, user",
+    "class": "ionicons ion-ios-contact-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-copy",
+    "tags": "clipboard, documents, files",
+    "class": "ionicons ion-ios-copy"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-copy-outline",
+    "tags": "clipboard, documents, files",
+    "class": "ionicons ion-ios-copy-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-crop",
+    "tags": "",
+    "class": "ionicons ion-ios-crop"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-crop-strong",
+    "tags": "",
+    "class": "ionicons ion-ios-crop-strong"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-download",
+    "tags": "arrow",
+    "class": "ionicons ion-ios-download"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-download-outline",
+    "tags": "arrow",
+    "class": "ionicons ion-ios-download-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-drag",
+    "tags": "bars, hamburger menu, more, reorder",
+    "class": "ionicons ion-ios-drag"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-email",
+    "tags": "envelope",
+    "class": "ionicons ion-ios-email"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-email-outline",
+    "tags": "envelope",
+    "class": "ionicons ion-ios-email-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-eye",
+    "tags": "show, view",
+    "class": "ionicons ion-ios-eye"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-eye-outline",
+    "tags": "show, view",
+    "class": "ionicons ion-ios-eye-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-fastforward",
+    "tags": "video player",
+    "class": "ionicons ion-ios-fastforward"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-fastforward-outline",
+    "tags": "video player",
+    "class": "ionicons ion-ios-fastforward-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-filing",
+    "tags": "",
+    "class": "ionicons ion-ios-filing"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-film",
+    "tags": "movies",
+    "class": "ionicons ion-ios-film"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-film-outline",
+    "tags": "movies",
+    "class": "ionicons ion-ios-film-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-flag",
+    "tags": "",
+    "class": "ionicons ion-ios-flag"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-flag-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-flag-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-flame",
+    "tags": "fire",
+    "class": "ionicons ion-ios-flame"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-flame-outline",
+    "tags": "fire",
+    "class": "ionicons ion-ios-flame-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-flask",
+    "tags": "beaker, chemistry, science",
+    "class": "ionicons ion-ios-flask"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-flask-outline",
+    "tags": "beaker, chemistry, science",
+    "class": "ionicons ion-ios-flask-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-flower",
+    "tags": "",
+    "class": "ionicons ion-ios-flower"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-flower-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-flower-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-folder",
+    "tags": "",
+    "class": "ionicons ion-ios-folder"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-folder-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-folder-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-football",
+    "tags": "sports, soccer",
+    "class": "ionicons ion-ios-football"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-football-outline",
+    "tags": "sports, soccer",
+    "class": "ionicons ion-ios-football-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-game-controller-a",
+    "tags": "",
+    "class": "ionicons ion-ios-game-controller-a"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-game-controller-a-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-game-controller-a-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-game-controller-b",
+    "tags": "",
+    "class": "ionicons ion-ios-game-controller-b"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-game-controller-b-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-game-controller-b-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-gear",
+    "tags": "cog, settings",
+    "class": "ionicons ion-ios-gear"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-gear-outline",
+    "tags": "cogs, settings",
+    "class": "ionicons ion-ios-gear-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-glasses",
+    "tags": "sunglasses",
+    "class": "ionicons ion-ios-glasses"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-glasses-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-glasses-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-grid-view",
+    "tags": "tic tac toe",
+    "class": "ionicons ion-ios-grid-view"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-grid-view-outline",
+    "tags": "tic tac toe",
+    "class": "ionicons ion-ios-grid-view-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-heart",
+    "tags": "favorite, like, rate, ratings",
+    "class": "ionicons ion-ios-heart"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-heart-outline",
+    "tags": "favorite, like, rate, ratings",
+    "class": "ionicons ion-ios-heart-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-help",
+    "tags": "question mark",
+    "class": "ionicons ion-ios-help"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-help-empty",
+    "tags": "question mark",
+    "class": "ionicons ion-ios-help-empty"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-help-outline",
+    "tags": "question mark",
+    "class": "ionicons ion-ios-help-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-home-outline",
+    "tags": "house",
+    "class": "ionicons ion-ios-home-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-home",
+    "tags": "house",
+    "class": "ionicons ion-ios-home"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-infinite",
+    "tags": "infinity, math symbol",
+    "class": "ionicons ion-ios-infinite"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-infinite-outline",
+    "tags": "infinity, math symbol",
+    "class": "ionicons ion-ios-infinite-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-information",
+    "tags": "",
+    "class": "ionicons ion-ios-information"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-information-empty",
+    "tags": "",
+    "class": "ionicons ion-ios-information-empty"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-information-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-information-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-ionic-outline",
+    "tags": "atom, brand, science, chemistry",
+    "class": "ionicons ion-ios-ionic-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-keypad",
+    "tags": "grid",
+    "class": "ionicons ion-ios-keypad"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-keypad-outline",
+    "tags": "grid",
+    "class": "ionicons ion-ios-keypad-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-lightbulb",
+    "tags": "",
+    "class": "ionicons ion-ios-lightbulb"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-lightbulb-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-lightbulb-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-list",
+    "tags": "",
+    "class": "ionicons ion-ios-list"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-list-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-list-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-location",
+    "tags": "map, marker",
+    "class": "ionicons ion-ios-location"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-location-outline",
+    "tags": "map, marker",
+    "class": "ionicons ion-ios-location-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-locked",
+    "tags": "",
+    "class": "ionicons ion-ios-locked"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-locked-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-locked-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-loop",
+    "tags": "refresh, reload",
+    "class": "ionicons ion-ios-loop"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-loop-strong",
+    "tags": "refresh, reload",
+    "class": "ionicons ion-ios-loop-strong"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-medical",
+    "tags": "asterisk",
+    "class": "ionicons ion-ios-medical"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-medical-outline",
+    "tags": "asterisk",
+    "class": "ionicons ion-ios-medical-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-medkit",
+    "tags": "medical, health, hospital",
+    "class": "ionicons ion-ios-medkit"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-medkit-outline",
+    "tags": "medical, health, hospital",
+    "class": "ionicons ion-ios-medkit-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-mic",
+    "tags": "audio, sound",
+    "class": "ionicons ion-ios-mic"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-mic-off",
+    "tags": "audio, sound, mute",
+    "class": "ionicons ion-ios-mic-off"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-mic-outline",
+    "tags": "audio, sound",
+    "class": "ionicons ion-ios-mic-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-minus",
+    "tags": "",
+    "class": "ionicons ion-ios-minus"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-minus-empty",
+    "tags": "",
+    "class": "ionicons ion-ios-minus-empty"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-minus-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-minus-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-monitor",
+    "tags": "computer, display",
+    "class": "ionicons ion-ios-monitor"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-monitor-outline",
+    "tags": "computer, display",
+    "class": "ionicons ion-ios-monitor-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-moon",
+    "tags": "crescent, night",
+    "class": "ionicons ion-ios-moon"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-moon-outline",
+    "tags": "crescent, night",
+    "class": "ionicons ion-ios-moon-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-more",
+    "tags": "dots, menu",
+    "class": "ionicons ion-ios-more"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-more-outline",
+    "tags": "dots, menu",
+    "class": "ionicons ion-ios-more-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-musical-note",
+    "tags": "song",
+    "class": "ionicons ion-ios-musical-note"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-musical-notes",
+    "tags": "song",
+    "class": "ionicons ion-ios-musical-notes"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-navigate",
+    "tags": "map, location, marker",
+    "class": "ionicons ion-ios-navigate"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-navigate-outline",
+    "tags": "map, location, marker",
+    "class": "ionicons ion-ios-navigate-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-nutrition",
+    "tags": "food, carrot",
+    "class": "ionicons ion-ios-nutrition"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-nutrition-outline",
+    "tags": "food, carrot",
+    "class": "ionicons ion-ios-nutrition-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-paper",
+    "tags": "newspaper",
+    "class": "ionicons ion-ios-paper"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-paper-outline",
+    "tags": "newspaper",
+    "class": "ionicons ion-ios-paper-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-paperplane",
+    "tags": "airplane",
+    "class": "ionicons ion-ios-paperplane"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-paperplane-outline",
+    "tags": "airplane",
+    "class": "ionicons ion-ios-paperplane-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-partlysunny",
+    "tags": "weather",
+    "class": "ionicons ion-ios-partlysunny"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-partlysunny-outline",
+    "tags": "weather",
+    "class": "ionicons ion-ios-partlysunny-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-pause",
+    "tags": "video player",
+    "class": "ionicons ion-ios-pause"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-pause-outline",
+    "tags": "video player",
+    "class": "ionicons ion-ios-pause-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-paw",
+    "tags": "animal, pet",
+    "class": "ionicons ion-ios-paw"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-paw-outline",
+    "tags": "animal, pet",
+    "class": "ionicons ion-ios-paw-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-people",
+    "tags": "users",
+    "class": "ionicons ion-ios-people"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-people-outline",
+    "tags": "users",
+    "class": "ionicons ion-ios-people-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-person",
+    "tags": "user, head, profile",
+    "class": "ionicons ion-ios-person"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-person-outline",
+    "tags": "user, head, profile",
+    "class": "ionicons ion-ios-person-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-personadd",
+    "tags": "user, head, profile",
+    "class": "ionicons ion-ios-personadd"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-personadd-outline",
+    "tags": "user, head, profile",
+    "class": "ionicons ion-ios-personadd-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-photos",
+    "tags": "boxes, squares",
+    "class": "ionicons ion-ios-photos"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-photos-outline",
+    "tags": "boxes, squares",
+    "class": "ionicons ion-ios-photos-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-pie",
+    "tags": "chart, graph",
+    "class": "ionicons ion-ios-pie"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-pie-outline",
+    "tags": "chart, graph",
+    "class": "ionicons ion-ios-pie-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-pint",
+    "tags": "beer, drink, glass, alcohol",
+    "class": "ionicons ion-ios-pint"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-pint-outline",
+    "tags": "beer, drink, glass, alcohol",
+    "class": "ionicons ion-ios-pint-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-play",
+    "tags": "video player, triangle",
+    "class": "ionicons ion-ios-play"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-play-outline",
+    "tags": "video player, triangle",
+    "class": "ionicons ion-ios-play-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-plus",
+    "tags": "add",
+    "class": "ionicons ion-ios-plus"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-plus-empty",
+    "tags": "add",
+    "class": "ionicons ion-ios-plus-empty"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-plus-outline",
+    "tags": "add",
+    "class": "ionicons ion-ios-plus-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-pricetag",
+    "tags": "shopping",
+    "class": "ionicons ion-ios-pricetag"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-pricetag-outline",
+    "tags": "shopping",
+    "class": "ionicons ion-ios-pricetag-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-pricetags",
+    "tags": "shopping",
+    "class": "ionicons ion-ios-pricetags"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-pricetags-outline",
+    "tags": "shopping",
+    "class": "ionicons ion-ios-pricetags-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-printer",
+    "tags": "computer",
+    "class": "ionicons ion-ios-printer"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-printer-outline",
+    "tags": "computer",
+    "class": "ionicons ion-ios-printer-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-pulse",
+    "tags": "signal",
+    "class": "ionicons ion-ios-pulse"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-pulse-strong",
+    "tags": "signal",
+    "class": "ionicons ion-ios-pulse-strong"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-rainy",
+    "tags": "weather, cloud",
+    "class": "ionicons ion-ios-rainy"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-rainy-outline",
+    "tags": "weather, cloud",
+    "class": "ionicons ion-ios-rainy-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-recording",
+    "tags": "video player, tape, reels",
+    "class": "ionicons ion-ios-recording"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-recording-outline",
+    "tags": "video player, tape, reels",
+    "class": "ionicons ion-ios-recording-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-redo",
+    "tags": "text editor, arrow",
+    "class": "ionicons ion-ios-redo"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-redo-outline",
+    "tags": "text editor, arrow",
+    "class": "ionicons ion-ios-redo-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-refresh",
+    "tags": "reload",
+    "class": "ionicons ion-ios-refresh"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-refresh-empty",
+    "tags": "reload",
+    "class": "ionicons ion-ios-refresh-empty"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-refresh-outline",
+    "tags": "reload",
+    "class": "ionicons ion-ios-refresh-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-reload",
+    "tags": "refresh",
+    "class": "ionicons ion-ios-reload"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-reverse-camera",
+    "tags": "",
+    "class": "ionicons ion-ios-reverse-camera"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-reverse-camera-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-reverse-camera-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-rewind",
+    "tags": "video player",
+    "class": "ionicons ion-ios-rewind"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-rewind-outline",
+    "tags": "video player",
+    "class": "ionicons ion-ios-rewind-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-rose",
+    "tags": "flower",
+    "class": "ionicons ion-ios-rose"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-rose-outline",
+    "tags": "flower",
+    "class": "ionicons ion-ios-rose-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-search",
+    "tags": "magnifying glass",
+    "class": "ionicons ion-ios-search"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-search-strong",
+    "tags": "magnifying glass",
+    "class": "ionicons ion-ios-search-strong"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-settings",
+    "tags": "equalizer, levels",
+    "class": "ionicons ion-ios-settings"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-settings-strong",
+    "tags": "equalizer, levels",
+    "class": "ionicons ion-ios-settings-strong"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-shuffle",
+    "tags": "random",
+    "class": "ionicons ion-ios-shuffle"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-shuffle-strong",
+    "tags": "random",
+    "class": "ionicons ion-ios-shuffle-strong"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-skipbackward",
+    "tags": "video player",
+    "class": "ionicons ion-ios-skipbackward"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-skipbackward-outline",
+    "tags": "video player",
+    "class": "ionicons ion-ios-skipbackward-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-skipforward",
+    "tags": "video player",
+    "class": "ionicons ion-ios-skipforward"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-skipforward-outline",
+    "tags": "video player",
+    "class": "ionicons ion-ios-skipforward-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-snowy",
+    "tags": "weather, snowflake, winter",
+    "class": "ionicons ion-ios-snowy"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-speedometer",
+    "tags": "dashboard, tachometer",
+    "class": "ionicons ion-ios-speedometer"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-speedometer-outline",
+    "tags": "dashboard, tachometer",
+    "class": "ionicons ion-ios-speedometer-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-star",
+    "tags": "like, favorite, rate, ratings",
+    "class": "ionicons ion-ios-star"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-star-half",
+    "tags": "rate, ratings",
+    "class": "ionicons ion-ios-star-half"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-star-outline",
+    "tags": "like, favorite, rate, ratings",
+    "class": "ionicons ion-ios-star-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-stopwatch",
+    "tags": "timer, clock",
+    "class": "ionicons ion-ios-stopwatch"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-stopwatch-outline",
+    "tags": "timer, clock",
+    "class": "ionicons ion-ios-stopwatch-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-sunny",
+    "tags": "weather",
+    "class": "ionicons ion-ios-sunny"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-sunny-outline",
+    "tags": "weather",
+    "class": "ionicons ion-ios-sunny-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-telephone",
+    "tags": "",
+    "class": "ionicons ion-ios-telephone"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-telephone-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-telephone-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-tennisball",
+    "tags": "sports",
+    "class": "ionicons ion-ios-tennisball"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-tennisball-outline",
+    "tags": "sports",
+    "class": "ionicons ion-ios-tennisball-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-thunderstorm",
+    "tags": "weather, cloud, lightning",
+    "class": "ionicons ion-ios-thunderstorm"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-thunderstorm-outline",
+    "tags": "weather, cloud, lightning",
+    "class": "ionicons ion-ios-thunderstorm-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-time",
+    "tags": "clock",
+    "class": "ionicons ion-ios-time"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-time-outline",
+    "tags": "clock",
+    "class": "ionicons ion-ios-time-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-timer",
+    "tags": "clock",
+    "class": "ionicons ion-ios-timer"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-timer-outline",
+    "tags": "clock",
+    "class": "ionicons ion-ios-timer-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-toggle",
+    "tags": "settings",
+    "class": "ionicons ion-ios-toggle"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-toggle-outline",
+    "tags": "settings",
+    "class": "ionicons ion-ios-toggle-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-trash",
+    "tags": "delete",
+    "class": "ionicons ion-ios-trash"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-trash-outline",
+    "tags": "delete",
+    "class": "ionicons ion-ios-trash-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-undo",
+    "tags": "text editor, arrow",
+    "class": "ionicons ion-ios-undo"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-undo-outline",
+    "tags": "text editor, arrow",
+    "class": "ionicons ion-ios-undo-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-unlocked",
+    "tags": "",
+    "class": "ionicons ion-ios-unlocked"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-unlocked-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-unlocked-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-upload",
+    "tags": "",
+    "class": "ionicons ion-ios-upload"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-upload-outline",
+    "tags": "",
+    "class": "ionicons ion-ios-upload-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-videocam",
+    "tags": "camera",
+    "class": "ionicons ion-ios-videocam"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-videocam-outline",
+    "tags": "camera",
+    "class": "ionicons ion-ios-videocam-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-volume-high",
+    "tags": "audio, sound",
+    "class": "ionicons ion-ios-volume-high"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-volume-low",
+    "tags": "audio, sound",
+    "class": "ionicons ion-ios-volume-low"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-wineglass",
+    "tags": "drink, glass, alcohol",
+    "class": "ionicons ion-ios-wineglass"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-wineglass-outline",
+    "tags": "drink, glass, alcohol",
+    "class": "ionicons ion-ios-wineglass-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-world",
+    "tags": "globe, earth, planet",
+    "class": "ionicons ion-ios-world"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "ios-world-outline",
+    "tags": "globe, earth, planet",
+    "class": "ionicons ion-ios-world-outline"
   },
   {
     "_tags": ["ionicons"],
@@ -5362,13 +7792,13 @@
   {
     "_tags": ["ionicons"],
     "name": "key",
-    "tags": "",
+    "tags": "secure",
     "class": "ionicons ion-key"
   },
   {
     "_tags": ["ionicons"],
     "name": "knife",
-    "tags": "cutlery, food",
+    "tags": "cutlery, dining, food",
     "class": "ionicons ion-knife"
   },
   {
@@ -5380,13 +7810,13 @@
   {
     "_tags": ["ionicons"],
     "name": "leaf",
-    "tags": "plant",
+    "tags": "plant, nature",
     "class": "ionicons ion-leaf"
   },
   {
     "_tags": ["ionicons"],
     "name": "levels",
-    "tags": "audio, settings",
+    "tags": "audio, settings, equalizer",
     "class": "ionicons ion-levels"
   },
   {
@@ -5428,8 +7858,14 @@
   {
     "_tags": ["ionicons"],
     "name": "location",
-    "tags": "map",
+    "tags": "map, marker",
     "class": "ionicons ion-location"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "lock-combination",
+    "tags": "",
+    "class": "ionicons ion-lock-combination"
   },
   {
     "_tags": ["ionicons"],
@@ -5452,7 +7888,7 @@
   {
     "_tags": ["ionicons"],
     "name": "loop",
-    "tags": "",
+    "tags": "refresh, reload",
     "class": "ionicons ion-loop"
   },
   {
@@ -5464,7 +7900,7 @@
   {
     "_tags": ["ionicons"],
     "name": "male",
-    "tags": "gender, sex",
+    "tags": "gender, sex, mars",
     "class": "ionicons ion-male"
   },
   {
@@ -5482,7 +7918,7 @@
   {
     "_tags": ["ionicons"],
     "name": "medkit",
-    "tags": "medical",
+    "tags": "medical, health, hospital",
     "class": "ionicons ion-medkit"
   },
   {
@@ -5512,31 +7948,31 @@
   {
     "_tags": ["ionicons"],
     "name": "minus",
-    "tags": "",
+    "tags": "bar, remove",
     "class": "ionicons ion-minus"
   },
   {
     "_tags": ["ionicons"],
     "name": "minus-circled",
-    "tags": "",
+    "tags": "bar, remove",
     "class": "ionicons ion-minus-circled"
   },
   {
     "_tags": ["ionicons"],
     "name": "minus-round",
-    "tags": "",
+    "tags": "bar, remove",
     "class": "ionicons ion-minus-round"
   },
   {
     "_tags": ["ionicons"],
     "name": "model-s",
-    "tags": "",
+    "tags": "automobile, car, tesla",
     "class": "ionicons ion-model-s"
   },
   {
     "_tags": ["ionicons"],
     "name": "monitor",
-    "tags": "computer",
+    "tags": "computer, display",
     "class": "ionicons ion-monitor"
   },
   {
@@ -5554,25 +7990,25 @@
   {
     "_tags": ["ionicons"],
     "name": "music-note",
-    "tags": "",
+    "tags": "song",
     "class": "ionicons ion-music-note"
   },
   {
     "_tags": ["ionicons"],
     "name": "navicon",
-    "tags": "",
+    "tags": "hamburger menu, more, bars",
     "class": "ionicons ion-navicon"
   },
   {
     "_tags": ["ionicons"],
     "name": "navicon-round",
-    "tags": "",
+    "tags": "hamburger menu, more, bars",
     "class": "ionicons ion-navicon-round"
   },
   {
     "_tags": ["ionicons"],
     "name": "navigate",
-    "tags": "",
+    "tags": "marker, arrow",
     "class": "ionicons ion-navigate"
   },
   {
@@ -5601,6 +8037,18 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "paintbrush",
+    "tags": "art",
+    "class": "ionicons ion-paintbrush"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "paintbucket",
+    "tags": "fill, pour",
+    "class": "ionicons ion-paintbucket"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "paper-airplane",
     "tags": "",
     "class": "ionicons ion-paper-airplane"
@@ -5620,13 +8068,13 @@
   {
     "_tags": ["ionicons"],
     "name": "person",
-    "tags": "user",
+    "tags": "user, head",
     "class": "ionicons ion-person"
   },
   {
     "_tags": ["ionicons"],
     "name": "person-add",
-    "tags": "user",
+    "tags": "user, head",
     "class": "ionicons ion-person-add"
   },
   {
@@ -5638,7 +8086,7 @@
   {
     "_tags": ["ionicons"],
     "name": "pie-graph",
-    "tags": "",
+    "tags": "chart",
     "class": "ionicons ion-pie-graph"
   },
   {
@@ -5679,6 +8127,12 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "playstation",
+    "tags": "brand, sony, video games",
+    "class": "ionicons ion-playstation"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "plus",
     "tags": "add",
     "class": "ionicons ion-plus"
@@ -5686,19 +8140,19 @@
   {
     "_tags": ["ionicons"],
     "name": "plus-circled",
-    "tags": "",
+    "tags": "add",
     "class": "ionicons ion-plus-circled"
   },
   {
     "_tags": ["ionicons"],
     "name": "plus-round",
-    "tags": "",
+    "tags": "add",
     "class": "ionicons ion-plus-round"
   },
   {
     "_tags": ["ionicons"],
     "name": "podium",
-    "tags": "",
+    "tags": "bars",
     "class": "ionicons ion-podium"
   },
   {
@@ -5752,7 +8206,7 @@
   {
     "_tags": ["ionicons"],
     "name": "radio-waves",
-    "tags": "sound, audio, broadcast",
+    "tags": "sound, broadcast, signal",
     "class": "ionicons ion-radio-waves"
   },
   {
@@ -5796,6 +8250,12 @@
     "name": "sad",
     "tags": "face, frown",
     "class": "ionicons ion-sad"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "sad-outline",
+    "tags": "face, frown",
+    "class": "ionicons ion-sad-outline"
   },
   {
     "_tags": ["ionicons"],
@@ -5853,6 +8313,18 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "social-angular",
+    "tags": "brand",
+    "class": "ionicons ion-social-angular"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-angular-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-angular-outline"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "social-apple",
     "tags": "brand",
     "class": "ionicons ion-social-apple"
@@ -5866,13 +8338,13 @@
   {
     "_tags": ["ionicons"],
     "name": "social-bitcoin",
-    "tags": "currency, money, brand",
+    "tags": "currency, money",
     "class": "ionicons ion-social-bitcoin"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-bitcoin-outline",
-    "tags": "currency, money, brand",
+    "tags": "currency, money",
     "class": "ionicons ion-social-bitcoin-outline"
   },
   {
@@ -5886,6 +8358,42 @@
     "name": "social-buffer-outline",
     "tags": "brand",
     "class": "ionicons ion-social-buffer-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-chrome",
+    "tags": "brand",
+    "class": "ionicons ion-social-chrome"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-chrome-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-chrome-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-codepen",
+    "tags": "brand",
+    "class": "ionicons ion-social-codepen"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-codepen-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-codepen-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-css3",
+    "tags": "brand",
+    "class": "ionicons ion-social-css3"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-css3-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-css3-outline"
   },
   {
     "_tags": ["ionicons"],
@@ -5922,6 +8430,18 @@
     "name": "social-dropbox-outline",
     "tags": "brand",
     "class": "ionicons ion-social-dropbox-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-euro",
+    "tags": "currency, money",
+    "class": "ionicons ion-social-euro"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-euro-outline",
+    "tags": "currency, money",
+    "class": "ionicons ion-social-euro-outline"
   },
   {
     "_tags": ["ionicons"],
@@ -6003,6 +8523,18 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "social-html5",
+    "tags": "brand",
+    "class": "ionicons ion-social-html5"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-html5-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-html5-outline"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "social-instagram",
     "tags": "brand",
     "class": "ionicons ion-social-instagram"
@@ -6012,6 +8544,18 @@
     "name": "social-instagram-outline",
     "tags": "brand",
     "class": "ionicons ion-social-instagram-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-javascript",
+    "tags": "brand",
+    "class": "ionicons ion-social-javascript"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-javascript-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-javascript-outline"
   },
   {
     "_tags": ["ionicons"],
@@ -6027,6 +8571,24 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "social-markdown",
+    "tags": "brand",
+    "class": "ionicons ion-social-markdown"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-nodejs",
+    "tags": "brand",
+    "class": "ionicons ion-social-nodejs"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-octocat",
+    "tags": "brand, github",
+    "class": "ionicons ion-social-octocat"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "social-pinterest",
     "tags": "brand",
     "class": "ionicons ion-social-pinterest"
@@ -6039,14 +8601,20 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "social-python",
+    "tags": "brand,",
+    "class": "ionicons ion-social-python"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "social-reddit",
-    "tags": "brand",
+    "tags": "brand, alien",
     "class": "ionicons ion-social-reddit"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-reddit-outline",
-    "tags": "brand",
+    "tags": "brand, alien",
     "class": "ionicons ion-social-reddit-outline"
   },
   {
@@ -6063,6 +8631,12 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "social-sass",
+    "tags": "brand",
+    "class": "ionicons ion-social-sass"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "social-skype",
     "tags": "brand, microsoft",
     "class": "ionicons ion-social-skype"
@@ -6072,6 +8646,18 @@
     "name": "social-skype-outline",
     "tags": "brand, microsoft",
     "class": "ionicons ion-social-skype-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-snapchat",
+    "tags": "brand",
+    "class": "ionicons ion-social-snapchat"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-snapchat-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-snapchat-outline"
   },
   {
     "_tags": ["ionicons"],
@@ -6093,6 +8679,18 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "social-twitch",
+    "tags": "brand",
+    "class": "ionicons ion-social-twitch"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-twitch-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-twitch-outline"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "social-twitter",
     "tags": "brand",
     "class": "ionicons ion-social-twitter"
@@ -6106,26 +8704,38 @@
   {
     "_tags": ["ionicons"],
     "name": "social-usd",
-    "tags": "dollar, money",
+    "tags": "currency, dollar, money",
     "class": "ionicons ion-social-usd"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-usd-outline",
-    "tags": "dollar, money",
+    "tags": "currency, dollar, money",
     "class": "ionicons ion-social-usd-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-vimeo",
-    "tags": "brand, video",
+    "tags": "brand",
     "class": "ionicons ion-social-vimeo"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-vimeo-outline",
-    "tags": "brand, video",
+    "tags": "brand",
     "class": "ionicons ion-social-vimeo-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-whatsapp",
+    "tags": "brand",
+    "class": "ionicons ion-social-whatsapp"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-whatsapp-outline",
+    "tags": "brand",
+    "class": "ionicons ion-social-whatsapp-outline"
   },
   {
     "_tags": ["ionicons"],
@@ -6165,6 +8775,18 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "social-yen",
+    "tags": "currency, money",
+    "class": "ionicons ion-social-yen"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "social-yen-outline",
+    "tags": "currency, money",
+    "class": "ionicons ion-social-yen-outline"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "social-youtube",
     "tags": "brand, video, google",
     "class": "ionicons ion-social-youtube"
@@ -6174,6 +8796,18 @@
     "name": "social-youtube-outline",
     "tags": "brand, video, google",
     "class": "ionicons ion-social-youtube-outline"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "soup-can",
+    "tags": "food",
+    "class": "ionicons ion-soup-can"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "soup-can-outline",
+    "tags": "food",
+    "class": "ionicons ion-soup-can-outline"
   },
   {
     "_tags": ["ionicons"],
@@ -6190,7 +8824,7 @@
   {
     "_tags": ["ionicons"],
     "name": "spoon",
-    "tags": "cutlery, food",
+    "tags": "cutlery, dining, food",
     "class": "ionicons ion-spoon"
   },
   {
@@ -6207,6 +8841,12 @@
   },
   {
     "_tags": ["ionicons"],
+    "name": "steam",
+    "tags": "brand, social",
+    "class": "ionicons ion-steam"
+  },
+  {
+    "_tags": ["ionicons"],
     "name": "stop",
     "tags": "video player, square",
     "class": "ionicons ion-stop"
@@ -6214,7 +8854,7 @@
   {
     "_tags": ["ionicons"],
     "name": "thermometer",
-    "tags": "",
+    "tags": "temperature",
     "class": "ionicons ion-thermometer"
   },
   {
@@ -6232,14 +8872,20 @@
   {
     "_tags": ["ionicons"],
     "name": "toggle",
-    "tags": "",
+    "tags": "setting",
     "class": "ionicons ion-toggle"
   },
   {
     "_tags": ["ionicons"],
     "name": "toggle-filled",
-    "tags": "",
+    "tags": "setting",
     "class": "ionicons ion-toggle-filled"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "transgender",
+    "tags": "",
+    "class": "ionicons ion-transgender"
   },
   {
     "_tags": ["ionicons"],
@@ -6258,6 +8904,18 @@
     "name": "trophy",
     "tags": "award, prize",
     "class": "ionicons ion-trophy"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "tshirt",
+    "tags": "clothes",
+    "class": "ionicons ion-tshirt"
+  },
+  {
+    "_tags": ["ionicons"],
+    "name": "tshirt-outline",
+    "tags": "clothes",
+    "class": "ionicons ion-tshirt-outline"
   },
   {
     "_tags": ["ionicons"],
@@ -6334,13 +8992,13 @@
   {
     "_tags": ["ionicons"],
     "name": "wifi",
-    "tags": "",
+    "tags": "signal",
     "class": "ionicons ion-wifi"
   },
   {
     "_tags": ["ionicons"],
     "name": "wineglass",
-    "tags": "drink, glass",
+    "tags": "drink, glass, alcohol",
     "class": "ionicons ion-wineglass"
   },
   {
@@ -6357,1785 +9015,9 @@
   },
   {
     "_tags": ["ionicons"],
-    "name": "android-add",
-    "tags": "plus",
-    "class": "ionicons ion-android-add"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-add-contact",
-    "tags": "",
-    "class": "ionicons ion-android-add-contact"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-alarm",
-    "tags": "time",
-    "class": "ionicons ion-android-alarm"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-archive",
-    "tags": "",
-    "class": "ionicons ion-android-archive"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-arrow-back",
-    "tags": "",
-    "class": "ionicons ion-android-arrow-back"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-arrow-down-left",
-    "tags": "",
-    "class": "ionicons ion-android-arrow-down-left"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-arrow-down-right",
-    "tags": "",
-    "class": "ionicons ion-android-arrow-down-right"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-arrow-forward",
-    "tags": "",
-    "class": "ionicons ion-android-arrow-forward"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-arrow-up-left",
-    "tags": "",
-    "class": "ionicons ion-android-arrow-up-left"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-arrow-up-right",
-    "tags": "",
-    "class": "ionicons ion-android-arrow-up-right"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-battery",
-    "tags": "",
-    "class": "ionicons ion-android-battery"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-book",
-    "tags": "",
-    "class": "ionicons ion-android-book"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-call",
-    "tags": "phone",
-    "class": "ionicons ion-android-call"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-calendar",
-    "tags": "",
-    "class": "ionicons ion-android-calendar"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-camera",
-    "tags": "",
-    "class": "ionicons ion-android-camera"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-chat",
-    "tags": "quotes, speech bubble",
-    "class": "ionicons ion-android-chat"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-checkmark",
-    "tags": "",
-    "class": "ionicons ion-android-checkmark"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-clock",
-    "tags": "time",
-    "class": "ionicons ion-android-clock"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-close",
-    "tags": "times",
-    "class": "ionicons ion-android-close"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-contact",
-    "tags": "person, user",
-    "class": "ionicons ion-android-contact"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-contacts",
-    "tags": "people, users",
-    "class": "ionicons ion-android-contacts"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-data",
-    "tags": "timer, chart, graph",
-    "class": "ionicons ion-android-data"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-developer",
-    "tags": "braces",
-    "class": "ionicons ion-android-developer"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-display",
-    "tags": "",
-    "class": "ionicons ion-android-display"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-download",
-    "tags": "",
-    "class": "ionicons ion-android-download"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-drawer",
-    "tags": "more",
-    "class": "ionicons ion-android-drawer"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-dropdown",
-    "tags": "",
-    "class": "ionicons ion-android-dropdown"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-earth",
-    "tags": "globe, planet",
-    "class": "ionicons ion-android-earth"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-folder",
-    "tags": "",
-    "class": "ionicons ion-android-folder"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-forums",
-    "tags": "",
-    "class": "ionicons ion-android-forums"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-friends",
-    "tags": "people, users",
-    "class": "ionicons ion-android-friends"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-hand",
-    "tags": "",
-    "class": "ionicons ion-android-hand"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-image",
-    "tags": "email",
-    "class": "ionicons ion-android-image"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-inbox",
-    "tags": "",
-    "class": "ionicons ion-android-inbox"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-information",
-    "tags": "",
-    "class": "ionicons ion-android-information"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-keypad",
-    "tags": "",
-    "class": "ionicons ion-android-keypad"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-lightbulb",
-    "tags": "",
-    "class": "ionicons ion-android-lightbulb"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-locate",
-    "tags": "",
-    "class": "ionicons ion-android-locate"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-location",
-    "tags": "",
-    "class": "ionicons ion-android-location"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-mail",
-    "tags": "envelope",
-    "class": "ionicons ion-android-mail"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-microphone",
-    "tags": "",
-    "class": "ionicons ion-android-microphone"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-mixer",
-    "tags": "",
-    "class": "ionicons ion-android-mixer"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-more",
-    "tags": "",
-    "class": "ionicons ion-android-more"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-note",
-    "tags": "paper",
-    "class": "ionicons ion-android-note"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-playstore",
-    "tags": "",
-    "class": "ionicons ion-android-playstore"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-printer",
-    "tags": "",
-    "class": "ionicons ion-android-printer"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-promotion",
-    "tags": "labels, pricetags",
-    "class": "ionicons ion-android-promotion"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-reminder",
-    "tags": "bell",
-    "class": "ionicons ion-android-reminder"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-remove",
-    "tags": "minus",
-    "class": "ionicons ion-android-remove"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-search",
-    "tags": "find, magnifying glass",
-    "class": "ionicons ion-android-search"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-send",
-    "tags": "paper airplane",
-    "class": "ionicons ion-android-send"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-settings",
-    "tags": "",
-    "class": "ionicons ion-android-settings"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-share",
-    "tags": "",
-    "class": "ionicons ion-android-share"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-social",
-    "tags": "people",
-    "class": "ionicons ion-android-social"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-social-user",
-    "tags": "person",
-    "class": "ionicons ion-android-social-user"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-sort",
-    "tags": "",
-    "class": "ionicons ion-android-sort"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-stair-drawer",
-    "tags": "",
-    "class": "ionicons ion-android-stair-drawer"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-star",
-    "tags": "",
-    "class": "ionicons ion-android-star"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-stopwatch",
-    "tags": "timer",
-    "class": "ionicons ion-android-stopwatch"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-storage",
-    "tags": "power",
-    "class": "ionicons ion-android-storage"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-system-back",
-    "tags": "",
-    "class": "ionicons ion-android-system-back"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-system-home",
-    "tags": "",
-    "class": "ionicons ion-android-system-home"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-system-windows",
-    "tags": "",
-    "class": "ionicons ion-android-system-windows"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-timer",
-    "tags": "hourglass",
-    "class": "ionicons ion-android-timer"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-trash",
-    "tags": "",
-    "class": "ionicons ion-android-trash"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-user-menu",
-    "tags": "",
-    "class": "ionicons ion-android-user-menu"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-volume",
-    "tags": "",
-    "class": "ionicons ion-android-volume"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "android-wifi",
-    "tags": "",
-    "class": "ionicons ion-android-wifi"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-alarm",
-    "tags": "clock",
-    "class": "ionicons ion-ios7-alarm"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-alarm-outline",
-    "tags": "clock",
-    "class": "ionicons ion-ios7-alarm-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-albums",
-    "tags": "",
-    "class": "ionicons ion-ios7-albums"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-americanfootball",
-    "tags": "sports",
-    "class": "ionicons ion-ios7-americanfootball"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-americanfootball-outline",
-    "tags": "sports",
-    "class": "ionicons ion-ios7-americanfootball-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-analytics",
-    "tags": "",
-    "class": "ionicons ion-ios7-analytics"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-analytics-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-analytics-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-arrow-back",
-    "tags": "directional",
-    "class": "ionicons ion-ios7-arrow-back"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-arrow-down",
-    "tags": "directional",
-    "class": "ionicons ion-ios7-arrow-down"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-arrow-forward",
-    "tags": "directional",
-    "class": "ionicons ion-ios7-arrow-forward"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-arrow-left",
-    "tags": "directional",
-    "class": "ionicons ion-ios7-arrow-left"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-arrow-right",
-    "tags": "directional",
-    "class": "ionicons ion-ios7-arrow-right"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-arrow-up",
-    "tags": "directional",
-    "class": "ionicons ion-ios7-arrow-up"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-arrow-thin-down",
-    "tags": "directional",
-    "class": "ionicons ion-ios7-arrow-thin-down"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-arrow-thin-left",
-    "tags": "directional",
-    "class": "ionicons ion-ios7-arrow-thin-left"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-arrow-thin-right",
-    "tags": "directional",
-    "class": "ionicons ion-ios7-arrow-thin-right"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-arrow-thin-up",
-    "tags": "directional",
-    "class": "ionicons ion-ios7-arrow-thin-up"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-at",
-    "tags": "email",
-    "class": "ionicons ion-ios7-at"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-at-outline",
-    "tags": "email",
-    "class": "ionicons ion-ios7-at-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-barcode",
-    "tags": "",
-    "class": "ionicons ion-ios7-barcode"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-barcode-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-barcode-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-baseball",
-    "tags": "sports",
-    "class": "ionicons ion-ios7-baseball"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-baseball-outline",
-    "tags": "sports",
-    "class": "ionicons ion-ios7-baseball-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-basketball",
-    "tags": "sports",
-    "class": "ionicons ion-ios7-basketball"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-basketball-outline",
-    "tags": "sports",
-    "class": "ionicons ion-ios7-basketball-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-bell",
-    "tags": "audio, sound",
-    "class": "ionicons ion-ios7-bell"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-bell-outline",
-    "tags": "audio, sound",
-    "class": "ionicons ion-ios7-bell-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-bolt",
-    "tags": "lightning bolt, flash",
-    "class": "ionicons ion-ios7-bolt"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-bolt-outline",
-    "tags": "lightning bolt, flash",
-    "class": "ionicons ion-ios7-bolt-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-bookmarks",
-    "tags": "",
-    "class": "ionicons ion-ios7-bookmarks"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-bookmarks-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-bookmarks-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-box",
-    "tags": "",
-    "class": "ionicons ion-ios7-box"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-box-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-box-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-briefcase",
-    "tags": "suitcase, business",
-    "class": "ionicons ion-ios7-briefcase"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-briefcase-outline",
-    "tags": "suitcase, business",
-    "class": "ionicons ion-ios7-briefcase-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-browsers",
-    "tags": "",
-    "class": "ionicons ion-ios7-browsers"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-calculator",
-    "tags": "",
-    "class": "ionicons ion-ios7-calculator"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-calculator-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-calculator-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-calendar",
-    "tags": "date",
-    "class": "ionicons ion-ios7-calendar"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-calendar-outline",
-    "tags": "date",
-    "class": "ionicons ion-ios7-calendar-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-camera",
-    "tags": "photographs",
-    "class": "ionicons ion-ios7-camera"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-camera-outline",
-    "tags": "photographs",
-    "class": "ionicons ion-ios7-camera-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-cart",
-    "tags": "shopping",
-    "class": "ionicons ion-ios7-cart"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-cart-outline",
-    "tags": "shopping",
-    "class": "ionicons ion-ios7-cart-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-chatboxes",
-    "tags": "speech bubble",
-    "class": "ionicons ion-ios7-chatboxes"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-chatboxes-outline",
-    "tags": "speech bubble",
-    "class": "ionicons ion-ios7-chatboxes-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-chatbubble",
-    "tags": "speech bubble",
-    "class": "ionicons ion-ios7-chatbubble"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-chatbubble-outline",
-    "tags": "speech bubble",
-    "class": "ionicons ion-ios7-chatbubble-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-checkmark",
-    "tags": "",
-    "class": "ionicons ion-ios7-checkmark"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-checkmark-empty",
-    "tags": "",
-    "class": "ionicons ion-ios7-checkmark-empty"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-checkmark-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-checkmark-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-circle-filled",
-    "tags": "",
-    "class": "ionicons ion-ios7-circle-filled"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-circle-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-circle-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-clock",
-    "tags": "timer",
-    "class": "ionicons ion-ios7-clock"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-close",
-    "tags": "",
-    "class": "ionicons ion-ios7-close"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-close-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-close-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-close-empty",
-    "tags": "",
-    "class": "ionicons ion-ios7-close-empty"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-cloud",
-    "tags": "weather",
-    "class": "ionicons ion-ios7-cloud"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-cloud-download",
-    "tags": "",
-    "class": "ionicons ion-ios7-cloud-download"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-cloud-download-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-cloud-download-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-cloud-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-cloud-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-cloud-upload",
-    "tags": "",
-    "class": "ionicons ion-ios7-cloud-upload"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-cloud-upload-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-cloud-upload-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-cloudy",
-    "tags": "weather",
-    "class": "ionicons ion-ios7-cloudy"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-cloudy-outline",
-    "tags": "weather",
-    "class": "ionicons ion-ios7-cloudy-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-cog",
-    "tags": "gear, settings",
-    "class": "ionicons ion-ios7-cog"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-cog-outline",
-    "tags": "gears, settings",
-    "class": "ionicons ion-ios7-cog-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-compose",
-    "tags": "email",
-    "class": "ionicons ion-ios7-compose"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-compose-outline",
-    "tags": "email",
-    "class": "ionicons ion-ios7-compose-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-contact",
-    "tags": "user",
-    "class": "ionicons ion-ios7-contact"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-contact-outline",
-    "tags": "user",
-    "class": "ionicons ion-ios7-contact-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-copy",
-    "tags": "clipboard",
-    "class": "ionicons ion-ios7-copy"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-copy-outline",
-    "tags": "clipboard",
-    "class": "ionicons ion-ios7-copy-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-download",
-    "tags": "",
-    "class": "ionicons ion-ios7-download"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-download-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-download-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-drag",
-    "tags": "bars, more, reorder",
-    "class": "ionicons ion-ios7-drag"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-email",
-    "tags": "",
-    "class": "ionicons ion-ios7-email"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-email-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-email-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-expand",
-    "tags": "",
-    "class": "ionicons ion-ios7-expand"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-eye",
-    "tags": "show",
-    "class": "ionicons ion-ios7-eye"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-eye-outline",
-    "tags": "show",
-    "class": "ionicons ion-ios7-eye-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-fastforward",
-    "tags": "video player",
-    "class": "ionicons ion-ios7-fastforward"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-fastforward-outline",
-    "tags": "video player",
-    "class": "ionicons ion-ios7-fastforward-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-filing",
-    "tags": "",
-    "class": "ionicons ion-ios7-filing"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-film",
-    "tags": "",
-    "class": "ionicons ion-ios7-film"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-film-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-film-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-flag",
-    "tags": "",
-    "class": "ionicons ion-ios7-flag"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-flag-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-flag-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-folder",
-    "tags": "",
-    "class": "ionicons ion-ios7-folder"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-folder-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-folder-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-football",
-    "tags": "sports, soccer",
-    "class": "ionicons ion-ios7-football"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-football-outline",
-    "tags": "sports, soccer",
-    "class": "ionicons ion-ios7-football-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-gear",
-    "tags": "cog, settings",
-    "class": "ionicons ion-ios7-gear"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-gear-outline",
-    "tags": "cogs, settings",
-    "class": "ionicons ion-ios7-gear-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-glasses",
-    "tags": "",
-    "class": "ionicons ion-ios7-glasses"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-glasses-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-glasses-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-heart",
-    "tags": "favorite, like, rate, ratings",
-    "class": "ionicons ion-ios7-heart"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-heart-outline",
-    "tags": "favorite, like, rate, ratings",
-    "class": "ionicons ion-ios7-heart-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-help",
-    "tags": "question mark",
-    "class": "ionicons ion-ios7-help"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-help-empty",
-    "tags": "question mark",
-    "class": "ionicons ion-ios7-help-empty"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-help-outline",
-    "tags": "question mark",
-    "class": "ionicons ion-ios7-help-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-home-outline",
-    "tags": "house",
-    "class": "ionicons ion-ios7-home-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-home",
-    "tags": "house",
-    "class": "ionicons ion-ios7-home"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-infinite",
-    "tags": "infinity, math symbol",
-    "class": "ionicons ion-ios7-infinite"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-infinite-outline",
-    "tags": "infinity, math symbol",
-    "class": "ionicons ion-ios7-infinite-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-information",
-    "tags": "",
-    "class": "ionicons ion-ios7-information"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-information-empty",
-    "tags": "",
-    "class": "ionicons ion-ios7-information-empty"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-information-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-information-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-ionic-outline",
-    "tags": "brand, science, chemistry",
-    "class": "ionicons ion-ios7-ionic-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-keypad",
-    "tags": "grid",
-    "class": "ionicons ion-ios7-keypad"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-keypad-outline",
-    "tags": "grid",
-    "class": "ionicons ion-ios7-keypad-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-lightbulb",
-    "tags": "",
-    "class": "ionicons ion-ios7-lightbulb"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-lightbulb-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-lightbulb-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-location",
-    "tags": "map",
-    "class": "ionicons ion-ios7-location"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-location-outline",
-    "tags": "map",
-    "class": "ionicons ion-ios7-location-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-locked",
-    "tags": "",
-    "class": "ionicons ion-ios7-locked"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-locked-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-locked-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-loop",
-    "tags": "refresh, reload",
-    "class": "ionicons ion-ios7-loop"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-loop-strong",
-    "tags": "refresh, reload",
-    "class": "ionicons ion-ios7-loop-strong"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-medkit",
-    "tags": "medical",
-    "class": "ionicons ion-ios7-medkit"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-medkit-outline",
-    "tags": "medical",
-    "class": "ionicons ion-ios7-medkit-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-mic",
-    "tags": "audio, sound",
-    "class": "ionicons ion-ios7-mic"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-mic-off",
-    "tags": "audio, sound",
-    "class": "ionicons ion-ios7-mic-off"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-mic-outline",
-    "tags": "audio, sound",
-    "class": "ionicons ion-ios7-mic-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-minus",
-    "tags": "",
-    "class": "ionicons ion-ios7-minus"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-minus-empty",
-    "tags": "",
-    "class": "ionicons ion-ios7-minus-empty"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-minus-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-minus-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-monitor",
-    "tags": "computer",
-    "class": "ionicons ion-ios7-monitor"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-monitor-outline",
-    "tags": "computer",
-    "class": "ionicons ion-ios7-monitor-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-moon",
-    "tags": "night",
-    "class": "ionicons ion-ios7-moon"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-moon-outline",
-    "tags": "night",
-    "class": "ionicons ion-ios7-moon-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-more",
-    "tags": "dots, menu",
-    "class": "ionicons ion-ios7-more"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-more-outline",
-    "tags": "dots, menu",
-    "class": "ionicons ion-ios7-more-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-musical-note",
-    "tags": "",
-    "class": "ionicons ion-ios7-musical-note"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-musical-notes",
-    "tags": "",
-    "class": "ionicons ion-ios7-musical-notes"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-navigate",
-    "tags": "map, location",
-    "class": "ionicons ion-ios7-navigate"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-navigate-outline",
-    "tags": "map, location",
-    "class": "ionicons ion-ios7-navigate-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-paper",
-    "tags": "",
-    "class": "ionicons ion-ios7-paper"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-paper-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-paper-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-paperplane",
-    "tags": "airplane",
-    "class": "ionicons ion-ios7-paperplane"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-paperplane-outline",
-    "tags": "airplane",
-    "class": "ionicons ion-ios7-paperplane-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-partlysunny",
-    "tags": "weather",
-    "class": "ionicons ion-ios7-partlysunny"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-partlysunny-outline",
-    "tags": "weather",
-    "class": "ionicons ion-ios7-partlysunny-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-pause",
-    "tags": "video player",
-    "class": "ionicons ion-ios7-pause"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-pause-outline",
-    "tags": "video player",
-    "class": "ionicons ion-ios7-pause-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-paw",
-    "tags": "animal",
-    "class": "ionicons ion-ios7-paw"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-paw-outline",
-    "tags": "animal",
-    "class": "ionicons ion-ios7-paw-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-people",
-    "tags": "users",
-    "class": "ionicons ion-ios7-people"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-people-outline",
-    "tags": "users",
-    "class": "ionicons ion-ios7-people-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-person",
-    "tags": "user",
-    "class": "ionicons ion-ios7-person"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-person-outline",
-    "tags": "user",
-    "class": "ionicons ion-ios7-person-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-personadd",
-    "tags": "user",
-    "class": "ionicons ion-ios7-personadd"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-personadd-outline",
-    "tags": "user",
-    "class": "ionicons ion-ios7-personadd-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-photos",
-    "tags": "",
-    "class": "ionicons ion-ios7-photos"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-photos-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-photos-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-pie",
-    "tags": "graph",
-    "class": "ionicons ion-ios7-pie"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-pie-outline",
-    "tags": "graph",
-    "class": "ionicons ion-ios7-pie-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-play",
-    "tags": "video player",
-    "class": "ionicons ion-ios7-play"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-play-outline",
-    "tags": "video player",
-    "class": "ionicons ion-ios7-play-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-plus",
-    "tags": "",
-    "class": "ionicons ion-ios7-plus"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-plus-empty",
-    "tags": "",
-    "class": "ionicons ion-ios7-plus-empty"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-plus-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-plus-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-pricetag",
-    "tags": "shopping",
-    "class": "ionicons ion-ios7-pricetag"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-pricetag-outline",
-    "tags": "shopping",
-    "class": "ionicons ion-ios7-pricetag-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-pricetags",
-    "tags": "shopping",
-    "class": "ionicons ion-ios7-pricetags"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-pricetags-outline",
-    "tags": "shopping",
-    "class": "ionicons ion-ios7-pricetags-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-printer",
-    "tags": "computer",
-    "class": "ionicons ion-ios7-printer"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-pulse",
-    "tags": "signal",
-    "class": "ionicons ion-ios7-pulse"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-pulse-strong",
-    "tags": "signal",
-    "class": "ionicons ion-ios7-pulse-strong"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-rainy",
-    "tags": "weather",
-    "class": "ionicons ion-ios7-rainy"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-rainy-outline",
-    "tags": "weather",
-    "class": "ionicons ion-ios7-rainy-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-recording",
-    "tags": "video player",
-    "class": "ionicons ion-ios7-recording"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-recording-outline",
-    "tags": "video player",
-    "class": "ionicons ion-ios7-recording-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-redo",
-    "tags": "text editor",
-    "class": "ionicons ion-ios7-redo"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-redo-outline",
-    "tags": "text editor",
-    "class": "ionicons ion-ios7-redo-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-refresh",
-    "tags": "reload",
-    "class": "ionicons ion-ios7-refresh"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-refresh-empty",
-    "tags": "reload",
-    "class": "ionicons ion-ios7-refresh-empty"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-refresh-outline",
-    "tags": "reload",
-    "class": "ionicons ion-ios7-refresh-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-reload",
-    "tags": "refresh",
-    "class": "ionicons ion-ios7-reload"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-reverse-camera",
-    "tags": "",
-    "class": "ionicons ion-ios7-reverse-camera"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-reverse-camera-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-reverse-camera-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-rewind",
-    "tags": "video player",
-    "class": "ionicons ion-ios7-rewind"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-rewind-outline",
-    "tags": "video player",
-    "class": "ionicons ion-ios7-rewind-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-search",
-    "tags": "magnifying glass",
-    "class": "ionicons ion-ios7-search"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-search-strong",
-    "tags": "magnifying glass",
-    "class": "ionicons ion-ios7-search-strong"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-settings",
-    "tags": "",
-    "class": "ionicons ion-ios7-settings"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-settings-strong",
-    "tags": "",
-    "class": "ionicons ion-ios7-settings-strong"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-shrink",
-    "tags": "collapse",
-    "class": "ionicons ion-ios7-shrink"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-skipbackward",
-    "tags": "video player",
-    "class": "ionicons ion-ios7-skipbackward"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-skipbackward-outline",
-    "tags": "video player",
-    "class": "ionicons ion-ios7-skipbackward-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-skipforward",
-    "tags": "video player",
-    "class": "ionicons ion-ios7-skipforward"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-skipforward-outline",
-    "tags": "video player",
-    "class": "ionicons ion-ios7-skipforward-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-speedometer",
-    "tags": "dashboard, tachometer",
-    "class": "ionicons ion-ios7-speedometer"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-speedometer-outline",
-    "tags": "dashboard, tachometer",
-    "class": "ionicons ion-ios7-speedometer-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-star",
-    "tags": "like, favorite, rate, ratings",
-    "class": "ionicons ion-ios7-star"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-star-half",
-    "tags": "rate, ratings",
-    "class": "ionicons ion-ios7-star-half"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-star-outline",
-    "tags": "like, favorite, rate, ratings",
-    "class": "ionicons ion-ios7-star-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-stopwatch",
-    "tags": "timer, clock",
-    "class": "ionicons ion-ios7-stopwatch"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-stopwatch-outline",
-    "tags": "timer, clock",
-    "class": "ionicons ion-ios7-stopwatch-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-sunny",
-    "tags": "weather",
-    "class": "ionicons ion-ios7-sunny"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-sunny-outline",
-    "tags": "weather",
-    "class": "ionicons ion-ios7-sunny-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-telephone",
-    "tags": "",
-    "class": "ionicons ion-ios7-telephone"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-telephone-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-telephone-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-tennisball",
-    "tags": "sports",
-    "class": "ionicons ion-ios7-tennisball"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-tennisball-outline",
-    "tags": "sports",
-    "class": "ionicons ion-ios7-tennisball-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-thunderstorm",
-    "tags": "weather",
-    "class": "ionicons ion-ios7-thunderstorm"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-thunderstorm-outline",
-    "tags": "weather",
-    "class": "ionicons ion-ios7-thunderstorm-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-time",
-    "tags": "clock",
-    "class": "ionicons ion-ios7-time"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-time-outline",
-    "tags": "clock",
-    "class": "ionicons ion-ios7-time-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-timer",
-    "tags": "clock",
-    "class": "ionicons ion-ios7-timer"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-timer-outline",
-    "tags": "clock",
-    "class": "ionicons ion-ios7-timer-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-toggle",
-    "tags": "settings",
-    "class": "ionicons ion-ios7-toggle"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-toggle-outline",
-    "tags": "settings",
-    "class": "ionicons ion-ios7-toggle-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-trash",
-    "tags": "delete",
-    "class": "ionicons ion-ios7-trash"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-trash-outline",
-    "tags": "delete",
-    "class": "ionicons ion-ios7-trash-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-undo",
-    "tags": "text editor",
-    "class": "ionicons ion-ios7-undo"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-undo-outline",
-    "tags": "text editor",
-    "class": "ionicons ion-ios7-undo-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-unlocked",
-    "tags": "",
-    "class": "ionicons ion-ios7-unlocked"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-unlocked-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-unlocked-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-upload",
-    "tags": "",
-    "class": "ionicons ion-ios7-upload"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-upload-outline",
-    "tags": "",
-    "class": "ionicons ion-ios7-upload-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-videocam",
-    "tags": "camera",
-    "class": "ionicons ion-ios7-videocam"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-videocam-outline",
-    "tags": "camera",
-    "class": "ionicons ion-ios7-videocam-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-volume-high",
-    "tags": "audio, sound",
-    "class": "ionicons ion-ios7-volume-high"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-volume-low",
-    "tags": "audio, sound",
-    "class": "ionicons ion-ios7-volume-low"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-wineglass",
-    "tags": "drink, glass",
-    "class": "ionicons ion-ios7-wineglass"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-wineglass-outline",
-    "tags": "drink, glass",
-    "class": "ionicons ion-ios7-wineglass-outline"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-world",
-    "tags": "globe, earth, planet",
-    "class": "ionicons ion-ios7-world"
-  },
-  {
-    "_tags": ["ionicons"],
-    "name": "ios7-world-outline",
-    "tags": "globe, earth, planet",
-    "class": "ionicons ion-ios7-world-outline"
+    "name": "xbox",
+    "tags": "brand, video game",
+    "class": "ionicons ion-xbox"
   },
 
   {
