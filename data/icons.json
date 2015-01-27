@@ -3074,7 +3074,7 @@
 		},
 		{
 			"name": "cd",
-			"tags": "music, disc"
+			"tags": "music, disc, vinyl"
 		},
 		{
 			"name": "certificate",
@@ -6544,7 +6544,7 @@
 		},
 		{
 			"name": "disc",
-			"tags": "cd, vinyl"
+			"tags": "cd, music, vinyl"
 		},
 		{
 			"name": "document",

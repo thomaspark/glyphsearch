@@ -3237,7 +3237,7 @@
   {
     "_tags": ["glyphicons"],
     "name": "cd",
-    "tags": "music, disc",
+    "tags": "music, disc, vinyl",
     "class": "glyphicon glyphicon-cd"
   },
   {
@@ -5884,7 +5884,7 @@
   {
     "_tags": ["ionicons"],
     "name": "disc",
-    "tags": "cd, vinyl",
+    "tags": "cd, music, vinyl",
     "class": "ionicons ion-disc"
   },
   {
