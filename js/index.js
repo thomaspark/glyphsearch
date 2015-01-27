@@ -19,12 +19,12 @@ var index = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").
   $libraries = $("#libraries > button"),
   qs = $.url().param();
 
-ZeroClipboard.setDefaults({
-  moviePath: "bower_components/zeroclipboard/ZeroClipboard.swf",
+ZeroClipboard.config({
+  moviePath: "bower_components/zeroclipboard/dist/ZeroClipboard.swf",
   forceHandCursor: true
 });
 
-var clip = new ZeroClipboard(),
+var clip = new ZeroClipboard($(".entry")),
     flashEnabled = false;
 
 function setLibrary(library) {
@@ -107,7 +107,7 @@ function load(htmls) {
     $('#' + i + ' .icons').html(htmls[i]).parent().show();
   }
 
-  if (flashEnabled) clip.glue($(".entry"));
+  if (flashEnabled) clip.clip($(".entry"));
 }
 
 function handlers() {
@@ -138,23 +138,26 @@ function handlers() {
     setLibrary(library);
   });
 
-  clip.on("load", function() {
+  clip.on("ready", function() {
     flashEnabled = true;
 
-    clip.on("complete", function(client, args) {
-      $("#big-icon").removeClass().addClass(args.text);
+    clip.on("copy", function(e) {
+      console.log("copied", e);    });
+
+    clip.on("aftercopy", function(e) {
+      var c = e.data["text/plain"];
+      $("#big-icon").removeClass().addClass(c);
+      console.log("aftercopy", c);
       $(".copied").show().find("div").addClass("animateIn");
       setTimeout('$(".copied div").removeClass("animateIn").addClass("animateOut");$(".copied").fadeOut(function(){$(".copied div").removeClass("animateOut")})', 700);
     });
 
-    clip.on("mouseout", function() {
-      $(".entry").removeClass("zeroclipboard-is-hover");
-    });
-
-    clip.glue($(".entry"));
+    clip.clip($(".entry"));
   });
 
-  clip.on("noflash", function() {
+  clip.on("error", function(e) {
+    console.log(e);
+
     $(".icons").on("click", ".entry", function(){
       var name = $(this).find(".description").text();
       window.prompt("Copy to clipboard:", name);
