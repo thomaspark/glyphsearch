@@ -1,0 +1,41 @@
+{
+  "name": "devicons",
+  "description": "Devicons - An icon font made for developers",
+  "version": "1.6.0",
+  "keywords": [
+    "icons",
+    "devicons",
+    "font"
+  ],
+  "homepage": "http://vorillaz.github.io/devicons/",
+  "license": "MIT",
+  "main": [
+    "./css/*",
+    "./fonts/*"
+  ],
+  "ignore": [
+    "*/.*",
+    "*.json",
+    "src",
+    "*.yml",
+    "*.md",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "authors": [
+    "vorillaz <theodorevorillas@yahoo.gr>"
+  ],
+  "_release": "1.6.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.6.0",
+    "commit": "c256b2614c7fe60bd7bff94e37596f9970264eb8"
+  },
+  "_source": "https://github.com/vorillaz/devicons.git",
+  "_target": "~1.6.0",
+  "_originalSource": "devicons",
+  "_direct": true
+}
