@@ -1,7 +1,14 @@
 {
   "name": "icomoon-bower",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "homepage": "http://keyamoon.com/icomoon/",
+  "main": [
+    "dist/css/style.css",
+    "dist/fonts/icomoon.eot",
+    "dist/fonts/icomoon.svg",
+    "dist/fonts/icomoon.ttf",
+    "dist/fonts/icomoon.woff"
+  ],
   "authors": [
     "Keyamoon"
   ],
