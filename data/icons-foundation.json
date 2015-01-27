@@ -60,7 +60,8 @@
       "name": "unlock"
     },
     {
-      "name": "calendar"
+      "name": "calendar",
+      "tags": "date"
     },
     {
       "name": "cloud",
@@ -143,10 +144,12 @@
       "name": "checkbox"
     },
     {
-      "name": "minus-circle"
+      "name": "minus-circle",
+      "tags": "remove"
     },
     {
-      "name": "x-circle"
+      "name": "x-circle",
+      "tags": "delete, remove"
     },
     {
       "name": "eye",
@@ -178,7 +181,7 @@
     },
     {
       "name": "alert",
-      "tags": "warning"
+      "tags": "caution, danger, exclamation, warning, sign"
     },
     {
       "name": "bookmark"
@@ -187,37 +190,46 @@
       "name": "contrast"
     },
     {
-      "name": "mail"
+      "name": "mail",
+      "tags": "envelope"
     },
     {
-      "name": "video"
+      "name": "video",
+      "tags": "camera"
     },
     {
       "name": "telephone"
     },
     {
-      "name": "comment"
+      "name": "comment",
+      "tags": "chat bubble"
     },
     {
-      "name": "comment-video"
+      "name": "comment-video",
+      "tags": "chat bubble"
     },
     {
-      "name": "comment-quotes"
+      "name": "comment-quotes",
+      "tags": "chat bubble"
     },
     {
-      "name": "comment-minus"
+      "name": "comment-minus",
+      "tags": "chat bubble, delete, remove"
     },
     {
-      "name": "comments"
+      "name": "comments",
+      "tags": "chat bubble"
     },
     {
       "name": "microphone"
     },
     {
-      "name": "megaphone"
+      "name": "megaphone",
+      "tags": "bullhorn"
     },
     {
-      "name": "sound"
+      "name": "sound",
+      "tags": "audio"
     },
     {
       "name": "address-book"
@@ -226,16 +238,19 @@
       "name": "bluetooth"
     },
     {
-      "name": "html5"
+      "name": "html5",
+      "tags": "brand, logo"
     },
     {
-      "name": "css3"
+      "name": "css3",
+      "tags": "brand, logo"
     },
     {
       "name": "layout"
     },
     {
-      "name": "web"
+      "name": "web",
+      "tags": "earth, planet, globe"
     },
     {
       "name": "foundation"
@@ -301,16 +316,20 @@
       "name": "arrow-left"
     },
     {
-      "name": "arrows-out"
+      "name": "arrows-out",
+      "tags": "resize, expand"
     },
     {
-      "name": "arrows-in"
+      "name": "arrows-in",
+      "tags": "resize, compress"
     },
     {
-      "name": "arrows-expand"
+      "name": "arrows-expand",
+      "tags": "resize, fullscreen"
     },
     {
-      "name": "arrows-compress"
+      "name": "arrows-compress",
+      "tags": "resize"
     },
     {
       "name": "torso",
@@ -352,10 +371,12 @@
       "tags": "computer"
     },
     {
-      "name": "tablet-portrait"
+      "name": "tablet-portrait",
+      "tags": "ipad"
     },
     {
-      "name": "tablet-landscape"
+      "name": "tablet-landscape",
+      "tags": "ipad"
     },
     {
       "name": "mobile",
@@ -444,7 +465,8 @@
       "name": "filter"
     },
     {
-      "name": "paint-bucket"
+      "name": "paint-bucket",
+      "tags": "fill, pour"
     },
     {
       "name": "link",
@@ -495,10 +517,12 @@
       "name": "volume-strike"
     },
     {
-      "name": "loop"
+      "name": "loop",
+      "tags": "refresh, reload"
     },
     {
-      "name": "shuffle"
+      "name": "shuffle",
+      "tags": "random"
     },
     {
       "name": "eject"
@@ -567,10 +591,12 @@
       "tags": "money"
     },
     {
-      "name": "wheelchair"
+      "name": "wheelchair",
+      "tags": "handicap"
     },
     {
-      "name": "braille"
+      "name": "braille",
+      "tags": "dots"
     },
     {
       "name": "closed-caption"
@@ -579,13 +605,16 @@
       "name": "blind"
     },
     {
-      "name": "asl"
+      "name": "asl",
+      "tags": "deaf, sign language"
     },
     {
-      "name": "hearing-aid"
+      "name": "hearing-aid",
+      "tags": "deaf, ear"
     },
     {
-      "name": "guide-dog"
+      "name": "guide-dog",
+      "tags": "blind"
     },
     {
       "name": "universal-access"
@@ -610,182 +639,239 @@
     },
     {
       "name": "male-symbol",
-      "tags": "gender"
+      "tags": "gender, mars"
     },
     {
       "name": "female-symbol",
-      "tags": "gender"
+      "tags": "gender, venus"
     },
     {
-      "name": "social-500px"
+      "name": "social-500px",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-adobe"
+      "name": "social-adobe",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-amazon"
+      "name": "social-amazon",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-android"
+      "name": "social-android",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-apple"
+      "name": "social-apple",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-behance"
+      "name": "social-behance",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-bing"
+      "name": "social-bing",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-blogger"
+      "name": "social-blogger",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-delicious"
+      "name": "social-delicious",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-designer-news"
+      "name": "social-designer-news",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-deviant-art"
+      "name": "social-deviant-art",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-digg"
+      "name": "social-digg",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-dribbble"
+      "name": "social-dribbble",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-drive"
+      "name": "social-drive",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-dropbox"
+      "name": "social-dropbox",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-evernote"
+      "name": "social-evernote",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-facebook"
+      "name": "social-facebook",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-flickr"
+      "name": "social-flickr",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-forrst"
+      "name": "social-forrst",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-foursquare"
+      "name": "social-foursquare",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-game-center"
+      "name": "social-game-center",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-github"
+      "name": "social-github",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-google-plus"
+      "name": "social-google-plus",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-hacker-news"
+      "name": "social-hacker-news",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-hi5"
+      "name": "social-hi5",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-instagram"
+      "name": "social-instagram",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-joomla"
+      "name": "social-joomla",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-lastfm"
+      "name": "social-lastfm",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-linkedin"
+      "name": "social-linkedin",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-medium"
+      "name": "social-medium",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-myspace"
+      "name": "social-myspace",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-orkut"
+      "name": "social-orkut",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-path"
+      "name": "social-path",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-picasa"
+      "name": "social-picasa",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-pinterest"
+      "name": "social-pinterest",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-rdio"
+      "name": "social-rdio",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-reddit"
+      "name": "social-reddit",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-skype"
+      "name": "social-skype",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-skillshare"
+      "name": "social-skillshare",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-smashing-mag"
+      "name": "social-smashing-mag",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-snapchat"
+      "name": "social-snapchat",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-spotify"
+      "name": "social-spotify",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-squidoo"
+      "name": "social-squidoo",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-stack-overflow"
+      "name": "social-stack-overflow",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-steam"
+      "name": "social-steam",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-stumbleupon"
+      "name": "social-stumbleupon",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-treehouse"
+      "name": "social-treehouse",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-tumblr"
+      "name": "social-tumblr",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-twitter"
+      "name": "social-twitter",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-vimeo"
+      "name": "social-vimeo",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-windows"
+      "name": "social-windows",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-xbox"
+      "name": "social-xbox",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-yahoo"
+      "name": "social-yahoo",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-yelp"
+      "name": "social-yelp",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-youtube"
+      "name": "social-youtube",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-zerply"
+      "name": "social-zerply",
+      "tags": "brand, logo"
     },
     {
-      "name": "social-zurb"
+      "name": "social-zurb",
+      "tags": "brand, logo"
     },
     {
       "name": "compass",
@@ -843,24 +929,26 @@
       "tags": "game"
     },
     {
-      "name": "foot"
+      "name": "foot",
+      "tags": "print"
     },
     {
       "name": "paw",
-      "tags": "animal, pet"
+      "tags": "animal, pet, print"
     },
     {
       "name": "mountains"
     },
     {
-      "name": "trees"
+      "name": "trees",
+      "tags": "nature"
     },
     {
       "name": "sheriff-badge"
     },
     {
       "name": "first-aid",
-      "tags": "medical"
+      "tags": "medical, health, hospital"
     },
     {
       "name": "trophy",
@@ -889,7 +977,8 @@
       "name": "target"
     },
     {
-      "name": "target-two"
+      "name": "target-two",
+      "tags": "aim, reticle"
     },
     {
       "name": "die-one",
@@ -917,7 +1006,7 @@
     },
     {
       "name": "skull",
-      "tags": "danger, warning"
+      "tags": "caution, danger, warning"
     },
     {
       "name": "map",

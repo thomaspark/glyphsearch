@@ -5,7 +5,7 @@
     },
     {
       "name": "adn",
-      "tags": "brand social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "align-center",
@@ -32,7 +32,7 @@
     },
     {
       "name": "android",
-      "tags": "brand, robot, google"
+      "tags": "brand, logo, robot"
     },
     {
       "name": "angellist",
@@ -72,7 +72,7 @@
     },
     {
       "name": "apple",
-      "tags": "brand, food, fruit"
+      "tags": "brand, logo, food, fruit"
     },
     {
       "name": "archive",
@@ -176,15 +176,15 @@
     },
     {
       "name": "beer",
-      "tags": "drink, mug, stein"
+      "tags": "drink, mug, stein, alcohol"
     },
     {
       "name": "behance",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "behance-square",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "bell",
@@ -214,11 +214,11 @@
     },
     {
       "name": "bitbucket",
-      "tags": "brand, code, social"
+      "tags": "brand, logo, code, social"
     },
     {
       "name": "bitbucket-square",
-      "tags": "brand, code, social"
+      "tags": "brand, logo, code, social"
     },
     {
       "name": "bold",
@@ -236,7 +236,7 @@
     },
     {
       "name": "btc",
-      "tags": "bitcoin, brand, currency, money"
+      "tags": "bitcoin, logo, brand, currency, money"
     },
     {
       "name": "building"
@@ -258,7 +258,7 @@
     },
     {
       "name": "buysellads",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "calculator",
@@ -282,7 +282,7 @@
     },
     {
       "name": "car",
-      "tags": "automobile"
+      "tags": "automobile, transporation"
     },
     {
       "name": "caret-down",
@@ -453,7 +453,7 @@
     },
     {
       "name": "codepen",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "coffee",
@@ -497,7 +497,7 @@
     },
     {
       "name": "connectdevelop",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "copyright"
@@ -514,7 +514,7 @@
     },
     {
       "name": "css3",
-      "tags": "brand, web"
+      "tags": "brand, logo"
     },
     {
       "name": "cube"
@@ -528,14 +528,14 @@
     },
     {
       "name": "dashcube",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "database"
     },
     {
       "name": "delicious",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "desktop",
@@ -543,7 +543,7 @@
     },
     {
       "name": "deviantart",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "diamond",
@@ -551,7 +551,7 @@
     },
     {
       "name": "digg",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "dot-circle-o",
@@ -562,15 +562,15 @@
     },
     {
       "name": "dribbble",
-      "tags": "brand, social, basketball"
+      "tags": "brand, logo, social, basketball"
     },
     {
       "name": "dropbox",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "drupal",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "eject",
@@ -612,14 +612,16 @@
       "tags": "transfer, arrows"
     },
     {
-      "name": "exclamation"
+      "name": "exclamation",
+      "tags": "alert, caution, warning"
     },
     {
-      "name": "exclamation-circle"
+      "name": "exclamation-circle",
+      "tags": "alert, caution, warning, sign"
     },
     {
       "name": "exclamation-triangle",
-      "tags": "warning"
+      "tags": "alert, caution, warning, sign"
     },
     {
       "name": "expand",
@@ -644,15 +646,15 @@
     },
     {
       "name": "facebook",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "facebook-official",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "facebook-square",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "fast-backward",
@@ -751,7 +753,7 @@
     },
     {
       "name": "flickr",
-      "tags": "brand, yahoo, social, photos"
+      "tags": "brand, logo, yahoo, social, photos"
     },
     {
       "name": "floppy-o",
@@ -775,7 +777,7 @@
     },
     {
       "name": "forumbee",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "forward",
@@ -783,7 +785,7 @@
     },
     {
       "name": "foursquare",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "frown-o",
@@ -811,31 +813,31 @@
     },
     {
       "name": "git",
-      "tags": "brand, code, social"
+      "tags": "brand, logo, code, social"
     },
     {
       "name": "git-square",
-      "tags": "brand, code, social"
+      "tags": "brand, logo, code, social"
     },
     {
       "name": "github",
-      "tags": "brand, code, social"
+      "tags": "brand, logo, code, social"
     },
     {
       "name": "github-alt",
-      "tags": "brand, code, social"
+      "tags": "brand, logo, code, social"
     },
     {
       "name": "github-square",
-      "tags": "brand, code, social"
+      "tags": "brand, logo, code, social"
     },
     {
       "name": "gittip",
-      "tags": "brand, social, heart"
+      "tags": "brand, logo, social, heart"
     },
     {
       "name": "glass",
-      "tags": "drink, martini"
+      "tags": "drink, martini, alcohol"
     },
     {
       "name": "globe",
@@ -843,19 +845,19 @@
     },
     {
       "name": "google",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "google-plus",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "google-plus-square",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "google-wallet",
-      "tags": "brand, payment"
+      "tags": "brand, logo, payment"
     },
     {
       "name": "graduation-cap",
@@ -871,7 +873,7 @@
     },
     {
       "name": "hacker-news",
-      "tags": "brand, social, ycombinator"
+      "tags": "brand, logo, social, ycombinator"
     },
     {
       "name": "hand-o-down",
@@ -924,7 +926,7 @@
     },
     {
       "name": "html5",
-      "tags": "brand, web"
+      "tags": "brand, logo, web"
     },
     {
       "name": "ils",
@@ -950,7 +952,7 @@
     },
     {
       "name": "instagram",
-      "tags": "brand, camera, facebook, social, photos"
+      "tags": "brand, logo, camera, facebook, social, photos"
     },
     {
       "name": "ioxhost"
@@ -969,7 +971,7 @@
     },
     {
       "name": "jsfiddle",
-      "tags": "brand, code"
+      "tags": "brand, logo, code"
     },
     {
       "name": "key"
@@ -991,10 +993,12 @@
       "tags": "computer"
     },
     {
-      "name": "lastfm"
+      "name": "lastfm",
+      "tags": "brand, logo"
     },
     {
-      "name": "lastfm-square"
+      "name": "lastfm-square",
+      "tags": "brand, logo"
     },
     {
       "name": "leaf",
@@ -1002,7 +1006,7 @@
     },
     {
       "name": "leanpub",
-      "tags": "brand, book"
+      "tags": "brand, logo, book"
     },
     {
       "name": "lemon-o",
@@ -1031,15 +1035,15 @@
     },
     {
       "name": "linkedin",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "linkedin-square",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "linux",
-      "tags": "brand, penguin, bird, animal"
+      "tags": "brand, logo, penguin, bird, animal"
     },
     {
       "name": "list",
@@ -1116,14 +1120,15 @@
     },
     {
       "name": "maxcdn",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
-      "name": "meanpath"
+      "name": "meanpath",
+      "tags": "brand, logo"
     },
     {
       "name": "medkit",
-      "tags": "medical"
+      "tags": "medical, health, hospital"
     },
     {
       "name": "meh-o",
@@ -1138,14 +1143,16 @@
       "tags": "audio, sound, voice"
     },
     {
-      "name": "minus"
+      "name": "minus",
+      "tags": "remove"
     },
     {
-      "name": "minus-circle"
+      "name": "minus-circle",
+      "tags": "remove"
     },
     {
       "name": "minus-square",
-      "tags": "form control, collapse"
+      "tags": "remove, form control, collapse"
     },
     {
       "name": "minus-square-o",
@@ -1160,7 +1167,8 @@
       "tags": "currency, dollar bill, payment"
     },
     {
-      "name": "moon-o"
+      "name": "moon-o",
+      "tags": "crescent, night"
     },
     {
       "name": "music"
@@ -1174,7 +1182,7 @@
     },
     {
       "name": "openid",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "outdent",
@@ -1194,7 +1202,7 @@
     },
     {
       "name": "pagelines",
-      "tags": "brand, leaf, plant"
+      "tags": "brand, logo, leaf, plant"
     },
     {
       "name": "paint-brush",
@@ -1210,21 +1218,23 @@
     },
     {
       "name": "paw",
-      "tags": "animal, pet"
+      "tags": "animal, pet, print"
     },
     {
       "name": "paypal",
-      "tags": "payment"
+      "tags": "payment, brand, logo"
     },
     {
-      "name": "pencil"
+      "name": "pencil",
+      "tags": "write, edit"
     },
     {
       "name": "pencil-square",
-      "tags": "edit"
+      "tags": "write, edit"
     },
     {
-      "name": "pencil-square-o"
+      "name": "pencil-square-o",
+      "tags": "write, edit"
     },
     {
       "name": "phone",
@@ -1243,27 +1253,27 @@
     },
     {
       "name": "pied-piper",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "pied-piper-alt",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "pinterest",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "pinterest-p",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "pinterest-square",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "plane",
-      "tags": "airplane, jet"
+      "tags": "airplane, jet, transporation"
     },
     {
       "name": "play",
@@ -1286,15 +1296,16 @@
       "tags": "add"
     },
     {
-      "name": "plus-circle"
+      "name": "plus-circle",
+      "tags": "add"
     },
     {
       "name": "plus-square",
-      "tags": "medical"
+      "tags": "add, medical"
     },
     {
       "name": "plus-square-o",
-      "tags": "form controls, expand, resize"
+      "tags": "form controls, add, expand, resize"
     },
     {
       "name": "power-off",
@@ -1310,16 +1321,18 @@
     },
     {
       "name": "qq",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "qrcode"
     },
     {
-      "name": "question"
+      "name": "question",
+      "tags": "help"
     },
     {
-      "name": "question-circle"
+      "name": "question-circle",
+      "tags": "help"
     },
     {
       "name": "quote-left"
@@ -1331,18 +1344,19 @@
       "name": "random"
     },
     {
-      "name": "rebel"
+      "name": "rebel",
+      "tags": "brand, logo"
     },
     {
       "name": "recycle"
     },
     {
       "name": "reddit",
-      "tags": "brand, alien, social"
+      "tags": "brand, logo, alien, social"
     },
     {
       "name": "reddit-square",
-      "tags": "brand, alien, social"
+      "tags": "brand, logo, alien, social"
     },
     {
       "name": "refresh",
@@ -1350,7 +1364,7 @@
     },
     {
       "name": "renren",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "repeat",
@@ -1365,7 +1379,8 @@
       "tags": "email"
     },
     {
-      "name": "retweet"
+      "name": "retweet",
+      "tags": "twitter"
     },
     {
       "name": "road"
@@ -1402,7 +1417,7 @@
     },
     {
       "name": "sellsy",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "server"
@@ -1432,7 +1447,7 @@
     },
     {
       "name": "shirtsinbulk",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "shopping-cart"
@@ -1449,22 +1464,22 @@
     },
     {
       "name": "simplybuilt",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "sitemap"
     },
     {
       "name": "skyatlas",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "skype",
-      "tags": "brand, social, microsoft"
+      "tags": "brand, logo, social, microsoft"
     },
     {
       "name": "slack",
-      "tags": "brand, hash, pound"
+      "tags": "brand, logo, hash, pound"
     },
     {
       "name": "sliders",
@@ -1479,7 +1494,7 @@
     },
     {
       "name": "soundcloud",
-      "tags": "brand, social, music"
+      "tags": "brand, logo, social, music"
     },
     {
       "name": "sort",
@@ -1523,7 +1538,7 @@
     },
     {
       "name": "spotify",
-      "tags": "brand, social, music"
+      "tags": "brand, logo, social, music"
     },
     {
       "name": "square",
@@ -1559,11 +1574,11 @@
     },
     {
       "name": "steam",
-      "tags": "brand, social, games, valve"
+      "tags": "brand, logo, social, games, valve"
     },
     {
       "name": "steam-square",
-      "tags": "brand, social, games, valve"
+      "tags": "brand, logo, social, games, valve"
     },
     {
       "name": "step-backward",
@@ -1575,7 +1590,7 @@
     },
     {
       "name": "stethoscope",
-      "tags": "medical"
+      "tags": "medical, doctor"
     },
     {
       "name": "stop",
@@ -1591,11 +1606,11 @@
     },
     {
       "name": "stumbleupon",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "stumbleupon-circle",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "subscript"
@@ -1638,11 +1653,11 @@
     },
     {
       "name": "taxi",
-      "tags": "cab, automobile, car"
+      "tags": "cab, automobile, car, transportation"
     },
     {
       "name": "tencent-weibo",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "terminal",
@@ -1693,15 +1708,15 @@
     },
     {
       "name": "times",
-      "tags": "close"
+      "tags": "close, remove, delete"
     },
     {
       "name": "times-circle",
-      "tags": "close"
+      "tags": "close, remove, delete"
     },
     {
       "name": "times-circle-o",
-      "tags": "close"
+      "tags": "close, remove, delete"
     },
     {
       "name": "tint"
@@ -1739,7 +1754,7 @@
     },
     {
       "name": "trello",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "trophy",
@@ -1747,7 +1762,7 @@
     },
     {
       "name": "truck",
-      "tags": "vehicle"
+      "tags": "vehicle, transportation"
     },
     {
       "name": "try",
@@ -1759,23 +1774,23 @@
     },
     {
       "name": "tumblr",
-      "tags": "brand, yahoo, social"
+      "tags": "brand, logo, yahoo, social"
     },
     {
       "name": "tumblr-square",
-      "tags": "brand, yahoo, social"
+      "tags": "brand, logo, yahoo, social"
     },
     {
       "name": "twitch",
-      "tags": "brand, video, social"
+      "tags": "brand, logo, video, social"
     },
     {
       "name": "twitter",
-      "tags": "brand, bird, animal, social"
+      "tags": "brand, logo, bird, animal, social"
     },
     {
       "name": "twitter-square",
-      "tags": "brand, bird, animal, social"
+      "tags": "brand, logo, bird, animal, social"
     },
     {
       "name": "umbrella"
@@ -1844,15 +1859,15 @@
     },
     {
       "name": "vimeo-square",
-      "tags": "brand, video, social"
+      "tags": "brand, logo, video, social"
     },
     {
       "name": "vine",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "vk",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "volume-down",
@@ -1868,11 +1883,11 @@
     },
     {
       "name": "weibo",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "weixin",
-      "tags": "brand, social, chat"
+      "tags": "brand, logo, social, chat"
     },
     {
       "name": "wheelchair",
@@ -1880,7 +1895,7 @@
     },
     {
       "name": "whatsapp",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "wifi",
@@ -1888,11 +1903,11 @@
     },
     {
       "name": "windows",
-      "tags": "brand, microsoft"
+      "tags": "brand, logo, microsoft"
     },
     {
       "name": "wordpress",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "wrench",
@@ -1900,31 +1915,31 @@
     },
     {
       "name": "xing",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "xing-square",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "yahoo",
-      "tags": "brand"
+      "tags": "brand, logo"
     },
     {
       "name": "yelp",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "youtube",
-      "tags": "brand, video, google, social"
+      "tags": "brand, logo, video, google, social"
     },
     {
       "name": "youtube-play",
-      "tags": "brand, video player, google, social"
+      "tags": "brand, logo, video player, google, social"
     },
     {
       "name": "youtube-square",
-      "tags": "brand, video, google, social"
+      "tags": "brand, logo, video, google, social"
     }
   ]
 }

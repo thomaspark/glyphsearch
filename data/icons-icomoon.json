@@ -14,7 +14,7 @@
     },
     {
       "name": "airplane",
-      "tags": ""
+      "tags": "transportation"
     },
     {
       "name": "alarm",
@@ -26,7 +26,7 @@
     },
     {
       "name": "android",
-      "tags": "brand, robot, google"
+      "tags": "brand, logo"
     },
     {
       "name": "angry",
@@ -38,7 +38,7 @@
     },
     {
       "name": "apple",
-      "tags": "brand, fruit"
+      "tags": "brand, logo"
     },
     {
       "name": "arrow-down-left",
@@ -178,11 +178,11 @@
     },
     {
       "name": "blogger",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "blogger-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "bold",
@@ -326,7 +326,7 @@
     },
     {
       "name": "chrome",
-      "tags": "brand, browser, google"
+      "tags": "brand, logo"
     },
     {
       "name": "clock",
@@ -438,7 +438,7 @@
     },
     {
       "name": "css3",
-      "tags": "brand, web"
+      "tags": "brand, logo"
     },
     {
       "name": "dashboard",
@@ -446,15 +446,15 @@
     },
     {
       "name": "delicious",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "deviantart",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "deviantart-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "diamonds",
@@ -494,15 +494,15 @@
     },
     {
       "name": "dribbble",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "dribbble-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "dribbble-3",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "droplet",
@@ -530,7 +530,7 @@
     },
     {
       "name": "equalizer",
-      "tags": ""
+      "tags": "levels, settings"
     },
     {
       "name": "evil",
@@ -566,15 +566,15 @@
     },
     {
       "name": "facebook",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "facebook-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "facebook-3",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "feed",
@@ -654,7 +654,7 @@
     },
     {
       "name": "finder",
-      "tags": "apple, mac"
+      "tags": "apple, mac, logo"
     },
     {
       "name": "fire",
@@ -662,7 +662,7 @@
     },
     {
       "name": "firefox",
-      "tags": "mozilla, web, browser"
+      "tags": "brand, logo"
     },
     {
       "name": "first",
@@ -670,27 +670,27 @@
     },
     {
       "name": "flag",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "flattr",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "flickr",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "flickr-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "flickr-3",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "flickr-4",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "flip",
@@ -714,15 +714,15 @@
     },
     {
       "name": "food",
-      "tags": "cutlery"
+      "tags": "cutlery, dining, fork, knife"
     },
     {
       "name": "forrst",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "forrst-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "forward",
@@ -738,11 +738,11 @@
     },
     {
       "name": "foursquare",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "foursquare-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "gift",
@@ -750,27 +750,27 @@
     },
     {
       "name": "github",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "github-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "github-3",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "github-4",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "github-5",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "glass",
-      "tags": "drink, martini"
+      "tags": "drink, martini, alcohol, cocktail"
     },
     {
       "name": "globe",
@@ -778,27 +778,27 @@
     },
     {
       "name": "google-drive",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "google-plus",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "google-plus-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "google-plus-3",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "google-plus-4",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "google",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "grin",
@@ -870,7 +870,7 @@
     },
     {
       "name": "IE",
-      "tags": "brand, browser, microsoft, web"
+      "tags": "brand, logo"
     },
     {
       "name": "image",
@@ -906,7 +906,7 @@
     },
     {
       "name": "instagram",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "italic",
@@ -914,7 +914,7 @@
     },
     {
       "name": "joomla",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "key",
@@ -934,7 +934,7 @@
     },
     {
       "name": "lanyrd",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "laptop",
@@ -946,11 +946,11 @@
     },
     {
       "name": "lastfm",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "lastfm-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "leaf",
@@ -966,7 +966,7 @@
     },
     {
       "name": "libreoffice",
-      "tags": "brand"
+      "tags": "brandlogo, "
     },
     {
       "name": "lightning",
@@ -978,7 +978,7 @@
     },
     {
       "name": "linkedin",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "list",
@@ -1122,7 +1122,7 @@
     },
     {
       "name": "opera",
-      "tags": "brand, browser, web"
+      "tags": "brand, logo"
     },
     {
       "name": "pacman",
@@ -1190,15 +1190,15 @@
     },
     {
       "name": "paypal",
-      "tags": "brand, payment, social"
+      "tags": "brand, logo, payment, social"
     },
     {
       "name": "paypal-2",
-      "tags": "brand, payment, social"
+      "tags": "brand, logo, payment, social"
     },
     {
       "name": "paypal-3",
-      "tags": "brand, payment, social"
+      "tags": "brand, logo, payment, social"
     },
     {
       "name": "pen",
@@ -1222,11 +1222,11 @@
     },
     {
       "name": "picassa",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "picassa-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "pie",
@@ -1238,11 +1238,11 @@
     },
     {
       "name": "pinterest",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "pinterest-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "play",
@@ -1306,7 +1306,7 @@
     },
     {
       "name": "question",
-      "tags": ""
+      "tags": "help, mark"
     },
     {
       "name": "quill",
@@ -1326,7 +1326,7 @@
     },
     {
       "name": "reddit",
-      "tags": "alien, brand, social"
+      "tags": "alien, brand, logo, social"
     },
     {
       "name": "redo",
@@ -1370,7 +1370,7 @@
     },
     {
       "name": "safari",
-      "tags": "brand, browser, web"
+      "tags": "brand, logo, "
     },
     {
       "name": "scissors",
@@ -1418,7 +1418,7 @@
     },
     {
       "name": "skype",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "smiley",
@@ -1430,11 +1430,11 @@
     },
     {
       "name": "soundcloud",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "soundcloud-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "spades",
@@ -1442,7 +1442,7 @@
     },
     {
       "name": "spam",
-      "tags": "danger, exclamation point, sign, warning"
+      "tags": "caution, danger, exclamation point, sign, warning"
     },
     {
       "name": "spell-check",
@@ -1478,7 +1478,7 @@
     },
     {
       "name": "stackoverflow",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "star",
@@ -1498,11 +1498,11 @@
     },
     {
       "name": "steam",
-      "tags": "brand, game, social"
+      "tags": "brand, logo, game, social"
     },
     {
       "name": "steam-2",
-      "tags": "brand, game, social"
+      "tags": "brand, logo, game, social"
     },
     {
       "name": "stop",
@@ -1526,11 +1526,11 @@
     },
     {
       "name": "stumbleupon",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "stumbleupon-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "support",
@@ -1610,15 +1610,15 @@
     },
     {
       "name": "tumblr",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "tumblr-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "tux",
-      "tags": "bird, brand, penguin"
+      "tags": "bird, brand, logo, penguin"
     },
     {
       "name": "tv",
@@ -1626,15 +1626,15 @@
     },
     {
       "name": "twitter",
-      "tags": "brand, bird, social"
+      "tags": "brand, bird, logo, social"
     },
     {
       "name": "twitter-2",
-      "tags": "brand, bird, social"
+      "tags": "brand, bird, logo, social"
     },
     {
       "name": "twitter-3",
-      "tags": "brand, bird, social"
+      "tags": "brand, bird, logo, social"
     },
     {
       "name": "underline",
@@ -1690,15 +1690,15 @@
     },
     {
       "name": "vimeo",
-      "tags": "brand, social, video"
+      "tags": "brand, social, logo"
     },
     {
       "name": "vimeo-2",
-      "tags": "brand, social, video"
+      "tags": "brand, social, logo"
     },
     {
       "name": "vimeo2",
-      "tags": "brand, social, video"
+      "tags": "brand, social, logo"
     },
     {
       "name": "volume-decrease",
@@ -1734,15 +1734,15 @@
     },
     {
       "name": "warning",
-      "tags": "alert, exclamation, sign"
+      "tags": "alert, caution, exclamation, sign"
     },
     {
       "name": "windows",
-      "tags": "brand, microsoft"
+      "tags": "brand, logo"
     },
     {
       "name": "windows8",
-      "tags": "brand, microsoft"
+      "tags": "brand, logo"
     },
     {
       "name": "wink",
@@ -1762,11 +1762,11 @@
     },
     {
       "name": "wordpress",
-      "tags": "brand, blog, social"
+      "tags": "brand, blog, logo, social"
     },
     {
       "name": "wordpress-2",
-      "tags": "brand, blog, social"
+      "tags": "brand, blog, logo, social"
     },
     {
       "name": "wrench",
@@ -1774,27 +1774,27 @@
     },
     {
       "name": "xing",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "xing-2",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "yahoo",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "yelp",
-      "tags": "brand, social"
+      "tags": "brand, logo, social"
     },
     {
       "name": "youtube",
-      "tags": "brand, social, video"
+      "tags": "brand, logo, social, video"
     },
     {
       "name": "youtube-2",
-      "tags": "brand, social, video"
+      "tags": "brand, logo, social, video"
     },
     {
       "name": "zoom-in",

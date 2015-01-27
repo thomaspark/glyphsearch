@@ -50,7 +50,7 @@
     },
     {
       "name": "beer",
-      "tags": "drink, cup, meetup"
+      "tags": "drink, cup, alcohol, mug, stein"
     },
     {
       "name": "book",
@@ -330,7 +330,7 @@
     },
     {
       "name": "info",
-      "tags": "help"
+      "tags": ""
     },
     {
       "name": "issue-closed",

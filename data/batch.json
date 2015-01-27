@@ -8,7 +8,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "adn",
-    "tags": "brand social",
+    "tags": "brand, logo, social",
     "class": "fa fa-adn"
   },
   {
@@ -50,7 +50,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "android",
-    "tags": "brand, robot, google",
+    "tags": "brand, logo, robot",
     "class": "fa fa-android"
   },
   {
@@ -110,7 +110,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "apple",
-    "tags": "brand, food, fruit",
+    "tags": "brand, logo, food, fruit",
     "class": "fa fa-apple"
   },
   {
@@ -272,19 +272,19 @@
   {
     "_tags": ["font-awesome"],
     "name": "beer",
-    "tags": "drink, mug, stein",
+    "tags": "drink, mug, stein, alcohol",
     "class": "fa fa-beer"
   },
   {
     "_tags": ["font-awesome"],
     "name": "behance",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-behance"
   },
   {
     "_tags": ["font-awesome"],
     "name": "behance-square",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-behance-square"
   },
   {
@@ -332,13 +332,13 @@
   {
     "_tags": ["font-awesome"],
     "name": "bitbucket",
-    "tags": "brand, code, social",
+    "tags": "brand, logo, code, social",
     "class": "fa fa-bitbucket"
   },
   {
     "_tags": ["font-awesome"],
     "name": "bitbucket-square",
-    "tags": "brand, code, social",
+    "tags": "brand, logo, code, social",
     "class": "fa fa-bitbucket-square"
   },
   {
@@ -368,7 +368,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "btc",
-    "tags": "bitcoin, brand, currency, money",
+    "tags": "bitcoin, logo, brand, currency, money",
     "class": "fa fa-btc"
   },
   {
@@ -404,7 +404,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "buysellads",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-buysellads"
   },
   {
@@ -440,7 +440,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "car",
-    "tags": "automobile",
+    "tags": "automobile, transporation",
     "class": "fa fa-car"
   },
   {
@@ -710,7 +710,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "codepen",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-codepen"
   },
   {
@@ -776,7 +776,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "connectdevelop",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-connectdevelop"
   },
   {
@@ -806,7 +806,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "css3",
-    "tags": "brand, web",
+    "tags": "brand, logo",
     "class": "fa fa-css3"
   },
   {
@@ -830,7 +830,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "dashcube",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-dashcube"
   },
   {
@@ -842,7 +842,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "delicious",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-delicious"
   },
   {
@@ -854,7 +854,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "deviantart",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-deviantart"
   },
   {
@@ -866,7 +866,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "digg",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-digg"
   },
   {
@@ -884,19 +884,19 @@
   {
     "_tags": ["font-awesome"],
     "name": "dribbble",
-    "tags": "brand, social, basketball",
+    "tags": "brand, logo, social, basketball",
     "class": "fa fa-dribbble"
   },
   {
     "_tags": ["font-awesome"],
     "name": "dropbox",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-dropbox"
   },
   {
     "_tags": ["font-awesome"],
     "name": "drupal",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-drupal"
   },
   {
@@ -962,19 +962,19 @@
   {
     "_tags": ["font-awesome"],
     "name": "exclamation",
-    "tags": "",
+    "tags": "alert, caution, warning",
     "class": "fa fa-exclamation"
   },
   {
     "_tags": ["font-awesome"],
     "name": "exclamation-circle",
-    "tags": "",
+    "tags": "alert, caution, warning, sign",
     "class": "fa fa-exclamation-circle"
   },
   {
     "_tags": ["font-awesome"],
     "name": "exclamation-triangle",
-    "tags": "warning",
+    "tags": "alert, caution, warning, sign",
     "class": "fa fa-exclamation-triangle"
   },
   {
@@ -1016,19 +1016,19 @@
   {
     "_tags": ["font-awesome"],
     "name": "facebook",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-facebook"
   },
   {
     "_tags": ["font-awesome"],
     "name": "facebook-official",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-facebook-official"
   },
   {
     "_tags": ["font-awesome"],
     "name": "facebook-square",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-facebook-square"
   },
   {
@@ -1196,7 +1196,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "flickr",
-    "tags": "brand, yahoo, social, photos",
+    "tags": "brand, logo, yahoo, social, photos",
     "class": "fa fa-flickr"
   },
   {
@@ -1238,7 +1238,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "forumbee",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-forumbee"
   },
   {
@@ -1250,7 +1250,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "foursquare",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-foursquare"
   },
   {
@@ -1292,43 +1292,43 @@
   {
     "_tags": ["font-awesome"],
     "name": "git",
-    "tags": "brand, code, social",
+    "tags": "brand, logo, code, social",
     "class": "fa fa-git"
   },
   {
     "_tags": ["font-awesome"],
     "name": "git-square",
-    "tags": "brand, code, social",
+    "tags": "brand, logo, code, social",
     "class": "fa fa-git-square"
   },
   {
     "_tags": ["font-awesome"],
     "name": "github",
-    "tags": "brand, code, social",
+    "tags": "brand, logo, code, social",
     "class": "fa fa-github"
   },
   {
     "_tags": ["font-awesome"],
     "name": "github-alt",
-    "tags": "brand, code, social",
+    "tags": "brand, logo, code, social",
     "class": "fa fa-github-alt"
   },
   {
     "_tags": ["font-awesome"],
     "name": "github-square",
-    "tags": "brand, code, social",
+    "tags": "brand, logo, code, social",
     "class": "fa fa-github-square"
   },
   {
     "_tags": ["font-awesome"],
     "name": "gittip",
-    "tags": "brand, social, heart",
+    "tags": "brand, logo, social, heart",
     "class": "fa fa-gittip"
   },
   {
     "_tags": ["font-awesome"],
     "name": "glass",
-    "tags": "drink, martini",
+    "tags": "drink, martini, alcohol",
     "class": "fa fa-glass"
   },
   {
@@ -1340,25 +1340,25 @@
   {
     "_tags": ["font-awesome"],
     "name": "google",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-google"
   },
   {
     "_tags": ["font-awesome"],
     "name": "google-plus",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-google-plus"
   },
   {
     "_tags": ["font-awesome"],
     "name": "google-plus-square",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-google-plus-square"
   },
   {
     "_tags": ["font-awesome"],
     "name": "google-wallet",
-    "tags": "brand, payment",
+    "tags": "brand, logo, payment",
     "class": "fa fa-google-wallet"
   },
   {
@@ -1382,7 +1382,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "hacker-news",
-    "tags": "brand, social, ycombinator",
+    "tags": "brand, logo, social, ycombinator",
     "class": "fa fa-hacker-news"
   },
   {
@@ -1466,7 +1466,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "html5",
-    "tags": "brand, web",
+    "tags": "brand, logo, web",
     "class": "fa fa-html5"
   },
   {
@@ -1508,7 +1508,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "instagram",
-    "tags": "brand, camera, facebook, social, photos",
+    "tags": "brand, logo, camera, facebook, social, photos",
     "class": "fa fa-instagram"
   },
   {
@@ -1538,7 +1538,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "jsfiddle",
-    "tags": "brand, code",
+    "tags": "brand, logo, code",
     "class": "fa fa-jsfiddle"
   },
   {
@@ -1574,13 +1574,13 @@
   {
     "_tags": ["font-awesome"],
     "name": "lastfm",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fa fa-lastfm"
   },
   {
     "_tags": ["font-awesome"],
     "name": "lastfm-square",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fa fa-lastfm-square"
   },
   {
@@ -1592,7 +1592,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "leanpub",
-    "tags": "brand, book",
+    "tags": "brand, logo, book",
     "class": "fa fa-leanpub"
   },
   {
@@ -1640,19 +1640,19 @@
   {
     "_tags": ["font-awesome"],
     "name": "linkedin",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-linkedin"
   },
   {
     "_tags": ["font-awesome"],
     "name": "linkedin-square",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-linkedin-square"
   },
   {
     "_tags": ["font-awesome"],
     "name": "linux",
-    "tags": "brand, penguin, bird, animal",
+    "tags": "brand, logo, penguin, bird, animal",
     "class": "fa fa-linux"
   },
   {
@@ -1772,19 +1772,19 @@
   {
     "_tags": ["font-awesome"],
     "name": "maxcdn",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-maxcdn"
   },
   {
     "_tags": ["font-awesome"],
     "name": "meanpath",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fa fa-meanpath"
   },
   {
     "_tags": ["font-awesome"],
     "name": "medkit",
-    "tags": "medical",
+    "tags": "medical, health, hospital",
     "class": "fa fa-medkit"
   },
   {
@@ -1808,19 +1808,19 @@
   {
     "_tags": ["font-awesome"],
     "name": "minus",
-    "tags": "",
+    "tags": "remove",
     "class": "fa fa-minus"
   },
   {
     "_tags": ["font-awesome"],
     "name": "minus-circle",
-    "tags": "",
+    "tags": "remove",
     "class": "fa fa-minus-circle"
   },
   {
     "_tags": ["font-awesome"],
     "name": "minus-square",
-    "tags": "form control, collapse",
+    "tags": "remove, form control, collapse",
     "class": "fa fa-minus-square"
   },
   {
@@ -1844,7 +1844,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "moon-o",
-    "tags": "",
+    "tags": "crescent, night",
     "class": "fa fa-moon-o"
   },
   {
@@ -1868,7 +1868,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "openid",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-openid"
   },
   {
@@ -1898,7 +1898,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "pagelines",
-    "tags": "brand, leaf, plant",
+    "tags": "brand, logo, leaf, plant",
     "class": "fa fa-pagelines"
   },
   {
@@ -1922,31 +1922,31 @@
   {
     "_tags": ["font-awesome"],
     "name": "paw",
-    "tags": "animal, pet",
+    "tags": "animal, pet, print",
     "class": "fa fa-paw"
   },
   {
     "_tags": ["font-awesome"],
     "name": "paypal",
-    "tags": "payment",
+    "tags": "payment, brand, logo",
     "class": "fa fa-paypal"
   },
   {
     "_tags": ["font-awesome"],
     "name": "pencil",
-    "tags": "",
+    "tags": "write, edit",
     "class": "fa fa-pencil"
   },
   {
     "_tags": ["font-awesome"],
     "name": "pencil-square",
-    "tags": "edit",
+    "tags": "write, edit",
     "class": "fa fa-pencil-square"
   },
   {
     "_tags": ["font-awesome"],
     "name": "pencil-square-o",
-    "tags": "",
+    "tags": "write, edit",
     "class": "fa fa-pencil-square-o"
   },
   {
@@ -1976,37 +1976,37 @@
   {
     "_tags": ["font-awesome"],
     "name": "pied-piper",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-pied-piper"
   },
   {
     "_tags": ["font-awesome"],
     "name": "pied-piper-alt",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-pied-piper-alt"
   },
   {
     "_tags": ["font-awesome"],
     "name": "pinterest",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-pinterest"
   },
   {
     "_tags": ["font-awesome"],
     "name": "pinterest-p",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-pinterest-p"
   },
   {
     "_tags": ["font-awesome"],
     "name": "pinterest-square",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-pinterest-square"
   },
   {
     "_tags": ["font-awesome"],
     "name": "plane",
-    "tags": "airplane, jet",
+    "tags": "airplane, jet, transporation",
     "class": "fa fa-plane"
   },
   {
@@ -2042,19 +2042,19 @@
   {
     "_tags": ["font-awesome"],
     "name": "plus-circle",
-    "tags": "",
+    "tags": "add",
     "class": "fa fa-plus-circle"
   },
   {
     "_tags": ["font-awesome"],
     "name": "plus-square",
-    "tags": "medical",
+    "tags": "add, medical",
     "class": "fa fa-plus-square"
   },
   {
     "_tags": ["font-awesome"],
     "name": "plus-square-o",
-    "tags": "form controls, expand, resize",
+    "tags": "form controls, add, expand, resize",
     "class": "fa fa-plus-square-o"
   },
   {
@@ -2078,7 +2078,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "qq",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-qq"
   },
   {
@@ -2090,13 +2090,13 @@
   {
     "_tags": ["font-awesome"],
     "name": "question",
-    "tags": "",
+    "tags": "help",
     "class": "fa fa-question"
   },
   {
     "_tags": ["font-awesome"],
     "name": "question-circle",
-    "tags": "",
+    "tags": "help",
     "class": "fa fa-question-circle"
   },
   {
@@ -2120,7 +2120,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "rebel",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fa fa-rebel"
   },
   {
@@ -2132,13 +2132,13 @@
   {
     "_tags": ["font-awesome"],
     "name": "reddit",
-    "tags": "brand, alien, social",
+    "tags": "brand, logo, alien, social",
     "class": "fa fa-reddit"
   },
   {
     "_tags": ["font-awesome"],
     "name": "reddit-square",
-    "tags": "brand, alien, social",
+    "tags": "brand, logo, alien, social",
     "class": "fa fa-reddit-square"
   },
   {
@@ -2150,7 +2150,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "renren",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-renren"
   },
   {
@@ -2174,7 +2174,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "retweet",
-    "tags": "",
+    "tags": "twitter",
     "class": "fa fa-retweet"
   },
   {
@@ -2234,7 +2234,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "sellsy",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-sellsy"
   },
   {
@@ -2282,7 +2282,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "shirtsinbulk",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-shirtsinbulk"
   },
   {
@@ -2312,7 +2312,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "simplybuilt",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-simplybuilt"
   },
   {
@@ -2324,19 +2324,19 @@
   {
     "_tags": ["font-awesome"],
     "name": "skyatlas",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-skyatlas"
   },
   {
     "_tags": ["font-awesome"],
     "name": "skype",
-    "tags": "brand, social, microsoft",
+    "tags": "brand, logo, social, microsoft",
     "class": "fa fa-skype"
   },
   {
     "_tags": ["font-awesome"],
     "name": "slack",
-    "tags": "brand, hash, pound",
+    "tags": "brand, logo, hash, pound",
     "class": "fa fa-slack"
   },
   {
@@ -2360,7 +2360,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "soundcloud",
-    "tags": "brand, social, music",
+    "tags": "brand, logo, social, music",
     "class": "fa fa-soundcloud"
   },
   {
@@ -2438,7 +2438,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "spotify",
-    "tags": "brand, social, music",
+    "tags": "brand, logo, social, music",
     "class": "fa fa-spotify"
   },
   {
@@ -2492,13 +2492,13 @@
   {
     "_tags": ["font-awesome"],
     "name": "steam",
-    "tags": "brand, social, games, valve",
+    "tags": "brand, logo, social, games, valve",
     "class": "fa fa-steam"
   },
   {
     "_tags": ["font-awesome"],
     "name": "steam-square",
-    "tags": "brand, social, games, valve",
+    "tags": "brand, logo, social, games, valve",
     "class": "fa fa-steam-square"
   },
   {
@@ -2516,7 +2516,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "stethoscope",
-    "tags": "medical",
+    "tags": "medical, doctor",
     "class": "fa fa-stethoscope"
   },
   {
@@ -2540,13 +2540,13 @@
   {
     "_tags": ["font-awesome"],
     "name": "stumbleupon",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-stumbleupon"
   },
   {
     "_tags": ["font-awesome"],
     "name": "stumbleupon-circle",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-stumbleupon-circle"
   },
   {
@@ -2618,13 +2618,13 @@
   {
     "_tags": ["font-awesome"],
     "name": "taxi",
-    "tags": "cab, automobile, car",
+    "tags": "cab, automobile, car, transportation",
     "class": "fa fa-taxi"
   },
   {
     "_tags": ["font-awesome"],
     "name": "tencent-weibo",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-tencent-weibo"
   },
   {
@@ -2702,19 +2702,19 @@
   {
     "_tags": ["font-awesome"],
     "name": "times",
-    "tags": "close",
+    "tags": "close, remove, delete",
     "class": "fa fa-times"
   },
   {
     "_tags": ["font-awesome"],
     "name": "times-circle",
-    "tags": "close",
+    "tags": "close, remove, delete",
     "class": "fa fa-times-circle"
   },
   {
     "_tags": ["font-awesome"],
     "name": "times-circle-o",
-    "tags": "close",
+    "tags": "close, remove, delete",
     "class": "fa fa-times-circle-o"
   },
   {
@@ -2774,7 +2774,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "trello",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-trello"
   },
   {
@@ -2786,7 +2786,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "truck",
-    "tags": "vehicle",
+    "tags": "vehicle, transportation",
     "class": "fa fa-truck"
   },
   {
@@ -2804,31 +2804,31 @@
   {
     "_tags": ["font-awesome"],
     "name": "tumblr",
-    "tags": "brand, yahoo, social",
+    "tags": "brand, logo, yahoo, social",
     "class": "fa fa-tumblr"
   },
   {
     "_tags": ["font-awesome"],
     "name": "tumblr-square",
-    "tags": "brand, yahoo, social",
+    "tags": "brand, logo, yahoo, social",
     "class": "fa fa-tumblr-square"
   },
   {
     "_tags": ["font-awesome"],
     "name": "twitch",
-    "tags": "brand, video, social",
+    "tags": "brand, logo, video, social",
     "class": "fa fa-twitch"
   },
   {
     "_tags": ["font-awesome"],
     "name": "twitter",
-    "tags": "brand, bird, animal, social",
+    "tags": "brand, logo, bird, animal, social",
     "class": "fa fa-twitter"
   },
   {
     "_tags": ["font-awesome"],
     "name": "twitter-square",
-    "tags": "brand, bird, animal, social",
+    "tags": "brand, logo, bird, animal, social",
     "class": "fa fa-twitter-square"
   },
   {
@@ -2942,19 +2942,19 @@
   {
     "_tags": ["font-awesome"],
     "name": "vimeo-square",
-    "tags": "brand, video, social",
+    "tags": "brand, logo, video, social",
     "class": "fa fa-vimeo-square"
   },
   {
     "_tags": ["font-awesome"],
     "name": "vine",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-vine"
   },
   {
     "_tags": ["font-awesome"],
     "name": "vk",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-vk"
   },
   {
@@ -2978,13 +2978,13 @@
   {
     "_tags": ["font-awesome"],
     "name": "weibo",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-weibo"
   },
   {
     "_tags": ["font-awesome"],
     "name": "weixin",
-    "tags": "brand, social, chat",
+    "tags": "brand, logo, social, chat",
     "class": "fa fa-weixin"
   },
   {
@@ -2996,7 +2996,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "whatsapp",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-whatsapp"
   },
   {
@@ -3008,13 +3008,13 @@
   {
     "_tags": ["font-awesome"],
     "name": "windows",
-    "tags": "brand, microsoft",
+    "tags": "brand, logo, microsoft",
     "class": "fa fa-windows"
   },
   {
     "_tags": ["font-awesome"],
     "name": "wordpress",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-wordpress"
   },
   {
@@ -3026,43 +3026,43 @@
   {
     "_tags": ["font-awesome"],
     "name": "xing",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-xing"
   },
   {
     "_tags": ["font-awesome"],
     "name": "xing-square",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-xing-square"
   },
   {
     "_tags": ["font-awesome"],
     "name": "yahoo",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-yahoo"
   },
   {
     "_tags": ["font-awesome"],
     "name": "yelp",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "fa fa-yelp"
   },
   {
     "_tags": ["font-awesome"],
     "name": "youtube",
-    "tags": "brand, video, google, social",
+    "tags": "brand, logo, video, google, social",
     "class": "fa fa-youtube"
   },
   {
     "_tags": ["font-awesome"],
     "name": "youtube-play",
-    "tags": "brand, video player, google, social",
+    "tags": "brand, logo, video player, google, social",
     "class": "fa fa-youtube-play"
   },
   {
     "_tags": ["font-awesome"],
     "name": "youtube-square",
-    "tags": "brand, video, google, social",
+    "tags": "brand, logo, video, google, social",
     "class": "fa fa-youtube-square"
   },
 
@@ -3609,7 +3609,7 @@
   {
     "_tags": ["glyphicons"],
     "name": "glass",
-    "tags": "drink, martini",
+    "tags": "drink, martini, alcohol, cocktail",
     "class": "glyphicon glyphicon-glass"
   },
   {
@@ -4041,7 +4041,7 @@
   {
     "_tags": ["glyphicons"],
     "name": "plane",
-    "tags": "airplane, jet",
+    "tags": "airplane, jet, transportation",
     "class": "glyphicon glyphicon-plane"
   },
   {
@@ -5626,7 +5626,7 @@
   {
     "_tags": ["ionicons"],
     "name": "beer",
-    "tags": "alcohol, drink, mug",
+    "tags": "alcohol, drink, mug, stein",
     "class": "ionicons ion-beer"
   },
   {
@@ -6154,7 +6154,7 @@
   {
     "_tags": ["ionicons"],
     "name": "ionic",
-    "tags": "atom, brand, chemistry, science",
+    "tags": "atom, brand, logo, chemistry, science",
     "class": "ionicons ion-ionic"
   },
   {
@@ -6964,7 +6964,7 @@
   {
     "_tags": ["ionicons"],
     "name": "ios-ionic-outline",
-    "tags": "atom, brand, science, chemistry",
+    "tags": "atom, brand, logo, science, chemistry",
     "class": "ionicons ion-ios-ionic-outline"
   },
   {
@@ -8128,7 +8128,7 @@
   {
     "_tags": ["ionicons"],
     "name": "playstation",
-    "tags": "brand, sony, video games",
+    "tags": "brand, logo, sony, video games",
     "class": "ionicons ion-playstation"
   },
   {
@@ -8302,37 +8302,37 @@
   {
     "_tags": ["ionicons"],
     "name": "social-android",
-    "tags": "brand, google",
+    "tags": "brand, logo, google",
     "class": "ionicons ion-social-android"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-android-outline",
-    "tags": "brand, google",
+    "tags": "brand, logo, google",
     "class": "ionicons ion-social-android-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-angular",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-angular"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-angular-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-angular-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-apple",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-apple"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-apple-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-apple-outline"
   },
   {
@@ -8350,85 +8350,85 @@
   {
     "_tags": ["ionicons"],
     "name": "social-buffer",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-buffer"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-buffer-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-buffer-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-chrome",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-chrome"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-chrome-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-chrome-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-codepen",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-codepen"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-codepen-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-codepen-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-css3",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-css3"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-css3-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-css3-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-designernews",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-designernews"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-designernews-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-designernews-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-dribbble",
-    "tags": "brand, basketball",
+    "tags": "brand, logo, basketball",
     "class": "ionicons ion-social-dribbble"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-dribbble-outline",
-    "tags": "brand, basketball",
+    "tags": "brand, logo, basketball",
     "class": "ionicons ion-social-dribbble-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-dropbox",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-dropbox"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-dropbox-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-dropbox-outline"
   },
   {
@@ -8446,25 +8446,25 @@
   {
     "_tags": ["ionicons"],
     "name": "social-facebook",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-facebook"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-facebook-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-facebook-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-foursquare",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-foursquare"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-foursquare-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-foursquare-outline"
   },
   {
@@ -8476,49 +8476,49 @@
   {
     "_tags": ["ionicons"],
     "name": "social-github",
-    "tags": "brand, code",
+    "tags": "brand, logo, code",
     "class": "ionicons ion-social-github"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-github-outline",
-    "tags": "brand, code",
+    "tags": "brand, logo, code",
     "class": "ionicons ion-social-github-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-google",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-google"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-google-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-google-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-googleplus",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-googleplus"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-googleplus-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-googleplus-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-hackernews",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-hackernews"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-hackernews-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-hackernews-outline"
   },
   {
@@ -8530,175 +8530,175 @@
   {
     "_tags": ["ionicons"],
     "name": "social-html5-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-html5-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-instagram",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-instagram"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-instagram-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-instagram-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-javascript",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-javascript"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-javascript-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-javascript-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-linkedin",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-linkedin"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-linkedin-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-linkedin-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-markdown",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-markdown"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-nodejs",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-nodejs"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-octocat",
-    "tags": "brand, github",
+    "tags": "brand, logo, github",
     "class": "ionicons ion-social-octocat"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-pinterest",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-pinterest"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-pinterest-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-pinterest-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-python",
-    "tags": "brand,",
+    "tags": "brand, logo,",
     "class": "ionicons ion-social-python"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-reddit",
-    "tags": "brand, alien",
+    "tags": "brand, logo, alien",
     "class": "ionicons ion-social-reddit"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-reddit-outline",
-    "tags": "brand, alien",
+    "tags": "brand, logo, alien",
     "class": "ionicons ion-social-reddit-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-rss",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-rss"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-rss-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-rss-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-sass",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-sass"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-skype",
-    "tags": "brand, microsoft",
+    "tags": "brand, logo, microsoft",
     "class": "ionicons ion-social-skype"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-skype-outline",
-    "tags": "brand, microsoft",
+    "tags": "brand, logo, microsoft",
     "class": "ionicons ion-social-skype-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-snapchat",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-snapchat"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-snapchat-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-snapchat-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-tumblr",
-    "tags": "brand, yahoo",
+    "tags": "brand, logo, yahoo",
     "class": "ionicons ion-social-tumblr"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-tumblr-outline",
-    "tags": "brand, yahoo",
+    "tags": "brand, logo, yahoo",
     "class": "ionicons ion-social-tumblr-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-tux",
-    "tags": "bird, linux, penguin",
+    "tags": "brand, logo, bird, linux, penguin",
     "class": "ionicons ion-social-tux"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-twitch",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-twitch"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-twitch-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-twitch-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-twitter",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-twitter"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-twitter-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-twitter-outline"
   },
   {
@@ -8716,61 +8716,61 @@
   {
     "_tags": ["ionicons"],
     "name": "social-vimeo",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-vimeo"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-vimeo-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-vimeo-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-whatsapp",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-whatsapp"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-whatsapp-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-whatsapp-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-windows",
-    "tags": "brand, microsoft",
+    "tags": "brand, logo, microsoft",
     "class": "ionicons ion-social-windows"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-windows-outline",
-    "tags": "brand, microsoft",
+    "tags": "brand, logo, microsoft",
     "class": "ionicons ion-social-windows-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-wordpress",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-wordpress"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-wordpress-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-wordpress-outline"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-yahoo",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-yahoo"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-yahoo-outline",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-yahoo-outline"
   },
   {
@@ -8788,13 +8788,13 @@
   {
     "_tags": ["ionicons"],
     "name": "social-youtube",
-    "tags": "brand, video, google",
+    "tags": "brand, logo, video, google",
     "class": "ionicons ion-social-youtube"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-youtube-outline",
-    "tags": "brand, video, google",
+    "tags": "brand, logo, video, google",
     "class": "ionicons ion-social-youtube-outline"
   },
   {
@@ -8842,7 +8842,7 @@
   {
     "_tags": ["ionicons"],
     "name": "steam",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "ionicons ion-steam"
   },
   {
@@ -9016,7 +9016,7 @@
   {
     "_tags": ["ionicons"],
     "name": "xbox",
-    "tags": "brand, video game",
+    "tags": "brand, logo, video game",
     "class": "ionicons ion-xbox"
   },
 
@@ -9041,7 +9041,7 @@
   {
     "_tags": ["icomoon"],
     "name": "airplane",
-    "tags": "",
+    "tags": "transportation",
     "class": "icomoon icon-airplane"
   },
   {
@@ -9059,7 +9059,7 @@
   {
     "_tags": ["icomoon"],
     "name": "android",
-    "tags": "brand, robot, google",
+    "tags": "brand, logo",
     "class": "icomoon icon-android"
   },
   {
@@ -9077,7 +9077,7 @@
   {
     "_tags": ["icomoon"],
     "name": "apple",
-    "tags": "brand, fruit",
+    "tags": "brand, logo",
     "class": "icomoon icon-apple"
   },
   {
@@ -9287,13 +9287,13 @@
   {
     "_tags": ["icomoon"],
     "name": "blogger",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-blogger"
   },
   {
     "_tags": ["icomoon"],
     "name": "blogger-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-blogger-2"
   },
   {
@@ -9509,7 +9509,7 @@
   {
     "_tags": ["icomoon"],
     "name": "chrome",
-    "tags": "brand, browser, google",
+    "tags": "brand, logo",
     "class": "icomoon icon-chrome"
   },
   {
@@ -9677,7 +9677,7 @@
   {
     "_tags": ["icomoon"],
     "name": "css3",
-    "tags": "brand, web",
+    "tags": "brand, logo",
     "class": "icomoon icon-css3"
   },
   {
@@ -9689,19 +9689,19 @@
   {
     "_tags": ["icomoon"],
     "name": "delicious",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-delicious"
   },
   {
     "_tags": ["icomoon"],
     "name": "deviantart",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-deviantart"
   },
   {
     "_tags": ["icomoon"],
     "name": "deviantart-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-deviantart-2"
   },
   {
@@ -9761,19 +9761,19 @@
   {
     "_tags": ["icomoon"],
     "name": "dribbble",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-dribbble"
   },
   {
     "_tags": ["icomoon"],
     "name": "dribbble-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-dribbble-2"
   },
   {
     "_tags": ["icomoon"],
     "name": "dribbble-3",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-dribbble-3"
   },
   {
@@ -9815,7 +9815,7 @@
   {
     "_tags": ["icomoon"],
     "name": "equalizer",
-    "tags": "",
+    "tags": "levels, settings",
     "class": "icomoon icon-equalizer"
   },
   {
@@ -9869,19 +9869,19 @@
   {
     "_tags": ["icomoon"],
     "name": "facebook",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-facebook"
   },
   {
     "_tags": ["icomoon"],
     "name": "facebook-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-facebook-2"
   },
   {
     "_tags": ["icomoon"],
     "name": "facebook-3",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-facebook-3"
   },
   {
@@ -10001,7 +10001,7 @@
   {
     "_tags": ["icomoon"],
     "name": "finder",
-    "tags": "apple, mac",
+    "tags": "apple, mac, logo",
     "class": "icomoon icon-finder"
   },
   {
@@ -10013,7 +10013,7 @@
   {
     "_tags": ["icomoon"],
     "name": "firefox",
-    "tags": "mozilla, web, browser",
+    "tags": "brand, logo",
     "class": "icomoon icon-firefox"
   },
   {
@@ -10025,37 +10025,37 @@
   {
     "_tags": ["icomoon"],
     "name": "flag",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-flag"
   },
   {
     "_tags": ["icomoon"],
     "name": "flattr",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-flattr"
   },
   {
     "_tags": ["icomoon"],
     "name": "flickr",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-flickr"
   },
   {
     "_tags": ["icomoon"],
     "name": "flickr-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-flickr-2"
   },
   {
     "_tags": ["icomoon"],
     "name": "flickr-3",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-flickr-3"
   },
   {
     "_tags": ["icomoon"],
     "name": "flickr-4",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-flickr-4"
   },
   {
@@ -10091,19 +10091,19 @@
   {
     "_tags": ["icomoon"],
     "name": "food",
-    "tags": "cutlery",
+    "tags": "cutlery, dining, fork, knife",
     "class": "icomoon icon-food"
   },
   {
     "_tags": ["icomoon"],
     "name": "forrst",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-forrst"
   },
   {
     "_tags": ["icomoon"],
     "name": "forrst-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-forrst-2"
   },
   {
@@ -10127,13 +10127,13 @@
   {
     "_tags": ["icomoon"],
     "name": "foursquare",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-foursquare"
   },
   {
     "_tags": ["icomoon"],
     "name": "foursquare-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-foursquare-2"
   },
   {
@@ -10145,37 +10145,37 @@
   {
     "_tags": ["icomoon"],
     "name": "github",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-github"
   },
   {
     "_tags": ["icomoon"],
     "name": "github-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-github-2"
   },
   {
     "_tags": ["icomoon"],
     "name": "github-3",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-github-3"
   },
   {
     "_tags": ["icomoon"],
     "name": "github-4",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-github-4"
   },
   {
     "_tags": ["icomoon"],
     "name": "github-5",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-github-5"
   },
   {
     "_tags": ["icomoon"],
     "name": "glass",
-    "tags": "drink, martini",
+    "tags": "drink, martini, alcohol, cocktail",
     "class": "icomoon icon-glass"
   },
   {
@@ -10187,37 +10187,37 @@
   {
     "_tags": ["icomoon"],
     "name": "google-drive",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-google-drive"
   },
   {
     "_tags": ["icomoon"],
     "name": "google-plus",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-google-plus"
   },
   {
     "_tags": ["icomoon"],
     "name": "google-plus-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-google-plus-2"
   },
   {
     "_tags": ["icomoon"],
     "name": "google-plus-3",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-google-plus-3"
   },
   {
     "_tags": ["icomoon"],
     "name": "google-plus-4",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-google-plus-4"
   },
   {
     "_tags": ["icomoon"],
     "name": "google",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-google"
   },
   {
@@ -10325,7 +10325,7 @@
   {
     "_tags": ["icomoon"],
     "name": "IE",
-    "tags": "brand, browser, microsoft, web",
+    "tags": "brand, logo",
     "class": "icomoon icon-IE"
   },
   {
@@ -10379,7 +10379,7 @@
   {
     "_tags": ["icomoon"],
     "name": "instagram",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-instagram"
   },
   {
@@ -10391,7 +10391,7 @@
   {
     "_tags": ["icomoon"],
     "name": "joomla",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-joomla"
   },
   {
@@ -10421,7 +10421,7 @@
   {
     "_tags": ["icomoon"],
     "name": "lanyrd",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-lanyrd"
   },
   {
@@ -10439,13 +10439,13 @@
   {
     "_tags": ["icomoon"],
     "name": "lastfm",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-lastfm"
   },
   {
     "_tags": ["icomoon"],
     "name": "lastfm-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-lastfm-2"
   },
   {
@@ -10469,7 +10469,7 @@
   {
     "_tags": ["icomoon"],
     "name": "libreoffice",
-    "tags": "brand",
+    "tags": "brandlogo, ",
     "class": "icomoon icon-libreoffice"
   },
   {
@@ -10487,7 +10487,7 @@
   {
     "_tags": ["icomoon"],
     "name": "linkedin",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-linkedin"
   },
   {
@@ -10703,7 +10703,7 @@
   {
     "_tags": ["icomoon"],
     "name": "opera",
-    "tags": "brand, browser, web",
+    "tags": "brand, logo",
     "class": "icomoon icon-opera"
   },
   {
@@ -10805,19 +10805,19 @@
   {
     "_tags": ["icomoon"],
     "name": "paypal",
-    "tags": "brand, payment, social",
+    "tags": "brand, logo, payment, social",
     "class": "icomoon icon-paypal"
   },
   {
     "_tags": ["icomoon"],
     "name": "paypal-2",
-    "tags": "brand, payment, social",
+    "tags": "brand, logo, payment, social",
     "class": "icomoon icon-paypal-2"
   },
   {
     "_tags": ["icomoon"],
     "name": "paypal-3",
-    "tags": "brand, payment, social",
+    "tags": "brand, logo, payment, social",
     "class": "icomoon icon-paypal-3"
   },
   {
@@ -10853,13 +10853,13 @@
   {
     "_tags": ["icomoon"],
     "name": "picassa",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-picassa"
   },
   {
     "_tags": ["icomoon"],
     "name": "picassa-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-picassa-2"
   },
   {
@@ -10877,13 +10877,13 @@
   {
     "_tags": ["icomoon"],
     "name": "pinterest",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-pinterest"
   },
   {
     "_tags": ["icomoon"],
     "name": "pinterest-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-pinterest-2"
   },
   {
@@ -10979,7 +10979,7 @@
   {
     "_tags": ["icomoon"],
     "name": "question",
-    "tags": "",
+    "tags": "help, mark",
     "class": "icomoon icon-question"
   },
   {
@@ -11009,7 +11009,7 @@
   {
     "_tags": ["icomoon"],
     "name": "reddit",
-    "tags": "alien, brand, social",
+    "tags": "alien, brand, logo, social",
     "class": "icomoon icon-reddit"
   },
   {
@@ -11075,7 +11075,7 @@
   {
     "_tags": ["icomoon"],
     "name": "safari",
-    "tags": "brand, browser, web",
+    "tags": "brand, logo, ",
     "class": "icomoon icon-safari"
   },
   {
@@ -11147,7 +11147,7 @@
   {
     "_tags": ["icomoon"],
     "name": "skype",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-skype"
   },
   {
@@ -11165,13 +11165,13 @@
   {
     "_tags": ["icomoon"],
     "name": "soundcloud",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-soundcloud"
   },
   {
     "_tags": ["icomoon"],
     "name": "soundcloud-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-soundcloud-2"
   },
   {
@@ -11183,7 +11183,7 @@
   {
     "_tags": ["icomoon"],
     "name": "spam",
-    "tags": "danger, exclamation point, sign, warning",
+    "tags": "caution, danger, exclamation point, sign, warning",
     "class": "icomoon icon-spam"
   },
   {
@@ -11237,7 +11237,7 @@
   {
     "_tags": ["icomoon"],
     "name": "stackoverflow",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-stackoverflow"
   },
   {
@@ -11267,13 +11267,13 @@
   {
     "_tags": ["icomoon"],
     "name": "steam",
-    "tags": "brand, game, social",
+    "tags": "brand, logo, game, social",
     "class": "icomoon icon-steam"
   },
   {
     "_tags": ["icomoon"],
     "name": "steam-2",
-    "tags": "brand, game, social",
+    "tags": "brand, logo, game, social",
     "class": "icomoon icon-steam-2"
   },
   {
@@ -11309,13 +11309,13 @@
   {
     "_tags": ["icomoon"],
     "name": "stumbleupon",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-stumbleupon"
   },
   {
     "_tags": ["icomoon"],
     "name": "stumbleupon-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-stumbleupon-2"
   },
   {
@@ -11435,19 +11435,19 @@
   {
     "_tags": ["icomoon"],
     "name": "tumblr",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-tumblr"
   },
   {
     "_tags": ["icomoon"],
     "name": "tumblr-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-tumblr-2"
   },
   {
     "_tags": ["icomoon"],
     "name": "tux",
-    "tags": "bird, brand, penguin",
+    "tags": "bird, brand, logo, penguin",
     "class": "icomoon icon-tux"
   },
   {
@@ -11459,19 +11459,19 @@
   {
     "_tags": ["icomoon"],
     "name": "twitter",
-    "tags": "brand, bird, social",
+    "tags": "brand, bird, logo, social",
     "class": "icomoon icon-twitter"
   },
   {
     "_tags": ["icomoon"],
     "name": "twitter-2",
-    "tags": "brand, bird, social",
+    "tags": "brand, bird, logo, social",
     "class": "icomoon icon-twitter-2"
   },
   {
     "_tags": ["icomoon"],
     "name": "twitter-3",
-    "tags": "brand, bird, social",
+    "tags": "brand, bird, logo, social",
     "class": "icomoon icon-twitter-3"
   },
   {
@@ -11555,19 +11555,19 @@
   {
     "_tags": ["icomoon"],
     "name": "vimeo",
-    "tags": "brand, social, video",
+    "tags": "brand, social, logo",
     "class": "icomoon icon-vimeo"
   },
   {
     "_tags": ["icomoon"],
     "name": "vimeo-2",
-    "tags": "brand, social, video",
+    "tags": "brand, social, logo",
     "class": "icomoon icon-vimeo-2"
   },
   {
     "_tags": ["icomoon"],
     "name": "vimeo2",
-    "tags": "brand, social, video",
+    "tags": "brand, social, logo",
     "class": "icomoon icon-vimeo2"
   },
   {
@@ -11621,19 +11621,19 @@
   {
     "_tags": ["icomoon"],
     "name": "warning",
-    "tags": "alert, exclamation, sign",
+    "tags": "alert, caution, exclamation, sign",
     "class": "icomoon icon-warning"
   },
   {
     "_tags": ["icomoon"],
     "name": "windows",
-    "tags": "brand, microsoft",
+    "tags": "brand, logo",
     "class": "icomoon icon-windows"
   },
   {
     "_tags": ["icomoon"],
     "name": "windows8",
-    "tags": "brand, microsoft",
+    "tags": "brand, logo",
     "class": "icomoon icon-windows8"
   },
   {
@@ -11663,13 +11663,13 @@
   {
     "_tags": ["icomoon"],
     "name": "wordpress",
-    "tags": "brand, blog, social",
+    "tags": "brand, blog, logo, social",
     "class": "icomoon icon-wordpress"
   },
   {
     "_tags": ["icomoon"],
     "name": "wordpress-2",
-    "tags": "brand, blog, social",
+    "tags": "brand, blog, logo, social",
     "class": "icomoon icon-wordpress-2"
   },
   {
@@ -11681,37 +11681,37 @@
   {
     "_tags": ["icomoon"],
     "name": "xing",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-xing"
   },
   {
     "_tags": ["icomoon"],
     "name": "xing-2",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-xing-2"
   },
   {
     "_tags": ["icomoon"],
     "name": "yahoo",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-yahoo"
   },
   {
     "_tags": ["icomoon"],
     "name": "yelp",
-    "tags": "brand, social",
+    "tags": "brand, logo, social",
     "class": "icomoon icon-yelp"
   },
   {
     "_tags": ["icomoon"],
     "name": "youtube",
-    "tags": "brand, social, video",
+    "tags": "brand, logo, social, video",
     "class": "icomoon icon-youtube"
   },
   {
     "_tags": ["icomoon"],
     "name": "youtube-2",
-    "tags": "brand, social, video",
+    "tags": "brand, logo, social, video",
     "class": "icomoon icon-youtube-2"
   },
   {
@@ -11802,7 +11802,7 @@
   {
     "_tags": ["octicons"],
     "name": "beer",
-    "tags": "drink, cup, meetup",
+    "tags": "drink, cup, alcohol, mug, stein",
     "class": "mega-octicon octicon-beer"
   },
   {
@@ -12222,7 +12222,7 @@
   {
     "_tags": ["octicons"],
     "name": "info",
-    "tags": "help",
+    "tags": "",
     "class": "mega-octicon octicon-info"
   },
   {
@@ -12889,7 +12889,7 @@
   {
     "_tags": ["foundation"],
     "name": "calendar",
-    "tags": "",
+    "tags": "date",
     "class": "fi-calendar"
   },
   {
@@ -13045,13 +13045,13 @@
   {
     "_tags": ["foundation"],
     "name": "minus-circle",
-    "tags": "",
+    "tags": "remove",
     "class": "fi-minus-circle"
   },
   {
     "_tags": ["foundation"],
     "name": "x-circle",
-    "tags": "",
+    "tags": "delete, remove",
     "class": "fi-x-circle"
   },
   {
@@ -13105,7 +13105,7 @@
   {
     "_tags": ["foundation"],
     "name": "alert",
-    "tags": "warning",
+    "tags": "caution, danger, exclamation, warning, sign",
     "class": "fi-alert"
   },
   {
@@ -13123,13 +13123,13 @@
   {
     "_tags": ["foundation"],
     "name": "mail",
-    "tags": "",
+    "tags": "envelope",
     "class": "fi-mail"
   },
   {
     "_tags": ["foundation"],
     "name": "video",
-    "tags": "",
+    "tags": "camera",
     "class": "fi-video"
   },
   {
@@ -13141,31 +13141,31 @@
   {
     "_tags": ["foundation"],
     "name": "comment",
-    "tags": "",
+    "tags": "chat bubble",
     "class": "fi-comment"
   },
   {
     "_tags": ["foundation"],
     "name": "comment-video",
-    "tags": "",
+    "tags": "chat bubble",
     "class": "fi-comment-video"
   },
   {
     "_tags": ["foundation"],
     "name": "comment-quotes",
-    "tags": "",
+    "tags": "chat bubble",
     "class": "fi-comment-quotes"
   },
   {
     "_tags": ["foundation"],
     "name": "comment-minus",
-    "tags": "",
+    "tags": "chat bubble, delete, remove",
     "class": "fi-comment-minus"
   },
   {
     "_tags": ["foundation"],
     "name": "comments",
-    "tags": "",
+    "tags": "chat bubble",
     "class": "fi-comments"
   },
   {
@@ -13177,13 +13177,13 @@
   {
     "_tags": ["foundation"],
     "name": "megaphone",
-    "tags": "",
+    "tags": "bullhorn",
     "class": "fi-megaphone"
   },
   {
     "_tags": ["foundation"],
     "name": "sound",
-    "tags": "",
+    "tags": "audio",
     "class": "fi-sound"
   },
   {
@@ -13201,13 +13201,13 @@
   {
     "_tags": ["foundation"],
     "name": "html5",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-html5"
   },
   {
     "_tags": ["foundation"],
     "name": "css3",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-css3"
   },
   {
@@ -13219,7 +13219,7 @@
   {
     "_tags": ["foundation"],
     "name": "web",
-    "tags": "",
+    "tags": "earth, planet, globe",
     "class": "fi-web"
   },
   {
@@ -13351,25 +13351,25 @@
   {
     "_tags": ["foundation"],
     "name": "arrows-out",
-    "tags": "",
+    "tags": "resize, expand",
     "class": "fi-arrows-out"
   },
   {
     "_tags": ["foundation"],
     "name": "arrows-in",
-    "tags": "",
+    "tags": "resize, compress",
     "class": "fi-arrows-in"
   },
   {
     "_tags": ["foundation"],
     "name": "arrows-expand",
-    "tags": "",
+    "tags": "resize, fullscreen",
     "class": "fi-arrows-expand"
   },
   {
     "_tags": ["foundation"],
     "name": "arrows-compress",
-    "tags": "",
+    "tags": "resize",
     "class": "fi-arrows-compress"
   },
   {
@@ -13435,13 +13435,13 @@
   {
     "_tags": ["foundation"],
     "name": "tablet-portrait",
-    "tags": "",
+    "tags": "ipad",
     "class": "fi-tablet-portrait"
   },
   {
     "_tags": ["foundation"],
     "name": "tablet-landscape",
-    "tags": "",
+    "tags": "ipad",
     "class": "fi-tablet-landscape"
   },
   {
@@ -13585,7 +13585,7 @@
   {
     "_tags": ["foundation"],
     "name": "paint-bucket",
-    "tags": "",
+    "tags": "fill, pour",
     "class": "fi-paint-bucket"
   },
   {
@@ -13681,13 +13681,13 @@
   {
     "_tags": ["foundation"],
     "name": "loop",
-    "tags": "",
+    "tags": "refresh, reload",
     "class": "fi-loop"
   },
   {
     "_tags": ["foundation"],
     "name": "shuffle",
-    "tags": "",
+    "tags": "random",
     "class": "fi-shuffle"
   },
   {
@@ -13801,13 +13801,13 @@
   {
     "_tags": ["foundation"],
     "name": "wheelchair",
-    "tags": "",
+    "tags": "handicap",
     "class": "fi-wheelchair"
   },
   {
     "_tags": ["foundation"],
     "name": "braille",
-    "tags": "",
+    "tags": "dots",
     "class": "fi-braille"
   },
   {
@@ -13825,19 +13825,19 @@
   {
     "_tags": ["foundation"],
     "name": "asl",
-    "tags": "",
+    "tags": "deaf, sign language",
     "class": "fi-asl"
   },
   {
     "_tags": ["foundation"],
     "name": "hearing-aid",
-    "tags": "",
+    "tags": "deaf, ear",
     "class": "fi-hearing-aid"
   },
   {
     "_tags": ["foundation"],
     "name": "guide-dog",
-    "tags": "",
+    "tags": "blind",
     "class": "fi-guide-dog"
   },
   {
@@ -13879,355 +13879,355 @@
   {
     "_tags": ["foundation"],
     "name": "male-symbol",
-    "tags": "gender",
+    "tags": "gender, mars",
     "class": "fi-male-symbol"
   },
   {
     "_tags": ["foundation"],
     "name": "female-symbol",
-    "tags": "gender",
+    "tags": "gender, venus",
     "class": "fi-female-symbol"
   },
   {
     "_tags": ["foundation"],
     "name": "social-500px",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-500px"
   },
   {
     "_tags": ["foundation"],
     "name": "social-adobe",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-adobe"
   },
   {
     "_tags": ["foundation"],
     "name": "social-amazon",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-amazon"
   },
   {
     "_tags": ["foundation"],
     "name": "social-android",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-android"
   },
   {
     "_tags": ["foundation"],
     "name": "social-apple",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-apple"
   },
   {
     "_tags": ["foundation"],
     "name": "social-behance",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-behance"
   },
   {
     "_tags": ["foundation"],
     "name": "social-bing",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-bing"
   },
   {
     "_tags": ["foundation"],
     "name": "social-blogger",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-blogger"
   },
   {
     "_tags": ["foundation"],
     "name": "social-delicious",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-delicious"
   },
   {
     "_tags": ["foundation"],
     "name": "social-designer-news",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-designer-news"
   },
   {
     "_tags": ["foundation"],
     "name": "social-deviant-art",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-deviant-art"
   },
   {
     "_tags": ["foundation"],
     "name": "social-digg",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-digg"
   },
   {
     "_tags": ["foundation"],
     "name": "social-dribbble",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-dribbble"
   },
   {
     "_tags": ["foundation"],
     "name": "social-drive",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-drive"
   },
   {
     "_tags": ["foundation"],
     "name": "social-dropbox",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-dropbox"
   },
   {
     "_tags": ["foundation"],
     "name": "social-evernote",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-evernote"
   },
   {
     "_tags": ["foundation"],
     "name": "social-facebook",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-facebook"
   },
   {
     "_tags": ["foundation"],
     "name": "social-flickr",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-flickr"
   },
   {
     "_tags": ["foundation"],
     "name": "social-forrst",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-forrst"
   },
   {
     "_tags": ["foundation"],
     "name": "social-foursquare",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-foursquare"
   },
   {
     "_tags": ["foundation"],
     "name": "social-game-center",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-game-center"
   },
   {
     "_tags": ["foundation"],
     "name": "social-github",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-github"
   },
   {
     "_tags": ["foundation"],
     "name": "social-google-plus",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-google-plus"
   },
   {
     "_tags": ["foundation"],
     "name": "social-hacker-news",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-hacker-news"
   },
   {
     "_tags": ["foundation"],
     "name": "social-hi5",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-hi5"
   },
   {
     "_tags": ["foundation"],
     "name": "social-instagram",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-instagram"
   },
   {
     "_tags": ["foundation"],
     "name": "social-joomla",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-joomla"
   },
   {
     "_tags": ["foundation"],
     "name": "social-lastfm",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-lastfm"
   },
   {
     "_tags": ["foundation"],
     "name": "social-linkedin",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-linkedin"
   },
   {
     "_tags": ["foundation"],
     "name": "social-medium",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-medium"
   },
   {
     "_tags": ["foundation"],
     "name": "social-myspace",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-myspace"
   },
   {
     "_tags": ["foundation"],
     "name": "social-orkut",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-orkut"
   },
   {
     "_tags": ["foundation"],
     "name": "social-path",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-path"
   },
   {
     "_tags": ["foundation"],
     "name": "social-picasa",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-picasa"
   },
   {
     "_tags": ["foundation"],
     "name": "social-pinterest",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-pinterest"
   },
   {
     "_tags": ["foundation"],
     "name": "social-rdio",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-rdio"
   },
   {
     "_tags": ["foundation"],
     "name": "social-reddit",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-reddit"
   },
   {
     "_tags": ["foundation"],
     "name": "social-skype",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-skype"
   },
   {
     "_tags": ["foundation"],
     "name": "social-skillshare",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-skillshare"
   },
   {
     "_tags": ["foundation"],
     "name": "social-smashing-mag",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-smashing-mag"
   },
   {
     "_tags": ["foundation"],
     "name": "social-snapchat",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-snapchat"
   },
   {
     "_tags": ["foundation"],
     "name": "social-spotify",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-spotify"
   },
   {
     "_tags": ["foundation"],
     "name": "social-squidoo",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-squidoo"
   },
   {
     "_tags": ["foundation"],
     "name": "social-stack-overflow",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-stack-overflow"
   },
   {
     "_tags": ["foundation"],
     "name": "social-steam",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-steam"
   },
   {
     "_tags": ["foundation"],
     "name": "social-stumbleupon",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-stumbleupon"
   },
   {
     "_tags": ["foundation"],
     "name": "social-treehouse",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-treehouse"
   },
   {
     "_tags": ["foundation"],
     "name": "social-tumblr",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-tumblr"
   },
   {
     "_tags": ["foundation"],
     "name": "social-twitter",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-twitter"
   },
   {
     "_tags": ["foundation"],
     "name": "social-vimeo",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-vimeo"
   },
   {
     "_tags": ["foundation"],
     "name": "social-windows",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-windows"
   },
   {
     "_tags": ["foundation"],
     "name": "social-xbox",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-xbox"
   },
   {
     "_tags": ["foundation"],
     "name": "social-yahoo",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-yahoo"
   },
   {
     "_tags": ["foundation"],
     "name": "social-yelp",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-yelp"
   },
   {
     "_tags": ["foundation"],
     "name": "social-youtube",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-youtube"
   },
   {
     "_tags": ["foundation"],
     "name": "social-zerply",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-zerply"
   },
   {
     "_tags": ["foundation"],
     "name": "social-zurb",
-    "tags": "",
+    "tags": "brand, logo",
     "class": "fi-social-zurb"
   },
   {
@@ -14335,13 +14335,13 @@
   {
     "_tags": ["foundation"],
     "name": "foot",
-    "tags": "",
+    "tags": "print",
     "class": "fi-foot"
   },
   {
     "_tags": ["foundation"],
     "name": "paw",
-    "tags": "animal, pet",
+    "tags": "animal, pet, print",
     "class": "fi-paw"
   },
   {
@@ -14353,7 +14353,7 @@
   {
     "_tags": ["foundation"],
     "name": "trees",
-    "tags": "",
+    "tags": "nature",
     "class": "fi-trees"
   },
   {
@@ -14365,7 +14365,7 @@
   {
     "_tags": ["foundation"],
     "name": "first-aid",
-    "tags": "medical",
+    "tags": "medical, health, hospital",
     "class": "fi-first-aid"
   },
   {
@@ -14419,7 +14419,7 @@
   {
     "_tags": ["foundation"],
     "name": "target-two",
-    "tags": "",
+    "tags": "aim, reticle",
     "class": "fi-target-two"
   },
   {
@@ -14461,7 +14461,7 @@
   {
     "_tags": ["foundation"],
     "name": "skull",
-    "tags": "danger, warning",
+    "tags": "caution, danger, warning",
     "class": "fi-skull"
   },
   {

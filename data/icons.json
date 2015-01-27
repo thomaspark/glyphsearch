@@ -5,7 +5,7 @@
 		},
 		{
 			"name": "adn",
-			"tags": "brand social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "align-center",
@@ -32,7 +32,7 @@
 		},
 		{
 			"name": "android",
-			"tags": "brand, robot, google"
+			"tags": "brand, logo, robot"
 		},
 		{
 			"name": "angellist",
@@ -72,7 +72,7 @@
 		},
 		{
 			"name": "apple",
-			"tags": "brand, food, fruit"
+			"tags": "brand, logo, food, fruit"
 		},
 		{
 			"name": "archive",
@@ -176,15 +176,15 @@
 		},
 		{
 			"name": "beer",
-			"tags": "drink, mug, stein"
+			"tags": "drink, mug, stein, alcohol"
 		},
 		{
 			"name": "behance",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "behance-square",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "bell",
@@ -214,11 +214,11 @@
 		},
 		{
 			"name": "bitbucket",
-			"tags": "brand, code, social"
+			"tags": "brand, logo, code, social"
 		},
 		{
 			"name": "bitbucket-square",
-			"tags": "brand, code, social"
+			"tags": "brand, logo, code, social"
 		},
 		{
 			"name": "bold",
@@ -236,7 +236,7 @@
 		},
 		{
 			"name": "btc",
-			"tags": "bitcoin, brand, currency, money"
+			"tags": "bitcoin, logo, brand, currency, money"
 		},
 		{
 			"name": "building"
@@ -258,7 +258,7 @@
 		},
 		{
 			"name": "buysellads",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "calculator",
@@ -282,7 +282,7 @@
 		},
 		{
 			"name": "car",
-			"tags": "automobile"
+			"tags": "automobile, transporation"
 		},
 		{
 			"name": "caret-down",
@@ -453,7 +453,7 @@
 		},
 		{
 			"name": "codepen",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "coffee",
@@ -497,7 +497,7 @@
 		},
 		{
 			"name": "connectdevelop",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "copyright"
@@ -514,7 +514,7 @@
 		},
 		{
 			"name": "css3",
-			"tags": "brand, web"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "cube"
@@ -528,14 +528,14 @@
 		},
 		{
 			"name": "dashcube",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "database"
 		},
 		{
 			"name": "delicious",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "desktop",
@@ -543,7 +543,7 @@
 		},
 		{
 			"name": "deviantart",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "diamond",
@@ -551,7 +551,7 @@
 		},
 		{
 			"name": "digg",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "dot-circle-o",
@@ -562,15 +562,15 @@
 		},
 		{
 			"name": "dribbble",
-			"tags": "brand, social, basketball"
+			"tags": "brand, logo, social, basketball"
 		},
 		{
 			"name": "dropbox",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "drupal",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "eject",
@@ -612,14 +612,16 @@
 			"tags": "transfer, arrows"
 		},
 		{
-			"name": "exclamation"
+			"name": "exclamation",
+			"tags": "alert, caution, warning"
 		},
 		{
-			"name": "exclamation-circle"
+			"name": "exclamation-circle",
+			"tags": "alert, caution, warning, sign"
 		},
 		{
 			"name": "exclamation-triangle",
-			"tags": "warning"
+			"tags": "alert, caution, warning, sign"
 		},
 		{
 			"name": "expand",
@@ -644,15 +646,15 @@
 		},
 		{
 			"name": "facebook",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "facebook-official",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "facebook-square",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "fast-backward",
@@ -751,7 +753,7 @@
 		},
 		{
 			"name": "flickr",
-			"tags": "brand, yahoo, social, photos"
+			"tags": "brand, logo, yahoo, social, photos"
 		},
 		{
 			"name": "floppy-o",
@@ -775,7 +777,7 @@
 		},
 		{
 			"name": "forumbee",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "forward",
@@ -783,7 +785,7 @@
 		},
 		{
 			"name": "foursquare",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "frown-o",
@@ -811,31 +813,31 @@
 		},
 		{
 			"name": "git",
-			"tags": "brand, code, social"
+			"tags": "brand, logo, code, social"
 		},
 		{
 			"name": "git-square",
-			"tags": "brand, code, social"
+			"tags": "brand, logo, code, social"
 		},
 		{
 			"name": "github",
-			"tags": "brand, code, social"
+			"tags": "brand, logo, code, social"
 		},
 		{
 			"name": "github-alt",
-			"tags": "brand, code, social"
+			"tags": "brand, logo, code, social"
 		},
 		{
 			"name": "github-square",
-			"tags": "brand, code, social"
+			"tags": "brand, logo, code, social"
 		},
 		{
 			"name": "gittip",
-			"tags": "brand, social, heart"
+			"tags": "brand, logo, social, heart"
 		},
 		{
 			"name": "glass",
-			"tags": "drink, martini"
+			"tags": "drink, martini, alcohol"
 		},
 		{
 			"name": "globe",
@@ -843,19 +845,19 @@
 		},
 		{
 			"name": "google",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "google-plus",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "google-plus-square",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "google-wallet",
-			"tags": "brand, payment"
+			"tags": "brand, logo, payment"
 		},
 		{
 			"name": "graduation-cap",
@@ -871,7 +873,7 @@
 		},
 		{
 			"name": "hacker-news",
-			"tags": "brand, social, ycombinator"
+			"tags": "brand, logo, social, ycombinator"
 		},
 		{
 			"name": "hand-o-down",
@@ -924,7 +926,7 @@
 		},
 		{
 			"name": "html5",
-			"tags": "brand, web"
+			"tags": "brand, logo, web"
 		},
 		{
 			"name": "ils",
@@ -950,7 +952,7 @@
 		},
 		{
 			"name": "instagram",
-			"tags": "brand, camera, facebook, social, photos"
+			"tags": "brand, logo, camera, facebook, social, photos"
 		},
 		{
 			"name": "ioxhost"
@@ -969,7 +971,7 @@
 		},
 		{
 			"name": "jsfiddle",
-			"tags": "brand, code"
+			"tags": "brand, logo, code"
 		},
 		{
 			"name": "key"
@@ -991,10 +993,12 @@
 			"tags": "computer"
 		},
 		{
-			"name": "lastfm"
+			"name": "lastfm",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "lastfm-square"
+			"name": "lastfm-square",
+			"tags": "brand, logo"
 		},
 		{
 			"name": "leaf",
@@ -1002,7 +1006,7 @@
 		},
 		{
 			"name": "leanpub",
-			"tags": "brand, book"
+			"tags": "brand, logo, book"
 		},
 		{
 			"name": "lemon-o",
@@ -1031,15 +1035,15 @@
 		},
 		{
 			"name": "linkedin",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "linkedin-square",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "linux",
-			"tags": "brand, penguin, bird, animal"
+			"tags": "brand, logo, penguin, bird, animal"
 		},
 		{
 			"name": "list",
@@ -1116,14 +1120,15 @@
 		},
 		{
 			"name": "maxcdn",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
-			"name": "meanpath"
+			"name": "meanpath",
+			"tags": "brand, logo"
 		},
 		{
 			"name": "medkit",
-			"tags": "medical"
+			"tags": "medical, health, hospital"
 		},
 		{
 			"name": "meh-o",
@@ -1138,14 +1143,16 @@
 			"tags": "audio, sound, voice"
 		},
 		{
-			"name": "minus"
+			"name": "minus",
+			"tags": "remove"
 		},
 		{
-			"name": "minus-circle"
+			"name": "minus-circle",
+			"tags": "remove"
 		},
 		{
 			"name": "minus-square",
-			"tags": "form control, collapse"
+			"tags": "remove, form control, collapse"
 		},
 		{
 			"name": "minus-square-o",
@@ -1160,7 +1167,8 @@
 			"tags": "currency, dollar bill, payment"
 		},
 		{
-			"name": "moon-o"
+			"name": "moon-o",
+			"tags": "crescent, night"
 		},
 		{
 			"name": "music"
@@ -1174,7 +1182,7 @@
 		},
 		{
 			"name": "openid",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "outdent",
@@ -1194,7 +1202,7 @@
 		},
 		{
 			"name": "pagelines",
-			"tags": "brand, leaf, plant"
+			"tags": "brand, logo, leaf, plant"
 		},
 		{
 			"name": "paint-brush",
@@ -1210,21 +1218,23 @@
 		},
 		{
 			"name": "paw",
-			"tags": "animal, pet"
+			"tags": "animal, pet, print"
 		},
 		{
 			"name": "paypal",
-			"tags": "payment"
+			"tags": "payment, brand, logo"
 		},
 		{
-			"name": "pencil"
+			"name": "pencil",
+			"tags": "write, edit"
 		},
 		{
 			"name": "pencil-square",
-			"tags": "edit"
+			"tags": "write, edit"
 		},
 		{
-			"name": "pencil-square-o"
+			"name": "pencil-square-o",
+			"tags": "write, edit"
 		},
 		{
 			"name": "phone",
@@ -1243,27 +1253,27 @@
 		},
 		{
 			"name": "pied-piper",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "pied-piper-alt",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "pinterest",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "pinterest-p",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "pinterest-square",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "plane",
-			"tags": "airplane, jet"
+			"tags": "airplane, jet, transporation"
 		},
 		{
 			"name": "play",
@@ -1286,15 +1296,16 @@
 			"tags": "add"
 		},
 		{
-			"name": "plus-circle"
+			"name": "plus-circle",
+			"tags": "add"
 		},
 		{
 			"name": "plus-square",
-			"tags": "medical"
+			"tags": "add, medical"
 		},
 		{
 			"name": "plus-square-o",
-			"tags": "form controls, expand, resize"
+			"tags": "form controls, add, expand, resize"
 		},
 		{
 			"name": "power-off",
@@ -1310,16 +1321,18 @@
 		},
 		{
 			"name": "qq",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "qrcode"
 		},
 		{
-			"name": "question"
+			"name": "question",
+			"tags": "help"
 		},
 		{
-			"name": "question-circle"
+			"name": "question-circle",
+			"tags": "help"
 		},
 		{
 			"name": "quote-left"
@@ -1331,18 +1344,19 @@
 			"name": "random"
 		},
 		{
-			"name": "rebel"
+			"name": "rebel",
+			"tags": "brand, logo"
 		},
 		{
 			"name": "recycle"
 		},
 		{
 			"name": "reddit",
-			"tags": "brand, alien, social"
+			"tags": "brand, logo, alien, social"
 		},
 		{
 			"name": "reddit-square",
-			"tags": "brand, alien, social"
+			"tags": "brand, logo, alien, social"
 		},
 		{
 			"name": "refresh",
@@ -1350,7 +1364,7 @@
 		},
 		{
 			"name": "renren",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "repeat",
@@ -1365,7 +1379,8 @@
 			"tags": "email"
 		},
 		{
-			"name": "retweet"
+			"name": "retweet",
+			"tags": "twitter"
 		},
 		{
 			"name": "road"
@@ -1402,7 +1417,7 @@
 		},
 		{
 			"name": "sellsy",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "server"
@@ -1432,7 +1447,7 @@
 		},
 		{
 			"name": "shirtsinbulk",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "shopping-cart"
@@ -1449,22 +1464,22 @@
 		},
 		{
 			"name": "simplybuilt",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "sitemap"
 		},
 		{
 			"name": "skyatlas",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "skype",
-			"tags": "brand, social, microsoft"
+			"tags": "brand, logo, social, microsoft"
 		},
 		{
 			"name": "slack",
-			"tags": "brand, hash, pound"
+			"tags": "brand, logo, hash, pound"
 		},
 		{
 			"name": "sliders",
@@ -1479,7 +1494,7 @@
 		},
 		{
 			"name": "soundcloud",
-			"tags": "brand, social, music"
+			"tags": "brand, logo, social, music"
 		},
 		{
 			"name": "sort",
@@ -1523,7 +1538,7 @@
 		},
 		{
 			"name": "spotify",
-			"tags": "brand, social, music"
+			"tags": "brand, logo, social, music"
 		},
 		{
 			"name": "square",
@@ -1559,11 +1574,11 @@
 		},
 		{
 			"name": "steam",
-			"tags": "brand, social, games, valve"
+			"tags": "brand, logo, social, games, valve"
 		},
 		{
 			"name": "steam-square",
-			"tags": "brand, social, games, valve"
+			"tags": "brand, logo, social, games, valve"
 		},
 		{
 			"name": "step-backward",
@@ -1575,7 +1590,7 @@
 		},
 		{
 			"name": "stethoscope",
-			"tags": "medical"
+			"tags": "medical, doctor"
 		},
 		{
 			"name": "stop",
@@ -1591,11 +1606,11 @@
 		},
 		{
 			"name": "stumbleupon",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "stumbleupon-circle",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "subscript"
@@ -1638,11 +1653,11 @@
 		},
 		{
 			"name": "taxi",
-			"tags": "cab, automobile, car"
+			"tags": "cab, automobile, car, transportation"
 		},
 		{
 			"name": "tencent-weibo",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "terminal",
@@ -1693,15 +1708,15 @@
 		},
 		{
 			"name": "times",
-			"tags": "close"
+			"tags": "close, remove, delete"
 		},
 		{
 			"name": "times-circle",
-			"tags": "close"
+			"tags": "close, remove, delete"
 		},
 		{
 			"name": "times-circle-o",
-			"tags": "close"
+			"tags": "close, remove, delete"
 		},
 		{
 			"name": "tint"
@@ -1739,7 +1754,7 @@
 		},
 		{
 			"name": "trello",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "trophy",
@@ -1747,7 +1762,7 @@
 		},
 		{
 			"name": "truck",
-			"tags": "vehicle"
+			"tags": "vehicle, transportation"
 		},
 		{
 			"name": "try",
@@ -1759,23 +1774,23 @@
 		},
 		{
 			"name": "tumblr",
-			"tags": "brand, yahoo, social"
+			"tags": "brand, logo, yahoo, social"
 		},
 		{
 			"name": "tumblr-square",
-			"tags": "brand, yahoo, social"
+			"tags": "brand, logo, yahoo, social"
 		},
 		{
 			"name": "twitch",
-			"tags": "brand, video, social"
+			"tags": "brand, logo, video, social"
 		},
 		{
 			"name": "twitter",
-			"tags": "brand, bird, animal, social"
+			"tags": "brand, logo, bird, animal, social"
 		},
 		{
 			"name": "twitter-square",
-			"tags": "brand, bird, animal, social"
+			"tags": "brand, logo, bird, animal, social"
 		},
 		{
 			"name": "umbrella"
@@ -1844,15 +1859,15 @@
 		},
 		{
 			"name": "vimeo-square",
-			"tags": "brand, video, social"
+			"tags": "brand, logo, video, social"
 		},
 		{
 			"name": "vine",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "vk",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "volume-down",
@@ -1868,11 +1883,11 @@
 		},
 		{
 			"name": "weibo",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "weixin",
-			"tags": "brand, social, chat"
+			"tags": "brand, logo, social, chat"
 		},
 		{
 			"name": "wheelchair",
@@ -1880,7 +1895,7 @@
 		},
 		{
 			"name": "whatsapp",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "wifi",
@@ -1888,11 +1903,11 @@
 		},
 		{
 			"name": "windows",
-			"tags": "brand, microsoft"
+			"tags": "brand, logo, microsoft"
 		},
 		{
 			"name": "wordpress",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "wrench",
@@ -1900,31 +1915,31 @@
 		},
 		{
 			"name": "xing",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "xing-square",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "yahoo",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "yelp",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "youtube",
-			"tags": "brand, video, google, social"
+			"tags": "brand, logo, video, google, social"
 		},
 		{
 			"name": "youtube-play",
-			"tags": "brand, video player, google, social"
+			"tags": "brand, logo, video player, google, social"
 		},
 		{
 			"name": "youtube-square",
-			"tags": "brand, video, google, social"
+			"tags": "brand, logo, video, google, social"
 		}
 	],
 	"foundation": [
@@ -1988,7 +2003,8 @@
 			"name": "unlock"
 		},
 		{
-			"name": "calendar"
+			"name": "calendar",
+			"tags": "date"
 		},
 		{
 			"name": "cloud",
@@ -2071,10 +2087,12 @@
 			"name": "checkbox"
 		},
 		{
-			"name": "minus-circle"
+			"name": "minus-circle",
+			"tags": "remove"
 		},
 		{
-			"name": "x-circle"
+			"name": "x-circle",
+			"tags": "delete, remove"
 		},
 		{
 			"name": "eye",
@@ -2106,7 +2124,7 @@
 		},
 		{
 			"name": "alert",
-			"tags": "warning"
+			"tags": "caution, danger, exclamation, warning, sign"
 		},
 		{
 			"name": "bookmark"
@@ -2115,37 +2133,46 @@
 			"name": "contrast"
 		},
 		{
-			"name": "mail"
+			"name": "mail",
+			"tags": "envelope"
 		},
 		{
-			"name": "video"
+			"name": "video",
+			"tags": "camera"
 		},
 		{
 			"name": "telephone"
 		},
 		{
-			"name": "comment"
+			"name": "comment",
+			"tags": "chat bubble"
 		},
 		{
-			"name": "comment-video"
+			"name": "comment-video",
+			"tags": "chat bubble"
 		},
 		{
-			"name": "comment-quotes"
+			"name": "comment-quotes",
+			"tags": "chat bubble"
 		},
 		{
-			"name": "comment-minus"
+			"name": "comment-minus",
+			"tags": "chat bubble, delete, remove"
 		},
 		{
-			"name": "comments"
+			"name": "comments",
+			"tags": "chat bubble"
 		},
 		{
 			"name": "microphone"
 		},
 		{
-			"name": "megaphone"
+			"name": "megaphone",
+			"tags": "bullhorn"
 		},
 		{
-			"name": "sound"
+			"name": "sound",
+			"tags": "audio"
 		},
 		{
 			"name": "address-book"
@@ -2154,16 +2181,19 @@
 			"name": "bluetooth"
 		},
 		{
-			"name": "html5"
+			"name": "html5",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "css3"
+			"name": "css3",
+			"tags": "brand, logo"
 		},
 		{
 			"name": "layout"
 		},
 		{
-			"name": "web"
+			"name": "web",
+			"tags": "earth, planet, globe"
 		},
 		{
 			"name": "foundation"
@@ -2229,16 +2259,20 @@
 			"name": "arrow-left"
 		},
 		{
-			"name": "arrows-out"
+			"name": "arrows-out",
+			"tags": "resize, expand"
 		},
 		{
-			"name": "arrows-in"
+			"name": "arrows-in",
+			"tags": "resize, compress"
 		},
 		{
-			"name": "arrows-expand"
+			"name": "arrows-expand",
+			"tags": "resize, fullscreen"
 		},
 		{
-			"name": "arrows-compress"
+			"name": "arrows-compress",
+			"tags": "resize"
 		},
 		{
 			"name": "torso",
@@ -2280,10 +2314,12 @@
 			"tags": "computer"
 		},
 		{
-			"name": "tablet-portrait"
+			"name": "tablet-portrait",
+			"tags": "ipad"
 		},
 		{
-			"name": "tablet-landscape"
+			"name": "tablet-landscape",
+			"tags": "ipad"
 		},
 		{
 			"name": "mobile",
@@ -2372,7 +2408,8 @@
 			"name": "filter"
 		},
 		{
-			"name": "paint-bucket"
+			"name": "paint-bucket",
+			"tags": "fill, pour"
 		},
 		{
 			"name": "link",
@@ -2423,10 +2460,12 @@
 			"name": "volume-strike"
 		},
 		{
-			"name": "loop"
+			"name": "loop",
+			"tags": "refresh, reload"
 		},
 		{
-			"name": "shuffle"
+			"name": "shuffle",
+			"tags": "random"
 		},
 		{
 			"name": "eject"
@@ -2495,10 +2534,12 @@
 			"tags": "money"
 		},
 		{
-			"name": "wheelchair"
+			"name": "wheelchair",
+			"tags": "handicap"
 		},
 		{
-			"name": "braille"
+			"name": "braille",
+			"tags": "dots"
 		},
 		{
 			"name": "closed-caption"
@@ -2507,13 +2548,16 @@
 			"name": "blind"
 		},
 		{
-			"name": "asl"
+			"name": "asl",
+			"tags": "deaf, sign language"
 		},
 		{
-			"name": "hearing-aid"
+			"name": "hearing-aid",
+			"tags": "deaf, ear"
 		},
 		{
-			"name": "guide-dog"
+			"name": "guide-dog",
+			"tags": "blind"
 		},
 		{
 			"name": "universal-access"
@@ -2538,182 +2582,239 @@
 		},
 		{
 			"name": "male-symbol",
-			"tags": "gender"
+			"tags": "gender, mars"
 		},
 		{
 			"name": "female-symbol",
-			"tags": "gender"
+			"tags": "gender, venus"
 		},
 		{
-			"name": "social-500px"
+			"name": "social-500px",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-adobe"
+			"name": "social-adobe",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-amazon"
+			"name": "social-amazon",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-android"
+			"name": "social-android",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-apple"
+			"name": "social-apple",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-behance"
+			"name": "social-behance",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-bing"
+			"name": "social-bing",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-blogger"
+			"name": "social-blogger",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-delicious"
+			"name": "social-delicious",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-designer-news"
+			"name": "social-designer-news",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-deviant-art"
+			"name": "social-deviant-art",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-digg"
+			"name": "social-digg",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-dribbble"
+			"name": "social-dribbble",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-drive"
+			"name": "social-drive",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-dropbox"
+			"name": "social-dropbox",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-evernote"
+			"name": "social-evernote",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-facebook"
+			"name": "social-facebook",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-flickr"
+			"name": "social-flickr",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-forrst"
+			"name": "social-forrst",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-foursquare"
+			"name": "social-foursquare",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-game-center"
+			"name": "social-game-center",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-github"
+			"name": "social-github",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-google-plus"
+			"name": "social-google-plus",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-hacker-news"
+			"name": "social-hacker-news",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-hi5"
+			"name": "social-hi5",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-instagram"
+			"name": "social-instagram",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-joomla"
+			"name": "social-joomla",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-lastfm"
+			"name": "social-lastfm",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-linkedin"
+			"name": "social-linkedin",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-medium"
+			"name": "social-medium",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-myspace"
+			"name": "social-myspace",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-orkut"
+			"name": "social-orkut",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-path"
+			"name": "social-path",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-picasa"
+			"name": "social-picasa",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-pinterest"
+			"name": "social-pinterest",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-rdio"
+			"name": "social-rdio",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-reddit"
+			"name": "social-reddit",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-skype"
+			"name": "social-skype",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-skillshare"
+			"name": "social-skillshare",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-smashing-mag"
+			"name": "social-smashing-mag",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-snapchat"
+			"name": "social-snapchat",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-spotify"
+			"name": "social-spotify",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-squidoo"
+			"name": "social-squidoo",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-stack-overflow"
+			"name": "social-stack-overflow",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-steam"
+			"name": "social-steam",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-stumbleupon"
+			"name": "social-stumbleupon",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-treehouse"
+			"name": "social-treehouse",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-tumblr"
+			"name": "social-tumblr",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-twitter"
+			"name": "social-twitter",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-vimeo"
+			"name": "social-vimeo",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-windows"
+			"name": "social-windows",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-xbox"
+			"name": "social-xbox",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-yahoo"
+			"name": "social-yahoo",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-yelp"
+			"name": "social-yelp",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-youtube"
+			"name": "social-youtube",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-zerply"
+			"name": "social-zerply",
+			"tags": "brand, logo"
 		},
 		{
-			"name": "social-zurb"
+			"name": "social-zurb",
+			"tags": "brand, logo"
 		},
 		{
 			"name": "compass",
@@ -2771,24 +2872,26 @@
 			"tags": "game"
 		},
 		{
-			"name": "foot"
+			"name": "foot",
+			"tags": "print"
 		},
 		{
 			"name": "paw",
-			"tags": "animal, pet"
+			"tags": "animal, pet, print"
 		},
 		{
 			"name": "mountains"
 		},
 		{
-			"name": "trees"
+			"name": "trees",
+			"tags": "nature"
 		},
 		{
 			"name": "sheriff-badge"
 		},
 		{
 			"name": "first-aid",
-			"tags": "medical"
+			"tags": "medical, health, hospital"
 		},
 		{
 			"name": "trophy",
@@ -2817,7 +2920,8 @@
 			"name": "target"
 		},
 		{
-			"name": "target-two"
+			"name": "target-two",
+			"tags": "aim, reticle"
 		},
 		{
 			"name": "die-one",
@@ -2845,7 +2949,7 @@
 		},
 		{
 			"name": "skull",
-			"tags": "danger, warning"
+			"tags": "caution, danger, warning"
 		},
 		{
 			"name": "map",
@@ -3206,7 +3310,7 @@
 		},
 		{
 			"name": "glass",
-			"tags": "drink, martini"
+			"tags": "drink, martini, alcohol, cocktail"
 		},
 		{
 			"name": "globe",
@@ -3468,7 +3572,7 @@
 		},
 		{
 			"name": "plane",
-			"tags": "airplane, jet"
+			"tags": "airplane, jet, transportation"
 		},
 		{
 			"name": "play",
@@ -3845,7 +3949,7 @@
 		},
 		{
 			"name": "airplane",
-			"tags": ""
+			"tags": "transportation"
 		},
 		{
 			"name": "alarm",
@@ -3857,7 +3961,7 @@
 		},
 		{
 			"name": "android",
-			"tags": "brand, robot, google"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "angry",
@@ -3869,7 +3973,7 @@
 		},
 		{
 			"name": "apple",
-			"tags": "brand, fruit"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "arrow-down-left",
@@ -4009,11 +4113,11 @@
 		},
 		{
 			"name": "blogger",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "blogger-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "bold",
@@ -4157,7 +4261,7 @@
 		},
 		{
 			"name": "chrome",
-			"tags": "brand, browser, google"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "clock",
@@ -4269,7 +4373,7 @@
 		},
 		{
 			"name": "css3",
-			"tags": "brand, web"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "dashboard",
@@ -4277,15 +4381,15 @@
 		},
 		{
 			"name": "delicious",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "deviantart",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "deviantart-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "diamonds",
@@ -4325,15 +4429,15 @@
 		},
 		{
 			"name": "dribbble",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "dribbble-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "dribbble-3",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "droplet",
@@ -4361,7 +4465,7 @@
 		},
 		{
 			"name": "equalizer",
-			"tags": ""
+			"tags": "levels, settings"
 		},
 		{
 			"name": "evil",
@@ -4397,15 +4501,15 @@
 		},
 		{
 			"name": "facebook",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "facebook-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "facebook-3",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "feed",
@@ -4485,7 +4589,7 @@
 		},
 		{
 			"name": "finder",
-			"tags": "apple, mac"
+			"tags": "apple, mac, logo"
 		},
 		{
 			"name": "fire",
@@ -4493,7 +4597,7 @@
 		},
 		{
 			"name": "firefox",
-			"tags": "mozilla, web, browser"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "first",
@@ -4501,27 +4605,27 @@
 		},
 		{
 			"name": "flag",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "flattr",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "flickr",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "flickr-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "flickr-3",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "flickr-4",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "flip",
@@ -4545,15 +4649,15 @@
 		},
 		{
 			"name": "food",
-			"tags": "cutlery"
+			"tags": "cutlery, dining, fork, knife"
 		},
 		{
 			"name": "forrst",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "forrst-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "forward",
@@ -4569,11 +4673,11 @@
 		},
 		{
 			"name": "foursquare",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "foursquare-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "gift",
@@ -4581,27 +4685,27 @@
 		},
 		{
 			"name": "github",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "github-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "github-3",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "github-4",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "github-5",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "glass",
-			"tags": "drink, martini"
+			"tags": "drink, martini, alcohol, cocktail"
 		},
 		{
 			"name": "globe",
@@ -4609,27 +4713,27 @@
 		},
 		{
 			"name": "google-drive",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "google-plus",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "google-plus-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "google-plus-3",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "google-plus-4",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "google",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "grin",
@@ -4701,7 +4805,7 @@
 		},
 		{
 			"name": "IE",
-			"tags": "brand, browser, microsoft, web"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "image",
@@ -4737,7 +4841,7 @@
 		},
 		{
 			"name": "instagram",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "italic",
@@ -4745,7 +4849,7 @@
 		},
 		{
 			"name": "joomla",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "key",
@@ -4765,7 +4869,7 @@
 		},
 		{
 			"name": "lanyrd",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "laptop",
@@ -4777,11 +4881,11 @@
 		},
 		{
 			"name": "lastfm",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "lastfm-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "leaf",
@@ -4797,7 +4901,7 @@
 		},
 		{
 			"name": "libreoffice",
-			"tags": "brand"
+			"tags": "brandlogo, "
 		},
 		{
 			"name": "lightning",
@@ -4809,7 +4913,7 @@
 		},
 		{
 			"name": "linkedin",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "list",
@@ -4953,7 +5057,7 @@
 		},
 		{
 			"name": "opera",
-			"tags": "brand, browser, web"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "pacman",
@@ -5021,15 +5125,15 @@
 		},
 		{
 			"name": "paypal",
-			"tags": "brand, payment, social"
+			"tags": "brand, logo, payment, social"
 		},
 		{
 			"name": "paypal-2",
-			"tags": "brand, payment, social"
+			"tags": "brand, logo, payment, social"
 		},
 		{
 			"name": "paypal-3",
-			"tags": "brand, payment, social"
+			"tags": "brand, logo, payment, social"
 		},
 		{
 			"name": "pen",
@@ -5053,11 +5157,11 @@
 		},
 		{
 			"name": "picassa",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "picassa-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "pie",
@@ -5069,11 +5173,11 @@
 		},
 		{
 			"name": "pinterest",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "pinterest-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "play",
@@ -5137,7 +5241,7 @@
 		},
 		{
 			"name": "question",
-			"tags": ""
+			"tags": "help, mark"
 		},
 		{
 			"name": "quill",
@@ -5157,7 +5261,7 @@
 		},
 		{
 			"name": "reddit",
-			"tags": "alien, brand, social"
+			"tags": "alien, brand, logo, social"
 		},
 		{
 			"name": "redo",
@@ -5201,7 +5305,7 @@
 		},
 		{
 			"name": "safari",
-			"tags": "brand, browser, web"
+			"tags": "brand, logo, "
 		},
 		{
 			"name": "scissors",
@@ -5249,7 +5353,7 @@
 		},
 		{
 			"name": "skype",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "smiley",
@@ -5261,11 +5365,11 @@
 		},
 		{
 			"name": "soundcloud",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "soundcloud-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "spades",
@@ -5273,7 +5377,7 @@
 		},
 		{
 			"name": "spam",
-			"tags": "danger, exclamation point, sign, warning"
+			"tags": "caution, danger, exclamation point, sign, warning"
 		},
 		{
 			"name": "spell-check",
@@ -5309,7 +5413,7 @@
 		},
 		{
 			"name": "stackoverflow",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "star",
@@ -5329,11 +5433,11 @@
 		},
 		{
 			"name": "steam",
-			"tags": "brand, game, social"
+			"tags": "brand, logo, game, social"
 		},
 		{
 			"name": "steam-2",
-			"tags": "brand, game, social"
+			"tags": "brand, logo, game, social"
 		},
 		{
 			"name": "stop",
@@ -5357,11 +5461,11 @@
 		},
 		{
 			"name": "stumbleupon",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "stumbleupon-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "support",
@@ -5441,15 +5545,15 @@
 		},
 		{
 			"name": "tumblr",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "tumblr-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "tux",
-			"tags": "bird, brand, penguin"
+			"tags": "bird, brand, logo, penguin"
 		},
 		{
 			"name": "tv",
@@ -5457,15 +5561,15 @@
 		},
 		{
 			"name": "twitter",
-			"tags": "brand, bird, social"
+			"tags": "brand, bird, logo, social"
 		},
 		{
 			"name": "twitter-2",
-			"tags": "brand, bird, social"
+			"tags": "brand, bird, logo, social"
 		},
 		{
 			"name": "twitter-3",
-			"tags": "brand, bird, social"
+			"tags": "brand, bird, logo, social"
 		},
 		{
 			"name": "underline",
@@ -5521,15 +5625,15 @@
 		},
 		{
 			"name": "vimeo",
-			"tags": "brand, social, video"
+			"tags": "brand, social, logo"
 		},
 		{
 			"name": "vimeo-2",
-			"tags": "brand, social, video"
+			"tags": "brand, social, logo"
 		},
 		{
 			"name": "vimeo2",
-			"tags": "brand, social, video"
+			"tags": "brand, social, logo"
 		},
 		{
 			"name": "volume-decrease",
@@ -5565,15 +5669,15 @@
 		},
 		{
 			"name": "warning",
-			"tags": "alert, exclamation, sign"
+			"tags": "alert, caution, exclamation, sign"
 		},
 		{
 			"name": "windows",
-			"tags": "brand, microsoft"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "windows8",
-			"tags": "brand, microsoft"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "wink",
@@ -5593,11 +5697,11 @@
 		},
 		{
 			"name": "wordpress",
-			"tags": "brand, blog, social"
+			"tags": "brand, blog, logo, social"
 		},
 		{
 			"name": "wordpress-2",
-			"tags": "brand, blog, social"
+			"tags": "brand, blog, logo, social"
 		},
 		{
 			"name": "wrench",
@@ -5605,27 +5709,27 @@
 		},
 		{
 			"name": "xing",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "xing-2",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "yahoo",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "yelp",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "youtube",
-			"tags": "brand, social, video"
+			"tags": "brand, logo, social, video"
 		},
 		{
 			"name": "youtube-2",
-			"tags": "brand, social, video"
+			"tags": "brand, logo, social, video"
 		},
 		{
 			"name": "zoom-in",
@@ -6278,7 +6382,7 @@
 		},
 		{
 			"name": "beer",
-			"tags": "alcohol, drink, mug"
+			"tags": "alcohol, drink, mug, stein"
 		},
 		{
 			"name": "bluetooth"
@@ -6614,7 +6718,7 @@
 		},
 		{
 			"name": "ionic",
-			"tags": "atom, brand, chemistry, science"
+			"tags": "atom, brand, logo, chemistry, science"
 		},
 		{
 			"name": "ios-alarm",
@@ -7129,7 +7233,7 @@
 		},
 		{
 			"name": "ios-ionic-outline",
-			"tags": "atom, brand, science, chemistry"
+			"tags": "atom, brand, logo, science, chemistry"
 		},
 		{
 			"name": "ios-keypad",
@@ -7880,7 +7984,7 @@
 		},
 		{
 			"name": "playstation",
-			"tags": "brand, sony, video games"
+			"tags": "brand, logo, sony, video games"
 		},
 		{
 			"name": "plus",
@@ -7993,27 +8097,27 @@
 		},
 		{
 			"name": "social-android",
-			"tags": "brand, google"
+			"tags": "brand, logo, google"
 		},
 		{
 			"name": "social-android-outline",
-			"tags": "brand, google"
+			"tags": "brand, logo, google"
 		},
 		{
 			"name": "social-angular",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-angular-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-apple",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-apple-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-bitcoin",
@@ -8025,59 +8129,59 @@
 		},
 		{
 			"name": "social-buffer",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-buffer-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-chrome",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-chrome-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-codepen",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-codepen-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-css3",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-css3-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-designernews",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-designernews-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-dribbble",
-			"tags": "brand, basketball"
+			"tags": "brand, logo, basketball"
 		},
 		{
 			"name": "social-dribbble-outline",
-			"tags": "brand, basketball"
+			"tags": "brand, logo, basketball"
 		},
 		{
 			"name": "social-dropbox",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-dropbox-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-euro",
@@ -8089,19 +8193,19 @@
 		},
 		{
 			"name": "social-facebook",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-facebook-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-foursquare",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-foursquare-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-freebsd-devil",
@@ -8109,35 +8213,35 @@
 		},
 		{
 			"name": "social-github",
-			"tags": "brand, code"
+			"tags": "brand, logo, code"
 		},
 		{
 			"name": "social-github-outline",
-			"tags": "brand, code"
+			"tags": "brand, logo, code"
 		},
 		{
 			"name": "social-google",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-google-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-googleplus",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-googleplus-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-hackernews",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-hackernews-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-html5",
@@ -8145,119 +8249,119 @@
 		},
 		{
 			"name": "social-html5-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-instagram",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-instagram-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-javascript",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-javascript-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-linkedin",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-linkedin-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-markdown",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-nodejs",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-octocat",
-			"tags": "brand, github"
+			"tags": "brand, logo, github"
 		},
 		{
 			"name": "social-pinterest",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-pinterest-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-python",
-			"tags": "brand,"
+			"tags": "brand, logo,"
 		},
 		{
 			"name": "social-reddit",
-			"tags": "brand, alien"
+			"tags": "brand, logo, alien"
 		},
 		{
 			"name": "social-reddit-outline",
-			"tags": "brand, alien"
+			"tags": "brand, logo, alien"
 		},
 		{
 			"name": "social-rss",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-rss-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-sass",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-skype",
-			"tags": "brand, microsoft"
+			"tags": "brand, logo, microsoft"
 		},
 		{
 			"name": "social-skype-outline",
-			"tags": "brand, microsoft"
+			"tags": "brand, logo, microsoft"
 		},
 		{
 			"name": "social-snapchat",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-snapchat-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-tumblr",
-			"tags": "brand, yahoo"
+			"tags": "brand, logo, yahoo"
 		},
 		{
 			"name": "social-tumblr-outline",
-			"tags": "brand, yahoo"
+			"tags": "brand, logo, yahoo"
 		},
 		{
 			"name": "social-tux",
-			"tags": "bird, linux, penguin"
+			"tags": "brand, logo, bird, linux, penguin"
 		},
 		{
 			"name": "social-twitch",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-twitch-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-twitter",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-twitter-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-usd",
@@ -8269,43 +8373,43 @@
 		},
 		{
 			"name": "social-vimeo",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-vimeo-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-whatsapp",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-whatsapp-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-windows",
-			"tags": "brand, microsoft"
+			"tags": "brand, logo, microsoft"
 		},
 		{
 			"name": "social-windows-outline",
-			"tags": "brand, microsoft"
+			"tags": "brand, logo, microsoft"
 		},
 		{
 			"name": "social-wordpress",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-wordpress-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-yahoo",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-yahoo-outline",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-yen",
@@ -8317,11 +8421,11 @@
 		},
 		{
 			"name": "social-youtube",
-			"tags": "brand, video, google"
+			"tags": "brand, logo, video, google"
 		},
 		{
 			"name": "social-youtube-outline",
-			"tags": "brand, video, google"
+			"tags": "brand, logo, video, google"
 		},
 		{
 			"name": "soup-can",
@@ -8353,7 +8457,7 @@
 		},
 		{
 			"name": "steam",
-			"tags": "brand, social"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "stop",
@@ -8464,7 +8568,7 @@
 		},
 		{
 			"name": "xbox",
-			"tags": "brand, video game"
+			"tags": "brand, logo, video game"
 		}
 	],
 	"octicons": [
@@ -8518,7 +8622,7 @@
 		},
 		{
 			"name": "beer",
-			"tags": "drink, cup, meetup"
+			"tags": "drink, cup, alcohol, mug, stein"
 		},
 		{
 			"name": "book",
@@ -8798,7 +8902,7 @@
 		},
 		{
 			"name": "info",
-			"tags": "help"
+			"tags": ""
 		},
 		{
 			"name": "issue-closed",

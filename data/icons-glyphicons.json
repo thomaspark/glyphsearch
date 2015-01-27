@@ -344,7 +344,7 @@
     },
     {
       "name": "glass",
-      "tags": "drink, martini"
+      "tags": "drink, martini, alcohol, cocktail"
     },
     {
       "name": "globe",
@@ -606,7 +606,7 @@
     },
     {
       "name": "plane",
-      "tags": "airplane, jet"
+      "tags": "airplane, jet, transportation"
     },
     {
       "name": "play",
