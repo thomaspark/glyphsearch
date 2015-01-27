@@ -53,5 +53,14 @@
   },
   {{/each}}
 
+  {{#each iconmart}}
+  {
+    "_tags": ["iconmart"],
+    "name": "{{name}}",
+    "tags": "{{tags}}",
+    "class": "icon-{{name}}"
+  },
+  {{/each}}
+
   {}
 ]
