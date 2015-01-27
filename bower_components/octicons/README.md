@@ -12,7 +12,7 @@ This is the [Bower][bower] package for [GitHub Octicons][octicons].
   {
     "name": "my_great_project",
     "dependencies": {
-      "octicons": "2.0.0"
+      "octicons": "*"
     }
   }
   ```
@@ -43,7 +43,7 @@ Octicons includes a stylesheet specifically for [Rails 4/Sprockets][sprockets].
   {
     "name": "my_great_project",
     "dependencies": {
-      "octicons": "2.0.0"
+      "octicons": "*"
     }
   }
   ```
@@ -56,11 +56,11 @@ Octicons includes a stylesheet specifically for [Rails 4/Sprockets][sprockets].
   config.assets.precompile += %w(*.svg *.eot *.woff *.ttf)
   ```
 
-5. In your application stylesheet, require `octicons`:
+5. In your application stylesheet, require `sprockets-octicons`:
 
   ``` css
   /*
-  = require octicons
+  = require sprockets-octicons
   */
   ```
 
@@ -80,7 +80,13 @@ Octicons includes a stylesheet specifically for [Rails 4/Sprockets][sprockets].
 
 ## Best practices
 
-- Octicons look best in sizes that are multiples of 16px.
+- Octicons look best in sizes that are multiples of 16px. You can update the size using the `font-size` CSS property. For example:
+
+  ``` css
+  .octicon {
+    font-size: 32px;
+  }
+  ```
 
 - Octicons are not monospaced. This lets them work well next to type, but it means they won’t stack nicely by default. If you intend to stack octicons, such as in navigation, you will want to add some CSS to make them the same width, and centered. For example:
 
@@ -90,6 +96,22 @@ Octicons includes a stylesheet specifically for [Rails 4/Sprockets][sprockets].
     text-align: center;
   }
   ```
+
+### Resources
+
+- [octicons.github.com](http://octicons.github.com/) - the Octicons website
+- Read why [icon fonts are awesome](http://css-tricks.com/examples/IconFont/)
+- How to compose your [HTML for icon font usage](http://css-tricks.com/html-for-icon-font-usage/)
+  
+## Why can't I see the characters in Font Book??
+
+Give this a try, you should be all set:
+
+![](http://cl.ly/image/2r1B1F2l3Q0D/content#png)
+
+## FAQ
+
+Check out [issues with the FAQ label](https://github.com/github/octicons/issues?q=is%3Aclosed+is%3Aissue+label%3AFAQ).
 
 ## Versions
 
