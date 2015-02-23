@@ -1684,7 +1684,8 @@
 			"tags": "text editor"
 		},
 		{
-			"name": "thumb-tack"
+			"name": "thumb-tack",
+			"tags": "pin"
 		},
 		{
 			"name": "thumbs-down",
@@ -7960,7 +7961,8 @@
 			"tags": "chart"
 		},
 		{
-			"name": "pin"
+			"name": "pin",
+			"tags": "thumbtack"
 		},
 		{
 			"name": "pinpoint",
@@ -9074,7 +9076,7 @@
 		},
 		{
 			"name": "pin",
-			"tags": "people, save, star, bookmark"
+			"tags": "thumbtack"
 		},
 		{
 			"name": "playback-fast-forward",

@@ -2666,7 +2666,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "thumb-tack",
-    "tags": "",
+    "tags": "pin",
     "class": "fa fa-thumb-tack"
   },
   {
@@ -8092,7 +8092,7 @@
   {
     "_tags": ["ionicons"],
     "name": "pin",
-    "tags": "",
+    "tags": "thumbtack",
     "class": "ionicons ion-pin"
   },
   {
@@ -12480,7 +12480,7 @@
   {
     "_tags": ["octicons"],
     "name": "pin",
-    "tags": "people, save, star, bookmark",
+    "tags": "thumbtack",
     "class": "mega-octicon octicon-pin"
   },
   {
