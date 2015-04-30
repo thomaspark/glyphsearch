@@ -2257,6 +2257,12 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "share-alt",
+    "tags": "social",
+    "class": "fa fa-share-alt"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "share-alt-square",
     "tags": "social",
     "class": "fa fa-share-alt-square"
