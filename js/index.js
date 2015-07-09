@@ -1,4 +1,4 @@
-var index = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").initIndex('icons'),
+var iconsIndex = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").initIndex('icons'),
   innerTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-4" data-clipboard-text="{{{class}}}">' +
     '<div class="description">{{{class}}}</div>' +
     '<div class="thumb"><i class="{{{class}}}"></i></div>' +
@@ -18,7 +18,6 @@ var index = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").
   icons = {},
   $libraries = $("#libraries > button"),
   qs = $.url().param();
-
 ZeroClipboard.config({
   moviePath: "bower_components/zeroclipboard/dist/ZeroClipboard.swf",
   forceHandCursor: true
@@ -69,7 +68,7 @@ function search(v) {
   if (v.length === 0) {
     load(icons);
   } else {
-    index.search(v, function(success, content) {
+    iconsIndex.search(v, function(success, content) {
       if (!success) return;
 
       var result = {};
