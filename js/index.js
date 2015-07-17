@@ -34,11 +34,13 @@ function setLibrary(library) {
   $("[data-library='" + library + "']").addClass("active");
 
   if (library == "all") {
-    $(".section").removeClass("hide");
+    $(".section").addClass("fadeIn").removeClass("hide");
+    setTimeout(function(){ $(".section").removeClass("fadeIn") },1000)
     return;
   } else {
-    $(".section").addClass("hide");
-    $(".section#" + library).removeClass("hide");
+    $(".section:not(#"+ library +")").addClass("hide");
+    $(".section#" + library).addClass("fadeIn").removeClass("hide");
+    setTimeout(function(){ $(".section#" + library).removeClass("fadeIn") },1000)
   }
 }
 
