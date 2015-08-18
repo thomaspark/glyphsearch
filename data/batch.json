@@ -1,6 +1,12 @@
 [
   {
     "_tags": ["font-awesome"],
+    "name": "500px",
+    "tags": "brand, logo, social",
+    "class": "fa fa-500px"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "adjust",
     "tags": "",
     "class": "fa fa-adjust"
@@ -34,6 +40,12 @@
     "name": "align-right",
     "tags": "text editor",
     "class": "fa fa-align-right"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "amazon",
+    "tags": "brand, logo",
+    "class": "fa fa-amazon"
   },
   {
     "_tags": ["font-awesome"],
@@ -241,6 +253,12 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "balance-scale",
+    "tags": "law",
+    "class": "fa fa-balance-scale"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "ban",
     "tags": "",
     "class": "fa fa-ban"
@@ -262,6 +280,36 @@
     "name": "bars",
     "tags": "menu, more, reorder",
     "class": "fa fa-bars"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "battery-empty",
+    "tags": "power",
+    "class": "fa fa-battery-empty"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "battery-full",
+    "tags": "power",
+    "class": "fa fa-battery-full"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "battery-half",
+    "tags": "power",
+    "class": "fa fa-battery-half"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "battery-quarter",
+    "tags": "power",
+    "class": "fa fa-battery-quarter"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "battery-three-quarters",
+    "tags": "power",
+    "class": "fa fa-battery-three-quarters"
   },
   {
     "_tags": ["font-awesome"],
@@ -343,6 +391,12 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "black-tie",
+    "tags": "brand, logo",
+    "class": "fa fa-black-tie"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "bold",
     "tags": "text editor",
     "class": "fa fa-bold"
@@ -421,9 +475,33 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "calendar-check-o",
+    "tags": "date",
+    "class": "fa fa-calendar-check-o"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "calendar-minus-o",
+    "tags": "date",
+    "class": "fa fa-calendar-minus-o"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "calendar-o",
     "tags": "date",
     "class": "fa fa-calendar-o"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "calendar-plus-o",
+    "tags": "date",
+    "class": "fa fa-calendar-plus-o"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "calendar-times-o",
+    "tags": "date",
+    "class": "fa fa-calendar-times-o"
   },
   {
     "_tags": ["font-awesome"],
@@ -517,9 +595,21 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "cc-diners-club",
+    "tags": "credit card, payment",
+    "class": "fa fa-cc-diners-club"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "cc-discover",
     "tags": "credit card, payment",
     "class": "fa fa-cc-discover"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "cc-jcb",
+    "tags": "credit card, payment",
+    "class": "fa fa-cc-jcb"
   },
   {
     "_tags": ["font-awesome"],
@@ -643,6 +733,12 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "chrome",
+    "tags": "brand, browser, logo",
+    "class": "fa fa-chrome"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "circle",
     "tags": "form control",
     "class": "fa fa-circle"
@@ -676,6 +772,12 @@
     "name": "clock-o",
     "tags": "timer",
     "class": "fa fa-clock-o"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "clone",
+    "tags": "copy, duplicate",
+    "class": "fa fa-clone"
   },
   {
     "_tags": ["font-awesome"],
@@ -751,6 +853,18 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "commenting",
+    "tags": "chat, speech bubble",
+    "class": "fa fa-commenting"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "commenting-o",
+    "tags": "chat, speech bubble",
+    "class": "fa fa-commenting-o"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "comments",
     "tags": "chat, speech bubble",
     "class": "fa fa-comments"
@@ -781,9 +895,21 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "contao",
+    "tags": "brand, logo",
+    "class": "fa fa-contao"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "copyright",
     "tags": "",
     "class": "fa fa-copyright"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "creative-commons",
+    "tags": "logo",
+    "class": "fa fa-creative-commons"
   },
   {
     "_tags": ["font-awesome"],
@@ -985,6 +1111,12 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "expeditedssl",
+    "tags": "brand, logo",
+    "class": "fa fa-expeditedssl"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "external-link",
     "tags": "",
     "class": "fa fa-external-link"
@@ -1171,6 +1303,12 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "firefox",
+    "tags": "brand, browser, logo",
+    "class": "fa fa-firefox"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "flag",
     "tags": "",
     "class": "fa fa-flag"
@@ -1237,6 +1375,12 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "fonticons",
+    "tags": "brand, logo",
+    "class": "fa fa-fonticons"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "forumbee",
     "tags": "brand, logo",
     "class": "fa fa-forumbee"
@@ -1282,6 +1426,30 @@
     "name": "gbp",
     "tags": "currency, money",
     "class": "fa fa-gbp"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "genderless",
+    "tags": "circle",
+    "class": "fa fa-genderless"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "get-pocket",
+    "tags": "brand, logo",
+    "class": "fa fa-get-pocket"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "gg",
+    "tags": "brand, logo",
+    "class": "fa fa-gg"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "gg-circle",
+    "tags": "brand, logo",
+    "class": "fa fa-gg-circle"
   },
   {
     "_tags": ["font-awesome"],
@@ -1387,6 +1555,12 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "hand-lizard-o",
+    "tags": "",
+    "class": "fa fa-hand-lizard-o"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "hand-o-down",
     "tags": "directional, finger, pointer",
     "class": "fa fa-hand-o-down"
@@ -1408,6 +1582,42 @@
     "name": "hand-o-up",
     "tags": "directional, finger, pointer",
     "class": "fa fa-hand-o-up"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "hand-paper-o",
+    "tags": "stop",
+    "class": "fa fa-hand-paper-o"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "hand-peace-o",
+    "tags": "",
+    "class": "fa fa-hand-peace-o"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "hand-pointer-o",
+    "tags": "pointer",
+    "class": "fa fa-hand-pointer-o"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "hand-rock-o",
+    "tags": "fist, grab",
+    "class": "fa fa-hand-rock-o"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "hand-scissors-o",
+    "tags": "",
+    "class": "fa fa-hand-scissors-o"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "hand-spock-o",
+    "tags": "",
+    "class": "fa fa-hand-spock-o"
   },
   {
     "_tags": ["font-awesome"],
@@ -1465,9 +1675,51 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "hourglass",
+    "tags": "timer",
+    "class": "fa fa-hourglass"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "hourglass-end",
+    "tags": "timer",
+    "class": "fa fa-hourglass-end"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "hourglass-half",
+    "tags": "timer",
+    "class": "fa fa-hourglass-half"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "hourglass-o",
+    "tags": "timer",
+    "class": "fa fa-hourglass-o"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "hourglass-start",
+    "tags": "timer",
+    "class": "fa fa-hourglass-start"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "houzz",
+    "tags": "brand, logo",
+    "class": "fa fa-houzz"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "html5",
     "tags": "brand, logo, web",
     "class": "fa fa-html5"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "i-cursor",
+    "tags": "",
+    "class": "fa fa-i-cursor"
   },
   {
     "_tags": ["font-awesome"],
@@ -1486,6 +1738,12 @@
     "name": "indent",
     "tags": "text editor",
     "class": "fa fa-indent"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "industry",
+    "tags": "factory",
+    "class": "fa fa-industry"
   },
   {
     "_tags": ["font-awesome"],
@@ -1510,6 +1768,12 @@
     "name": "instagram",
     "tags": "brand, logo, camera, facebook, social, photos",
     "class": "fa fa-instagram"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "internet-explorer",
+    "tags": "brand, browser, logo",
+    "class": "fa fa-internet-explorer"
   },
   {
     "_tags": ["font-awesome"],
@@ -1741,9 +2005,33 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "map",
+    "tags": "",
+    "class": "fa fa-map"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "map-marker",
     "tags": "location",
     "class": "fa fa-map-marker"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "map-o",
+    "tags": "",
+    "class": "fa fa-map-o"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "map-pin",
+    "tags": "location",
+    "class": "fa fa-map-pin"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "map-signs",
+    "tags": "streets",
+    "class": "fa fa-map-signs"
   },
   {
     "_tags": ["font-awesome"],
@@ -1849,6 +2137,12 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "mouse-pointer",
+    "tags": "arrow, cursor",
+    "class": "fa fa-mouse-pointer"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "music",
     "tags": "",
     "class": "fa fa-music"
@@ -1867,9 +2161,51 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "object-group",
+    "tags": "",
+    "class": "fa fa-object-group"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "object-ungroup",
+    "tags": "",
+    "class": "fa fa-object-ungroup"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "odnoklassniki",
+    "tags": "brand, logo, social",
+    "class": "fa fa-odnoklassniki"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "odnoklassniki-square",
+    "tags": "brand, logo, social",
+    "class": "fa fa-odnoklassniki-square"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "opencart",
+    "tags": "brand, logo",
+    "class": "fa fa-opencart"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "openid",
     "tags": "brand, logo",
     "class": "fa fa-openid"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "opera",
+    "tags": "brand, browser, logo",
+    "class": "fa fa-opera"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "optin-monster",
+    "tags": "brand, logo",
+    "class": "fa fa-optin-monster"
   },
   {
     "_tags": ["font-awesome"],
@@ -2149,6 +2485,12 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "registered",
+    "tags": "trademark",
+    "class": "fa fa-registered"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "renren",
     "tags": "brand, logo, social",
     "class": "fa fa-renren"
@@ -2206,6 +2548,12 @@
     "name": "rss-square",
     "tags": "",
     "class": "fa fa-rss-square"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "safari",
+    "tags": "brand, browser, compass, logo",
+    "class": "fa fa-safari"
   },
   {
     "_tags": ["font-awesome"],
@@ -2527,6 +2875,18 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "sticky-note",
+    "tags": "",
+    "class": "fa fa-sticky-note"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "sticky-note-o",
+    "tags": "",
+    "class": "fa fa-sticky-note-o"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "stop",
     "tags": "video player, square",
     "class": "fa fa-stop"
@@ -2626,6 +2986,12 @@
     "name": "taxi",
     "tags": "cab, automobile, car, transportation",
     "class": "fa fa-taxi"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "television",
+    "tags": "computer, display, monitor, tv",
+    "class": "fa fa-television"
   },
   {
     "_tags": ["font-awesome"],
@@ -2743,6 +3109,12 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "trademark",
+    "tags": "",
+    "class": "fa fa-trademark"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "train",
     "tags": "transportation",
     "class": "fa fa-train"
@@ -2782,6 +3154,12 @@
     "name": "trello",
     "tags": "brand, logo, social",
     "class": "fa fa-trello"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "tripadvisor",
+    "tags": "brand, logo",
+    "class": "fa fa-tripadvisor"
   },
   {
     "_tags": ["font-awesome"],
@@ -2947,6 +3325,12 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "vimeo",
+    "tags": "brand, logo, video",
+    "class": "fa fa-vimeo"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "vimeo-square",
     "tags": "brand, logo, video, social",
     "class": "fa fa-vimeo-square"
@@ -3013,6 +3397,12 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "wikipedia-w",
+    "tags": "brand, logo",
+    "class": "fa fa-wikipedia-w"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "windows",
     "tags": "brand, logo, microsoft",
     "class": "fa fa-windows"
@@ -3040,6 +3430,12 @@
     "name": "xing-square",
     "tags": "brand, logo, social",
     "class": "fa fa-xing-square"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "y-combinator",
+    "tags": "brand, logo, social, yc",
+    "class": "fa fa-y-combinator"
   },
   {
     "_tags": ["font-awesome"],
