@@ -5,18 +5,6 @@
       "tags": "warning, triangle, exclamation, point"
     },
     {
-      "name": "alignment-align",
-      "tags": "dot, arrow, point, toward, direction"
-    },
-    {
-      "name": "alignment-aligned-to",
-      "tags": "dot, arrow, point, away, direction"
-    },
-    {
-      "name": "alignment-unalign",
-      "tags": "break, separate, snap, gap"
-    },
-    {
       "name": "arrow-down",
       "tags": "point, direction"
     },
@@ -49,8 +37,12 @@
       "tags": "point, direction"
     },
     {
-      "name": "beer",
-      "tags": "drink, cup, alcohol, mug, stein"
+      "name": "beaker",
+      "tags": "chemistry, flask, science"
+    },
+    {
+      "name": "bell",
+      "tags": "audio, sound"
     },
     {
       "name": "book",
@@ -159,6 +151,10 @@
     {
       "name": "database",
       "tags": "disks, data"
+    },
+    {
+      "name": "desktop-download",
+      "tags": ""
     },
     {
       "name": "device-camera",
@@ -317,10 +313,6 @@
       "tags": "hr"
     },
     {
-      "name": "hourglass",
-      "tags": "busy, loading, timer"
-    },
-    {
       "name": "hubot",
       "tags": "robot"
     },
@@ -347,22 +339,6 @@
     {
       "name": "jersey",
       "tags": "team, game, basketball"
-    },
-    {
-      "name": "jump-down",
-      "tags": "go, to, arrow, triangle"
-    },
-    {
-      "name": "jump-left",
-      "tags": "go, to, arrow, triangle"
-    },
-    {
-      "name": "jump-right",
-      "tags": "go, to, arrow, triangle"
-    },
-    {
-      "name": "jump-up",
-      "tags": "go, to, arrow, triangle"
     },
     {
       "name": "key",
@@ -437,10 +413,6 @@
       "tags": "at, ping"
     },
     {
-      "name": "microscope",
-      "tags": "science, education, study, development, testing"
-    },
-    {
       "name": "milestone",
       "tags": "marker"
     },
@@ -451,22 +423,6 @@
     {
       "name": "mortar-board",
       "tags": ""
-    },
-    {
-      "name": "move-down",
-      "tags": "jump, go, to, arrow"
-    },
-    {
-      "name": "move-left",
-      "tags": "jump, go, to, arrow"
-    },
-    {
-      "name": "move-right",
-      "tags": "jump, go, to, arrow"
-    },
-    {
-      "name": "move-up",
-      "tags": "jump, go, to, arrow"
     },
     {
       "name": "mute",
@@ -505,32 +461,12 @@
       "tags": "thumbtack"
     },
     {
-      "name": "playback-fast-forward",
-      "tags": ""
-    },
-    {
-      "name": "playback-pause",
-      "tags": "stop, quiet, sound, audio"
-    },
-    {
-      "name": "playback-play",
-      "tags": "go, sound, audio"
-    },
-    {
-      "name": "playback-rewind",
-      "tags": "sound, audio, back, previous"
-    },
-    {
       "name": "plug",
       "tags": "hook, webhook"
     },
     {
       "name": "plus",
       "tags": "add, new, more"
-    },
-    {
-      "name": "podium",
-      "tags": "speak, talks"
     },
     {
       "name": "primitive-dot",
@@ -543,10 +479,6 @@
     {
       "name": "pulse",
       "tags": "graph, trend, line"
-    },
-    {
-      "name": "puzzle",
-      "tags": "addon, plugin"
     },
     {
       "name": "question",
@@ -617,6 +549,10 @@
       "tags": "sliders, filters"
     },
     {
+      "name": "shield",
+      "tags": ""
+    },
+    {
       "name": "sign-in",
       "tags": "door, arrow, direction, enter"
     },
@@ -625,20 +561,12 @@
       "tags": "door, arrow, direction, leave"
     },
     {
-      "name": "split",
-      "tags": "diverg, fork, path"
-    },
-    {
       "name": "squirrel",
       "tags": "ship, shipit"
     },
     {
       "name": "star",
       "tags": "save, remember, like"
-    },
-    {
-      "name": "steps",
-      "tags": "feet, footprints, walk"
     },
     {
       "name": "stop",
@@ -663,6 +591,14 @@
     {
       "name": "three-bars",
       "tags": "hamburger"
+    },
+    {
+      "name": "thumbsdown",
+      "tags": "dislike, ratings"
+    },
+    {
+      "name": "thumbsup",
+      "tags": "like, ratings"
     },
     {
       "name": "tools",
@@ -699,6 +635,10 @@
     {
       "name": "versions",
       "tags": "history"
+    },
+    {
+      "name": "watch",
+      "tags": ""
     },
     {
       "name": "x",

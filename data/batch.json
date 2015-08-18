@@ -12137,24 +12137,6 @@
   },
   {
     "_tags": ["octicons"],
-    "name": "alignment-align",
-    "tags": "dot, arrow, point, toward, direction",
-    "class": "mega-octicon octicon-alignment-align"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "alignment-aligned-to",
-    "tags": "dot, arrow, point, away, direction",
-    "class": "mega-octicon octicon-alignment-aligned-to"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "alignment-unalign",
-    "tags": "break, separate, snap, gap",
-    "class": "mega-octicon octicon-alignment-unalign"
-  },
-  {
-    "_tags": ["octicons"],
     "name": "arrow-down",
     "tags": "point, direction",
     "class": "mega-octicon octicon-arrow-down"
@@ -12203,9 +12185,15 @@
   },
   {
     "_tags": ["octicons"],
-    "name": "beer",
-    "tags": "drink, cup, alcohol, mug, stein",
-    "class": "mega-octicon octicon-beer"
+    "name": "beaker",
+    "tags": "chemistry, flask, science",
+    "class": "mega-octicon octicon-beaker"
+  },
+  {
+    "_tags": ["octicons"],
+    "name": "bell",
+    "tags": "audio, sound",
+    "class": "mega-octicon octicon-bell"
   },
   {
     "_tags": ["octicons"],
@@ -12368,6 +12356,12 @@
     "name": "database",
     "tags": "disks, data",
     "class": "mega-octicon octicon-database"
+  },
+  {
+    "_tags": ["octicons"],
+    "name": "desktop-download",
+    "tags": "",
+    "class": "mega-octicon octicon-desktop-download"
   },
   {
     "_tags": ["octicons"],
@@ -12605,12 +12599,6 @@
   },
   {
     "_tags": ["octicons"],
-    "name": "hourglass",
-    "tags": "busy, loading, timer",
-    "class": "mega-octicon octicon-hourglass"
-  },
-  {
-    "_tags": ["octicons"],
     "name": "hubot",
     "tags": "robot",
     "class": "mega-octicon octicon-hubot"
@@ -12650,30 +12638,6 @@
     "name": "jersey",
     "tags": "team, game, basketball",
     "class": "mega-octicon octicon-jersey"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "jump-down",
-    "tags": "go, to, arrow, triangle",
-    "class": "mega-octicon octicon-jump-down"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "jump-left",
-    "tags": "go, to, arrow, triangle",
-    "class": "mega-octicon octicon-jump-left"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "jump-right",
-    "tags": "go, to, arrow, triangle",
-    "class": "mega-octicon octicon-jump-right"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "jump-up",
-    "tags": "go, to, arrow, triangle",
-    "class": "mega-octicon octicon-jump-up"
   },
   {
     "_tags": ["octicons"],
@@ -12785,12 +12749,6 @@
   },
   {
     "_tags": ["octicons"],
-    "name": "microscope",
-    "tags": "science, education, study, development, testing",
-    "class": "mega-octicon octicon-microscope"
-  },
-  {
-    "_tags": ["octicons"],
     "name": "milestone",
     "tags": "marker",
     "class": "mega-octicon octicon-milestone"
@@ -12806,30 +12764,6 @@
     "name": "mortar-board",
     "tags": "",
     "class": "mega-octicon octicon-mortar-board"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "move-down",
-    "tags": "jump, go, to, arrow",
-    "class": "mega-octicon octicon-move-down"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "move-left",
-    "tags": "jump, go, to, arrow",
-    "class": "mega-octicon octicon-move-left"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "move-right",
-    "tags": "jump, go, to, arrow",
-    "class": "mega-octicon octicon-move-right"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "move-up",
-    "tags": "jump, go, to, arrow",
-    "class": "mega-octicon octicon-move-up"
   },
   {
     "_tags": ["octicons"],
@@ -12887,30 +12821,6 @@
   },
   {
     "_tags": ["octicons"],
-    "name": "playback-fast-forward",
-    "tags": "",
-    "class": "mega-octicon octicon-playback-fast-forward"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "playback-pause",
-    "tags": "stop, quiet, sound, audio",
-    "class": "mega-octicon octicon-playback-pause"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "playback-play",
-    "tags": "go, sound, audio",
-    "class": "mega-octicon octicon-playback-play"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "playback-rewind",
-    "tags": "sound, audio, back, previous",
-    "class": "mega-octicon octicon-playback-rewind"
-  },
-  {
-    "_tags": ["octicons"],
     "name": "plug",
     "tags": "hook, webhook",
     "class": "mega-octicon octicon-plug"
@@ -12920,12 +12830,6 @@
     "name": "plus",
     "tags": "add, new, more",
     "class": "mega-octicon octicon-plus"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "podium",
-    "tags": "speak, talks",
-    "class": "mega-octicon octicon-podium"
   },
   {
     "_tags": ["octicons"],
@@ -12944,12 +12848,6 @@
     "name": "pulse",
     "tags": "graph, trend, line",
     "class": "mega-octicon octicon-pulse"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "puzzle",
-    "tags": "addon, plugin",
-    "class": "mega-octicon octicon-puzzle"
   },
   {
     "_tags": ["octicons"],
@@ -13055,6 +12953,12 @@
   },
   {
     "_tags": ["octicons"],
+    "name": "shield",
+    "tags": "",
+    "class": "mega-octicon octicon-shield"
+  },
+  {
+    "_tags": ["octicons"],
     "name": "sign-in",
     "tags": "door, arrow, direction, enter",
     "class": "mega-octicon octicon-sign-in"
@@ -13067,12 +12971,6 @@
   },
   {
     "_tags": ["octicons"],
-    "name": "split",
-    "tags": "diverg, fork, path",
-    "class": "mega-octicon octicon-split"
-  },
-  {
-    "_tags": ["octicons"],
     "name": "squirrel",
     "tags": "ship, shipit",
     "class": "mega-octicon octicon-squirrel"
@@ -13082,12 +12980,6 @@
     "name": "star",
     "tags": "save, remember, like",
     "class": "mega-octicon octicon-star"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "steps",
-    "tags": "feet, footprints, walk",
-    "class": "mega-octicon octicon-steps"
   },
   {
     "_tags": ["octicons"],
@@ -13124,6 +13016,18 @@
     "name": "three-bars",
     "tags": "hamburger",
     "class": "mega-octicon octicon-three-bars"
+  },
+  {
+    "_tags": ["octicons"],
+    "name": "thumbsdown",
+    "tags": "dislike, ratings",
+    "class": "mega-octicon octicon-thumbsdown"
+  },
+  {
+    "_tags": ["octicons"],
+    "name": "thumbsup",
+    "tags": "like, ratings",
+    "class": "mega-octicon octicon-thumbsup"
   },
   {
     "_tags": ["octicons"],
@@ -13178,6 +13082,12 @@
     "name": "versions",
     "tags": "history",
     "class": "mega-octicon octicon-versions"
+  },
+  {
+    "_tags": ["octicons"],
+    "name": "watch",
+    "tags": "",
+    "class": "mega-octicon octicon-watch"
   },
   {
     "_tags": ["octicons"],

@@ -1,8 +1,11 @@
 {
   "name": "octicons",
   "description": "GitHub's icon font",
-  "license": "SIL OFL 1.1, MIT",
-  "homepage": "http://octicons.github.com",
+  "license": [
+    "OFL-1.1",
+    "MIT"
+  ],
+  "homepage": "https://octicons.github.com",
   "authors": [
     "GitHub <support@github.com>"
   ],
@@ -24,14 +27,14 @@
     "**/.*",
     "bower_components"
   ],
-  "version": "2.1.2",
-  "_release": "2.1.2",
+  "version": "3.1.0",
+  "_release": "3.1.0",
   "_resolution": {
     "type": "version",
-    "tag": "v2.1.2",
-    "commit": "0af5befb63798321e05901518796288a3932d226"
+    "tag": "v3.1.0",
+    "commit": "d622851e97c343192bed957b33434ae32e7dc775"
   },
   "_source": "git://github.com/github/octicons.git",
-  "_target": "2.1.2",
+  "_target": "3.1.0",
   "_originalSource": "octicons"
 }
