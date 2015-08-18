@@ -2729,11 +2729,11 @@
     },
     {
       "name": "thumbsdown",
-      "tags": "unlike, unfavorite"
+      "tags": "dislike, ratings"
     },
     {
       "name": "thumbsup",
-      "tags": "like, favorite"
+      "tags": "like, ratings"
     },
     {
       "name": "toggle",

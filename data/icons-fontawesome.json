@@ -1937,19 +1937,19 @@
     },
     {
       "name": "thumbs-down",
-      "tags": "unlike, ratings, rate"
+      "tags": "dislike, ratings"
     },
     {
       "name": "thumbs-o-down",
-      "tags": "unlike, ratings, rate"
+      "tags": "dislike, ratings"
     },
     {
       "name": "thumbs-o-up",
-      "tags": "like, ratings, rate"
+      "tags": "like, ratings"
     },
     {
       "name": "thumbs-up",
-      "tags": "unlike, ratings, rate"
+      "tags": "like, ratings"
     },
     {
       "name": "ticket",

@@ -1482,15 +1482,15 @@
     },
     {
       "name": "star",
-      "tags": "like, rating"
+      "tags": "like, ratings"
     },
     {
       "name": "star-2",
-      "tags": "like, rating"
+      "tags": "like, ratings"
     },
     {
       "name": "star-3",
-      "tags": "like, rating"
+      "tags": "like, ratings"
     },
     {
       "name": "stats",
@@ -1578,11 +1578,11 @@
     },
     {
       "name": "thumbs-up",
-      "tags": "like, rating"
+      "tags": "like, ratings"
     },
     {
       "name": "thumbs-up-2",
-      "tags": "like, rating"
+      "tags": "dislike, ratings"
     },
     {
       "name": "ticket",

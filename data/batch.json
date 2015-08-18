@@ -3044,25 +3044,25 @@
   {
     "_tags": ["font-awesome"],
     "name": "thumbs-down",
-    "tags": "unlike, ratings, rate",
+    "tags": "dislike, ratings",
     "class": "fa fa-thumbs-down"
   },
   {
     "_tags": ["font-awesome"],
     "name": "thumbs-o-down",
-    "tags": "unlike, ratings, rate",
+    "tags": "dislike, ratings",
     "class": "fa fa-thumbs-o-down"
   },
   {
     "_tags": ["font-awesome"],
     "name": "thumbs-o-up",
-    "tags": "like, ratings, rate",
+    "tags": "like, ratings",
     "class": "fa fa-thumbs-o-up"
   },
   {
     "_tags": ["font-awesome"],
     "name": "thumbs-up",
-    "tags": "unlike, ratings, rate",
+    "tags": "like, ratings",
     "class": "fa fa-thumbs-up"
   },
   {
@@ -9262,13 +9262,13 @@
   {
     "_tags": ["ionicons"],
     "name": "thumbsdown",
-    "tags": "unlike, unfavorite",
+    "tags": "dislike, ratings",
     "class": "ionicons ion-thumbsdown"
   },
   {
     "_tags": ["ionicons"],
     "name": "thumbsup",
-    "tags": "like, favorite",
+    "tags": "like, ratings",
     "class": "ionicons ion-thumbsup"
   },
   {
@@ -11645,19 +11645,19 @@
   {
     "_tags": ["icomoon"],
     "name": "star",
-    "tags": "like, rating",
+    "tags": "like, ratings",
     "class": "icomoon icon-star"
   },
   {
     "_tags": ["icomoon"],
     "name": "star-2",
-    "tags": "like, rating",
+    "tags": "like, ratings",
     "class": "icomoon icon-star-2"
   },
   {
     "_tags": ["icomoon"],
     "name": "star-3",
-    "tags": "like, rating",
+    "tags": "like, ratings",
     "class": "icomoon icon-star-3"
   },
   {
@@ -11789,13 +11789,13 @@
   {
     "_tags": ["icomoon"],
     "name": "thumbs-up",
-    "tags": "like, rating",
+    "tags": "like, ratings",
     "class": "icomoon icon-thumbs-up"
   },
   {
     "_tags": ["icomoon"],
     "name": "thumbs-up-2",
-    "tags": "like, rating",
+    "tags": "dislike, ratings",
     "class": "icomoon icon-thumbs-up-2"
   },
   {
@@ -13393,13 +13393,13 @@
   {
     "_tags": ["foundation"],
     "name": "like",
-    "tags": "thumbs up",
+    "tags": "rating, thumbs up",
     "class": "fi-like"
   },
   {
     "_tags": ["foundation"],
     "name": "dislike",
-    "tags": "thumbs down",
+    "tags": "rating, thumbs down,",
     "class": "fi-dislike"
   },
   {

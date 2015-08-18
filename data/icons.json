@@ -1937,19 +1937,19 @@
 		},
 		{
 			"name": "thumbs-down",
-			"tags": "unlike, ratings, rate"
+			"tags": "dislike, ratings"
 		},
 		{
 			"name": "thumbs-o-down",
-			"tags": "unlike, ratings, rate"
+			"tags": "dislike, ratings"
 		},
 		{
 			"name": "thumbs-o-up",
-			"tags": "like, ratings, rate"
+			"tags": "like, ratings"
 		},
 		{
 			"name": "thumbs-up",
-			"tags": "unlike, ratings, rate"
+			"tags": "like, ratings"
 		},
 		{
 			"name": "ticket",
@@ -2378,11 +2378,11 @@
 		},
 		{
 			"name": "like",
-			"tags": "thumbs up"
+			"tags": "rating, thumbs up"
 		},
 		{
 			"name": "dislike",
-			"tags": "thumbs down"
+			"tags": "rating, thumbs down,"
 		},
 		{
 			"name": "upload-cloud"
@@ -5690,15 +5690,15 @@
 		},
 		{
 			"name": "star",
-			"tags": "like, rating"
+			"tags": "like, ratings"
 		},
 		{
 			"name": "star-2",
-			"tags": "like, rating"
+			"tags": "like, ratings"
 		},
 		{
 			"name": "star-3",
-			"tags": "like, rating"
+			"tags": "like, ratings"
 		},
 		{
 			"name": "stats",
@@ -5786,11 +5786,11 @@
 		},
 		{
 			"name": "thumbs-up",
-			"tags": "like, rating"
+			"tags": "like, ratings"
 		},
 		{
 			"name": "thumbs-up-2",
-			"tags": "like, rating"
+			"tags": "dislike, ratings"
 		},
 		{
 			"name": "ticket",
@@ -8743,11 +8743,11 @@
 		},
 		{
 			"name": "thumbsdown",
-			"tags": "unlike, unfavorite"
+			"tags": "dislike, ratings"
 		},
 		{
 			"name": "thumbsup",
-			"tags": "like, favorite"
+			"tags": "like, ratings"
 		},
 		{
 			"name": "toggle",

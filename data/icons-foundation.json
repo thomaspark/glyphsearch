@@ -166,11 +166,11 @@
     },
     {
       "name": "like",
-      "tags": "thumbs up"
+      "tags": "rating, thumbs up"
     },
     {
       "name": "dislike",
-      "tags": "thumbs down"
+      "tags": "rating, thumbs down,"
     },
     {
       "name": "upload-cloud"
