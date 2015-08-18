@@ -209,7 +209,7 @@
     },
     {
       "name": "duplicate",
-      "tags": "copy, documents, files"
+      "tags": "clone, copy, documents, files"
     },
     {
       "name": "earphone",
@@ -399,7 +399,7 @@
     },
     {
       "name": "hourglass",
-      "tags": "timer"
+      "tags": "busy, loading, timer"
     },
     {
       "name": "ice-lolly",

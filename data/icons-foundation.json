@@ -295,7 +295,8 @@
       "name": "page-search"
     },
     {
-      "name": "page-copy"
+      "name": "page-copy",
+      "tags": "clone, documents, duplicate, files"
     },
     {
       "name": "page-filled"
@@ -884,13 +885,16 @@
       "name": "lightbulb"
     },
     {
-      "name": "battery-full"
+      "name": "battery-full",
+      "tags": "power"
     },
     {
-      "name": "battery-half"
+      "name": "battery-half",
+      "tags": "power"
     },
     {
-      "name": "battery-empty"
+      "name": "battery-empty",
+      "tags": "power"
     },
     {
       "name": "projection-screen",

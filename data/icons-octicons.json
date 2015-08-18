@@ -78,7 +78,7 @@
     },
     {
       "name": "calendar",
-      "tags": "time, day, month, year"
+      "tags": "date"
     },
     {
       "name": "check",
@@ -318,7 +318,7 @@
     },
     {
       "name": "hourglass",
-      "tags": "timer, loading, status, chemex, progress"
+      "tags": "busy, loading, timer"
     },
     {
       "name": "hubot",
@@ -374,7 +374,7 @@
     },
     {
       "name": "law",
-      "tags": ""
+      "tags": "balance, scale"
     },
     {
       "name": "light-bulb",

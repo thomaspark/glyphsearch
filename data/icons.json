@@ -492,7 +492,7 @@
 		},
 		{
 			"name": "clipboard",
-			"tags": "paste, text editor"
+			"tags": "paste"
 		},
 		{
 			"name": "clock-o",
@@ -811,7 +811,7 @@
 		},
 		{
 			"name": "files-o",
-			"tags": "copy, clipboard, documents"
+			"tags": "clone, copy, documents, duplicate"
 		},
 		{
 			"name": "film"
@@ -1066,23 +1066,23 @@
 		},
 		{
 			"name": "hourglass",
-			"tags": "timer"
+			"tags": "busy, loading, timer"
 		},
 		{
 			"name": "hourglass-end",
-			"tags": "timer"
+			"tags": "busy, loading, timer"
 		},
 		{
 			"name": "hourglass-half",
-			"tags": "timer"
+			"tags": "busy, loading, timer"
 		},
 		{
 			"name": "hourglass-o",
-			"tags": "timer"
+			"tags": "busy, loading, timer"
 		},
 		{
 			"name": "hourglass-start",
-			"tags": "timer"
+			"tags": "busy, loading, timer"
 		},
 		{
 			"name": "houzz",
@@ -1139,7 +1139,7 @@
 		},
 		{
 			"name": "joomla",
-			"tags": "brand"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "jpy",
@@ -1633,7 +1633,7 @@
 		},
 		{
 			"name": "scissors",
-			"tags": "cut, text editor, clipboard"
+			"tags": "cut"
 		},
 		{
 			"name": "search",
@@ -1711,11 +1711,11 @@
 		},
 		{
 			"name": "skype",
-			"tags": "brand, logo, social, microsoft"
+			"tags": "brand, logo, social"
 		},
 		{
 			"name": "slack",
-			"tags": "brand, logo, hash, pound"
+			"tags": "brand, logo, social, hash, pound"
 		},
 		{
 			"name": "sliders",
@@ -2116,11 +2116,11 @@
 		},
 		{
 			"name": "vimeo",
-			"tags": "brand, logo, video"
+			"tags": "brand, logo, social, video"
 		},
 		{
 			"name": "vimeo-square",
-			"tags": "brand, logo, video, social"
+			"tags": "brand, logo, social, video"
 		},
 		{
 			"name": "vine",
@@ -2200,15 +2200,15 @@
 		},
 		{
 			"name": "youtube",
-			"tags": "brand, logo, video, google, social"
+			"tags": "brand, logo, video, social"
 		},
 		{
 			"name": "youtube-play",
-			"tags": "brand, logo, video player, google, social"
+			"tags": "brand, logo, video, social"
 		},
 		{
 			"name": "youtube-square",
-			"tags": "brand, logo, video, google, social"
+			"tags": "brand, logo, video, social"
 		}
 	],
 	"foundation": [
@@ -2507,7 +2507,8 @@
 			"name": "page-search"
 		},
 		{
-			"name": "page-copy"
+			"name": "page-copy",
+			"tags": "clone, documents, duplicate, files"
 		},
 		{
 			"name": "page-filled"
@@ -3096,13 +3097,16 @@
 			"name": "lightbulb"
 		},
 		{
-			"name": "battery-full"
+			"name": "battery-full",
+			"tags": "power"
 		},
 		{
-			"name": "battery-half"
+			"name": "battery-half",
+			"tags": "power"
 		},
 		{
-			"name": "battery-empty"
+			"name": "battery-empty",
+			"tags": "power"
 		},
 		{
 			"name": "projection-screen",
@@ -3444,7 +3448,7 @@
 		},
 		{
 			"name": "duplicate",
-			"tags": "copy, documents, files"
+			"tags": "clone, copy, documents, files"
 		},
 		{
 			"name": "earphone",
@@ -3634,7 +3638,7 @@
 		},
 		{
 			"name": "hourglass",
-			"tags": "timer"
+			"tags": "busy, loading, timer"
 		},
 		{
 			"name": "ice-lolly",
@@ -4462,7 +4466,7 @@
 		},
 		{
 			"name": "busy",
-			"tags": "hourglass"
+			"tags": "hourglass, loading, timer"
 		},
 		{
 			"name": "cabinet",
@@ -4530,7 +4534,7 @@
 		},
 		{
 			"name": "chrome",
-			"tags": "brand, logo"
+			"tags": "brand, browser, logo"
 		},
 		{
 			"name": "clock",
@@ -4582,7 +4586,7 @@
 		},
 		{
 			"name": "compass",
-			"tags": "directions, map, navigation, location"
+			"tags": "directions, navigation"
 		},
 		{
 			"name": "confused",
@@ -4622,7 +4626,7 @@
 		},
 		{
 			"name": "copy",
-			"tags": "clipboard, documents, files"
+			"tags": "clone, documents, duplicate, files"
 		},
 		{
 			"name": "copy-2",
@@ -4630,7 +4634,7 @@
 		},
 		{
 			"name": "copy-3",
-			"tags": "clipboard, documents, files"
+			"tags": "clone, documents, duplicate, files"
 		},
 		{
 			"name": "credit",
@@ -4866,7 +4870,7 @@
 		},
 		{
 			"name": "firefox",
-			"tags": "brand, logo"
+			"tags": "brand, browser, logo"
 		},
 		{
 			"name": "first",
@@ -5074,7 +5078,7 @@
 		},
 		{
 			"name": "IE",
-			"tags": "brand, logo"
+			"tags": "brand, browser, logo"
 		},
 		{
 			"name": "image",
@@ -5118,7 +5122,7 @@
 		},
 		{
 			"name": "joomla",
-			"tags": "brand, logo, social"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "key",
@@ -5242,11 +5246,11 @@
 		},
 		{
 			"name": "map",
-			"tags": "location"
+			"tags": ""
 		},
 		{
 			"name": "map-2",
-			"tags": "location"
+			"tags": ""
 		},
 		{
 			"name": "menu",
@@ -5326,7 +5330,7 @@
 		},
 		{
 			"name": "opera",
-			"tags": "brand, logo"
+			"tags": "brand, browser, logo"
 		},
 		{
 			"name": "pacman",
@@ -5574,7 +5578,7 @@
 		},
 		{
 			"name": "safari",
-			"tags": "brand, logo, "
+			"tags": "brand, browser, compass, logo"
 		},
 		{
 			"name": "scissors",
@@ -6108,7 +6112,7 @@
 		},
 		{
 			"name": "android-calendar",
-			"tags": ""
+			"tags": "date"
 		},
 		{
 			"name": "android-call",
@@ -6176,7 +6180,7 @@
 		},
 		{
 			"name": "android-compass",
-			"tags": "map, directions, navigation"
+			"tags": "directions, navigation"
 		},
 		{
 			"name": "android-contact",
@@ -6367,7 +6371,7 @@
 		},
 		{
 			"name": "android-pin",
-			"tags": "map, marker"
+			"tags": "map marker"
 		},
 		{
 			"name": "android-plane",
@@ -6791,7 +6795,7 @@
 		},
 		{
 			"name": "compass",
-			"tags": "directions, map, navigation, location"
+			"tags": "directions, navigation"
 		},
 		{
 			"name": "compose",
@@ -7311,11 +7315,11 @@
 		},
 		{
 			"name": "ios-copy",
-			"tags": "clipboard, documents, files"
+			"tags": "clone, documents, duplicate, files"
 		},
 		{
 			"name": "ios-copy-outline",
-			"tags": "clipboard, documents, files"
+			"tags": "clone, documents, duplicate, files"
 		},
 		{
 			"name": "ios-crop",
@@ -7528,11 +7532,11 @@
 		},
 		{
 			"name": "ios-location",
-			"tags": "map, marker"
+			"tags": "map marker"
 		},
 		{
 			"name": "ios-location-outline",
-			"tags": "map, marker"
+			"tags": "map marker"
 		},
 		{
 			"name": "ios-locked"
@@ -7619,11 +7623,11 @@
 		},
 		{
 			"name": "ios-navigate",
-			"tags": "map, location, marker"
+			"tags": "compass, directions, location"
 		},
 		{
 			"name": "ios-navigate-outline",
-			"tags": "map, location, marker"
+			"tags": "compass, directions, location"
 		},
 		{
 			"name": "ios-nutrition",
@@ -8082,7 +8086,7 @@
 		},
 		{
 			"name": "location",
-			"tags": "map, marker"
+			"tags": "map marker"
 		},
 		{
 			"name": "lock-combination",
@@ -8114,7 +8118,7 @@
 		},
 		{
 			"name": "map",
-			"tags": "location"
+			"tags": ""
 		},
 		{
 			"name": "medkit",
@@ -8407,11 +8411,11 @@
 		},
 		{
 			"name": "social-chrome",
-			"tags": "brand, logo"
+			"tags": "brand, browser, logo"
 		},
 		{
 			"name": "social-chrome-outline",
-			"tags": "brand, logo"
+			"tags": "brand, browser, logo"
 		},
 		{
 			"name": "social-codepen",
@@ -8591,11 +8595,11 @@
 		},
 		{
 			"name": "social-skype",
-			"tags": "brand, logo, microsoft"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-skype-outline",
-			"tags": "brand, logo, microsoft"
+			"tags": "brand, logo"
 		},
 		{
 			"name": "social-snapchat",
@@ -8691,11 +8695,11 @@
 		},
 		{
 			"name": "social-youtube",
-			"tags": "brand, logo, video, google"
+			"tags": "brand, logo, video"
 		},
 		{
 			"name": "social-youtube-outline",
-			"tags": "brand, logo, video, google"
+			"tags": "brand, logo, video"
 		},
 		{
 			"name": "soup-can",
@@ -8920,7 +8924,7 @@
 		},
 		{
 			"name": "calendar",
-			"tags": "time, day, month, year"
+			"tags": "date"
 		},
 		{
 			"name": "check",
@@ -9160,7 +9164,7 @@
 		},
 		{
 			"name": "hourglass",
-			"tags": "timer, loading, status, chemex, progress"
+			"tags": "busy, loading, timer"
 		},
 		{
 			"name": "hubot",
@@ -9216,7 +9220,7 @@
 		},
 		{
 			"name": "law",
-			"tags": ""
+			"tags": "balance, scale"
 		},
 		{
 			"name": "light-bulb",

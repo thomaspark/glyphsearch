@@ -764,7 +764,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "clipboard",
-    "tags": "paste, text editor",
+    "tags": "paste",
     "class": "fa fa-clipboard"
   },
   {
@@ -1274,7 +1274,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "files-o",
-    "tags": "copy, clipboard, documents",
+    "tags": "clone, copy, documents, duplicate",
     "class": "fa fa-files-o"
   },
   {
@@ -1676,31 +1676,31 @@
   {
     "_tags": ["font-awesome"],
     "name": "hourglass",
-    "tags": "timer",
+    "tags": "busy, loading, timer",
     "class": "fa fa-hourglass"
   },
   {
     "_tags": ["font-awesome"],
     "name": "hourglass-end",
-    "tags": "timer",
+    "tags": "busy, loading, timer",
     "class": "fa fa-hourglass-end"
   },
   {
     "_tags": ["font-awesome"],
     "name": "hourglass-half",
-    "tags": "timer",
+    "tags": "busy, loading, timer",
     "class": "fa fa-hourglass-half"
   },
   {
     "_tags": ["font-awesome"],
     "name": "hourglass-o",
-    "tags": "timer",
+    "tags": "busy, loading, timer",
     "class": "fa fa-hourglass-o"
   },
   {
     "_tags": ["font-awesome"],
     "name": "hourglass-start",
-    "tags": "timer",
+    "tags": "busy, loading, timer",
     "class": "fa fa-hourglass-start"
   },
   {
@@ -1790,7 +1790,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "joomla",
-    "tags": "brand",
+    "tags": "brand, logo",
     "class": "fa fa-joomla"
   },
   {
@@ -2558,7 +2558,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "scissors",
-    "tags": "cut, text editor, clipboard",
+    "tags": "cut",
     "class": "fa fa-scissors"
   },
   {
@@ -2684,13 +2684,13 @@
   {
     "_tags": ["font-awesome"],
     "name": "skype",
-    "tags": "brand, logo, social, microsoft",
+    "tags": "brand, logo, social",
     "class": "fa fa-skype"
   },
   {
     "_tags": ["font-awesome"],
     "name": "slack",
-    "tags": "brand, logo, hash, pound",
+    "tags": "brand, logo, social, hash, pound",
     "class": "fa fa-slack"
   },
   {
@@ -3326,13 +3326,13 @@
   {
     "_tags": ["font-awesome"],
     "name": "vimeo",
-    "tags": "brand, logo, video",
+    "tags": "brand, logo, social, video",
     "class": "fa fa-vimeo"
   },
   {
     "_tags": ["font-awesome"],
     "name": "vimeo-square",
-    "tags": "brand, logo, video, social",
+    "tags": "brand, logo, social, video",
     "class": "fa fa-vimeo-square"
   },
   {
@@ -3452,19 +3452,19 @@
   {
     "_tags": ["font-awesome"],
     "name": "youtube",
-    "tags": "brand, logo, video, google, social",
+    "tags": "brand, logo, video, social",
     "class": "fa fa-youtube"
   },
   {
     "_tags": ["font-awesome"],
     "name": "youtube-play",
-    "tags": "brand, logo, video player, google, social",
+    "tags": "brand, logo, video, social",
     "class": "fa fa-youtube-play"
   },
   {
     "_tags": ["font-awesome"],
     "name": "youtube-square",
-    "tags": "brand, logo, video, google, social",
+    "tags": "brand, logo, video, social",
     "class": "fa fa-youtube-square"
   },
 
@@ -3801,7 +3801,7 @@
   {
     "_tags": ["glyphicons"],
     "name": "duplicate",
-    "tags": "copy, documents, files",
+    "tags": "clone, copy, documents, files",
     "class": "glyphicon glyphicon-duplicate"
   },
   {
@@ -4095,7 +4095,7 @@
   {
     "_tags": ["glyphicons"],
     "name": "hourglass",
-    "tags": "timer",
+    "tags": "busy, loading, timer",
     "class": "glyphicon glyphicon-hourglass"
   },
   {
@@ -5194,7 +5194,7 @@
   {
     "_tags": ["ionicons"],
     "name": "android-calendar",
-    "tags": "",
+    "tags": "date",
     "class": "ionicons ion-android-calendar"
   },
   {
@@ -5308,7 +5308,7 @@
   {
     "_tags": ["ionicons"],
     "name": "android-compass",
-    "tags": "map, directions, navigation",
+    "tags": "directions, navigation",
     "class": "ionicons ion-android-compass"
   },
   {
@@ -5596,7 +5596,7 @@
   {
     "_tags": ["ionicons"],
     "name": "android-pin",
-    "tags": "map, marker",
+    "tags": "map marker",
     "class": "ionicons ion-android-pin"
   },
   {
@@ -6250,7 +6250,7 @@
   {
     "_tags": ["ionicons"],
     "name": "compass",
-    "tags": "directions, map, navigation, location",
+    "tags": "directions, navigation",
     "class": "ionicons ion-compass"
   },
   {
@@ -7066,13 +7066,13 @@
   {
     "_tags": ["ionicons"],
     "name": "ios-copy",
-    "tags": "clipboard, documents, files",
+    "tags": "clone, documents, duplicate, files",
     "class": "ionicons ion-ios-copy"
   },
   {
     "_tags": ["ionicons"],
     "name": "ios-copy-outline",
-    "tags": "clipboard, documents, files",
+    "tags": "clone, documents, duplicate, files",
     "class": "ionicons ion-ios-copy-outline"
   },
   {
@@ -7408,13 +7408,13 @@
   {
     "_tags": ["ionicons"],
     "name": "ios-location",
-    "tags": "map, marker",
+    "tags": "map marker",
     "class": "ionicons ion-ios-location"
   },
   {
     "_tags": ["ionicons"],
     "name": "ios-location-outline",
-    "tags": "map, marker",
+    "tags": "map marker",
     "class": "ionicons ion-ios-location-outline"
   },
   {
@@ -7552,13 +7552,13 @@
   {
     "_tags": ["ionicons"],
     "name": "ios-navigate",
-    "tags": "map, location, marker",
+    "tags": "compass, directions, location",
     "class": "ionicons ion-ios-navigate"
   },
   {
     "_tags": ["ionicons"],
     "name": "ios-navigate-outline",
-    "tags": "map, location, marker",
+    "tags": "compass, directions, location",
     "class": "ionicons ion-ios-navigate-outline"
   },
   {
@@ -8260,7 +8260,7 @@
   {
     "_tags": ["ionicons"],
     "name": "location",
-    "tags": "map, marker",
+    "tags": "map marker",
     "class": "ionicons ion-location"
   },
   {
@@ -8314,7 +8314,7 @@
   {
     "_tags": ["ionicons"],
     "name": "map",
-    "tags": "location",
+    "tags": "",
     "class": "ionicons ion-map"
   },
   {
@@ -8764,13 +8764,13 @@
   {
     "_tags": ["ionicons"],
     "name": "social-chrome",
-    "tags": "brand, logo",
+    "tags": "brand, browser, logo",
     "class": "ionicons ion-social-chrome"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-chrome-outline",
-    "tags": "brand, logo",
+    "tags": "brand, browser, logo",
     "class": "ionicons ion-social-chrome-outline"
   },
   {
@@ -9040,13 +9040,13 @@
   {
     "_tags": ["ionicons"],
     "name": "social-skype",
-    "tags": "brand, logo, microsoft",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-skype"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-skype-outline",
-    "tags": "brand, logo, microsoft",
+    "tags": "brand, logo",
     "class": "ionicons ion-social-skype-outline"
   },
   {
@@ -9190,13 +9190,13 @@
   {
     "_tags": ["ionicons"],
     "name": "social-youtube",
-    "tags": "brand, logo, video, google",
+    "tags": "brand, logo, video",
     "class": "ionicons ion-social-youtube"
   },
   {
     "_tags": ["ionicons"],
     "name": "social-youtube-outline",
-    "tags": "brand, logo, video, google",
+    "tags": "brand, logo, video",
     "class": "ionicons ion-social-youtube-outline"
   },
   {
@@ -9809,7 +9809,7 @@
   {
     "_tags": ["icomoon"],
     "name": "busy",
-    "tags": "hourglass",
+    "tags": "hourglass, loading, timer",
     "class": "icomoon icon-busy"
   },
   {
@@ -9911,7 +9911,7 @@
   {
     "_tags": ["icomoon"],
     "name": "chrome",
-    "tags": "brand, logo",
+    "tags": "brand, browser, logo",
     "class": "icomoon icon-chrome"
   },
   {
@@ -9989,7 +9989,7 @@
   {
     "_tags": ["icomoon"],
     "name": "compass",
-    "tags": "directions, map, navigation, location",
+    "tags": "directions, navigation",
     "class": "icomoon icon-compass"
   },
   {
@@ -10049,7 +10049,7 @@
   {
     "_tags": ["icomoon"],
     "name": "copy",
-    "tags": "clipboard, documents, files",
+    "tags": "clone, documents, duplicate, files",
     "class": "icomoon icon-copy"
   },
   {
@@ -10061,7 +10061,7 @@
   {
     "_tags": ["icomoon"],
     "name": "copy-3",
-    "tags": "clipboard, documents, files",
+    "tags": "clone, documents, duplicate, files",
     "class": "icomoon icon-copy-3"
   },
   {
@@ -10415,7 +10415,7 @@
   {
     "_tags": ["icomoon"],
     "name": "firefox",
-    "tags": "brand, logo",
+    "tags": "brand, browser, logo",
     "class": "icomoon icon-firefox"
   },
   {
@@ -10727,7 +10727,7 @@
   {
     "_tags": ["icomoon"],
     "name": "IE",
-    "tags": "brand, logo",
+    "tags": "brand, browser, logo",
     "class": "icomoon icon-IE"
   },
   {
@@ -10793,7 +10793,7 @@
   {
     "_tags": ["icomoon"],
     "name": "joomla",
-    "tags": "brand, logo, social",
+    "tags": "brand, logo",
     "class": "icomoon icon-joomla"
   },
   {
@@ -10979,13 +10979,13 @@
   {
     "_tags": ["icomoon"],
     "name": "map",
-    "tags": "location",
+    "tags": "",
     "class": "icomoon icon-map"
   },
   {
     "_tags": ["icomoon"],
     "name": "map-2",
-    "tags": "location",
+    "tags": "",
     "class": "icomoon icon-map-2"
   },
   {
@@ -11105,7 +11105,7 @@
   {
     "_tags": ["icomoon"],
     "name": "opera",
-    "tags": "brand, logo",
+    "tags": "brand, browser, logo",
     "class": "icomoon icon-opera"
   },
   {
@@ -11477,7 +11477,7 @@
   {
     "_tags": ["icomoon"],
     "name": "safari",
-    "tags": "brand, logo, ",
+    "tags": "brand, browser, compass, logo",
     "class": "icomoon icon-safari"
   },
   {
@@ -12246,7 +12246,7 @@
   {
     "_tags": ["octicons"],
     "name": "calendar",
-    "tags": "time, day, month, year",
+    "tags": "date",
     "class": "mega-octicon octicon-calendar"
   },
   {
@@ -12606,7 +12606,7 @@
   {
     "_tags": ["octicons"],
     "name": "hourglass",
-    "tags": "timer, loading, status, chemex, progress",
+    "tags": "busy, loading, timer",
     "class": "mega-octicon octicon-hourglass"
   },
   {
@@ -12690,7 +12690,7 @@
   {
     "_tags": ["octicons"],
     "name": "law",
-    "tags": "",
+    "tags": "balance, scale",
     "class": "mega-octicon octicon-law"
   },
   {
@@ -13711,7 +13711,7 @@
   {
     "_tags": ["foundation"],
     "name": "page-copy",
-    "tags": "",
+    "tags": "clone, documents, duplicate, files",
     "class": "fi-page-copy"
   },
   {
@@ -14653,19 +14653,19 @@
   {
     "_tags": ["foundation"],
     "name": "battery-full",
-    "tags": "",
+    "tags": "power",
     "class": "fi-battery-full"
   },
   {
     "_tags": ["foundation"],
     "name": "battery-half",
-    "tags": "",
+    "tags": "power",
     "class": "fi-battery-half"
   },
   {
     "_tags": ["foundation"],
     "name": "battery-empty",
-    "tags": "",
+    "tags": "power",
     "class": "fi-battery-empty"
   },
   {

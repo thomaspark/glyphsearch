@@ -98,7 +98,7 @@
     },
     {
       "name": "android-calendar",
-      "tags": ""
+      "tags": "date"
     },
     {
       "name": "android-call",
@@ -166,7 +166,7 @@
     },
     {
       "name": "android-compass",
-      "tags": "map, directions, navigation"
+      "tags": "directions, navigation"
     },
     {
       "name": "android-contact",
@@ -357,7 +357,7 @@
     },
     {
       "name": "android-pin",
-      "tags": "map, marker"
+      "tags": "map marker"
     },
     {
       "name": "android-plane",
@@ -781,7 +781,7 @@
     },
     {
       "name": "compass",
-      "tags": "directions, map, navigation, location"
+      "tags": "directions, navigation"
     },
     {
       "name": "compose",
@@ -1301,11 +1301,11 @@
     },
     {
       "name": "ios-copy",
-      "tags": "clipboard, documents, files"
+      "tags": "clone, documents, duplicate, files"
     },
     {
       "name": "ios-copy-outline",
-      "tags": "clipboard, documents, files"
+      "tags": "clone, documents, duplicate, files"
     },
     {
       "name": "ios-crop",
@@ -1518,11 +1518,11 @@
     },
     {
       "name": "ios-location",
-      "tags": "map, marker"
+      "tags": "map marker"
     },
     {
       "name": "ios-location-outline",
-      "tags": "map, marker"
+      "tags": "map marker"
     },
     {
       "name": "ios-locked"
@@ -1609,11 +1609,11 @@
     },
     {
       "name": "ios-navigate",
-      "tags": "map, location, marker"
+      "tags": "compass, directions, location"
     },
     {
       "name": "ios-navigate-outline",
-      "tags": "map, location, marker"
+      "tags": "compass, directions, location"
     },
     {
       "name": "ios-nutrition",
@@ -2072,7 +2072,7 @@
     },
     {
       "name": "location",
-      "tags": "map, marker"
+      "tags": "map marker"
     },
     {
       "name": "lock-combination",
@@ -2104,7 +2104,7 @@
     },
     {
       "name": "map",
-      "tags": "location"
+      "tags": ""
     },
     {
       "name": "medkit",
@@ -2397,11 +2397,11 @@
     },
     {
       "name": "social-chrome",
-      "tags": "brand, logo"
+      "tags": "brand, browser, logo"
     },
     {
       "name": "social-chrome-outline",
-      "tags": "brand, logo"
+      "tags": "brand, browser, logo"
     },
     {
       "name": "social-codepen",
@@ -2581,11 +2581,11 @@
     },
     {
       "name": "social-skype",
-      "tags": "brand, logo, microsoft"
+      "tags": "brand, logo"
     },
     {
       "name": "social-skype-outline",
-      "tags": "brand, logo, microsoft"
+      "tags": "brand, logo"
     },
     {
       "name": "social-snapchat",
@@ -2681,11 +2681,11 @@
     },
     {
       "name": "social-youtube",
-      "tags": "brand, logo, video, google"
+      "tags": "brand, logo, video"
     },
     {
       "name": "social-youtube-outline",
-      "tags": "brand, logo, video, google"
+      "tags": "brand, logo, video"
     },
     {
       "name": "soup-can",
