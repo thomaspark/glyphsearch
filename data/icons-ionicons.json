@@ -177,7 +177,8 @@
       "tags": "people, users"
     },
     {
-      "name": "android-contract"
+      "name": "android-contract",
+      "tags": "resize, compress, shrink"
     },
     {
       "name": "android-create",
@@ -520,7 +521,7 @@
     },
     {
       "name": "arrow-expand",
-      "tags": ""
+      "tags": "resize"
     },
     {
       "name": "arrow-graph-down-left",
@@ -792,7 +793,8 @@
       "tags": "graph, signal"
     },
     {
-      "name": "contrast"
+      "name": "contrast",
+      "tags": "adjust"
     },
     {
       "name": "crop"

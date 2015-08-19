@@ -5,7 +5,8 @@
 			"tags": "brand, logo, social"
 		},
 		{
-			"name": "adjust"
+			"name": "adjust",
+			"tags": "contrast"
 		},
 		{
 			"name": "adn",
@@ -569,7 +570,7 @@
 		},
 		{
 			"name": "compress",
-			"tags": "arrows, resize, video player"
+			"tags": "arrows, resize, contract, shrink"
 		},
 		{
 			"name": "connectdevelop",
@@ -709,7 +710,7 @@
 		},
 		{
 			"name": "expand",
-			"tags": "arrows, resize, video player"
+			"tags": "arrows, resize"
 		},
 		{
 			"name": "expeditedssl",
@@ -2399,7 +2400,8 @@
 			"name": "bookmark"
 		},
 		{
-			"name": "contrast"
+			"name": "contrast",
+			"tags": "adjust"
 		},
 		{
 			"name": "mail",
@@ -2534,7 +2536,7 @@
 		},
 		{
 			"name": "arrows-in",
-			"tags": "resize, compress"
+			"tags": "resize, compress, contract, shrink"
 		},
 		{
 			"name": "arrows-expand",
@@ -2542,7 +2544,7 @@
 		},
 		{
 			"name": "arrows-compress",
-			"tags": "resize"
+			"tags": "resize, contract, shrink"
 		},
 		{
 			"name": "torso",
@@ -3240,7 +3242,8 @@
 	],
 	"glyphicons": [
 		{
-			"name": "adjust"
+			"name": "adjust",
+			"tags": "contrast"
 		},
 		{
 			"name": "alert",
@@ -4426,7 +4429,7 @@
 		},
 		{
 			"name": "brightness-contrast",
-			"tags": ""
+			"tags": "adjust"
 		},
 		{
 			"name": "brightness-medium",
@@ -4614,7 +4617,7 @@
 		},
 		{
 			"name": "contrast",
-			"tags": ""
+			"tags": "adjust"
 		},
 		{
 			"name": "cool",
@@ -6191,7 +6194,8 @@
 			"tags": "people, users"
 		},
 		{
-			"name": "android-contract"
+			"name": "android-contract",
+			"tags": "resize, compress, shrink"
 		},
 		{
 			"name": "android-create",
@@ -6534,7 +6538,7 @@
 		},
 		{
 			"name": "arrow-expand",
-			"tags": ""
+			"tags": "resize"
 		},
 		{
 			"name": "arrow-graph-down-left",
@@ -6806,7 +6810,8 @@
 			"tags": "graph, signal"
 		},
 		{
-			"name": "contrast"
+			"name": "contrast",
+			"tags": "adjust"
 		},
 		{
 			"name": "crop"

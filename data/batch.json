@@ -8,7 +8,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "adjust",
-    "tags": "",
+    "tags": "contrast",
     "class": "fa fa-adjust"
   },
   {
@@ -884,7 +884,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "compress",
-    "tags": "arrows, resize, video player",
+    "tags": "arrows, resize, contract, shrink",
     "class": "fa fa-compress"
   },
   {
@@ -1106,7 +1106,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "expand",
-    "tags": "arrows, resize, video player",
+    "tags": "arrows, resize",
     "class": "fa fa-expand"
   },
   {
@@ -3471,7 +3471,7 @@
   {
     "_tags": ["glyphicons"],
     "name": "adjust",
-    "tags": "",
+    "tags": "contrast",
     "class": "glyphicon glyphicon-adjust"
   },
   {
@@ -5326,7 +5326,7 @@
   {
     "_tags": ["ionicons"],
     "name": "android-contract",
-    "tags": "",
+    "tags": "resize, compress, shrink",
     "class": "ionicons ion-android-contract"
   },
   {
@@ -5842,7 +5842,7 @@
   {
     "_tags": ["ionicons"],
     "name": "arrow-expand",
-    "tags": "",
+    "tags": "resize",
     "class": "ionicons ion-arrow-expand"
   },
   {
@@ -6268,7 +6268,7 @@
   {
     "_tags": ["ionicons"],
     "name": "contrast",
-    "tags": "",
+    "tags": "adjust",
     "class": "ionicons ion-contrast"
   },
   {
@@ -9749,7 +9749,7 @@
   {
     "_tags": ["icomoon"],
     "name": "brightness-contrast",
-    "tags": "",
+    "tags": "adjust",
     "class": "icomoon icon-brightness-contrast"
   },
   {
@@ -10031,7 +10031,7 @@
   {
     "_tags": ["icomoon"],
     "name": "contrast",
-    "tags": "",
+    "tags": "adjust",
     "class": "icomoon icon-contrast"
   },
   {
@@ -13429,7 +13429,7 @@
   {
     "_tags": ["foundation"],
     "name": "contrast",
-    "tags": "",
+    "tags": "adjust",
     "class": "fi-contrast"
   },
   {
@@ -13669,7 +13669,7 @@
   {
     "_tags": ["foundation"],
     "name": "arrows-in",
-    "tags": "resize, compress",
+    "tags": "resize, compress, contract, shrink",
     "class": "fi-arrows-in"
   },
   {
@@ -13681,7 +13681,7 @@
   {
     "_tags": ["foundation"],
     "name": "arrows-compress",
-    "tags": "resize",
+    "tags": "resize, contract, shrink",
     "class": "fi-arrows-compress"
   },
   {

@@ -218,7 +218,7 @@
     },
     {
       "name": "brightness-contrast",
-      "tags": ""
+      "tags": "adjust"
     },
     {
       "name": "brightness-medium",
@@ -406,7 +406,7 @@
     },
     {
       "name": "contrast",
-      "tags": ""
+      "tags": "adjust"
     },
     {
       "name": "cool",

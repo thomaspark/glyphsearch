@@ -187,7 +187,8 @@
       "name": "bookmark"
     },
     {
-      "name": "contrast"
+      "name": "contrast",
+      "tags": "adjust"
     },
     {
       "name": "mail",
@@ -322,7 +323,7 @@
     },
     {
       "name": "arrows-in",
-      "tags": "resize, compress"
+      "tags": "resize, compress, contract, shrink"
     },
     {
       "name": "arrows-expand",
@@ -330,7 +331,7 @@
     },
     {
       "name": "arrows-compress",
-      "tags": "resize"
+      "tags": "resize, contract, shrink"
     },
     {
       "name": "torso",

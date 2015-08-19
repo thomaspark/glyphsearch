@@ -1,7 +1,8 @@
 {
   "glyphicons": [
     {
-      "name": "adjust"
+      "name": "adjust",
+      "tags": "contrast"
     },
     {
       "name": "alert",

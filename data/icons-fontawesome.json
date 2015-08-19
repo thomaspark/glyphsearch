@@ -5,7 +5,8 @@
       "tags": "brand, logo, social"
     },
     {
-      "name": "adjust"
+      "name": "adjust",
+      "tags": "contrast"
     },
     {
       "name": "adn",
@@ -569,7 +570,7 @@
     },
     {
       "name": "compress",
-      "tags": "arrows, resize, video player"
+      "tags": "arrows, resize, contract, shrink"
     },
     {
       "name": "connectdevelop",
@@ -709,7 +710,7 @@
     },
     {
       "name": "expand",
-      "tags": "arrows, resize, video player"
+      "tags": "arrows, resize"
     },
     {
       "name": "expeditedssl",
