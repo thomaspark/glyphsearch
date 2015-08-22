@@ -2,51 +2,84 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>GlyphSearch: Search for icons from Font Awesome, Glyphicons, IcoMoon, Ionicons, Octicons and Foundation</title>
-    <meta name="description" content="Search for icons from Font Awesome, Glyphicons, IcoMoon, Ionicons, and Octicons">
-    <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="bower_components/bootswatch/flatly/bootstrap.min.css">
+    <title>GlyphSearch: Search for icons from Font Awesome, Foundation, Glyphicons, IcoMoon, Ionicons, Material Design, and Octicons</title>
+    <meta name="description" content="Search for icons from Font Awesome, Foundation, Glyphicons, IcoMoon, Ionicons, Material Design, and Octicons">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <meta property="og:title" content="GlyphSearch">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://glyphsearch.com">
+    <meta property="og:image" content="https://cloud.githubusercontent.com/assets/900407/9392973/6a3ef400-474d-11e5-9a7a-5fcbcbb2e1c9.png">
+    <link rel="shortcut icon" href="./favicon.ico">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bower_components/fixed-sticky/fixedsticky.css">
     <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="bower_components/ionicons/css/ionicons.css">
-    <link rel="stylesheet" href="bower_components/icomoon/dist/css/style.css">
-    <link rel="stylesheet" href="bower_components/octicons/octicons/octicons.css">
     <link rel="stylesheet" href="bower_components/foundation-icon-fonts/foundation-icons.css">
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="bower_components/icomoon/dist/css/style.css">
+    <link rel="stylesheet" href="bower_components/ionicons/css/ionicons.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="bower_components/octicons/octicons/octicons.css">
+    <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-    <div class="navbar navbar-default navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <a class="navbar-brand" href="./">GlyphSearch</a>
+    <div class="settings">
+      <h1 class="title">GlyphSearch</h1>
+      <div>
+        <form>
+          <h2>Search</h2>
+          <input name="query" type="search" id="search" autofocus autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+        </form>
+      </div>
+      <div>
+        <h2>Library</h2>
+        <div id="libraries">
+          <span class="btn" data-library="all">All</span>
+          <span class="btn" data-library="font-awesome">Font Awesome</span>
+          <span class="btn" data-library="foundation">Foundation</span>
+          <span class="btn" data-library="glyphicons">Glyphicons</span>
+          <span class="btn" data-library="icomoon">IcoMoon</span>
+          <span class="btn" data-library="ionicons">Ionicons</span>
+          <span class="btn" data-library="material">Material</span>
+          <span class="btn" data-library="octicons">Octicons</span>
         </div>
-        <ul class="nav navbar-nav navbar-right">
-          <li><a href="#" data-toggle="modal" data-target="#about"><i class="fa fa-bars"></i></a></li>
-        </ul>
+      </div>
+      <div>
+        <h2>Copy</h2>
+        <div id="copy">
+          <span class="btn active" data-copy="markup">Markup</span>
+          <span class="btn" data-copy="class">Class</span>
+          <span class="btn" data-copy="name">Name</span>
+          <span class="btn" data-copy="unicode">Unicode</span>
+        </div>
+      </div>
+      <hr>
+      <div class="about">
+        <p class="social">
+          <a href="http://github.com/thomaspark/glyphsearch/">
+            <i class="fa fa-github"></i>
+          </a>
+          <a href="https://twitter.com/thomashpark">
+            <i class="fa fa-twitter"></i>
+          </a>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=http://glyphsearch.com" onclick="window.open(this.href, 'myWindow', 'status = 1, height = 500, width = 360, top = 200, left = 500'); return false;">
+            <i class="fa fa-facebook"></i>
+          </a>
+        </p>
+        <p>Made by <a href="http://thomaspark.co">Thomas Park</a></p>
+        <p>Powered by <a href="http://www.algolia.com/">Algolia</a></p>
+        <p>Credits<br>
+          <a title="4.4.0" href="http://fontawesome.io/">Font Awesome</a>,
+          <a title="3.0.0" href="http://zurb.com/playground/foundation-icon-fonts-3">Foundation</a>,
+          <a title="1.9.0" href="http://glyphicons.com/">Glyphicons</a>,
+          <a title="0.0.3" href="http://icomoon.io/#icons-icomoon">IcoMoon</a>,
+          <a title="2.0.1" href="http://ionicons.com/">Ionicons</a>,
+          <a title="2.0.0" href="https://www.google.com/design/icons/">Material</a>, &amp;
+          <a title="3.1.0" href="http://octicons.github.com/">Octicons</a>
+        </p>
+        <p>Check out <a href="http://fontcdn.org">FontCDN</a> &amp; <a href="http://bootswatch.com">Bootswatch</a></p>
       </div>
     </div>
 
-    <div class="search-bar">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6 col-lg-offset-3">
-            <form><input name="query" type="text" id="search" class="form-control" placeholder="Search" autofocus autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"></form>
-          </div>
-          <div class="col-lg-6 col-lg-offset-3">
-            <div id="libraries" class="btn-group">
-              <button type="button" class="btn btn-primary btn-sm active" data-library="all">All</button>
-              <button type="button" class="btn btn-primary btn-sm" data-library="font-awesome">Font Awesome</button>
-              <button type="button" class="btn btn-primary btn-sm" data-library="foundation">Foundation</button>
-              <button type="button" class="btn btn-primary btn-sm" data-library="glyphicons">Glyphicons</button>
-              <button type="button" class="btn btn-primary btn-sm" data-library="icomoon">IcoMoon</button>
-              <button type="button" class="btn btn-primary btn-sm" data-library="ionicons">Ionicons</button>
-              <button type="button" class="btn btn-primary btn-sm" data-library="octicons">Octicons</button>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="container">
+    <div class="main">
 
       <div id="font-awesome" class="section">
         <div class="header">
@@ -88,6 +121,14 @@
         </div>
       </div>
 
+      <div id="material" class="section">
+        <div class="header">
+          <h1>Material</h1>
+        </div>
+        <div class="icons row">
+        </div>
+      </div>
+
       <div id="octicons" class="section">
         <div class="header">
           <h1>Octicons</h1>
@@ -98,43 +139,20 @@
 
     </div>
 
-    <div id="about" class="modal fade">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="modal-header">
-            <a class="close" data-dismiss="modal" aria-hidden="true">&times;</a>
-            <h4 class="modal-title">About GlyphSearch</h4>
-          </div>
-          <div class="modal-body">
-            <p class="tagline">Search for icons from <a target="_blank" href="http://fontawesome.io/" title="4.4.0">Font Awesome</a>, <a target="_blank" href="http://glyphicons.com/" title="1.9.0">Glyphicons</a>, <a target="_blank" title="0.0.3" href="http://icomoon.io/#icons-icomoon">IcoMoon</a>, <a target="_blank" title="2.0.1" href="http://ionicons.com/">Ionicons</a>, <a target="_blank" title="3.1.0" href="http://octicons.github.com/">Octicons</a> and <a target="_blank" title="3.0.0" href="http://zurb.com/playground/foundation-icon-fonts-3">Foundation</a>.</p>
-            <p>Created by <a target="_blank" href="http://thomaspark.me/2013/11/glyphsearch-improving-the-search-for-icon-fonts/">Thomas Park</a>. Powered by <a target="_blank" href="http://www.algolia.com/">Algolia</a>. Theme by <a target="_blank" href="http://bootswatch.com">Bootswatch</a>.</p>
-            <p class="social hidden-xs">
-              <iframe id="gh-star" src="http://ghbtns.com/github-btn.html?user=thomaspark&repo=glyphsearch&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="105px" height="20px"></iframe>
-              <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://glyphsearch.com" data-via="thomashpark">Tweet</a>
-              <span class="fb-like" data-href="http://glyphsearch.com" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></span>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-
     <div class="copied">
-      <i id="big-icon"></i>
+      <span id="big-icon"></span>
       <div>Copied!</div>
     </div>
 
     <div id="fb-root"></div>
 
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
-    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/fixed-sticky/fixedsticky.js"></script>
     <script src="bower_components/hogan/web/builds/2.0.0/hogan-2.0.0.min.js"></script>
     <script src="js/vendor/algoliasearch.min.js"></script>
     <script src="bower_components/purl/purl.js"></script>
     <script src="bower_components/zeroclipboard/dist/ZeroClipboard.min.js"></script>
-    <script src="js/index.js"></script>
-    <script>
-      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-    </script>
+    <script src="js/script.js"></script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -144,12 +162,4 @@
       ga('create', 'UA-23019901-8', 'glyphsearch.com');
       ga('send', 'pageview');
     </script>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1394016170904279&version=v2.0";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-  </body>
 </html>
