@@ -1,0 +1,3959 @@
+{
+  "material": [
+    {
+      "name": "3d_rotation",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "access_alarm",
+      "tags": "clock, reminder",
+      "unicode": ""
+    },
+    {
+      "name": "access_alarms",
+      "tags": "clock, reminder",
+      "unicode": ""
+    },
+    {
+      "name": "access_time",
+      "tags": "clock, timer",
+      "unicode": ""
+    },
+    {
+      "name": "accessibility",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "account_balance",
+      "tags": "bank, building",
+      "unicode": ""
+    },
+    {
+      "name": "account_balance_wallet",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "account_box",
+      "tags": "avatar, user",
+      "unicode": ""
+    },
+    {
+      "name": "account_circle",
+      "tags": "avatar, user",
+      "unicode": ""
+    },
+    {
+      "name": "adb",
+      "tags": "android bot, brand, logo",
+      "unicode": ""
+    },
+    {
+      "name": "add",
+      "tags": "plus",
+      "unicode": ""
+    },
+    {
+      "name": "add_alarm",
+      "tags": "clock, reminder",
+      "unicode": ""
+    },
+    {
+      "name": "add_alert",
+      "tags": "bell",
+      "unicode": ""
+    },
+    {
+      "name": "add_box",
+      "tags": "plus",
+      "unicode": ""
+    },
+    {
+      "name": "add_circle",
+      "tags": "plus",
+      "unicode": ""
+    },
+    {
+      "name": "add_circle_outline",
+      "tags": "plus",
+      "unicode": ""
+    },
+    {
+      "name": "add_shopping_cart",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "add_to_photos",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "adjust",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "airline_seat_flat",
+      "tags": "bed",
+      "unicode": ""
+    },
+    {
+      "name": "airline_seat_flat_angled",
+      "tags": "bed",
+      "unicode": ""
+    },
+    {
+      "name": "airline_seat_individual_suite",
+      "tags": "bed",
+      "unicode": ""
+    },
+    {
+      "name": "airline_seat_legroom_extra",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "airline_seat_legroom_normal",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "airline_seat_legroom_reduced",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "airline_seat_recline_extra",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "airline_seat_recline_normal",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "airplanemode_active",
+      "tags": "jet",
+      "unicode": ""
+    },
+    {
+      "name": "airplanemode_inactive",
+      "tags": "jet",
+      "unicode": ""
+    },
+    {
+      "name": "airplay",
+      "tags": "video",
+      "unicode": ""
+    },
+    {
+      "name": "alarm",
+      "tags": "clock",
+      "unicode": ""
+    },
+    {
+      "name": "alarm_add",
+      "tags": "clock",
+      "unicode": ""
+    },
+    {
+      "name": "alarm_off",
+      "tags": "clock",
+      "unicode": ""
+    },
+    {
+      "name": "alarm_on",
+      "tags": "clock",
+      "unicode": ""
+    },
+    {
+      "name": "album",
+      "tags": "music, record, vinyl",
+      "unicode": ""
+    },
+    {
+      "name": "android",
+      "tags": "brand, logo",
+      "unicode": ""
+    },
+    {
+      "name": "announcement",
+      "tags": "alert, speech bubble",
+      "unicode": ""
+    },
+    {
+      "name": "apps",
+      "tags": "grid",
+      "unicode": ""
+    },
+    {
+      "name": "archive",
+      "tags": "download, save",
+      "unicode": ""
+    },
+    {
+      "name": "arrow_back",
+      "tags": "directional",
+      "unicode": ""
+    },
+    {
+      "name": "arrow_drop_down",
+      "tags": "caret",
+      "unicode": ""
+    },
+    {
+      "name": "arrow_drop_down_circle",
+      "tags": "caret",
+      "unicode": ""
+    },
+    {
+      "name": "arrow_drop_up",
+      "tags": "caret",
+      "unicode": ""
+    },
+    {
+      "name": "arrow_forward",
+      "tags": "directional",
+      "unicode": ""
+    },
+    {
+      "name": "aspect_ratio",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "assessment",
+      "tags": "chart, graph",
+      "unicode": ""
+    },
+    {
+      "name": "assignment",
+      "tags": "clipboard",
+      "unicode": ""
+    },
+    {
+      "name": "assignment_ind",
+      "tags": "clipboard",
+      "unicode": ""
+    },
+    {
+      "name": "assignment_late",
+      "tags": "clipboard",
+      "unicode": ""
+    },
+    {
+      "name": "assignment_return",
+      "tags": "clipboard",
+      "unicode": ""
+    },
+    {
+      "name": "assignment_returned",
+      "tags": "clipboard",
+      "unicode": ""
+    },
+    {
+      "name": "assignment_turned_in",
+      "tags": "clipboard",
+      "unicode": ""
+    },
+    {
+      "name": "assistant",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "assistant_photo",
+      "tags": "flag",
+      "unicode": ""
+    },
+    {
+      "name": "attach_file",
+      "tags": "paperclip",
+      "unicode": ""
+    },
+    {
+      "name": "attach_money",
+      "tags": "currency, dollar sign, usd",
+      "unicode": ""
+    },
+    {
+      "name": "attachment",
+      "tags": "paperclip",
+      "unicode": ""
+    },
+    {
+      "name": "audiotrack",
+      "tags": "music note",
+      "unicode": ""
+    },
+    {
+      "name": "autorenew",
+      "tags": "refresh, reload",
+      "unicode": ""
+    },
+    {
+      "name": "av_timer",
+      "tags": "gauge",
+      "unicode": ""
+    },
+    {
+      "name": "backspace",
+      "tags": "delete",
+      "unicode": ""
+    },
+    {
+      "name": "backup",
+      "tags": "cloud, upload",
+      "unicode": ""
+    },
+    {
+      "name": "battery_alert",
+      "tags": "power",
+      "unicode": ""
+    },
+    {
+      "name": "battery_charging_full",
+      "tags": "power",
+      "unicode": ""
+    },
+    {
+      "name": "battery_full",
+      "tags": "power",
+      "unicode": ""
+    },
+    {
+      "name": "battery_std",
+      "tags": "power",
+      "unicode": ""
+    },
+    {
+      "name": "battery_unknown",
+      "tags": "power",
+      "unicode": ""
+    },
+    {
+      "name": "beenhere",
+      "tags": "checkmark",
+      "unicode": ""
+    },
+    {
+      "name": "block",
+      "tags": "prohibited",
+      "unicode": ""
+    },
+    {
+      "name": "bluetooth",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "bluetooth_audio",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "bluetooth_connected",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "bluetooth_disabled",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "bluetooth_searching",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "blur_circular",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "blur_linear",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "blur_off",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "blur_on",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "book",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "bookmark",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "bookmark_border",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "border_all",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "border_bottom",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "border_clear",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "border_color",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "border_horizontal",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "border_inner",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "border_left",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "border_outer",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "border_right",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "border_style",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "border_top",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "border_vertical",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "brightness_1",
+      "tags": "circle, full moon",
+      "unicode": ""
+    },
+    {
+      "name": "brightness_2",
+      "tags": "crescent moon",
+      "unicode": ""
+    },
+    {
+      "name": "brightness_3",
+      "tags": "crescent moon",
+      "unicode": ""
+    },
+    {
+      "name": "brightness_4",
+      "tags": "eclipse, moon, sun",
+      "unicode": ""
+    },
+    {
+      "name": "brightness_5",
+      "tags": "sun",
+      "unicode": ""
+    },
+    {
+      "name": "brightness_6",
+      "tags": "sun",
+      "unicode": ""
+    },
+    {
+      "name": "brightness_7",
+      "tags": "sun",
+      "unicode": ""
+    },
+    {
+      "name": "brightness_auto",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "brightness_high",
+      "tags": "sun",
+      "unicode": ""
+    },
+    {
+      "name": "brightness_low",
+      "tags": "sun",
+      "unicode": ""
+    },
+    {
+      "name": "brightness_medium",
+      "tags": "sun",
+      "unicode": ""
+    },
+    {
+      "name": "broken_image",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "brush",
+      "tags": "paintbrush",
+      "unicode": ""
+    },
+    {
+      "name": "bug_report",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "build",
+      "tags": "tool, wrench",
+      "unicode": ""
+    },
+    {
+      "name": "business",
+      "tags": "buildings",
+      "unicode": ""
+    },
+    {
+      "name": "cached",
+      "tags": "refresh, reload",
+      "unicode": ""
+    },
+    {
+      "name": "call",
+      "tags": "phone, telephone",
+      "unicode": ""
+    },
+    {
+      "name": "call_end",
+      "tags": "phone, telephone",
+      "unicode": ""
+    },
+    {
+      "name": "call_made",
+      "tags": "arrow",
+      "unicode": ""
+    },
+    {
+      "name": "call_merge",
+      "tags": "arrows, merge",
+      "unicode": ""
+    },
+    {
+      "name": "call_missed",
+      "tags": "arrow",
+      "unicode": ""
+    },
+    {
+      "name": "call_received",
+      "tags": "arrow",
+      "unicode": ""
+    },
+    {
+      "name": "call_split",
+      "tags": "arrows, fork",
+      "unicode": ""
+    },
+    {
+      "name": "cake",
+      "tags": "birthday",
+      "unicode": ""
+    },
+    {
+      "name": "camera",
+      "tags": "shutter",
+      "unicode": ""
+    },
+    {
+      "name": "camera_alt",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "camera_front",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "camera_enhance",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "camera_rear",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "camera_roll",
+      "tags": "film",
+      "unicode": ""
+    },
+    {
+      "name": "cancel",
+      "tags": "close, remove, x",
+      "unicode": ""
+    },
+    {
+      "name": "card_giftcard",
+      "tags": "present",
+      "unicode": ""
+    },
+    {
+      "name": "card_membership",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "card_travel",
+      "tags": "briefcase, luggage, suitcase",
+      "unicode": ""
+    },
+    {
+      "name": "cast",
+      "tags": "broadcast",
+      "unicode": ""
+    },
+    {
+      "name": "cast_connected",
+      "tags": "broadcast",
+      "unicode": ""
+    },
+    {
+      "name": "center_focus_strong",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "center_focus_weak",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "change_history",
+      "tags": "triangle",
+      "unicode": ""
+    },
+    {
+      "name": "chat",
+      "tags": "speech bubble",
+      "unicode": ""
+    },
+    {
+      "name": "chat_bubble",
+      "tags": "speech bubble",
+      "unicode": ""
+    },
+    {
+      "name": "chat_bubble_outline",
+      "tags": "speech bubble",
+      "unicode": ""
+    },
+    {
+      "name": "check",
+      "tags": "checkmark",
+      "unicode": ""
+    },
+    {
+      "name": "check_box",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "check_box_outline",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "check_circle",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "chevron_left",
+      "tags": "angle, directional",
+      "unicode": ""
+    },
+    {
+      "name": "chevron_right",
+      "tags": "angle, directional",
+      "unicode": ""
+    },
+    {
+      "name": "chrome_reader_mode",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "class",
+      "tags": "bookmark",
+      "unicode": ""
+    },
+    {
+      "name": "clear",
+      "tags": "close, x",
+      "unicode": ""
+    },
+    {
+      "name": "clear_all",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "close",
+      "tags": "cancel, remove, x",
+      "unicode": ""
+    },
+    {
+      "name": "closed_caption",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "cloud",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "cloud_circle",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "cloud_done",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "cloud_download",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "cloud_off",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "cloud_queue",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "cloud_upload",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "code",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "collections",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "collections_bookmark",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "color_lens",
+      "tags": "art, paint, palette",
+      "unicode": ""
+    },
+    {
+      "name": "colorize",
+      "tags": "eyedropper",
+      "unicode": ""
+    },
+    {
+      "name": "comment",
+      "tags": "chat, speech bubble",
+      "unicode": ""
+    },
+    {
+      "name": "compare",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "computer",
+      "tags": "laptop",
+      "unicode": ""
+    },
+    {
+      "name": "confirmation_number",
+      "tags": "ticket",
+      "unicode": ""
+    },
+    {
+      "name": "contact_phone",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "contacts",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "content_copy",
+      "tags": "clone, copy",
+      "unicode": ""
+    },
+    {
+      "name": "content_cut",
+      "tags": "scissors",
+      "unicode": ""
+    },
+    {
+      "name": "content_paste",
+      "tags": "clipboard",
+      "unicode": ""
+    },
+    {
+      "name": "control_point",
+      "tags": "plus",
+      "unicode": ""
+    },
+    {
+      "name": "control_point_duplicate",
+      "tags": "plus",
+      "unicode": ""
+    },
+    {
+      "name": "create",
+      "tags": "pencil",
+      "unicode": ""
+    },
+    {
+      "name": "credit_card",
+      "tags": "payment",
+      "unicode": ""
+    },
+    {
+      "name": "crop",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "crop_16_9",
+      "tags": "aspect ratio",
+      "unicode": ""
+    },
+    {
+      "name": "crop_3_2",
+      "tags": "aspect ratio",
+      "unicode": ""
+    },
+    {
+      "name": "crop_5_4",
+      "tags": "aspect ratio",
+      "unicode": ""
+    },
+    {
+      "name": "crop_7_5",
+      "tags": "aspect ratio",
+      "unicode": ""
+    },
+    {
+      "name": "crop_din",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "crop_free",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "crop_landscape",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "crop_original",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "crop_portrait",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "crop_square",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "dashboard",
+      "tags": "blocks, grid",
+      "unicode": ""
+    },
+    {
+      "name": "data_usage",
+      "tags": "pie chart, graph",
+      "unicode": ""
+    },
+    {
+      "name": "dehaze",
+      "tags": "bars, hamburger menu, more",
+      "unicode": ""
+    },
+    {
+      "name": "delete",
+      "tags": "trash can",
+      "unicode": ""
+    },
+    {
+      "name": "description",
+      "tags": "document, file",
+      "unicode": ""
+    },
+    {
+      "name": "desktop_mac",
+      "tags": "computer, display, monitor",
+      "unicode": ""
+    },
+    {
+      "name": "desktop_windows",
+      "tags": "computer, display, monitor",
+      "unicode": ""
+    },
+    {
+      "name": "details",
+      "tags": "triangle",
+      "unicode": ""
+    },
+    {
+      "name": "developer_board",
+      "tags": "notebook, scrap book",
+      "unicode": ""
+    },
+    {
+      "name": "developer_mode",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "device_hub",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "devices",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "dialer_sip",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "dialpad",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "directions",
+      "tags": "road sign",
+      "unicode": ""
+    },
+    {
+      "name": "directions_bike",
+      "tags": "bicycle",
+      "unicode": ""
+    },
+    {
+      "name": "directions_boat",
+      "tags": "ship",
+      "unicode": ""
+    },
+    {
+      "name": "directions_bus",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "directions_car",
+      "tags": "automobile, car",
+      "unicode": ""
+    },
+    {
+      "name": "directions_railway",
+      "tags": "train",
+      "unicode": ""
+    },
+    {
+      "name": "directions_run",
+      "tags": "person",
+      "unicode": ""
+    },
+    {
+      "name": "directions_subway",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "directions_transit",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "directions_walk",
+      "tags": "person",
+      "unicode": ""
+    },
+    {
+      "name": "disc_full",
+      "tags": "record, vinyl",
+      "unicode": ""
+    },
+    {
+      "name": "dns",
+      "tags": "server",
+      "unicode": ""
+    },
+    {
+      "name": "do_not_disturb",
+      "tags": "prohibited",
+      "unicode": ""
+    },
+    {
+      "name": "do_not_disturb_alt",
+      "tags": "prohibited",
+      "unicode": ""
+    },
+    {
+      "name": "dock",
+      "tags": "phone",
+      "unicode": ""
+    },
+    {
+      "name": "domain",
+      "tags": "building",
+      "unicode": ""
+    },
+    {
+      "name": "done",
+      "tags": "check mark",
+      "unicode": ""
+    },
+    {
+      "name": "done_all",
+      "tags": "check mark",
+      "unicode": ""
+    },
+    {
+      "name": "drafts",
+      "tags": "envelope, mail",
+      "unicode": ""
+    },
+    {
+      "name": "drive_eta",
+      "tags": "automobile, car",
+      "unicode": ""
+    },
+    {
+      "name": "dvr",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "edit",
+      "tags": "pencil",
+      "unicode": ""
+    },
+    {
+      "name": "eject",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "email",
+      "tags": "envelope, letter",
+      "unicode": ""
+    },
+    {
+      "name": "equalizer",
+      "tags": "audio, levels, settings",
+      "unicode": ""
+    },
+    {
+      "name": "error",
+      "tags": "alert, warning",
+      "unicode": ""
+    },
+    {
+      "name": "error_outline",
+      "tags": "alert, warning",
+      "unicode": ""
+    },
+    {
+      "name": "event",
+      "tags": "calendar",
+      "unicode": ""
+    },
+    {
+      "name": "event_available",
+      "tags": "calendar",
+      "unicode": ""
+    },
+    {
+      "name": "event_busy",
+      "tags": "calendar",
+      "unicode": ""
+    },
+    {
+      "name": "event_note",
+      "tags": "calendar",
+      "unicode": ""
+    },
+    {
+      "name": "event_seat",
+      "tags": "chair",
+      "unicode": ""
+    },
+    {
+      "name": "exit_to_app",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "expand_less",
+      "tags": "angle, chevron, directional, up",
+      "unicode": ""
+    },
+    {
+      "name": "expand_more",
+      "tags": "angle, chevron, directional, down",
+      "unicode": ""
+    },
+    {
+      "name": "explicit",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "explore",
+      "tags": "compass, directions",
+      "unicode": ""
+    },
+    {
+      "name": "exposure",
+      "tags": "brightness, contrast",
+      "unicode": ""
+    },
+    {
+      "name": "exposure_neg_1",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "exposure_neg_2",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "exposure_plus_1",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "exposure_plus_2",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "exposure_zero",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "extension",
+      "tags": "jigsaw, puzzle",
+      "unicode": ""
+    },
+    {
+      "name": "face",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "fast_forward",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "fast_rewind",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "favorite",
+      "tags": "heart, like",
+      "unicode": ""
+    },
+    {
+      "name": "favorite_border",
+      "tags": "heart, like",
+      "unicode": ""
+    },
+    {
+      "name": "feedback",
+      "tags": "alert, speech bubble",
+      "unicode": ""
+    },
+    {
+      "name": "file_download",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "file_upload",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_1",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_2",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_3",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_4",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_5",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_6",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_7",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_8",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_9",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_9_plus",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_b_and_w",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_center_focus",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_drama",
+      "tags": "cloud",
+      "unicode": ""
+    },
+    {
+      "name": "filter_frames",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_hdr",
+      "tags": "mountains",
+      "unicode": ""
+    },
+    {
+      "name": "filter_list",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_none",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_tilt_shift",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "filter_vintage",
+      "tags": "flower",
+      "unicode": ""
+    },
+    {
+      "name": "find_in_page",
+      "tags": "search, magnifying glass",
+      "unicode": ""
+    },
+    {
+      "name": "find_replace",
+      "tags": "search, magnifying glass",
+      "unicode": ""
+    },
+    {
+      "name": "flag",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "flare",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "flash_auto",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "flash_off",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "flash_on",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "flight",
+      "tags": "airplane",
+      "unicode": ""
+    },
+    {
+      "name": "flight_land",
+      "tags": "airplane, plane, travel",
+      "unicode": ""
+    },
+    {
+      "name": "flight_takeoff",
+      "tags": "airplane, plane, travel",
+      "unicode": ""
+    },
+    {
+      "name": "flip",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "flip_to_back",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "flip_to_front",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "folder",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "folder_open",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "folder_shared",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "folder_special",
+      "tags": "star",
+      "unicode": ""
+    },
+    {
+      "name": "font_download",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_align_center",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_align_justify",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_align_left",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_align_right",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_bold",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_clear",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_color_fill",
+      "tags": "paint can",
+      "unicode": ""
+    },
+    {
+      "name": "format_color_reset",
+      "tags": "droplet",
+      "unicode": ""
+    },
+    {
+      "name": "format_color_text",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_indent_decrease",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_indent_increase",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_italic",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_line_spacing",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_list_bulleted",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_list_numbered",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_paint",
+      "tags": "paint brush, roller",
+      "unicode": ""
+    },
+    {
+      "name": "format_quote",
+      "tags": "quotation marks",
+      "unicode": ""
+    },
+    {
+      "name": "format_size",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_strikethrough",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_textdirection_l_to_r",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_textdirection_r_to_l",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "format_underlined",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "forum",
+      "tags": "chat, comments, speech bubbles",
+      "unicode": ""
+    },
+    {
+      "name": "forward",
+      "tags": "arrow",
+      "unicode": ""
+    },
+    {
+      "name": "forward_10",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "forward_30",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "forward_5",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "fullscreen",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "fullscreen_exit",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "functions",
+      "tags": "math, sigma",
+      "unicode": ""
+    },
+    {
+      "name": "gamepad",
+      "tags": "controller",
+      "unicode": ""
+    },
+    {
+      "name": "games",
+      "tags": "controller, pad",
+      "unicode": ""
+    },
+    {
+      "name": "gesture",
+      "tags": "scribble",
+      "unicode": ""
+    },
+    {
+      "name": "get_app",
+      "tags": "download, arrow",
+      "unicode": ""
+    },
+    {
+      "name": "gif",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "gps_fixed",
+      "tags": "reticle, target",
+      "unicode": ""
+    },
+    {
+      "name": "gps_not_fixed",
+      "tags": "reticle, target",
+      "unicode": ""
+    },
+    {
+      "name": "gps_off",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "grade",
+      "tags": "star, rating",
+      "unicode": ""
+    },
+    {
+      "name": "gradient",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "grain",
+      "tags": "dots",
+      "unicode": ""
+    },
+    {
+      "name": "graphic_eq",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "grid_off",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "grid_on",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "group",
+      "tags": "people, users",
+      "unicode": ""
+    },
+    {
+      "name": "group_add",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "group_work",
+      "tags": "circles",
+      "unicode": ""
+    },
+    {
+      "name": "hd",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "hdr_off",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "hdr_on",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "hdr_strong",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "hdr_weak",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "healing",
+      "tags": "bandage, bandaid, first aid",
+      "unicode": ""
+    },
+    {
+      "name": "headset",
+      "tags": "headphones",
+      "unicode": ""
+    },
+    {
+      "name": "headset_mic",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "hearing",
+      "tags": "ear",
+      "unicode": ""
+    },
+    {
+      "name": "help",
+      "tags": "question mark",
+      "unicode": ""
+    },
+    {
+      "name": "help_outline",
+      "tags": "question mark",
+      "unicode": ""
+    },
+    {
+      "name": "high_quality",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "highlight_off",
+      "tags": "x, cancel",
+      "unicode": ""
+    },
+    {
+      "name": "history",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "home",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "hotel",
+      "tags": "bed",
+      "unicode": ""
+    },
+    {
+      "name": "hourglass_empty",
+      "tags": "timer",
+      "unicode": ""
+    },
+    {
+      "name": "hourglass_full",
+      "tags": "timer",
+      "unicode": ""
+    },
+    {
+      "name": "http",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "https",
+      "tags": "lock, security",
+      "unicode": ""
+    },
+    {
+      "name": "image",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "image_aspect_ratio",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "import_export",
+      "tags": "arrows",
+      "unicode": ""
+    },
+    {
+      "name": "inbox",
+      "tags": "email",
+      "unicode": ""
+    },
+    {
+      "name": "indeterminate_check_box",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "info",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "info_outline",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "input",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "invert_colors",
+      "tags": "adjust, contrast",
+      "unicode": ""
+    },
+    {
+      "name": "invert_colors_off",
+      "tags": "adjust, contrast",
+      "unicode": ""
+    },
+    {
+      "name": "insert_chart",
+      "tags": "graph",
+      "unicode": ""
+    },
+    {
+      "name": "insert_comment",
+      "tags": "chat, speech bubble",
+      "unicode": ""
+    },
+    {
+      "name": "insert_drive_file",
+      "tags": "document, file, paper",
+      "unicode": ""
+    },
+    {
+      "name": "insert_emoticon",
+      "tags": "happy, smiley face",
+      "unicode": ""
+    },
+    {
+      "name": "insert_invitation",
+      "tags": "calendar, date",
+      "unicode": ""
+    },
+    {
+      "name": "insert_link",
+      "tags": "chain",
+      "unicode": ""
+    },
+    {
+      "name": "insert_photo",
+      "tags": "image, picture",
+      "unicode": ""
+    },
+    {
+      "name": "iso",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "keyboard",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "keyboard_arrow_down",
+      "tags": "angle, chevron, directional",
+      "unicode": ""
+    },
+    {
+      "name": "keyboard_arrow_left",
+      "tags": "angle, chevron, directional",
+      "unicode": ""
+    },
+    {
+      "name": "keyboard_arrow_right",
+      "tags": "angle, chevron, directional",
+      "unicode": ""
+    },
+    {
+      "name": "keyboard_arrow_up",
+      "tags": "angle, chevron, directional",
+      "unicode": ""
+    },
+    {
+      "name": "keyboard_backspace",
+      "tags": "arrow",
+      "unicode": ""
+    },
+    {
+      "name": "keyboard_capslock",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "keyboard_hide",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "keyboard_return",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "keyboard_tab",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "keyboard_voice",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "label",
+      "tags": "tag",
+      "unicode": ""
+    },
+    {
+      "name": "label_outline",
+      "tags": "tag",
+      "unicode": ""
+    },
+    {
+      "name": "landscape",
+      "tags": "mountains",
+      "unicode": ""
+    },
+    {
+      "name": "language",
+      "tags": "earth, globe, planet",
+      "unicode": ""
+    },
+    {
+      "name": "laptop",
+      "tags": "computer",
+      "unicode": ""
+    },
+    {
+      "name": "laptop_chromebook",
+      "tags": "computer",
+      "unicode": ""
+    },
+    {
+      "name": "laptop_mac",
+      "tags": "computer",
+      "unicode": ""
+    },
+    {
+      "name": "laptop_windows",
+      "tags": "computer",
+      "unicode": ""
+    },
+    {
+      "name": "launch",
+      "tags": "open",
+      "unicode": ""
+    },
+    {
+      "name": "layers",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "layers_clear",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "leak_add",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "leak_remove",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "lens",
+      "tags": "circle",
+      "unicode": ""
+    },
+    {
+      "name": "library_add",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "library_books",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "library_music",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "link",
+      "tags": "chain",
+      "unicode": ""
+    },
+    {
+      "name": "list",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "live_help",
+      "tags": "question mark",
+      "unicode": ""
+    },
+    {
+      "name": "live_tv",
+      "tags": "television",
+      "unicode": ""
+    },
+    {
+      "name": "local_activity",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "local_airport",
+      "tags": "airplane",
+      "unicode": ""
+    },
+    {
+      "name": "local_atm",
+      "tags": "dollar sign, money",
+      "unicode": ""
+    },
+    {
+      "name": "local_bar",
+      "tags": "drink, martini glass",
+      "unicode": ""
+    },
+    {
+      "name": "local_cafe",
+      "tags": "coffee cup, mug",
+      "unicode": ""
+    },
+    {
+      "name": "local_car_wash",
+      "tags": "automobile, car",
+      "unicode": ""
+    },
+    {
+      "name": "local_convenience_store",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "local_dining",
+      "tags": "cutlery, knife, spoon",
+      "unicode": ""
+    },
+    {
+      "name": "local_drink",
+      "tags": "cup, droplet, glass, juice",
+      "unicode": ""
+    },
+    {
+      "name": "local_florist",
+      "tags": "flower, plant",
+      "unicode": ""
+    },
+    {
+      "name": "local_gas_station",
+      "tags": "gas pump",
+      "unicode": ""
+    },
+    {
+      "name": "local_grocery_store",
+      "tags": "shopping cart",
+      "unicode": ""
+    },
+    {
+      "name": "local_hospital",
+      "tags": "first aid, medical",
+      "unicode": ""
+    },
+    {
+      "name": "local_hotel",
+      "tags": "bed",
+      "unicode": ""
+    },
+    {
+      "name": "local_laundry_service",
+      "tags": "washing machine",
+      "unicode": ""
+    },
+    {
+      "name": "local_library",
+      "tags": "book",
+      "unicode": ""
+    },
+    {
+      "name": "local_mall",
+      "tags": "shopping bag",
+      "unicode": ""
+    },
+    {
+      "name": "local_movies",
+      "tags": "film",
+      "unicode": ""
+    },
+    {
+      "name": "local_offer",
+      "tags": "sale, tag",
+      "unicode": ""
+    },
+    {
+      "name": "local_parking",
+      "tags": "p",
+      "unicode": ""
+    },
+    {
+      "name": "local_pharmacy",
+      "tags": "drug store, medicine",
+      "unicode": ""
+    },
+    {
+      "name": "local_phone",
+      "tags": "telephone",
+      "unicode": ""
+    },
+    {
+      "name": "local_pizza",
+      "tags": "food, slice",
+      "unicode": ""
+    },
+    {
+      "name": "local_play",
+      "tags": "admission, ticket",
+      "unicode": ""
+    },
+    {
+      "name": "local_post_office",
+      "tags": "envelope, mail",
+      "unicode": ""
+    },
+    {
+      "name": "local_print_shop",
+      "tags": "printer",
+      "unicode": ""
+    },
+    {
+      "name": "local_see",
+      "tags": "camera",
+      "unicode": ""
+    },
+    {
+      "name": "local_shipping",
+      "tags": "truck",
+      "unicode": ""
+    },
+    {
+      "name": "local_taxi",
+      "tags": "automobile, cab, car",
+      "unicode": ""
+    },
+    {
+      "name": "location_city",
+      "tags": "city, buildings, skyscrapers",
+      "unicode": ""
+    },
+    {
+      "name": "location_disabled",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "location_off",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "location_on",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "location_searching",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "lock",
+      "tags": "security",
+      "unicode": ""
+    },
+    {
+      "name": "lock_open",
+      "tags": "security, unlock",
+      "unicode": ""
+    },
+    {
+      "name": "lock_outline",
+      "tags": "security",
+      "unicode": ""
+    },
+    {
+      "name": "looks",
+      "tags": "rainbow",
+      "unicode": ""
+    },
+    {
+      "name": "looks_3",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "looks_4",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "looks_5",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "looks_one",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "looks_two",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "loop",
+      "tags": "refresh, reload",
+      "unicode": ""
+    },
+    {
+      "name": "loupe",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "loyalty",
+      "tags": "heart, tag",
+      "unicode": ""
+    },
+    {
+      "name": "mail",
+      "tags": "envelope",
+      "unicode": ""
+    },
+    {
+      "name": "map",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "markunread",
+      "tags": "envelope, mail",
+      "unicode": ""
+    },
+    {
+      "name": "markunread_mailbox",
+      "tags": "mailbox",
+      "unicode": ""
+    },
+    {
+      "name": "memory",
+      "tags": "chip, circuit board",
+      "unicode": ""
+    },
+    {
+      "name": "menu",
+      "tags": "bars, more",
+      "unicode": ""
+    },
+    {
+      "name": "merge_type",
+      "tags": "arrows",
+      "unicode": ""
+    },
+    {
+      "name": "message",
+      "tags": "chat, speech bubble",
+      "unicode": ""
+    },
+    {
+      "name": "mic",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "mic_none",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "mic_off",
+      "tags": "mute",
+      "unicode": ""
+    },
+    {
+      "name": "mms",
+      "tags": "speech bubble",
+      "unicode": ""
+    },
+    {
+      "name": "mode_comment",
+      "tags": "chat, speech bubble",
+      "unicode": ""
+    },
+    {
+      "name": "mode_edit",
+      "tags": "pencil",
+      "unicode": ""
+    },
+    {
+      "name": "money_off",
+      "tags": "currency, dollar sign, usd",
+      "unicode": ""
+    },
+    {
+      "name": "monochrome_photos",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "mood",
+      "tags": "happy, smiley face",
+      "unicode": ""
+    },
+    {
+      "name": "mood_bad",
+      "tags": "frowny face, sad",
+      "unicode": ""
+    },
+    {
+      "name": "more",
+      "tags": "tag",
+      "unicode": ""
+    },
+    {
+      "name": "more_horiz",
+      "tags": "dots",
+      "unicode": ""
+    },
+    {
+      "name": "more_vert",
+      "tags": "dots",
+      "unicode": ""
+    },
+    {
+      "name": "mouse",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "movie",
+      "tags": "film",
+      "unicode": ""
+    },
+    {
+      "name": "movie_creation",
+      "tags": "film marker",
+      "unicode": ""
+    },
+    {
+      "name": "music_note",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "my_location",
+      "tags": "reticle, target",
+      "unicode": ""
+    },
+    {
+      "name": "navigation",
+      "tags": "arrow",
+      "unicode": ""
+    },
+    {
+      "name": "nature",
+      "tags": "tree",
+      "unicode": ""
+    },
+    {
+      "name": "nature_people",
+      "tags": "tree",
+      "unicode": ""
+    },
+    {
+      "name": "navigate_before",
+      "tags": "angle, directional",
+      "unicode": ""
+    },
+    {
+      "name": "navigate_next",
+      "tags": "angle, directional",
+      "unicode": ""
+    },
+    {
+      "name": "network_cell",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "network_locked",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "network_wifi",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "new_releases",
+      "tags": "alert",
+      "unicode": ""
+    },
+    {
+      "name": "nfc",
+      "tags": "chip, circuit board",
+      "unicode": ""
+    },
+    {
+      "name": "no_sim",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "not_interested",
+      "tags": "ban, prohibited",
+      "unicode": ""
+    },
+    {
+      "name": "note_add",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "notifications",
+      "tags": "bell",
+      "unicode": ""
+    },
+    {
+      "name": "notifications_active",
+      "tags": "bell",
+      "unicode": ""
+    },
+    {
+      "name": "notifications_none",
+      "tags": "bell",
+      "unicode": ""
+    },
+    {
+      "name": "notifications_off",
+      "tags": "bell",
+      "unicode": ""
+    },
+    {
+      "name": "notifications_paused",
+      "tags": "bell",
+      "unicode": ""
+    },
+    {
+      "name": "offline_pin",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "ondemand_video",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "open_in_browser",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "open_in_new",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "open_with",
+      "tags": "expand, resize",
+      "unicode": ""
+    },
+    {
+      "name": "pages",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "pageview",
+      "tags": "find, magnifying glass, search",
+      "unicode": ""
+    },
+    {
+      "name": "palette",
+      "tags": "art, paint",
+      "unicode": ""
+    },
+    {
+      "name": "panorama",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "panorama_fish_eye",
+      "tags": "circle",
+      "unicode": ""
+    },
+    {
+      "name": "panorama_horizontal",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "panorama_vertical",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "panorama_wide_angle",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "party_mode",
+      "tags": "camera",
+      "unicode": ""
+    },
+    {
+      "name": "pause",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "pause_circle_filled",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "pause_circle_outline",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "payment",
+      "tags": "credit card",
+      "unicode": ""
+    },
+    {
+      "name": "people",
+      "tags": "users",
+      "unicode": ""
+    },
+    {
+      "name": "people_outline",
+      "tags": "users",
+      "unicode": ""
+    },
+    {
+      "name": "perm_camera_mic",
+      "tags": "camera, microphone",
+      "unicode": ""
+    },
+    {
+      "name": "perm_contact_calendar",
+      "tags": "contact, calendar",
+      "unicode": ""
+    },
+    {
+      "name": "perm_data_setting",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "perm_device_information",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "perm_identity",
+      "tags": "user",
+      "unicode": ""
+    },
+    {
+      "name": "perm_media",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "perm_phone_msg",
+      "tags": "telephone",
+      "unicode": ""
+    },
+    {
+      "name": "perm_scan_wifi",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "person",
+      "tags": "user",
+      "unicode": ""
+    },
+    {
+      "name": "person_add",
+      "tags": "user",
+      "unicode": ""
+    },
+    {
+      "name": "person_outline",
+      "tags": "user",
+      "unicode": ""
+    },
+    {
+      "name": "person_pin",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "personal_video",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "phone",
+      "tags": "telephone",
+      "unicode": ""
+    },
+    {
+      "name": "phone_android",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "phone_bluetooth_speaker",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "phone_forwarded",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "phone_in_talk",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "phone_iphone",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "phone_locked",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "phone_missed",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "phone_paused",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "phonelink",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "phonelink_erase",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "phonelink_lock",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "phonelink_off",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "phonelink_ring",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "phonelink_setup",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "photo",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "photo_album",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "photo_camera",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "photo_library",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "photo_size_select_actual",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "photo_size_select_large",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "photo_size_select_small",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "picture_as_pdf",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "picture_in_picture",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "pin_drop",
+      "tags": "map marker",
+      "unicode": ""
+    },
+    {
+      "name": "place",
+      "tags": "map marker",
+      "unicode": ""
+    },
+    {
+      "name": "play_arrow",
+      "tags": "triangle",
+      "unicode": ""
+    },
+    {
+      "name": "play_circle_filled",
+      "tags": "triangle",
+      "unicode": ""
+    },
+    {
+      "name": "play_circle_outline",
+      "tags": "triangle",
+      "unicode": ""
+    },
+    {
+      "name": "play_for_work",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "playlist_add",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "plus_one",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "poll",
+      "tags": "chart, graph",
+      "unicode": ""
+    },
+    {
+      "name": "polymer",
+      "tags": "brand, logo",
+      "unicode": ""
+    },
+    {
+      "name": "portable_wifi_off",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "portrait",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "power",
+      "tags": "plug",
+      "unicode": ""
+    },
+    {
+      "name": "power_input",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "power_settings_new",
+      "tags": "on, switch",
+      "unicode": ""
+    },
+    {
+      "name": "present_to_all",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "print",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "public",
+      "tags": "earth, globe, planet",
+      "unicode": ""
+    },
+    {
+      "name": "publish",
+      "tags": "upload",
+      "unicode": ""
+    },
+    {
+      "name": "query_builder",
+      "tags": "clock",
+      "unicode": ""
+    },
+    {
+      "name": "question_answer",
+      "tags": "chat, speech bubbles",
+      "unicode": ""
+    },
+    {
+      "name": "queue",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "queue_music",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "radio",
+      "tags": "music",
+      "unicode": ""
+    },
+    {
+      "name": "radio_button_checked",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "radio_button_unchecked",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "rate_review",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "receipt",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "recent_actors",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "redeem",
+      "tags": "gift card, present",
+      "unicode": ""
+    },
+    {
+      "name": "redo",
+      "tags": "arrow",
+      "unicode": ""
+    },
+    {
+      "name": "refresh",
+      "tags": "reload",
+      "unicode": ""
+    },
+    {
+      "name": "remove",
+      "tags": "minus",
+      "unicode": ""
+    },
+    {
+      "name": "remove_circle",
+      "tags": "minus",
+      "unicode": ""
+    },
+    {
+      "name": "remove_circle_outline",
+      "tags": "minus",
+      "unicode": ""
+    },
+    {
+      "name": "remove_red_eye",
+      "tags": "eyeball",
+      "unicode": ""
+    },
+    {
+      "name": "reorder",
+      "tags": "bars, menu, more",
+      "unicode": ""
+    },
+    {
+      "name": "repeat",
+      "tags": "loop",
+      "unicode": ""
+    },
+    {
+      "name": "repeat_one",
+      "tags": "loop",
+      "unicode": ""
+    },
+    {
+      "name": "replay",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "replay_10",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "replay_30",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "replay_5",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "reply",
+      "tags": "arrow",
+      "unicode": ""
+    },
+    {
+      "name": "reply_all",
+      "tags": "arrow",
+      "unicode": ""
+    },
+    {
+      "name": "report",
+      "tags": "alert, warning",
+      "unicode": ""
+    },
+    {
+      "name": "report_problem",
+      "tags": "alert, warning",
+      "unicode": ""
+    },
+    {
+      "name": "restaurant",
+      "tags": "cutlery, dining, knife, spoon",
+      "unicode": ""
+    },
+    {
+      "name": "restore",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "ring_volume",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "room",
+      "tags": "map marker",
+      "unicode": ""
+    },
+    {
+      "name": "rotate_90_degrees_ccw",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "rotate_left",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "rotate_right",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "router",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "satellite",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "scanner",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "save",
+      "tags": "floppy disk",
+      "unicode": ""
+    },
+    {
+      "name": "schedule",
+      "tags": "clock",
+      "unicode": ""
+    },
+    {
+      "name": "school",
+      "tags": "education, graduation cap, hat",
+      "unicode": ""
+    },
+    {
+      "name": "screen_lock_landscape",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "screen_lock_portrait",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "screen_lock_rotation",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "screen_rotation",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "sd_card",
+      "tags": "memory",
+      "unicode": ""
+    },
+    {
+      "name": "sd_storage",
+      "tags": "memory",
+      "unicode": ""
+    },
+    {
+      "name": "search",
+      "tags": "find, magnifying glass",
+      "unicode": ""
+    },
+    {
+      "name": "security",
+      "tags": "shield",
+      "unicode": ""
+    },
+    {
+      "name": "select_all",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "send",
+      "tags": "paper airplane",
+      "unicode": ""
+    },
+    {
+      "name": "settings",
+      "tags": "cog, gear",
+      "unicode": ""
+    },
+    {
+      "name": "settings_applications",
+      "tags": "cog, gear",
+      "unicode": ""
+    },
+    {
+      "name": "settings_backup_restore",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "settings_bluetooth",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "settings_brightness",
+      "tags": "adjust, contrast",
+      "unicode": ""
+    },
+    {
+      "name": "settings_cell",
+      "tags": "phone",
+      "unicode": ""
+    },
+    {
+      "name": "settings_ethernet",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "settings_input_antenna",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "settings_input_component",
+      "tags": "cables, wires",
+      "unicode": ""
+    },
+    {
+      "name": "settings_input_composite",
+      "tags": "cables, wires",
+      "unicode": ""
+    },
+    {
+      "name": "settings_input_hdmi",
+      "tags": "cables, wires",
+      "unicode": ""
+    },
+    {
+      "name": "settings_input_svideo",
+      "tags": "cables, wires",
+      "unicode": ""
+    },
+    {
+      "name": "settings_overscan",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "settings_phone",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "settings_power",
+      "tags": "on, switch",
+      "unicode": ""
+    },
+    {
+      "name": "settings_remote",
+      "tags": "remote control",
+      "unicode": ""
+    },
+    {
+      "name": "settings_system_daydream",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "settings_voice",
+      "tags": "microphone",
+      "unicode": ""
+    },
+    {
+      "name": "share",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "shop",
+      "tags": "bag",
+      "unicode": ""
+    },
+    {
+      "name": "shop_two",
+      "tags": "bags",
+      "unicode": ""
+    },
+    {
+      "name": "shopping_basket",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "shopping_cart",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "shuffle",
+      "tags": "random",
+      "unicode": ""
+    },
+    {
+      "name": "signal_cellular_4_bar",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "signal_cellular_connected_no_internet_4_bar",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "signal_cellular_no_sim",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "signal_cellular_null",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "signal_cellular_off",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "signal_wifi_4_bar",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "signal_wifi_4_bar_lock",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "signal_wifi_off",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "sim_card",
+      "tags": "memory",
+      "unicode": ""
+    },
+    {
+      "name": "sim_cart_alert",
+      "tags": "memory",
+      "unicode": ""
+    },
+    {
+      "name": "skip_next",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "skip_previous",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "slideshow",
+      "tags": "play",
+      "unicode": ""
+    },
+    {
+      "name": "smartphone",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "sms",
+      "tags": "speech bubble",
+      "unicode": ""
+    },
+    {
+      "name": "sms_failed",
+      "tags": "speech bubble",
+      "unicode": ""
+    },
+    {
+      "name": "sort",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "speaker",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "speaker_group",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "speaker_notes",
+      "tags": "speech bubble",
+      "unicode": ""
+    },
+    {
+      "name": "spellcheck",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "snooze",
+      "tags": "alarm clock",
+      "unicode": ""
+    },
+    {
+      "name": "sort_by_alpha",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "space_bar",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "speaker_phone",
+      "tags": "telephone",
+      "unicode": ""
+    },
+    {
+      "name": "star",
+      "tags": "rating",
+      "unicode": ""
+    },
+    {
+      "name": "star_border",
+      "tags": "rating",
+      "unicode": ""
+    },
+    {
+      "name": "star_half",
+      "tags": "rating",
+      "unicode": ""
+    },
+    {
+      "name": "stars",
+      "tags": "rating",
+      "unicode": ""
+    },
+    {
+      "name": "stay_current_landscape",
+      "tags": "tablet, phone",
+      "unicode": ""
+    },
+    {
+      "name": "stay_current_portrait",
+      "tags": "tablet, phone",
+      "unicode": ""
+    },
+    {
+      "name": "stay_primary_landscape",
+      "tags": "tablet, phone",
+      "unicode": ""
+    },
+    {
+      "name": "stay_primary_portrait",
+      "tags": "tablet, phone",
+      "unicode": ""
+    },
+    {
+      "name": "strikethrough_s",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "stop",
+      "tags": "square",
+      "unicode": ""
+    },
+    {
+      "name": "storage",
+      "tags": "server",
+      "unicode": ""
+    },
+    {
+      "name": "store",
+      "tags": "building, shop",
+      "unicode": ""
+    },
+    {
+      "name": "store_mall_directory",
+      "tags": "building, shop",
+      "unicode": ""
+    },
+    {
+      "name": "straighten",
+      "tags": "comb",
+      "unicode": ""
+    },
+    {
+      "name": "style",
+      "tags": "swatches",
+      "unicode": ""
+    },
+    {
+      "name": "subject",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "subtitles",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "supervisor_account",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "surround_sound",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "swap_calls",
+      "tags": "arrows",
+      "unicode": ""
+    },
+    {
+      "name": "swap_horiz",
+      "tags": "arrows",
+      "unicode": ""
+    },
+    {
+      "name": "swap_vert",
+      "tags": "arrows",
+      "unicode": ""
+    },
+    {
+      "name": "swap_vertical_circle",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "switch_camera",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "switch_video",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "sync",
+      "tags": "refresh, reload",
+      "unicode": ""
+    },
+    {
+      "name": "sync_disabled",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "sync_problem",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "system_update",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "system_update_alt",
+      "tags": "download",
+      "unicode": ""
+    },
+    {
+      "name": "tab",
+      "tags": "folder",
+      "unicode": ""
+    },
+    {
+      "name": "tab_unselected",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "tablet",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "tablet_android",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "tablet_mac",
+      "tags": "ipad",
+      "unicode": ""
+    },
+    {
+      "name": "tag_faces",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "tap_and_play",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "terrain",
+      "tags": "mountains",
+      "unicode": ""
+    },
+    {
+      "name": "text_format",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "textsms",
+      "tags": "chat, sms, speech bubble",
+      "unicode": ""
+    },
+    {
+      "name": "texture",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "theaters",
+      "tags": "film, movie",
+      "unicode": ""
+    },
+    {
+      "name": "thumb_down",
+      "tags": "dislike, rating",
+      "unicode": ""
+    },
+    {
+      "name": "thumb_up",
+      "tags": "like, rating",
+      "unicode": ""
+    },
+    {
+      "name": "time_to_leave",
+      "tags": "automobile, car",
+      "unicode": ""
+    },
+    {
+      "name": "timelapse",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "timer",
+      "tags": "stopwatch",
+      "unicode": ""
+    },
+    {
+      "name": "timer_10",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "timer_3",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "timer_off",
+      "tags": "stopwatch",
+      "unicode": ""
+    },
+    {
+      "name": "toc",
+      "tags": "rows",
+      "unicode": ""
+    },
+    {
+      "name": "today",
+      "tags": "calendar, date",
+      "unicode": ""
+    },
+    {
+      "name": "toll",
+      "tags": "circle, coin",
+      "unicode": ""
+    },
+    {
+      "name": "tonality",
+      "tags": "contrast",
+      "unicode": ""
+    },
+    {
+      "name": "toys",
+      "tags": "pinwheel",
+      "unicode": ""
+    },
+    {
+      "name": "track_changes",
+      "tags": "radar",
+      "unicode": ""
+    },
+    {
+      "name": "traffic",
+      "tags": "light, signal",
+      "unicode": ""
+    },
+    {
+      "name": "transform",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "translate",
+      "tags": "language",
+      "unicode": ""
+    },
+    {
+      "name": "trending_down",
+      "tags": "arrow, chart, graph",
+      "unicode": ""
+    },
+    {
+      "name": "trending_flat",
+      "tags": "arrow, chart, graph",
+      "unicode": ""
+    },
+    {
+      "name": "trending_up",
+      "tags": "arrow, chart, graph",
+      "unicode": ""
+    },
+    {
+      "name": "tune",
+      "tags": "equalizer, levels, settings",
+      "unicode": ""
+    },
+    {
+      "name": "turned_in",
+      "tags": "bookmark",
+      "unicode": ""
+    },
+    {
+      "name": "turned_in_not",
+      "tags": "bookmark",
+      "unicode": ""
+    },
+    {
+      "name": "tv",
+      "tags": "television",
+      "unicode": ""
+    },
+    {
+      "name": "undo",
+      "tags": "arrow",
+      "unicode": ""
+    },
+    {
+      "name": "usb",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "verified_user",
+      "tags": "checkmark, shield",
+      "unicode": ""
+    },
+    {
+      "name": "vertical_align_bottom",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "vertical_align_center",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "vertical_align_top",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "vibration",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "video_library",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "videocam",
+      "tags": "record",
+      "unicode": ""
+    },
+    {
+      "name": "videocam_off",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "view_agenda",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "view_array",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "view_carousel",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "view_column",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "view_comfy",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "view_compact",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "view_day",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "view_headline",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "view_list",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "view_module",
+      "tags": "grid",
+      "unicode": ""
+    },
+    {
+      "name": "view_quilt",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "view_stream",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "view_week",
+      "tags": "columns",
+      "unicode": ""
+    },
+    {
+      "name": "vignette",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "visibility",
+      "tags": "eye, show, view",
+      "unicode": ""
+    },
+    {
+      "name": "visibility_off",
+      "tags": "eye, hide",
+      "unicode": ""
+    },
+    {
+      "name": "voice_chat",
+      "tags": "camera, chat, speech bubble, video",
+      "unicode": ""
+    },
+    {
+      "name": "voicemail",
+      "tags": "record",
+      "unicode": ""
+    },
+    {
+      "name": "volume_down",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "volume_mute",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "volume_off",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "volume_up",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "vpn_key",
+      "tags": "key, lock",
+      "unicode": ""
+    },
+    {
+      "name": "vpn_lock",
+      "tags": "globe, lock",
+      "unicode": ""
+    },
+    {
+      "name": "wallpaper",
+      "tags": "picture",
+      "unicode": ""
+    },
+    {
+      "name": "warning",
+      "tags": "alert, danger",
+      "unicode": ""
+    },
+    {
+      "name": "watch",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "wb_auto",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "wb_cloudy",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "wb_incandescent",
+      "tags": "lightbulb",
+      "unicode": ""
+    },
+    {
+      "name": "wb_iridescent",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "wb_sunny",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "wc",
+      "tags": "bathroom, restroom",
+      "unicode": ""
+    },
+    {
+      "name": "web",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "whatshot",
+      "tags": "fire, flame",
+      "unicode": ""
+    },
+    {
+      "name": "widgets",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "wifi",
+      "tags": "signal",
+      "unicode": ""
+    },
+    {
+      "name": "wifi_lock",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "wifi_tethering",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "work",
+      "tags": "briefcase, suitcase",
+      "unicode": ""
+    },
+    {
+      "name": "wrap_text",
+      "tags": "",
+      "unicode": ""
+    },
+    {
+      "name": "youtube_searched_for",
+      "tags": "find, magnifying glass",
+      "unicode": ""
+    },
+    {
+      "name": "zoom_in",
+      "tags": "magnifying glass",
+      "unicode": ""
+    },
+    {
+      "name": "zoom_out",
+      "tags": "magnifying glass",
+      "unicode": ""
+    }
+  ]
+}
