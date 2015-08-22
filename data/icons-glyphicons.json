@@ -2,971 +2,1240 @@
   "glyphicons": [
     {
       "name": "adjust",
-      "tags": "contrast"
+      "tags": "contrast",
+      "unicode": "e063"
     },
     {
       "name": "alert",
-      "tags": "warning, caution, sign"
+      "tags": "warning, caution, sign",
+      "unicode": "e209"
     },
     {
       "name": "align-center",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e053"
     },
     {
       "name": "align-justify",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e055"
     },
     {
       "name": "align-left",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e052"
     },
     {
       "name": "align-right",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e054"
     },
     {
       "name": "apple",
-      "tags": "food, fruit"
+      "tags": "food, fruit",
+      "unicode": "f8ff"
     },
     {
       "name": "arrow-down",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "e094"
     },
     {
       "name": "arrow-left",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "e091"
     },
     {
       "name": "arrow-right",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "e092"
     },
     {
       "name": "arrow-up",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "e093"
     },
     {
-      "name": "asterisk"
+      "name": "asterisk",
+      "unicode": "2a"
     },
     {
       "name": "baby-formula",
-      "tags": "bottle, milk"
+      "tags": "bottle, milk",
+      "unicode": "e216"
     },
     {
       "name": "backward",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "e071"
     },
     {
-      "name": "ban-circle"
+      "name": "ban-circle",
+      "tags": "prohibited",
+      "unicode": "e090"
     },
     {
-      "name": "barcode"
+      "name": "barcode",
+      "unicode": "e040"
     },
     {
       "name": "bed",
-      "tags": "sleep, hotel"
+      "tags": "sleep, hotel",
+      "unicode": "e219"
     },
     {
       "name": "bell",
-      "tags": "audio, sound"
+      "tags": "audio, sound",
+      "unicode": "e123"
     },
     {
       "name": "bishop",
-      "tags": "chess, game"
+      "tags": "chess, game",
+      "unicode": "e214"
     },
     {
       "name": "bitcoin",
-      "tags": "currency"
+      "tags": "currency",
+      "unicode": "e227"
     },
     {
       "name": "blackboard",
-      "tags": "screen"
+      "tags": "screen",
+      "unicode": "e218"
     },
     {
       "name": "bold",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e048"
     },
     {
-      "name": "book"
+      "name": "book",
+      "unicode": "e043"
     },
     {
-      "name": "bookmark"
+      "name": "bookmark",
+      "unicode": "e044"
     },
     {
       "name": "briefcase",
-      "tags": "suitcase, business"
+      "tags": "suitcase, business",
+      "unicode": "e139"
     },
     {
       "name": "bullhorn",
-      "tags": "speakerphone"
+      "tags": "speakerphone",
+      "unicode": "e122"
     },
     {
       "name": "calendar",
-      "tags": "date"
+      "tags": "date",
+      "unicode": "e109"
     },
     {
       "name": "camera",
-      "tags": "photographs"
+      "tags": "photographs",
+      "unicode": "e046"
     },
     {
       "name": "cd",
-      "tags": "music, disc, vinyl"
+      "tags": "music, disc, vinyl",
+      "unicode": "e201"
     },
     {
       "name": "certificate",
-      "tags": "seal, prize, award"
+      "tags": "seal, prize, award",
+      "unicode": "e124"
     },
     {
       "name": "check",
-      "tags": "form control"
+      "tags": "form control",
+      "unicode": "e067"
     },
     {
       "name": "chevron-down",
-      "tags": "directional"
+      "tags": "angle, directional",
+      "unicode": "e114"
     },
     {
       "name": "chevron-left",
-      "tags": "directional"
+      "tags": "angle, directional",
+      "unicode": "e079"
     },
     {
       "name": "chevron-right",
-      "tags": "directional"
+      "tags": "angle, directional",
+      "unicode": "e080"
     },
     {
       "name": "chevron-up",
-      "tags": "directional"
+      "tags": "angle, directional",
+      "unicode": "e113"
     },
     {
       "name": "circle-arrow-down",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "e134"
     },
     {
       "name": "circle-arrow-left",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "e132"
     },
     {
       "name": "circle-arrow-right",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "e131"
     },
     {
       "name": "circle-arrow-up",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "e133"
     },
     {
       "name": "cloud",
-      "tags": "weather"
+      "tags": "weather",
+      "unicode": "2601"
     },
     {
-      "name": "cloud-download"
+      "name": "cloud-download",
+      "unicode": "e197"
     },
     {
-      "name": "cloud-upload"
+      "name": "cloud-upload",
+      "unicode": "e198"
     },
     {
       "name": "cog",
-      "tags": "gear, settings"
+      "tags": "gear, settings",
+      "unicode": "e019"
     },
     {
       "name": "collapse-down",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "e159"
     },
     {
       "name": "collapse-up",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "e160"
     },
     {
       "name": "comment",
-      "tags": "chat, speech bubble"
+      "tags": "chat, speech bubble",
+      "unicode": "e111"
     },
     {
-      "name": "compressed"
+      "name": "compressed",
+      "unicode": "e181"
+    },
+    {
+      "name": "console",
+      "tags": "terminal",
+      "unicode": "e254"
     },
     {
       "name": "copy",
-      "tags": "clipboard"
+      "tags": "clipboard",
+      "unicode": "e205"
     },
     {
-      "name": "copyright-mark"
+      "name": "copyright-mark",
+      "unicode": "e194"
     },
     {
       "name": "credit-card",
-      "tags": "money, payment"
+      "tags": "money, payment",
+      "unicode": "e177"
     },
     {
       "name": "cutlery",
-      "tags": "food, fork, knife"
+      "tags": "food, fork, knife",
+      "unicode": "e179"
     },
     {
       "name": "dashboard",
-      "tags": "tachometer, speedometer"
+      "tags": "tachometer, speedometer",
+      "unicode": "e141"
     },
     {
-      "name": "door"
+      "name": "door",
+      "unicode": "1f6aa"
     },
     {
-      "name": "download"
+      "name": "download",
+      "unicode": "e026"
     },
     {
-      "name": "download-alt"
+      "name": "download-alt",
+      "unicode": "e025"
     },
     {
       "name": "duplicate",
-      "tags": "clone, copy, documents, files"
+      "tags": "clone, copy, documents, files",
+      "unicode": "e224"
     },
     {
       "name": "earphone",
-      "tags": "telephone"
+      "tags": "telephone",
+      "unicode": "e182"
     },
     {
       "name": "edit",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e065"
     },
     {
       "name": "education",
-      "tags": "hat, graduation"
+      "tags": "hat, graduation",
+      "unicode": "e233"
     },
     {
-      "name": "eject"
+      "name": "eject",
+      "unicode": "e078"
     },
     {
       "name": "envelope",
-      "tags": "email"
+      "tags": "email",
+      "unicode": "2709"
     },
     {
       "name": "equalizer",
-      "tags": "music, audio"
+      "tags": "levels, settings",
+      "unicode": "e210"
     },
     {
       "name": "erase",
-      "tags": "delete"
+      "tags": "delete",
+      "unicode": "e221"
     },
     {
       "name": "euro",
-      "tags": "currency, money"
+      "tags": "currency, money",
+      "unicode": "20ac"
     },
     {
-      "name": "exclamation-sign"
+      "name": "exclamation-sign",
+      "unicode": "e101"
     },
     {
       "name": "expand",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "e158"
     },
     {
       "name": "export",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e170"
     },
     {
       "name": "eye-close",
-      "tags": "hide"
+      "tags": "hide",
+      "unicode": "e106"
     },
     {
       "name": "eye-open",
-      "tags": "show"
+      "tags": "show",
+      "unicode": "e105"
     },
     {
       "name": "facetime-video",
-      "tags": "video player, camera"
+      "tags": "video player, camera",
+      "unicode": "e059"
     },
     {
       "name": "fast-backward",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "e070"
     },
     {
       "name": "fast-forward",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "e076"
     },
     {
       "name": "file",
-      "tags": "text editor, document"
+      "tags": "text editor, document",
+      "unicode": "e022"
     },
     {
-      "name": "film"
+      "name": "film",
+      "tags": "movie",
+      "unicode": "e009"
     },
     {
-      "name": "filter"
+      "name": "filter",
+      "unicode": "e138"
     },
     {
       "name": "fire",
-      "tags": "flame, hot"
+      "tags": "flame, hot",
+      "unicode": "e104"
     },
     {
-      "name": "flag"
+      "name": "flag",
+      "unicode": "e034"
     },
     {
       "name": "flash",
-      "tags": "lightning bolt"
+      "tags": "lightning bolt",
+      "unicode": "e162"
     },
     {
       "name": "floppy-disk",
-      "tags": "text editor"
+      "tags": "save",
+      "unicode": "e172"
     },
     {
       "name": "floppy-open",
-      "tags": "text editor, disk"
+      "tags": "disk, save",
+      "unicode": "e176"
     },
     {
       "name": "floppy-remove",
-      "tags": "text editor, disk"
+      "tags": "disk, save",
+      "unicode": "e174"
     },
     {
       "name": "floppy-save",
-      "tags": "text editor, disk"
+      "tags": "disk, save",
+      "unicode": "e175"
     },
     {
       "name": "floppy-saved",
-      "tags": "text editor, disk"
+      "tags": "disk, save",
+      "unicode": "e173"
     },
     {
       "name": "folder-close",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e117"
     },
     {
       "name": "folder-open",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e118"
     },
     {
       "name": "font",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e047"
     },
     {
       "name": "forward",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "e075"
     },
     {
       "name": "fullscreen",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "e140"
     },
     {
       "name": "gbp",
-      "tags": "currency, money"
+      "tags": "currency, money, pound",
+      "unicode": "e149"
     },
     {
       "name": "gift",
-      "tags": "present"
+      "tags": "present",
+      "unicode": "e102"
     },
     {
       "name": "glass",
-      "tags": "drink, martini, alcohol, cocktail"
+      "tags": "drink, martini, alcohol, cocktail",
+      "unicode": "e001"
     },
     {
       "name": "globe",
-      "tags": "earth, planet, world"
+      "tags": "earth, planet, world",
+      "unicode": "e135"
     },
     {
       "name": "grain",
-      "tags": "food, plant, wheat"
+      "tags": "food, plant, wheat",
+      "unicode": "e239"
     },
     {
       "name": "hand-down",
-      "tags": "directional, finger, pointer"
+      "tags": "directional, finger, pointer",
+      "unicode": "e130"
     },
     {
       "name": "hand-left",
-      "tags": "directional, finger, pointer"
+      "tags": "directional, finger, pointer",
+      "unicode": "e128"
     },
     {
       "name": "hand-right",
-      "tags": "directional, finger, pointer"
+      "tags": "directional, finger, pointer",
+      "unicode": "e127"
     },
     {
       "name": "hand-up",
-      "tags": "directional, finger, pointer"
+      "tags": "directional, finger, pointer",
+      "unicode": "e129"
     },
     {
       "name": "hd-video",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "e187"
     },
     {
       "name": "hdd",
-      "tags": "hard drive, computer, disk"
+      "tags": "hard drive, computer, disk",
+      "unicode": "e121"
     },
     {
       "name": "header",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e180"
     },
     {
       "name": "headphones",
-      "tags": "music, audio, sound"
+      "tags": "music, audio, sound",
+      "unicode": "e035"
     },
     {
       "name": "heart",
-      "tags": "like, favorite"
+      "tags": "like, favorite",
+      "unicode": "e143"
     },
     {
       "name": "heart-empty",
-      "tags": "unlike, unfavorite"
+      "tags": "unlike, unfavorite",
+      "unicode": "e005"
     },
     {
-      "name": "home"
+      "name": "home",
+      "unicode": "e021"
     },
     {
       "name": "hourglass",
-      "tags": "busy, loading, timer"
+      "tags": "busy, loading, timer",
+      "unicode": "231b"
     },
     {
       "name": "ice-lolly",
-      "tags": "dessert, popsicle"
+      "tags": "dessert, popsicle",
+      "unicode": "e231"
     },
     {
       "name": "ice-lolly-tasted",
-      "tags": "dessert, popsicle"
+      "tags": "dessert, popsicle",
+      "unicode": "e232"
     },
     {
       "name": "import",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e169"
     },
     {
       "name": "inbox",
-      "tags": "email"
+      "tags": "email",
+      "unicode": "e028"
     },
     {
       "name": "indent-left",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e057"
     },
     {
       "name": "indent-right",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e058"
     },
     {
-      "name": "info-sign"
+      "name": "info-sign",
+      "unicode": "e086"
     },
     {
       "name": "italic",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e049"
     },
     {
       "name": "key",
-      "tags": "security"
+      "tags": "security",
+      "unicode": "1f511"
     },
     {
       "name": "king",
-      "tags": "chess, game"
+      "tags": "chess, game",
+      "unicode": "e211"
     },
     {
       "name": "knight",
-      "tags": "chess, game"
+      "tags": "chess, game",
+      "unicode": "e215"
     },
     {
-      "name": "lamp"
+      "name": "lamp",
+      "unicode": "e223"
     },
     {
-      "name": "leaf"
+      "name": "leaf",
+      "unicode": "e103"
     },
     {
       "name": "level-up",
-      "tags": "folder"
+      "tags": "folder",
+      "unicode": "e204"
     },
     {
       "name": "link",
-      "tags": "text editor, chain"
+      "tags": "chain",
+      "unicode": "e144"
     },
     {
       "name": "list",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e056"
     },
     {
       "name": "list-alt",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e032"
     },
     {
-      "name": "lock"
+      "name": "lock",
+      "tags": "security",
+      "unicode": "e033"
     },
     {
-      "name": "log-in"
+      "name": "log-in",
+      "unicode": "e161"
     },
     {
-      "name": "log-out"
+      "name": "log-out",
+      "unicode": "e163"
     },
     {
-      "name": "magnet"
+      "name": "magnet",
+      "unicode": "e112"
     },
     {
       "name": "map-marker",
-      "tags": "location"
+      "tags": "location",
+      "unicode": "e062"
     },
     {
       "name": "menu-down",
-      "tags": "chevron"
+      "tags": "angle, chevron, directional",
+      "unicode": "e259"
     },
     {
       "name": "menu-hamburger",
-      "tags": "options, more"
+      "tags": "bars, menu, more",
+      "unicode": "e236"
     },
     {
       "name": "menu-left",
-      "tags": "chevron"
+      "tags": "angle, chevron, directional",
+      "unicode": "e257"
     },
     {
       "name": "menu-right",
-      "tags": "chevron"
+      "tags": "angle, chevron, directional",
+      "unicode": "e258"
     },
     {
       "name": "menu-up",
-      "tags": "chevron"
+      "tags": "angle, chevron, directional",
+      "unicode": "e260"
     },
     {
-      "name": "minus"
+      "name": "minus",
+      "unicode": "2212"
     },
     {
-      "name": "minus-sign"
+      "name": "minus-sign",
+      "unicode": "e082"
     },
     {
-      "name": "modal-window"
+      "name": "modal-window",
+      "unicode": "e237"
     },
     {
-      "name": "move"
+      "name": "move",
+      "unicode": "e068"
     },
     {
-      "name": "music"
+      "name": "music",
+      "unicode": "e002"
     },
     {
-      "name": "new-window"
+      "name": "new-window",
+      "unicode": "e164"
     },
     {
-      "name": "object-align-bottom"
+      "name": "object-align-bottom",
+      "unicode": "e245"
     },
     {
-      "name": "object-align-horizontal"
+      "name": "object-align-horizontal",
+      "unicode": "e246"
     },
     {
-      "name": "object-align-left"
+      "name": "object-align-left",
+      "unicode": "e247"
     },
     {
-      "name": "object-align-right"
+      "name": "object-align-right",
+      "unicode": "e249"
     },
     {
-      "name": "object-align-top"
+      "name": "object-align-top",
+      "unicode": "e244"
     },
     {
-      "name": "object-align-vertical"
+      "name": "object-align-vertical",
+      "unicode": "e248"
     },
     {
       "name": "off",
-      "tags": "on, power"
+      "tags": "on, power",
+      "unicode": "e017"
     },
     {
       "name": "oil",
-      "tags": "barrel"
+      "tags": "barrel",
+      "unicode": "e238"
     },
     {
-      "name": "ok"
+      "name": "ok",
+      "tags": "checkmark",
+      "unicode": "e013"
     },
     {
-      "name": "ok-circle"
+      "name": "ok-circle",
+      "tags": "checkmark",
+      "unicode": "e089"
     },
     {
-      "name": "ok-sign"
+      "name": "ok-sign",
+      "tags": "checkmark",
+      "unicode": "e084"
     },
     {
       "name": "open",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e167"
     },
     {
-      "name": "open-file"
+      "name": "open-file",
+      "unicode": "e203"
     },
     {
       "name": "option-horizontal",
-      "tags": "more"
+      "tags": "more",
+      "unicode": "e234"
     },
     {
       "name": "option-vertical",
-      "tags": "more"
+      "tags": "more",
+      "unicode": "e235"
     },
     {
       "name": "paperclip",
-      "tags": "text editor, email, file attachment"
+      "tags": "text editor, email, file attachment",
+      "unicode": "e142"
     },
     {
       "name": "paste",
-      "tags": "clipboard"
+      "tags": "clipboard",
+      "unicode": "e206"
     },
     {
-      "name": "pause"
+      "name": "pause",
+      "unicode": "e073"
     },
     {
       "name": "pawn",
-      "tags": "chess, game"
+      "tags": "chess, game",
+      "unicode": "e213"
     },
     {
-      "name": "pencil"
+      "name": "pencil",
+      "unicode": "270f"
     },
     {
       "name": "phone",
-      "tags": "mobile"
+      "tags": "mobile",
+      "unicode": "e145"
     },
     {
       "name": "phone-alt",
-      "tags": "telephone"
+      "tags": "telephone",
+      "unicode": "e183"
     },
     {
       "name": "picture",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e060"
     },
     {
       "name": "piggy-bank",
-      "tags": "savings"
+      "tags": "savings",
+      "unicode": "e225"
     },
     {
       "name": "plane",
-      "tags": "airplane, jet, transportation"
+      "tags": "airplane, jet, transportation",
+      "unicode": "e108"
     },
     {
       "name": "play",
-      "tags": "video player, triangle"
+      "tags": "video player, triangle",
+      "unicode": "e072"
     },
     {
       "name": "play-circle",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "e029"
     },
     {
       "name": "plus",
-      "tags": "add"
+      "tags": "add",
+      "unicode": "2b"
     },
     {
-      "name": "plus-sign"
+      "name": "plus-sign",
+      "unicode": "e081"
     },
     {
       "name": "print",
-      "tags": "printer, computer"
+      "tags": "printer, computer",
+      "unicode": "e045"
     },
     {
-      "name": "pushpin"
+      "name": "pushpin",
+      "unicode": "e146"
     },
     {
-      "name": "qrcode"
+      "name": "qrcode",
+      "unicode": "e039"
     },
     {
       "name": "queen",
-      "tags": "chess, game"
+      "tags": "chess, game",
+      "unicode": "e212"
     },
     {
-      "name": "question-sign"
+      "name": "question-sign",
+      "unicode": "e085"
     },
     {
       "name": "random",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "e110"
     },
     {
       "name": "record",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "e165"
     },
     {
       "name": "refresh",
-      "tags": "reload"
+      "tags": "reload",
+      "unicode": "e031"
     },
     {
-      "name": "registration-mark"
+      "name": "registration-mark",
+      "unicode": "e195"
     },
     {
-      "name": "remove"
+      "name": "remove",
+      "unicode": "e014"
     },
     {
-      "name": "remove-circle"
+      "name": "remove-circle",
+      "unicode": "e088"
     },
     {
-      "name": "remove-sign"
+      "name": "remove-sign",
+      "unicode": "e083"
     },
     {
       "name": "repeat",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e030"
     },
     {
       "name": "resize-full",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "e096"
     },
     {
-      "name": "resize-horizontal"
+      "name": "resize-horizontal",
+      "unicode": "e120"
     },
     {
       "name": "resize-small",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "e097"
     },
     {
-      "name": "resize-vertical"
+      "name": "resize-vertical",
+      "unicode": "e119"
     },
     {
-      "name": "retweet"
+      "name": "retweet",
+      "unicode": "e115"
     },
     {
-      "name": "road"
+      "name": "road",
+      "unicode": "e024"
     },
     {
       "name": "ruble",
-      "tags": "currency, money"
+      "tags": "currency, money",
+      "unicode": "20bd"
     },
     {
       "name": "save",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e202"
     },
     {
-      "name": "save-file"
+      "name": "save-file",
+      "unicode": "e202"
     },
     {
       "name": "saved",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e168"
     },
     {
       "name": "scale",
-      "tags": "measure, weight"
+      "tags": "measure, weight",
+      "unicode": "e230"
     },
     {
       "name": "scissors",
-      "tags": "cut"
+      "tags": "cut",
+      "unicode": "e226"
     },
     {
-      "name": "screenshot"
+      "name": "screenshot",
+      "unicode": "e087"
     },
     {
       "name": "sd-video",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "e186"
     },
     {
       "name": "search",
-      "tags": "magnifying glass"
+      "tags": "find, magnifying glass",
+      "unicode": "e003"
     },
     {
       "name": "send",
-      "tags": "email, paper airplane"
+      "tags": "email, paper airplane",
+      "unicode": "e171"
     },
     {
-      "name": "share"
+      "name": "share",
+      "unicode": "e066"
     },
     {
-      "name": "share-alt"
+      "name": "share-alt",
+      "unicode": "e095"
     },
     {
-      "name": "shopping-cart"
+      "name": "shopping-cart",
+      "unicode": "e116"
     },
     {
       "name": "signal",
-      "tags": "bars, graph"
+      "tags": "bars, graph",
+      "unicode": "e018"
     },
     {
       "name": "sort",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e150"
     },
     {
       "name": "sort-by-alphabet",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e151"
     },
     {
       "name": "sort-by-alphabet-alt",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e152"
     },
     {
       "name": "sort-by-attributes",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e155"
     },
     {
       "name": "sort-by-attributes-alt",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e152"
     },
     {
       "name": "sort-by-order",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e153"
     },
     {
       "name": "sort-by-order-alt",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e154"
     },
     {
       "name": "sound-5-1",
-      "tags": "video player, audio"
+      "tags": "video player, audio",
+      "unicode": "e191"
     },
     {
       "name": "sound-6-1",
-      "tags": "video player, audio"
+      "tags": "video player, audio",
+      "unicode": "e192"
     },
     {
       "name": "sound-7-1",
-      "tags": "video player, audio"
+      "tags": "video player, audio",
+      "unicode": "e193"
     },
     {
       "name": "sound-dolby",
-      "tags": "video player, audio"
+      "tags": "video player, audio",
+      "unicode": "e190"
     },
     {
       "name": "sound-stereo",
-      "tags": "video player, audio"
+      "tags": "video player, audio",
+      "unicode": "e189"
     },
     {
       "name": "star",
-      "tags": "favorite, ratings, rate"
+      "tags": "favorite, ratings, rate",
+      "unicode": "e006"
     },
     {
       "name": "star-empty",
-      "tags": "favorite, ratings, rate"
+      "tags": "favorite, ratings, rate",
+      "unicode": "e007"
     },
     {
       "name": "stats",
-      "tags": "graph"
+      "tags": "graph",
+      "unicode": "e185"
     },
     {
-      "name": "step-backward"
+      "name": "step-backward",
+      "unicode": "e069"
     },
     {
-      "name": "step-forward"
+      "name": "step-forward",
+      "unicode": "e077"
     },
     {
       "name": "stop",
-      "tags": "video player, square"
+      "tags": "video player, square",
+      "unicode": "e074"
     },
     {
       "name": "subscript",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e256"
     },
     {
       "name": "subtitles",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "e188"
     },
     {
-      "name": "sunglasses"
+      "name": "sunglasses",
+      "unicode": "e240"
     },
     {
       "name": "superscript",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e255"
     },
     {
       "name": "tag",
-      "tags": "pricetag, shopping"
+      "tags": "pricetag",
+      "unicode": "e041"
     },
     {
       "name": "tags",
-      "tags": "pricetags, shopping"
+      "tags": "pricetags",
+      "unicode": "e042"
     },
     {
-      "name": "tasks"
+      "name": "tasks",
+      "unicode": "e137"
     },
     {
       "name": "tent",
-      "tags": "camping"
-    },
-    {
-      "name": "terminal",
-      "tags": "console"
+      "tags": "camping",
+      "unicode": "26fa"
     },
     {
       "name": "text-background",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e243"
     },
     {
       "name": "text-color",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e242"
     },
     {
       "name": "text-height",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e050"
     },
     {
       "name": "text-size",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e241"
     },
     {
       "name": "text-width",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e051"
     },
     {
       "name": "th",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e011"
     },
     {
       "name": "th-large",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e010"
     },
     {
       "name": "th-list",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "e012"
     },
     {
       "name": "thumbs-down",
-      "tags": "unlike, ratings, rate"
+      "tags": "unlike, ratings, rate",
+      "unicode": "e126"
     },
     {
       "name": "thumbs-up",
-      "tags": "like, ratings, rate"
+      "tags": "like, ratings, rate",
+      "unicode": "e125"
     },
     {
-      "name": "time"
+      "name": "time",
+      "tags": "clock",
+      "unicode": "e023"
     },
     {
-      "name": "tint"
+      "name": "tint",
+      "tags": "droplet",
+      "unicode": "e064"
     },
     {
       "name": "tower",
-      "tags": "chess, game, rook"
+      "tags": "chess, game, rook",
+      "unicode": "e184"
     },
     {
       "name": "transfer",
-      "tags": "exchange, arrows"
+      "tags": "exchange, arrows",
+      "unicode": "e178"
     },
     {
       "name": "trash",
-      "tags": "delete"
+      "tags": "delete",
+      "unicode": "e020"
     },
     {
       "name": "tree-conifer",
-      "tags": "plant"
+      "tags": "plant",
+      "unicode": "e199"
     },
     {
       "name": "tree-deciduous",
-      "tags": "plant"
+      "tags": "plant",
+      "unicode": "e200"
     },
     {
-      "name": "triangle-bottom"
+      "name": "triangle-bottom",
+      "unicode": "e252"
     },
     {
-      "name": "triangle-left"
+      "name": "triangle-left",
+      "unicode": "e251"
     },
     {
-      "name": "triangle-right"
+      "name": "triangle-right",
+      "unicode": "e250"
     },
     {
-      "name": "triangle-top"
+      "name": "triangle-top",
+      "unicode": "e253"
     },
     {
       "name": "unchecked",
-      "tags": "form control"
+      "tags": "form control",
+      "unicode": "e157"
     },
     {
-      "name": "upload"
+      "name": "upload",
+      "unicode": "e027"
     },
     {
       "name": "usd",
-      "tags": "currency, money, dollar"
+      "tags": "currency, money, dollar",
+      "unicode": "e148"
     },
     {
       "name": "user",
-      "tags": "person"
+      "tags": "person",
+      "unicode": "e008"
     },
     {
       "name": "volume-down",
-      "tags": "audio, sound"
+      "tags": "audio, sound",
+      "unicode": "e037"
     },
     {
       "name": "volume-off",
-      "tags": "audio, sound"
+      "tags": "audio, sound",
+      "unicode": "e036"
     },
     {
       "name": "volume-up",
-      "tags": "audio, sound"
+      "tags": "audio, sound",
+      "unicode": "e038"
     },
     {
-      "name": "warning-sign"
+      "name": "warning-sign",
+      "tags": "caution, danger",
+      "unicode": "e107"
     },
     {
       "name": "wrench",
-      "tags": "tool, settings"
+      "tags": "tool, settings",
+      "unicode": "e136"
     },
     {
       "name": "yen",
-      "tags": "currency, money"
+      "tags": "currency, money",
+      "unicode": "00a5"
     },
     {
       "name": "zoom-in",
-      "tags": "magnifying glass"
+      "tags": "magnifying glass",
+      "unicode": "e015"
     },
     {
       "name": "zoom-out",
-      "tags": "magnifying glass"
+      "tags": "magnifying glass",
+      "unicode": "e016"
     }
   ]
 }

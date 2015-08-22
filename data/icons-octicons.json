@@ -2,651 +2,813 @@
   "octicons": [
     {
       "name": "alert",
-      "tags": "warning, triangle, exclamation, point"
+      "tags": "warning, triangle, exclamation point",
+      "unicode": "f02d"
     },
     {
       "name": "arrow-down",
-      "tags": "point, direction"
+      "tags": "point, direction",
+      "unicode": "f03f"
     },
     {
       "name": "arrow-left",
-      "tags": "point, direction"
+      "tags": "point, direction",
+      "unicode": "f040"
     },
     {
       "name": "arrow-right",
-      "tags": "point, direction"
+      "tags": "point, direction",
+      "unicode": "f03e"
     },
     {
       "name": "arrow-small-down",
-      "tags": "point, direction"
+      "tags": "point, direction",
+      "unicode": "f0a0"
     },
     {
       "name": "arrow-small-left",
-      "tags": "point, direction, little, tiny"
+      "tags": "point, direction, little, tiny",
+      "unicode": "f0a1"
     },
     {
       "name": "arrow-small-right",
-      "tags": "point, direction, little, tiny"
+      "tags": "point, direction, little, tiny",
+      "unicode": "f071"
     },
     {
       "name": "arrow-small-up",
-      "tags": "point, direction, little, tiny"
+      "tags": "point, direction, little, tiny",
+      "unicode": "f09f"
     },
     {
       "name": "arrow-up",
-      "tags": "point, direction"
+      "tags": "point, direction",
+      "unicode": "f03d"
     },
     {
       "name": "beaker",
-      "tags": "chemistry, flask, science"
+      "tags": "chemistry, flask, science",
+      "unicode": "f0dd"
     },
     {
       "name": "bell",
-      "tags": "audio, sound"
+      "tags": "audio, sound",
+      "unicode": "f0de"
     },
     {
       "name": "book",
-      "tags": "book, journal, wiki, readme"
+      "tags": "book, journal, wiki, readme",
+      "unicode": "f007"
     },
     {
       "name": "bookmark",
-      "tags": "tabbard"
+      "tags": "tabbard",
+      "unicode": "f07b"
     },
     {
       "name": "briefcase",
-      "tags": "suitcase, business"
+      "tags": "suitcase, business",
+      "unicode": "f0d3"
     },
     {
       "name": "broadcast",
-      "tags": "rss, radio, signal"
+      "tags": "rss, radio, signal",
+      "unicode": "f048"
     },
     {
       "name": "browser",
-      "tags": "window, web"
+      "tags": "window, web",
+      "unicode": "f0c5"
     },
     {
       "name": "bug",
-      "tags": "insect"
+      "tags": "insect",
+      "unicode": "f091"
     },
     {
       "name": "calendar",
-      "tags": "date"
+      "tags": "date",
+      "unicode": "f068"
     },
     {
       "name": "check",
-      "tags": "mark, yes, confirm, accept, ok, success"
+      "tags": "checkmark",
+      "unicode": "f03a"
     },
     {
       "name": "checklist",
-      "tags": "todo"
+      "tags": "todo",
+      "unicode": "f076"
     },
     {
       "name": "chevron-down",
-      "tags": "triangle, arrow"
+      "tags": "angle, arrow",
+      "unicode": "f0a3"
     },
     {
       "name": "chevron-left",
-      "tags": "triangle, arrow"
+      "tags": "angle, arrow",
+      "unicode": "f0a4"
     },
     {
       "name": "chevron-right",
-      "tags": "triangle, arrow"
+      "tags": "angle, arrow",
+      "unicode": "f078"
     },
     {
       "name": "chevron-up",
-      "tags": "triangle, arrow"
+      "tags": "angle, arrow",
+      "unicode": "f0a2"
     },
     {
       "name": "circle-slash",
-      "tags": "no, deny, fail, failure, error, bad"
+      "tags": "ban, prohibited",
+      "unicode": "f084"
     },
     {
       "name": "circuit-board",
-      "tags": "developer, hardware, electricity"
+      "tags": "developer, hardware, electricity",
+      "unicode": "f0d6"
     },
     {
       "name": "clippy",
-      "tags": "copy, paste, save, capture"
+      "tags": "clipboard, copy, paste, save",
+      "unicode": "f035"
     },
     {
       "name": "clock",
-      "tags": "time, hour, minute, second"
+      "tags": "time, hour, minute, second",
+      "unicode": "f046"
     },
     {
       "name": "cloud-download",
-      "tags": "save, install, get"
+      "tags": "save, install, get",
+      "unicode": "f00b"
     },
     {
       "name": "cloud-upload",
-      "tags": "put, export"
+      "tags": "put, export",
+      "unicode": "f00c"
     },
     {
       "name": "code",
-      "tags": "brackets"
+      "tags": "brackets",
+      "unicode": "f05f"
     },
     {
       "name": "color-mode",
-      "tags": "black, white, switch, toggle"
+      "tags": "black, white, switch, toggle",
+      "unicode": "f065"
     },
     {
       "name": "comment",
-      "tags": "speak, bubble"
+      "tags": "chat, speech bubble",
+      "unicode": "f02b"
     },
     {
       "name": "comment-discussion",
-      "tags": "converse, talk"
+      "tags": "chat, speech bubbles",
+      "unicode": "f04f"
     },
     {
       "name": "credit-card",
-      "tags": "money, billing, payments, transactions"
+      "tags": "money, billing, payments",
+      "unicode": "f045"
     },
     {
       "name": "dash",
-      "tags": "hyphen, range"
+      "tags": "hyphen, range",
+      "unicode": "f0ca"
     },
     {
       "name": "dashboard",
-      "tags": "speed, dial"
+      "tags": "speed, tachometer",
+      "unicode": "f07d"
     },
     {
       "name": "database",
-      "tags": "disks, data"
+      "tags": "disks, data",
+      "unicode": "f096"
     },
     {
       "name": "desktop-download",
-      "tags": ""
+      "tags": "",
+      "unicode": "f0dc"
     },
     {
       "name": "device-camera",
-      "tags": "photo, picture, image, snapshot"
+      "tags": "photo, picture, image, snapshot",
+      "unicode": "f056"
     },
     {
       "name": "device-camera-video",
-      "tags": "watch, view, media, stream"
+      "tags": "watch, view, media, stream",
+      "unicode": "f038"
     },
     {
       "name": "device-desktop",
-      "tags": "computer, monitor"
+      "tags": "computer, display, monitor",
+      "unicode": "f27c"
     },
     {
       "name": "device-mobile",
-      "tags": "phone, iphone, cellphone"
+      "tags": "phone, iphone, cellphone",
+      "unicode": "f038"
     },
     {
       "name": "diff",
-      "tags": "difference, changes, compare"
+      "tags": "difference, changes, compare",
+      "unicode": "f04d"
     },
     {
       "name": "diff-added",
-      "tags": "new, addition"
+      "tags": "new, addition",
+      "unicode": "f06b"
     },
     {
       "name": "diff-ignored",
-      "tags": "slash"
+      "tags": "slash",
+      "unicode": "f099"
     },
     {
       "name": "diff-modified",
-      "tags": "dot, changed, updated"
+      "tags": "dot, changed, updated",
+      "unicode": "f06d"
     },
     {
       "name": "diff-removed",
-      "tags": "deleted, subtracted, dash"
+      "tags": "deleted, subtracted, dash",
+      "unicode": "f06c"
     },
     {
       "name": "diff-renamed",
-      "tags": "moved, arrow"
+      "tags": "moved, arrow",
+      "unicode": "f06e"
     },
     {
       "name": "ellipsis",
-      "tags": "read, more, hidden, expand"
+      "tags": "read, more, hidden, expand",
+      "unicode": "f09a"
     },
     {
       "name": "eye",
-      "tags": "look, watch, see"
+      "tags": "eyeball, see, view",
+      "unicode": "f04e"
     },
     {
       "name": "file-binary",
-      "tags": "image, video, word, powerpoint, excel"
+      "tags": "bits, document",
+      "unicode": "f094"
     },
     {
       "name": "file-code",
-      "tags": "text, javascript, html, css, php, ruby, coffeescript, sass, scss"
+      "tags": "document, source code",
+      "unicode": "f010"
     },
     {
       "name": "file-directory",
-      "tags": "folder"
+      "tags": "folder",
+      "unicode": "f016"
     },
     {
       "name": "file-media",
-      "tags": "image, video, audio"
+      "tags": "document, image, video, audio",
+      "unicode": "f012"
     },
     {
       "name": "file-pdf",
-      "tags": "adobe"
+      "tags": "document",
+      "unicode": "f014"
     },
     {
       "name": "file-submodule",
-      "tags": "folder"
+      "tags": "folders",
+      "unicode": "f017"
     },
     {
       "name": "file-symlink-directory",
-      "tags": "folder, subfolder, link, alias"
+      "tags": "folder, subfolder, link, alias",
+      "unicode": "f0b1"
     },
     {
       "name": "file-symlink-file",
-      "tags": "link, alias"
+      "tags": "link, alias",
+      "unicode": "f0b0"
     },
     {
       "name": "file-text",
-      "tags": "document"
+      "tags": "document",
+      "unicode": "f011"
     },
     {
       "name": "file-zip",
-      "tags": "compress, archive"
+      "tags": "compress, archive",
+      "unicode": "f013"
     },
     {
       "name": "flame",
-      "tags": "fire, hot, burn, trending"
+      "tags": "fire, hot, burn, trending",
+      "unicode": "f0d2"
     },
     {
       "name": "fold",
-      "tags": "unfold, hide, collapse"
+      "tags": "unfold, hide, collapse",
+      "unicode": "f0cc"
     },
     {
       "name": "gear",
-      "tags": "settings"
+      "tags": "cog, settings",
+      "unicode": "f02f"
     },
     {
       "name": "gift",
-      "tags": "package, present, skill, craft, freebie"
+      "tags": "present",
+      "unicode": "f042"
     },
     {
       "name": "gist",
-      "tags": ""
+      "tags": "document, source code",
+      "unicode": "f00e"
     },
     {
       "name": "gist-secret",
-      "tags": ""
+      "tags": "incognito, spy",
+      "unicode": "f08c"
     },
     {
       "name": "git-branch",
-      "tags": ""
+      "tags": "",
+      "unicode": "f020"
     },
     {
       "name": "git-commit",
-      "tags": "save"
+      "tags": "save",
+      "unicode": "f01f"
     },
     {
       "name": "git-compare",
-      "tags": "difference, changes"
+      "tags": "difference, changes",
+      "unicode": "f0ac"
     },
     {
       "name": "git-merge",
-      "tags": "join"
+      "tags": "join",
+      "unicode": "f023"
     },
     {
       "name": "git-pull-request",
-      "tags": "review"
+      "tags": "review",
+      "unicode": "f009"
     },
     {
       "name": "globe",
-      "tags": "world"
+      "tags": "earth, planet, world",
+      "unicode": "f0b6"
     },
     {
       "name": "graph",
-      "tags": "trend, stats, statistics"
+      "tags": "chart",
+      "unicode": "f043"
     },
     {
       "name": "heart",
-      "tags": "love"
+      "tags": "favorite, like, love",
+      "unicode": "2665"
     },
     {
       "name": "history",
-      "tags": "time, past, revert, back"
+      "tags": "clock, time, past, revert",
+      "unicode": "f07e"
     },
     {
       "name": "home",
-      "tags": "welcome, index, house, building"
+      "tags": "house, building",
+      "unicode": "f08d"
     },
     {
       "name": "horizontal-rule",
-      "tags": "hr"
+      "tags": "hr",
+      "unicode": "f070"
     },
     {
       "name": "hubot",
-      "tags": "robot"
+      "tags": "robot",
+      "unicode": "f09d"
     },
     {
       "name": "inbox",
-      "tags": "mail, todo, new, messages"
+      "tags": "email",
+      "unicode": "f0cf"
     },
     {
       "name": "info",
-      "tags": ""
+      "tags": "",
+      "unicode": "f059"
     },
     {
       "name": "issue-closed",
-      "tags": "done, complete"
+      "tags": "done, complete",
+      "unicode": "f028"
     },
     {
       "name": "issue-opened",
-      "tags": "new"
+      "tags": "new",
+      "unicode": "f026"
     },
     {
       "name": "issue-reopened",
-      "tags": "regression"
+      "tags": "regression",
+      "unicode": "f027"
     },
     {
       "name": "jersey",
-      "tags": "team, game, basketball"
+      "tags": "basketball, shirt, sport, uniform",
+      "unicode": "f019"
     },
     {
       "name": "key",
-      "tags": "key, lock, secure, safe"
+      "tags": "lock, security",
+      "unicode": "f049"
     },
     {
       "name": "keyboard",
-      "tags": "type, keys, write, shortcuts"
+      "tags": "",
+      "unicode": "f00d"
     },
     {
       "name": "law",
-      "tags": "balance, scale"
+      "tags": "balance, scale",
+      "unicode": "f0d8"
     },
     {
       "name": "light-bulb",
-      "tags": "idea"
+      "tags": "",
+      "unicode": "f000"
     },
     {
       "name": "link",
-      "tags": "connect, hyperlink"
+      "tags": "chain",
+      "unicode": "f05c"
     },
     {
       "name": "link-external",
-      "tags": "out, see, more, go, to"
+      "tags": "arrow",
+      "unicode": "f07f"
     },
     {
       "name": "list-ordered",
-      "tags": "numbers, tasks, todo, items"
+      "tags": "numbered",
+      "unicode": "f062"
     },
     {
       "name": "list-unordered",
-      "tags": "bullet, point, tasks, todo, items"
+      "tags": "bullet point",
+      "unicode": "f061"
     },
     {
       "name": "location",
-      "tags": "here, marker"
+      "tags": "map marker",
+      "unicode": "f060"
     },
     {
       "name": "lock",
-      "tags": "secure, safe, protected"
+      "tags": "security",
+      "unicode": "f06a"
     },
     {
       "name": "logo-github",
-      "tags": "brand"
+      "tags": "brand",
+      "unicode": "f092"
     },
     {
       "name": "mail",
-      "tags": "email, unread"
+      "tags": "email, envelope",
+      "unicode": "f03b"
     },
     {
       "name": "mail-read",
-      "tags": "email, open"
+      "tags": "email, envelope, letter",
+      "unicode": "f03c"
     },
     {
       "name": "mail-reply",
-      "tags": "email"
+      "tags": "email",
+      "unicode": "f051"
     },
     {
       "name": "mark-github",
-      "tags": "octocat"
+      "tags": "octocat",
+      "unicode": "f00a"
     },
     {
       "name": "markdown",
-      "tags": "markup, style"
+      "tags": "logo",
+      "unicode": "f0c9"
     },
     {
       "name": "megaphone",
-      "tags": "bullhorn, loud, shout, broadcast"
+      "tags": "bullhorn, loud, shout, broadcast",
+      "unicode": "f077"
     },
     {
       "name": "mention",
-      "tags": "at, ping"
+      "tags": "at",
+      "unicode": "f0be"
     },
     {
       "name": "milestone",
-      "tags": "marker"
+      "tags": "marker, sign",
+      "unicode": "f075"
     },
     {
       "name": "mirror",
-      "tags": "reflect"
+      "tags": "reflect",
+      "unicode": "f024"
     },
     {
       "name": "mortar-board",
-      "tags": ""
+      "tags": "education, graduation cap, hat",
+      "unicode": "f0d7"
     },
     {
       "name": "mute",
-      "tags": "quiet, sound, audio, turn, off"
+      "tags": "audio, sound, volume",
+      "unicode": "f080"
     },
     {
       "name": "no-newline",
-      "tags": "return"
+      "tags": "return",
+      "unicode": "f09c"
     },
     {
       "name": "octoface",
-      "tags": "octocat"
+      "tags": "octocat",
+      "unicode": "f008"
     },
     {
       "name": "organization",
-      "tags": "people, group, team"
+      "tags": "people, group, team",
+      "unicode": "f037"
     },
     {
       "name": "package",
-      "tags": "box, ship"
+      "tags": "box, shipment",
+      "unicode": "f0c4"
     },
     {
       "name": "paintcan",
-      "tags": "style, theme, art, color"
+      "tags": "art, bucket",
+      "unicode": "f0d1"
     },
     {
       "name": "pencil",
-      "tags": "edit, change, update, write"
+      "tags": "edit, write",
+      "unicode": "f058"
     },
     {
       "name": "person",
-      "tags": "people, man, woman, human"
+      "tags": "human",
+      "unicode": "f018"
     },
     {
       "name": "pin",
-      "tags": "thumbtack"
+      "tags": "pushpin, thumbtack",
+      "unicode": "f041"
     },
     {
       "name": "plug",
-      "tags": "hook, webhook"
+      "tags": "power",
+      "unicode": "f0d4"
     },
     {
       "name": "plus",
-      "tags": "add, new, more"
+      "tags": "add, new",
+      "unicode": "f05d"
     },
     {
       "name": "primitive-dot",
-      "tags": "circle"
+      "tags": "circle",
+      "unicode": "f052"
     },
     {
       "name": "primitive-square",
-      "tags": "box"
+      "tags": "",
+      "unicode": "f053"
     },
     {
       "name": "pulse",
-      "tags": "graph, trend, line"
+      "tags": "graph, trend line, signal",
+      "unicode": "f085"
     },
     {
       "name": "question",
-      "tags": "help, explain"
+      "tags": "help, question mark",
+      "unicode": "f02c"
     },
     {
       "name": "quote",
-      "tags": "quotation"
+      "tags": "quotation mark",
+      "unicode": "f063"
     },
     {
       "name": "radio-tower",
-      "tags": "broadcast"
+      "tags": "broadcast",
+      "unicode": "f030"
     },
     {
       "name": "repo",
-      "tags": "book, journal"
+      "tags": "book, git, journal",
+      "unicode": "f001"
     },
     {
       "name": "repo-clone",
-      "tags": "book, journal"
+      "tags": "book, git, journal",
+      "unicode": "f04c"
     },
     {
       "name": "repo-force-push",
-      "tags": "book, journal, put"
+      "tags": "book, git, journal",
+      "unicode": "f04a"
     },
     {
       "name": "repo-forked",
-      "tags": "book, journal, copy"
+      "tags": "book, git, journal",
+      "unicode": "f002"
     },
     {
       "name": "repo-pull",
-      "tags": "book, journal, get"
+      "tags": "book, git, journal",
+      "unicode": "f006"
     },
     {
       "name": "repo-push",
-      "tags": "book, journal, put"
+      "tags": "book, git, journal",
+      "unicode": "f005"
     },
     {
       "name": "rocket",
-      "tags": "staff, stafftools, blast, off, space"
+      "tags": "spaceship",
+      "unicode": "f033"
     },
     {
       "name": "rss",
-      "tags": "broadcast, feed"
+      "tags": "broadcast, feed",
+      "unicode": "f034"
     },
     {
       "name": "ruby",
-      "tags": "code"
+      "tags": "diamond, gem",
+      "unicode": "f047"
     },
     {
       "name": "screen-full",
-      "tags": "view"
+      "tags": "view",
+      "unicode": "f066"
     },
     {
       "name": "screen-normal",
-      "tags": "view"
+      "tags": "view",
+      "unicode": "f067"
     },
     {
       "name": "search",
-      "tags": "magnifying, glass"
+      "tags": "find, magnifying glass",
+      "unicode": "f02e"
     },
     {
       "name": "server",
-      "tags": "computers, racks, ops"
+      "tags": "computers",
+      "unicode": "f097"
     },
     {
       "name": "settings",
-      "tags": "sliders, filters"
+      "tags": "equalizer, sliders",
+      "unicode": "f07c"
     },
     {
       "name": "shield",
-      "tags": ""
+      "tags": "lock, security",
+      "unicode": "f0e1"
     },
     {
       "name": "sign-in",
-      "tags": "door, arrow, direction, enter"
+      "tags": "door, enter, login",
+      "unicode": "f036"
     },
     {
       "name": "sign-out",
-      "tags": "door, arrow, direction, leave"
+      "tags": "door, exit, logout",
+      "unicode": "f032"
     },
     {
       "name": "squirrel",
-      "tags": "ship, shipit"
+      "tags": "animal",
+      "unicode": "f0b2"
     },
     {
       "name": "star",
-      "tags": "save, remember, like"
+      "tags": "like, rating",
+      "unicode": "f02a"
     },
     {
       "name": "stop",
-      "tags": "block, spam"
+      "tags": "caution, danger, exclamation point, warning",
+      "unicode": "f08f"
     },
     {
       "name": "sync",
-      "tags": "cycle, refresh, loop"
+      "tags": "cycle, refresh, reload, loop",
+      "unicode": "f087"
     },
     {
       "name": "tag",
-      "tags": "release"
+      "tags": "release",
+      "unicode": "f015"
     },
     {
       "name": "telescope",
-      "tags": "science, space, look, view, explore"
+      "tags": "science, view, explore",
+      "unicode": "f088"
     },
     {
       "name": "terminal",
-      "tags": "code, console, shell"
+      "tags": "console, shell",
+      "unicode": "f0c8"
     },
     {
       "name": "three-bars",
-      "tags": "hamburger"
+      "tags": "hamburger menu, more",
+      "unicode": "f05e"
     },
     {
       "name": "thumbsdown",
-      "tags": "dislike, ratings"
+      "tags": "dislike, rating",
+      "unicode": "f0db"
     },
     {
       "name": "thumbsup",
-      "tags": "like, ratings"
+      "tags": "like, rating",
+      "unicode": "f0da"
     },
     {
       "name": "tools",
-      "tags": "screwdriver, wrench, settings"
+      "tags": "screwdriver, wrench, settings",
+      "unicode": "f031"
     },
     {
       "name": "trashcan",
-      "tags": "garbage, rubbish, recycle, delete"
+      "tags": "garbage, rubbish, delete",
+      "unicode": "f0d0"
     },
     {
       "name": "triangle-down",
-      "tags": "arrow, point, direction"
+      "tags": "arrow, direction",
+      "unicode": "f05b"
     },
     {
       "name": "triangle-left",
-      "tags": "arrow, point, direction"
+      "tags": "arrow, direction",
+      "unicode": "f044"
     },
     {
       "name": "triangle-right",
-      "tags": "arrow, point, direction"
+      "tags": "arrow, direction",
+      "unicode": "f05a"
     },
     {
       "name": "triangle-up",
-      "tags": "arrow, point, direction"
+      "tags": "arrow, direction",
+      "unicode": "f0aa"
     },
     {
       "name": "unfold",
-      "tags": "expand, open, reveal"
+      "tags": "expand, open, reveal",
+      "unicode": "f039"
     },
     {
       "name": "unmute",
-      "tags": "loud, volume, audio, sound, play"
+      "tags": "audio, sound, volume",
+      "unicode": "f0ba"
     },
     {
       "name": "versions",
-      "tags": "history"
+      "tags": "history",
+      "unicode": "f064"
     },
     {
       "name": "watch",
-      "tags": ""
+      "tags": "",
+      "unicode": "f0e0"
     },
     {
       "name": "x",
-      "tags": "remove, close, delete"
+      "tags": "remove, close, delete",
+      "unicode": "f081"
     },
     {
       "name": "zap",
-      "tags": "electricity, lightning, props, like, star, save"
+      "tags": "electricity, lightning bolt",
+      "unicode": "26A1"
     }
   ]
 }

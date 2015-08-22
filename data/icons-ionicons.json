@@ -1,2836 +1,3580 @@
 {
   "ionicons": [
     {
-      "name": "alert"
+      "name": "alert",
+      "tags": "danger, exclamation point, warning",
+      "unicode": "f101"
     },
     {
-      "name": "alert-circled"
+      "name": "alert-circled",
+      "tags": "danger, exclamation point, warning",
+      "unicode": "f100"
     },
     {
       "name": "android-add",
-      "tags": "plus"
+      "tags": "plus",
+      "unicode": "f2c7"
     },
     {
       "name": "android-add-circle",
-      "tags": ""
+      "tags": "plus",
+      "unicode": "f359"
     },
     {
       "name": "android-alarm-clock",
-      "tags": "time"
+      "tags": "time",
+      "unicode": "f35a"
     },
     {
-      "name": "android-alert"
+      "name": "android-alert",
+      "tags": "danger, exclamation point, warning",
+      "unicode": "f35b"
     },
     {
       "name": "android-apps",
-      "tags": "grid"
+      "tags": "grid",
+      "unicode": "f35c"
     },
     {
       "name": "android-archive",
-      "tags": ""
+      "tags": "save",
+      "unicode": "f2c9"
     },
     {
       "name": "android-arrow-back",
-      "tags": ""
+      "tags": "directional",
+      "unicode": "f2ca"
     },
     {
-      "name": "android-arrow-down"
+      "name": "android-arrow-down",
+      "tags": "directional",
+      "unicode": "f35d"
     },
     {
-      "name": "android-arrow-dropdown"
+      "name": "android-arrow-dropdown",
+      "tags": "caret",
+      "unicode": "f35f"
     },
     {
-      "name": "android-arrow-dropdown-circle"
+      "name": "android-arrow-dropdown-circle",
+      "tags": "caret",
+      "unicode": "f35e"
     },
     {
-      "name": "android-arrow-dropleft"
+      "name": "android-arrow-dropleft",
+      "tags": "caret",
+      "unicode": "f361"
     },
     {
-      "name": "android-arrow-dropleft-circle"
+      "name": "android-arrow-dropleft-circle",
+      "tags": "caret",
+      "unicode": "f360"
     },
     {
-      "name": "android-arrow-dropright"
+      "name": "android-arrow-dropright",
+      "tags": "caret",
+      "unicode": "f363"
     },
     {
-      "name": "android-arrow-dropright-circle"
+      "name": "android-arrow-dropright-circle",
+      "tags": "caret",
+      "unicode": "f362"
     },
     {
-      "name": "android-arrow-dropup"
+      "name": "android-arrow-dropup",
+      "tags": "caret",
+      "unicode": "f365"
     },
     {
-      "name": "android-arrow-dropup-circle"
+      "name": "android-arrow-dropup-circle",
+      "tags": "caret",
+      "unicode": "f364"
     },
     {
       "name": "android-arrow-forward",
-      "tags": ""
+      "tags": "directional",
+      "unicode": "f30f"
     },
     {
       "name": "android-arrow-up",
-      "tags": ""
+      "tags": "directional",
+      "unicode": "f366"
     },
     {
       "name": "android-attach",
-      "tags": "paperclip"
+      "tags": "paperclip",
+      "unicode": "f367"
     },
     {
       "name": "android-bar",
-      "tags": "drink, glass, martini"
+      "tags": "drink, glass, martini",
+      "unicode": "f368"
     },
     {
       "name": "android-bicycle",
-      "tags": "transportation"
+      "tags": "transportation",
+      "unicode": "f369"
     },
     {
       "name": "android-boat",
-      "tags": "ship, transportation"
+      "tags": "ship, transportation",
+      "unicode": "f36a"
     },
     {
       "name": "android-bookmark",
-      "tags": ""
+      "tags": "",
+      "unicode": "f36b"
     },
     {
       "name": "android-bulb",
-      "tags": "light"
+      "tags": "light",
+      "unicode": "f36c"
     },
     {
       "name": "android-bus",
-      "tags": "transportation"
+      "tags": "transportation",
+      "unicode": "f36d"
     },
     {
       "name": "android-calendar",
-      "tags": "date"
+      "tags": "date",
+      "unicode": "f2d1"
     },
     {
       "name": "android-call",
-      "tags": "phone"
+      "tags": "phone",
+      "unicode": "f2d2"
     },
     {
       "name": "android-camera",
-      "tags": ""
+      "tags": "",
+      "unicode": "f2d3"
     },
     {
-      "name": "android-cancel"
+      "name": "android-cancel",
+      "unicode": "f36e"
     },
     {
       "name": "android-car",
-      "tags": "automobile, transportation"
+      "tags": "automobile, transportation",
+      "unicode": "f36f"
     },
     {
-      "name": "android-cart"
+      "name": "android-cart",
+      "unicode": "f370"
     },
     {
       "name": "android-chat",
-      "tags": "quotes, speech bubble"
+      "tags": "quotes, speech bubble",
+      "unicode": "f2d4"
     },
     {
-      "name": "android-checkbox"
+      "name": "android-checkbox",
+      "unicode": "f374"
     },
     {
-      "name": "android-checkbox-blank"
+      "name": "android-checkbox-blank",
+      "unicode": "f371"
     },
     {
-      "name": "android-checkbox-outline"
+      "name": "android-checkbox-outline",
+      "unicode": "f373"
     },
     {
-      "name": "android-checkbox-outline-blank"
+      "name": "android-checkbox-outline-blank",
+      "unicode": "f372"
     },
     {
-      "name": "android-checkmark-circle"
+      "name": "android-checkmark-circle",
+      "unicode": "f375"
     },
     {
-      "name": "android-clipboard"
+      "name": "android-clipboard",
+      "unicode": "f376"
     },
     {
       "name": "android-close",
-      "tags": "times"
+      "tags": "times",
+      "unicode": "f2d7"
     },
     {
       "name": "android-cloud",
-      "tags": "weather"
+      "tags": "weather",
+      "unicode": "f37a"
     },
     {
       "name": "android-cloud-circle",
-      "tags": "weather"
+      "tags": "weather",
+      "unicode": "f377"
     },
     {
       "name": "android-cloud-done",
-      "tags": "weather"
+      "tags": "weather",
+      "unicode": "f378"
     },
     {
       "name": "android-cloud-outline",
-      "tags": "weather"
+      "tags": "weather",
+      "unicode": "f379"
     },
     {
       "name": "android-color-palette",
-      "tags": "art, paint"
+      "tags": "art, paint",
+      "unicode": "f37b"
     },
     {
       "name": "android-compass",
-      "tags": "directions, navigation"
+      "tags": "directions, navigation",
+      "unicode": "f37c"
     },
     {
       "name": "android-contact",
-      "tags": "person, user"
+      "tags": "person, user",
+      "unicode": "f2d8"
     },
     {
       "name": "android-contacts",
-      "tags": "people, users"
+      "tags": "people, users",
+      "unicode": "f2d9"
     },
     {
       "name": "android-contract",
-      "tags": "resize, compress, shrink"
+      "tags": "resize, compress, shrink",
+      "unicode": "f37d"
     },
     {
       "name": "android-create",
-      "tags": "pencil, write"
+      "tags": "pencil, write",
+      "unicode": "f37e"
     },
     {
       "name": "android-delete",
-      "tags": "trashcan"
+      "tags": "trashcan",
+      "unicode": "f37f"
     },
     {
       "name": "android-desktop",
-      "tags": "monitor, computer"
+      "tags": "monitor, computer",
+      "unicode": "f380"
     },
     {
       "name": "android-document",
-      "tags": "file"
+      "tags": "file",
+      "unicode": "f381"
     },
     {
       "name": "android-done",
-      "tags": "checkmark"
+      "tags": "checkmark",
+      "unicode": "f383"
     },
     {
       "name": "android-done-all",
-      "tags": "checkmark"
+      "tags": "checkmark",
+      "unicode": "f382"
     },
     {
       "name": "android-download",
-      "tags": "cloud"
+      "tags": "cloud",
+      "unicode": "f2dd"
     },
     {
       "name": "android-drafts",
-      "tags": "envelope"
+      "tags": "envelope",
+      "unicode": "f384"
     },
     {
       "name": "android-exit",
-      "tags": ""
+      "tags": "",
+      "unicode": "f385"
     },
     {
       "name": "android-expand",
-      "tags": "resize"
+      "tags": "resize",
+      "unicode": "f386"
     },
     {
       "name": "android-favorite",
-      "tags": "heart, like"
+      "tags": "heart, like",
+      "unicode": "f388"
     },
     {
       "name": "android-favorite-outline",
-      "tags": "heart, like"
+      "tags": "heart, like",
+      "unicode": "f387"
     },
     {
       "name": "android-film",
-      "tags": "movie"
+      "tags": "movie",
+      "unicode": "f389"
     },
     {
       "name": "android-folder",
-      "tags": ""
+      "tags": "",
+      "unicode": "f2e0"
     },
     {
       "name": "android-folder-open",
-      "tags": ""
+      "tags": "",
+      "unicode": "f38a"
     },
     {
       "name": "android-funnel",
-      "tags": "filter"
+      "tags": "filter",
+      "unicode": "f38b"
     },
     {
       "name": "android-globe",
-      "tags": "earth, world"
+      "tags": "earth, world",
+      "unicode": "f38c"
     },
     {
       "name": "android-hand",
-      "tags": ""
+      "tags": "",
+      "unicode": "f2e3"
     },
     {
       "name": "android-hangout",
-      "tags": "chat bubble"
+      "tags": "chat bubble",
+      "unicode": "f38d"
     },
     {
       "name": "android-happy",
-      "tags": "smiley face"
+      "tags": "smiley face",
+      "unicode": "f38e"
     },
     {
       "name": "android-home",
-      "tags": "house"
+      "tags": "house",
+      "unicode": "f38f"
     },
     {
       "name": "android-image",
-      "tags": "email"
+      "tags": "email",
+      "unicode": "f2e4"
     },
     {
       "name": "android-laptop",
-      "tags": "computer"
+      "tags": "computer",
+      "unicode": "f390"
     },
     {
       "name": "android-list",
-      "tags": ""
+      "tags": "",
+      "unicode": "f391"
     },
     {
       "name": "android-locate",
-      "tags": "target"
+      "tags": "target",
+      "unicode": "f2e9"
     },
     {
       "name": "android-lock",
-      "tags": ""
+      "tags": "",
+      "unicode": "f392"
     },
     {
       "name": "android-mail",
-      "tags": "envelope"
+      "tags": "envelope",
+      "unicode": "f2eb"
     },
     {
       "name": "android-map",
-      "tags": ""
+      "tags": "",
+      "unicode": "f393"
     },
     {
       "name": "android-menu",
-      "tags": "more, hamburger"
+      "tags": "bars, more, hamburger menu",
+      "unicode": "f394"
     },
     {
       "name": "android-microphone",
-      "tags": "audio"
+      "tags": "audio",
+      "unicode": "f2ec"
     },
     {
       "name": "android-microphone-off",
-      "tags": "audio, mute"
+      "tags": "audio, mute",
+      "unicode": "f395"
     },
     {
       "name": "android-more-horizontal",
-      "tags": ""
+      "tags": "",
+      "unicode": "f396"
     },
     {
       "name": "android-more-vertical",
-      "tags": ""
+      "tags": "",
+      "unicode": "f397"
     },
     {
       "name": "android-navigate",
-      "tags": "arrow"
+      "tags": "arrow",
+      "unicode": "f398"
     },
     {
       "name": "android-notifications",
-      "tags": "bell"
+      "tags": "bell",
+      "unicode": "f39b"
     },
     {
       "name": "android-notifications-none",
-      "tags": "bell"
+      "tags": "bell",
+      "unicode": "f399"
     },
     {
       "name": "android-notifications-off",
-      "tags": "bell, mute"
+      "tags": "bell, mute",
+      "unicode": "f39a"
     },
     {
       "name": "android-open",
-      "tags": ""
+      "tags": "",
+      "unicode": "f39c"
     },
     {
       "name": "android-options",
-      "tags": "levels, equalizer"
+      "tags": "levels, equalizer",
+      "unicode": "f39d"
     },
     {
       "name": "android-people",
-      "tags": "users"
+      "tags": "users",
+      "unicode": "f39e"
     },
     {
       "name": "android-person",
-      "tags": "user"
+      "tags": "user",
+      "unicode": "f3a0"
     },
     {
       "name": "android-person-add",
-      "tags": "user"
+      "tags": "user",
+      "unicode": "f39f"
     },
     {
       "name": "android-phone-landscape",
-      "tags": ""
+      "tags": "",
+      "unicode": "f3a1"
     },
     {
       "name": "android-phone-portrait",
-      "tags": ""
+      "tags": "",
+      "unicode": "f3a2"
     },
     {
       "name": "android-pin",
-      "tags": "map marker"
+      "tags": "map marker",
+      "unicode": "f3a3"
     },
     {
       "name": "android-plane",
-      "tags": "transportation, travel"
+      "tags": "transportation, travel",
+      "unicode": "f3a4"
     },
     {
       "name": "android-playstore",
-      "tags": "shopping"
+      "tags": "shopping",
+      "unicode": "f2f0"
     },
     {
       "name": "android-print",
-      "tags": ""
+      "tags": "",
+      "unicode": "f3a5"
     },
     {
-      "name": "android-radio-button-on"
+      "name": "android-radio-button-on",
+      "unicode": "f3a7"
     },
     {
       "name": "android-radio-button-off",
-      "tags": ""
+      "tags": "",
+      "unicode": "f3a6"
     },
     {
       "name": "android-refresh",
-      "tags": "reload"
+      "tags": "reload",
+      "unicode": "f3a8"
     },
     {
       "name": "android-remove",
-      "tags": "minus"
+      "tags": "minus",
+      "unicode": "f2f4"
     },
     {
       "name": "android-remove-circle",
-      "tags": "minus"
+      "tags": "minus",
+      "unicode": "f3a9"
     },
     {
       "name": "android-restaurant",
-      "tags": "cutlery, food, dining, spoon, knife"
+      "tags": "cutlery, food, dining, spoon, knife",
+      "unicode": "f3aa"
     },
     {
       "name": "android-sad",
-      "tags": "frown, face"
+      "tags": "frown, face",
+      "unicode": "f3ab"
     },
     {
       "name": "android-search",
-      "tags": "find, magnifying glass"
+      "tags": "find, magnifying glass",
+      "unicode": "f2f5"
     },
     {
       "name": "android-send",
-      "tags": "paper airplane"
+      "tags": "paper airplane",
+      "unicode": "f2f6"
     },
     {
       "name": "android-settings",
-      "tags": "cog, gear"
+      "tags": "cog, gear",
+      "unicode": "f2f7"
     },
     {
       "name": "android-share",
-      "tags": "arrow"
+      "tags": "arrow",
+      "unicode": "f2f8"
     },
     {
       "name": "android-share-alt",
-      "tags": ""
+      "tags": "",
+      "unicode": "f3ac"
     },
     {
       "name": "android-star",
-      "tags": "rating"
+      "tags": "rating",
+      "unicode": "f2fc"
     },
     {
       "name": "android-star-half",
-      "tags": "rating"
+      "tags": "rating",
+      "unicode": "f3ad"
     },
     {
       "name": "android-star-outline",
-      "tags": "rating"
+      "tags": "rating",
+      "unicode": "f3ae"
     },
     {
       "name": "android-stopwatch",
-      "tags": "timer"
+      "tags": "timer",
+      "unicode": "f2fd"
     },
     {
       "name": "android-subway",
-      "tags": "transportation"
+      "tags": "transportation",
+      "unicode": "f3af"
     },
     {
       "name": "android-sunny",
-      "tags": "weather"
+      "tags": "weather",
+      "unicode": "f3b0"
     },
     {
       "name": "android-sync",
-      "tags": "refresh, reload"
+      "tags": "refresh, reload",
+      "unicode": "f3b1"
     },
     {
       "name": "android-textsms",
-      "tags": "chat bubble"
+      "tags": "chat bubble",
+      "unicode": "f3b2"
     },
     {
       "name": "android-time",
-      "tags": "clock"
+      "tags": "clock",
+      "unicode": "f3b3"
     },
     {
       "name": "android-train",
-      "tags": "transportation"
+      "tags": "transportation",
+      "unicode": "f3b4"
     },
     {
       "name": "android-unlock",
-      "tags": ""
+      "tags": "",
+      "unicode": "f3b5"
     },
     {
       "name": "android-upload",
-      "tags": "cloud"
+      "tags": "cloud",
+      "unicode": "f3b6"
     },
     {
       "name": "android-volume-down",
-      "tags": "audio"
+      "tags": "audio",
+      "unicode": "f3b7"
     },
     {
       "name": "android-volume-mute",
-      "tags": "audio"
+      "tags": "audio",
+      "unicode": "f3b8"
     },
     {
       "name": "android-volume-off",
-      "tags": "audio"
+      "tags": "audio",
+      "unicode": "f3b9"
     },
     {
       "name": "android-volume-up",
-      "tags": "audio"
+      "tags": "audio",
+      "unicode": "f3ba"
     },
     {
       "name": "android-walk",
-      "tags": "person"
+      "tags": "person",
+      "unicode": "f3bb"
     },
     {
       "name": "android-warning",
-      "tags": "alert, sign"
+      "tags": "alert, sign",
+      "unicode": "f3bc"
     },
     {
       "name": "android-watch",
-      "tags": ""
+      "tags": "",
+      "unicode": "f3bd"
     },
     {
       "name": "android-wifi",
-      "tags": ""
+      "tags": "",
+      "unicode": "f305"
     },
     {
       "name": "aperture",
-      "tags": "camera, photos"
+      "tags": "camera, photos",
+      "unicode": "f313"
     },
     {
       "name": "archive",
-      "tags": "email"
+      "tags": "email",
+      "unicode": "f102"
     },
     {
       "name": "arrow-down-a",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f103"
     },
     {
       "name": "arrow-down-b",
-      "tags": "directional, triangle, caret"
+      "tags": "directional, triangle, caret",
+      "unicode": "f104"
     },
     {
       "name": "arrow-down-c",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f105"
     },
     {
       "name": "arrow-expand",
-      "tags": "resize"
+      "tags": "resize",
+      "unicode": "f25e"
     },
     {
       "name": "arrow-graph-down-left",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f25f"
     },
     {
       "name": "arrow-graph-down-right",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f260"
     },
     {
       "name": "arrow-graph-up-left",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f261"
     },
     {
       "name": "arrow-graph-up-right",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f262"
     },
     {
       "name": "arrow-left-a",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f106"
     },
     {
       "name": "arrow-left-b",
-      "tags": "directional, triangle, caret"
+      "tags": "directional, triangle, caret",
+      "unicode": "f107"
     },
     {
       "name": "arrow-left-c",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f108"
     },
     {
-      "name": "arrow-move"
+      "name": "arrow-move",
+      "unicode": "f263"
     },
     {
-      "name": "arrow-resize"
+      "name": "arrow-resize",
+      "unicode": "f264"
     },
     {
       "name": "arrow-return-left",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f265"
     },
     {
       "name": "arrow-return-right",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f266"
     },
     {
       "name": "arrow-right-a",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f109"
     },
     {
       "name": "arrow-right-b",
-      "tags": "directional, triangle, caret"
+      "tags": "directional, triangle, caret",
+      "unicode": "f10a"
     },
     {
       "name": "arrow-right-c",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f10b"
     },
     {
       "name": "arrow-shrink",
-      "tags": "resize, collapse"
+      "tags": "resize, collapse",
+      "unicode": "f267"
     },
     {
       "name": "arrow-swap",
-      "tags": "exchange"
+      "tags": "exchange",
+      "unicode": "f268"
     },
     {
       "name": "arrow-up-a",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f10c"
     },
     {
       "name": "arrow-up-b",
-      "tags": "directional, triangle, caret"
+      "tags": "directional, triangle, caret",
+      "unicode": "f10d"
     },
     {
       "name": "arrow-up-c",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f10e"
     },
     {
-      "name": "asterisk"
+      "name": "asterisk",
+      "unicode": "f314"
     },
     {
       "name": "at",
-      "tags": "email"
+      "tags": "email",
+      "unicode": "f10f"
     },
     {
       "name": "backspace",
-      "tags": "delete"
+      "tags": "delete",
+      "unicode": "f3bf"
     },
     {
       "name": "backspace-outline",
-      "tags": "delete"
+      "tags": "delete",
+      "unicode": "f3be"
     },
     {
       "name": "bag",
-      "tags": "shopping"
+      "tags": "shopping",
+      "unicode": "f110"
     },
     {
       "name": "battery-charging",
-      "tags": "power"
+      "tags": "power",
+      "unicode": "f111"
     },
     {
       "name": "battery-empty",
-      "tags": "power"
+      "tags": "power",
+      "unicode": "f112"
     },
     {
       "name": "battery-full",
-      "tags": "power"
+      "tags": "power",
+      "unicode": "f113"
     },
     {
       "name": "battery-half",
-      "tags": "power"
+      "tags": "power",
+      "unicode": "f114"
     },
     {
       "name": "battery-low",
-      "tags": "power"
+      "tags": "power",
+      "unicode": "f115"
     },
     {
       "name": "beaker",
-      "tags": "flask, science, chemistry"
+      "tags": "flask, science, chemistry",
+      "unicode": "f269"
     },
     {
       "name": "beer",
-      "tags": "alcohol, drink, mug, stein"
+      "tags": "alcohol, drink, mug, stein",
+      "unicode": "f26a"
     },
     {
-      "name": "bluetooth"
+      "name": "bluetooth",
+      "unicode": "f116"
     },
     {
       "name": "bonfire",
-      "tags": "campfire, flame"
+      "tags": "campfire, flame",
+      "unicode": "f315"
     },
     {
-      "name": "bookmark"
+      "name": "bookmark",
+      "unicode": "f26b"
     },
     {
       "name": "bowtie",
-      "tags": ""
+      "tags": "",
+      "unicode": "f3c0"
     },
     {
       "name": "briefcase",
-      "tags": "suitcase, business"
+      "tags": "suitcase, business",
+      "unicode": "f26c"
     },
     {
       "name": "bug",
-      "tags": "beetle, insect"
+      "tags": "beetle, insect",
+      "unicode": "f2be"
     },
     {
-      "name": "calculator"
+      "name": "calculator",
+      "unicode": "f26d"
     },
     {
       "name": "calendar",
-      "tags": "date"
+      "tags": "date",
+      "unicode": "f117"
     },
     {
       "name": "camera",
-      "tags": "photographs"
+      "tags": "photographs",
+      "unicode": "f118"
     },
     {
       "name": "card",
-      "tags": "credit card, shopping, money"
+      "tags": "credit card, shopping, money",
+      "unicode": "f119"
     },
     {
       "name": "cash",
-      "tags": "dollar, money"
+      "tags": "dollar, money",
+      "unicode": "f316"
     },
     {
       "name": "chatbox",
-      "tags": "speech bubble"
+      "tags": "speech bubble",
+      "unicode": "f11b"
     },
     {
       "name": "chatbox-working",
-      "tags": "speech bubble"
+      "tags": "speech bubble",
+      "unicode": "f11a"
     },
     {
       "name": "chatboxes",
-      "tags": "speech bubble"
+      "tags": "speech bubble",
+      "unicode": "f11c"
     },
     {
       "name": "chatbubble",
-      "tags": "speech bubble"
+      "tags": "speech bubble",
+      "unicode": "f11e"
     },
     {
       "name": "chatbubble-working",
-      "tags": "speech bubble"
+      "tags": "speech bubble",
+      "unicode": "f11d"
     },
     {
       "name": "chatbubbles",
-      "tags": "speech bubble"
+      "tags": "speech bubble",
+      "unicode": "f11f"
     },
     {
-      "name": "checkmark"
+      "name": "checkmark",
+      "unicode": "f122"
     },
     {
-      "name": "checkmark-circled"
+      "name": "checkmark-circled",
+      "unicode": "f120"
     },
     {
-      "name": "checkmark-round"
+      "name": "checkmark-round",
+      "unicode": "f121"
     },
     {
       "name": "chevron-down",
-      "tags": "directional"
+      "tags": "angle, directional",
+      "unicode": "f123"
     },
     {
       "name": "chevron-left",
-      "tags": "directional"
+      "tags": "angle, directional",
+      "unicode": "f124"
     },
     {
       "name": "chevron-right",
-      "tags": "directional"
+      "tags": "angle, directional",
+      "unicode": "f125"
     },
     {
       "name": "chevron-up",
-      "tags": "directional"
+      "tags": "angle, directional",
+      "unicode": "f126"
     },
     {
-      "name": "clipboard"
-    },
-    {
-      "name": "closed-captioning"
-    },
-    {
-      "name": "clock",
-      "tags": "timer"
-    },
-    {
-      "name": "close",
-      "tags": "times"
-    },
-    {
-      "name": "close-circled",
-      "tags": "times"
-    },
-    {
-      "name": "close-round",
-      "tags": "times"
+      "name": "clipboard",
+      "unicode": "f127"
     },
     {
       "name": "closed-captioning",
-      "tags": "cc"
+      "unicode": "f317"
+    },
+    {
+      "name": "clock",
+      "tags": "timer",
+      "unicode": "f26e"
+    },
+    {
+      "name": "close",
+      "tags": "times",
+      "unicode": "f12a"
+    },
+    {
+      "name": "close-circled",
+      "tags": "times",
+      "unicode": "f128"
+    },
+    {
+      "name": "close-round",
+      "tags": "times",
+      "unicode": "f129"
+    },
+    {
+      "name": "closed-captioning",
+      "tags": "cc",
+      "unicode": "f317"
     },
     {
       "name": "cloud",
-      "tags": "weather"
+      "tags": "weather",
+      "unicode": "f12b"
     },
     {
       "name": "code",
-      "tags": "brackets, source"
+      "tags": "brackets, source",
+      "unicode": "f271"
     },
     {
       "name": "code-download",
-      "tags": "brackets, source"
+      "tags": "brackets, source",
+      "unicode": "f26f"
     },
     {
       "name": "code-working",
-      "tags": "brackets, source"
+      "tags": "brackets, source",
+      "unicode": "f270"
     },
     {
       "name": "coffee",
-      "tags": "cup, drink, mug"
+      "tags": "cup, drink, mug",
+      "unicode": "f272"
     },
     {
       "name": "compass",
-      "tags": "directions, navigation"
+      "tags": "directions, navigation",
+      "unicode": "f273"
     },
     {
       "name": "compose",
-      "tags": "email, write"
+      "tags": "email, write",
+      "unicode": "f12c"
     },
     {
       "name": "connection-bars",
-      "tags": "graph, signal"
+      "tags": "graph, signal",
+      "unicode": "f274"
     },
     {
       "name": "contrast",
-      "tags": "adjust"
+      "tags": "adjust",
+      "unicode": "f275"
     },
     {
-      "name": "crop"
+      "name": "crop",
+      "unicode": "f3c1"
     },
     {
       "name": "cube",
-      "tags": "box"
+      "tags": "box",
+      "unicode": "f318"
     },
     {
       "name": "disc",
-      "tags": "cd, music, vinyl"
+      "tags": "cd, music, vinyl",
+      "unicode": "f12d"
     },
     {
       "name": "document",
-      "tags": "text editor, file"
+      "tags": "text editor, file",
+      "unicode": "f12f"
     },
     {
       "name": "document-text",
-      "tags": "text editor, file"
+      "tags": "text editor, file",
+      "unicode": "f12e"
     },
     {
       "name": "drag",
-      "tags": "bars, hamburger menu, more, reorder"
+      "tags": "bars, hamburger menu, more, reorder",
+      "unicode": "f130"
     },
     {
       "name": "earth",
-      "tags": "globe, planet, world"
+      "tags": "globe, planet, world",
+      "unicode": "f276"
     },
     {
       "name": "easel",
-      "tags": "art, presentation"
+      "tags": "art, presentation",
+      "unicode": "f3c2"
     },
     {
       "name": "edit",
-      "tags": "pencil, write"
+      "tags": "pencil, write",
+      "unicode": "f2bf"
     },
     {
       "name": "egg",
-      "tags": "food"
+      "tags": "food",
+      "unicode": "f277"
     },
     {
-      "name": "eject"
+      "name": "eject",
+      "unicode": "f131"
     },
     {
       "name": "email",
-      "tags": "envelope"
+      "tags": "envelope",
+      "unicode": "f132"
     },
     {
       "name": "email-unread",
-      "tags": "envelope"
+      "tags": "envelope",
+      "unicode": "f3c3"
     },
     {
       "name": "erlenmeyer-flask",
-      "tags": "beaker, chemistry, science"
+      "tags": "beaker, chemistry, science",
+      "unicode": "f3c5"
     },
     {
       "name": "erlenmeyer-flask-bubbles",
-      "tags": "beaker, chemistry, science"
+      "tags": "beaker, chemistry, science",
+      "unicode": "f3c4"
     },
     {
       "name": "eye",
-      "tags": "show, view"
+      "tags": "show, view",
+      "unicode": "f133"
     },
     {
       "name": "eye-disabled",
-      "tags": "hide, view"
+      "tags": "hide, view",
+      "unicode": "f306"
     },
     {
       "name": "female",
-      "tags": "gender, sex, venus"
+      "tags": "gender, sex, venus",
+      "unicode": "f278"
     },
     {
       "name": "filing",
-      "tags": "archive"
+      "tags": "archive",
+      "unicode": "f134"
     },
     {
       "name": "film-marker",
-      "tags": "movie"
+      "tags": "movie",
+      "unicode": "f135"
     },
     {
       "name": "fireball",
-      "tags": "flame"
+      "tags": "flame",
+      "unicode": "f319"
     },
     {
-      "name": "flag"
+      "name": "flag",
+      "unicode": "f279"
     },
     {
       "name": "flame",
-      "tags": "fire"
+      "tags": "fire",
+      "unicode": "f31a"
     },
     {
       "name": "flash",
-      "tags": "lightning bolt"
+      "tags": "lightning bolt",
+      "unicode": "f137"
     },
     {
       "name": "flash-off",
-      "tags": "lightning bolt"
+      "tags": "lightning bolt",
+      "unicode": "f136"
     },
     {
-      "name": "folder"
+      "name": "folder",
+      "unicode": "f139"
     },
     {
       "name": "fork",
-      "tags": "cutlery, food, dining"
+      "tags": "cutlery, food, dining",
+      "unicode": "f27a"
     },
     {
       "name": "fork-repo",
-      "tags": "git"
+      "tags": "git",
+      "unicode": "f2c0"
     },
     {
       "name": "forward",
-      "tags": "arrow, email"
+      "tags": "arrow, email",
+      "unicode": "f13a"
     },
     {
       "name": "funnel",
-      "tags": "filter"
+      "tags": "filter",
+      "unicode": "f31b"
     },
     {
       "name": "gear-a",
-      "tags": "cog, settings"
+      "tags": "cog, settings",
+      "unicode": "f13d"
     },
     {
       "name": "gear-b",
-      "tags": "cog, settings"
+      "tags": "cog, settings",
+      "unicode": "f13e"
     },
     {
       "name": "grid",
-      "tags": "text editor"
+      "tags": "text editor",
+      "unicode": "f13f"
     },
     {
       "name": "hammer",
-      "tags": "tool"
+      "tags": "tool",
+      "unicode": "f27b"
     },
     {
       "name": "happy",
-      "tags": "smiley face"
+      "tags": "smiley face",
+      "unicode": "f31c"
     },
     {
       "name": "headphone",
-      "tags": "audio, music"
+      "tags": "audio, music",
+      "unicode": "f140"
     },
     {
       "name": "heart",
-      "tags": "like, rate, ratings"
+      "tags": "like, rate, ratings",
+      "unicode": "f141"
     },
     {
-      "name": "heart-broken"
+      "name": "heart-broken",
+      "unicode": "f31d"
     },
     {
       "name": "help",
-      "tags": "question mark"
+      "tags": "question mark",
+      "unicode": "f143"
     },
     {
       "name": "help-buoy",
-      "tags": "lifesaver, support"
+      "tags": "lifesaver, support",
+      "unicode": "f27c"
     },
     {
       "name": "help-circled",
-      "tags": "question mark"
+      "tags": "question mark",
+      "unicode": "f142"
     },
     {
       "name": "home",
-      "tags": "house"
+      "tags": "house",
+      "unicode": "f144"
     },
     {
       "name": "icecream",
-      "tags": "food, dessert, ice cream"
+      "tags": "food, dessert, ice cream",
+      "unicode": "f27d"
     },
     {
       "name": "image",
-      "tags": "picture, photograph"
+      "tags": "picture, photograph",
+      "unicode": "f147"
     },
     {
       "name": "images",
-      "tags": "pictures, photographs"
+      "tags": "pictures, photographs",
+      "unicode": "f148"
     },
     {
-      "name": "information"
+      "name": "information",
+      "unicode": "f14a"
     },
     {
-      "name": "information-circled"
+      "name": "information-circled",
+      "unicode": "f149"
     },
     {
       "name": "ionic",
-      "tags": "atom, brand, logo, chemistry, science"
+      "tags": "atom, brand, logo, chemistry, science",
+      "unicode": "f14b"
     },
     {
       "name": "ios-alarm",
-      "tags": "clock, reminder, timer"
+      "tags": "clock, reminder, timer",
+      "unicode": "f3c8"
     },
     {
       "name": "ios-alarm-outline",
-      "tags": "clock, reminder, timer"
+      "tags": "clock, reminder, timer",
+      "unicode": "f3c7"
     },
     {
       "name": "ios-albums",
-      "tags": "archive"
+      "tags": "archive",
+      "unicode": "f3ca"
     },
     {
       "name": "ios-albums-outline",
-      "tags": "archive"
+      "tags": "archive",
+      "unicode": "f3c9"
     },
     {
       "name": "ios-americanfootball",
-      "tags": "sports"
+      "tags": "sports",
+      "unicode": "f3cc"
     },
     {
       "name": "ios-americanfootball-outline",
-      "tags": "sports"
+      "tags": "sports",
+      "unicode": "f3cb"
     },
     {
       "name": "ios-analytics",
-      "tags": "signal"
+      "tags": "signal",
+      "unicode": "f3ce"
     },
     {
       "name": "ios-analytics-outline",
-      "tags": "signal"
+      "tags": "signal",
+      "unicode": "f3cd"
     },
     {
       "name": "ios-arrow-back",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f3cf"
     },
     {
       "name": "ios-arrow-down",
-      "tags": "chevron, directional"
+      "tags": "chevron, directional",
+      "unicode": "f3d0"
     },
     {
       "name": "ios-arrow-forward",
-      "tags": "chevron, directional"
+      "tags": "chevron, directional",
+      "unicode": "f3d1"
     },
     {
       "name": "ios-arrow-left",
-      "tags": "chevron, directional"
+      "tags": "chevron, directional",
+      "unicode": "f3d2"
     },
     {
       "name": "ios-arrow-right",
-      "tags": "chevron, directional"
+      "tags": "chevron, directional",
+      "unicode": "f3d3"
     },
     {
       "name": "ios-arrow-thin-down",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f3d4"
     },
     {
       "name": "ios-arrow-thin-left",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f3d5"
     },
     {
       "name": "ios-arrow-thin-right",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f3d6"
     },
     {
       "name": "ios-arrow-thin-up",
-      "tags": "directional"
+      "tags": "directional",
+      "unicode": "f3d7"
     },
     {
       "name": "ios-arrow-up",
-      "tags": "chevron, directional"
+      "tags": "chevron, directional",
+      "unicode": "f3d8"
     },
     {
       "name": "ios-at",
-      "tags": "email"
+      "tags": "email",
+      "unicode": "f3da"
     },
     {
       "name": "ios-at-outline",
-      "tags": "email"
+      "tags": "email",
+      "unicode": "f3d9"
     },
     {
-      "name": "ios-barcode"
+      "name": "ios-barcode",
+      "unicode": "f3dc"
     },
     {
-      "name": "ios-barcode-outline"
+      "name": "ios-barcode-outline",
+      "unicode": "f3db"
     },
     {
       "name": "ios-baseball",
-      "tags": "sports"
+      "tags": "sports",
+      "unicode": "f3de"
     },
     {
       "name": "ios-baseball-outline",
-      "tags": "sports"
+      "tags": "sports",
+      "unicode": "f3dd"
     },
     {
       "name": "ios-basketball",
-      "tags": "sports"
+      "tags": "sports",
+      "unicode": "f3e0"
     },
     {
       "name": "ios-basketball-outline",
-      "tags": "sports"
+      "tags": "sports",
+      "unicode": "f3df"
     },
     {
       "name": "ios-bell",
-      "tags": "audio, sound"
+      "tags": "audio, sound",
+      "unicode": "f3e2"
     },
     {
       "name": "ios-bell-outline",
-      "tags": "audio, sound"
+      "tags": "audio, sound",
+      "unicode": "f3e1"
     },
     {
       "name": "ios-body",
-      "tags": "person"
+      "tags": "person",
+      "unicode": "f3e4"
     },
     {
       "name": "ios-body-outline",
-      "tags": "person"
+      "tags": "person",
+      "unicode": "f3e3"
     },
     {
       "name": "ios-bolt",
-      "tags": "lightning bolt, flash"
+      "tags": "lightning bolt, flash",
+      "unicode": "f3e6"
     },
     {
       "name": "ios-bolt-outline",
-      "tags": "lightning bolt, flash"
+      "tags": "lightning bolt, flash",
+      "unicode": "f3e5"
     },
     {
       "name": "ios-book",
-      "tags": "read"
+      "tags": "read",
+      "unicode": "f3e8"
     },
     {
       "name": "ios-book-outline",
-      "tags": "read"
+      "tags": "read",
+      "unicode": "f3e7"
     },
     {
-      "name": "ios-bookmarks"
+      "name": "ios-bookmarks",
+      "unicode": "f3ea"
     },
     {
-      "name": "ios-bookmarks-outline"
+      "name": "ios-bookmarks-outline",
+      "unicode": "f3e9"
     },
     {
       "name": "ios-box",
-      "tags": "archive"
+      "tags": "archive",
+      "unicode": "f3ec"
     },
     {
       "name": "ios-box-outline",
-      "tags": "archive"
+      "tags": "archive",
+      "unicode": "f3eb"
     },
     {
       "name": "ios-briefcase",
-      "tags": "suitcase, business"
+      "tags": "suitcase, business",
+      "unicode": "f3ee"
     },
     {
       "name": "ios-briefcase-outline",
-      "tags": "suitcase, business"
+      "tags": "suitcase, business",
+      "unicode": "f3ed"
     },
     {
       "name": "ios-browsers",
-      "tags": "boxes"
+      "tags": "boxes",
+      "unicode": "f3f0"
     },
     {
       "name": "ios-browsers-outline",
-      "tags": "boxes"
+      "tags": "boxes",
+      "unicode": "f3ef"
     },
     {
-      "name": "ios-calculator"
+      "name": "ios-calculator",
+      "unicode": "f3f2"
     },
     {
-      "name": "ios-calculator-outline"
+      "name": "ios-calculator-outline",
+      "unicode": "f3f1"
     },
     {
       "name": "ios-calendar",
-      "tags": "date"
+      "tags": "date",
+      "unicode": "f3f4"
     },
     {
       "name": "ios-calendar-outline",
-      "tags": "date"
+      "tags": "date",
+      "unicode": "f3f3"
     },
     {
       "name": "ios-camera",
-      "tags": "photographs"
+      "tags": "photographs",
+      "unicode": "f3f6"
     },
     {
       "name": "ios-camera-outline",
-      "tags": "photographs"
+      "tags": "photographs",
+      "unicode": "f3f5"
     },
     {
       "name": "ios-cart",
-      "tags": "shopping"
+      "tags": "shopping",
+      "unicode": "f3f8"
     },
     {
       "name": "ios-cart-outline",
-      "tags": "shopping"
+      "tags": "shopping",
+      "unicode": "f3f7"
     },
     {
       "name": "ios-chatboxes",
-      "tags": "speech bubble"
+      "tags": "speech bubble",
+      "unicode": "f3fa"
     },
     {
       "name": "ios-chatboxes-outline",
-      "tags": "speech bubble"
+      "tags": "speech bubble",
+      "unicode": "f3f9"
     },
     {
       "name": "ios-chatbubble",
-      "tags": "speech bubble"
+      "tags": "speech bubble",
+      "unicode": "f3fc"
     },
     {
       "name": "ios-chatbubble-outline",
-      "tags": "speech bubble"
+      "tags": "speech bubble",
+      "unicode": "f3fb"
     },
     {
-      "name": "ios-checkmark"
+      "name": "ios-checkmark",
+      "unicode": "f3ff"
     },
     {
-      "name": "ios-checkmark-empty"
+      "name": "ios-checkmark-empty",
+      "unicode": "f3fd"
     },
     {
-      "name": "ios-checkmark-outline"
+      "name": "ios-checkmark-outline",
+      "unicode": "f3fe"
     },
     {
-      "name": "ios-circle-filled"
+      "name": "ios-circle-filled",
+      "unicode": "f400"
     },
     {
-      "name": "ios-circle-outline"
+      "name": "ios-circle-outline",
+      "unicode": "f401"
     },
     {
       "name": "ios-clock",
-      "tags": "timer"
+      "tags": "timer",
+      "unicode": "f403"
     },
     {
       "name": "ios-clock-outline",
-      "tags": "timer"
+      "tags": "timer",
+      "unicode": "f402"
     },
     {
       "name": "ios-close",
-      "tags": "times, remove"
+      "tags": "times, remove",
+      "unicode": "f406"
     },
     {
       "name": "ios-close-empty",
-      "tags": "times, remove"
+      "tags": "times, remove",
+      "unicode": "f404"
     },
     {
       "name": "ios-close-outline",
-      "tags": "times, remove"
+      "tags": "times, remove",
+      "unicode": "f405"
     },
     {
       "name": "ios-cloud",
-      "tags": "weather"
+      "tags": "weather",
+      "unicode": "f40c"
     },
     {
-      "name": "ios-cloud-download"
+      "name": "ios-cloud-download",
+      "unicode": "f408"
     },
     {
-      "name": "ios-cloud-download-outline"
+      "name": "ios-cloud-download-outline",
+      "unicode": "f407"
     },
     {
-      "name": "ios-cloud-outline"
+      "name": "ios-cloud-outline",
+      "unicode": "f409"
     },
     {
-      "name": "ios-cloud-upload"
+      "name": "ios-cloud-upload",
+      "unicode": "f40b"
     },
     {
-      "name": "ios-cloud-upload-outline"
+      "name": "ios-cloud-upload-outline",
+      "unicode": "f40a"
     },
     {
       "name": "ios-cloudy",
-      "tags": "weather"
+      "tags": "weather",
+      "unicode": "f410"
     },
     {
       "name": "ios-cloudy-night",
-      "tags": "moon, weather"
+      "tags": "moon, weather",
+      "unicode": "f40e"
     },
     {
       "name": "ios-cloudy-night-outline",
-      "tags": "moon, weather"
+      "tags": "moon, weather",
+      "unicode": "f40d"
     },
     {
       "name": "ios-cloudy-outline",
-      "tags": "weather"
+      "tags": "weather",
+      "unicode": "f40f"
     },
     {
       "name": "ios-cog",
-      "tags": "gear, settings"
+      "tags": "gear, settings",
+      "unicode": "f412"
     },
     {
       "name": "ios-cog-outline",
-      "tags": "gears, settings"
+      "tags": "gears, settings",
+      "unicode": "f411"
     },
     {
       "name": "ios-color-filter",
-      "tags": "circles, venn diagram"
+      "tags": "circles, venn diagram",
+      "unicode": "f414"
     },
     {
       "name": "ios-color-filter-outline",
-      "tags": "circles, rings, venn diagram"
+      "tags": "circles, rings, venn diagram",
+      "unicode": "f413"
     },
     {
       "name": "ios-color-wand",
-      "tags": "magic"
+      "tags": "magic",
+      "unicode": "f416"
     },
     {
       "name": "ios-color-wand-outline",
-      "tags": "magic"
+      "tags": "magic",
+      "unicode": "f415"
     },
     {
       "name": "ios-compose",
-      "tags": "email, pencil, write"
+      "tags": "email, pencil, write",
+      "unicode": "f418"
     },
     {
       "name": "ios-compose-outline",
-      "tags": "email, pencil, write"
+      "tags": "email, pencil, write",
+      "unicode": "f417"
     },
     {
       "name": "ios-contact",
-      "tags": "head, user"
+      "tags": "head, user",
+      "unicode": "f41a"
     },
     {
       "name": "ios-contact-outline",
-      "tags": "head, user"
+      "tags": "head, user",
+      "unicode": "f419"
     },
     {
       "name": "ios-copy",
-      "tags": "clone, documents, duplicate, files"
+      "tags": "clone, documents, duplicate, files",
+      "unicode": "f41c"
     },
     {
       "name": "ios-copy-outline",
-      "tags": "clone, documents, duplicate, files"
+      "tags": "clone, documents, duplicate, files",
+      "unicode": "f41b"
     },
     {
       "name": "ios-crop",
-      "tags": ""
+      "tags": "",
+      "unicode": "f41e"
     },
     {
       "name": "ios-crop-strong",
-      "tags": ""
+      "tags": "",
+      "unicode": "f41d"
     },
     {
       "name": "ios-download",
-      "tags": "arrow"
+      "tags": "arrow",
+      "unicode": "f420"
     },
     {
       "name": "ios-download-outline",
-      "tags": "arrow"
+      "tags": "arrow",
+      "unicode": "f41f"
     },
     {
       "name": "ios-drag",
-      "tags": "bars, hamburger menu, more, reorder"
+      "tags": "bars, hamburger menu, more, reorder",
+      "unicode": "f421"
     },
     {
       "name": "ios-email",
-      "tags": "envelope"
+      "tags": "envelope",
+      "unicode": "f423"
     },
     {
       "name": "ios-email-outline",
-      "tags": "envelope"
+      "tags": "envelope",
+      "unicode": "f422"
     },
     {
       "name": "ios-eye",
-      "tags": "show, view"
+      "tags": "show, view",
+      "unicode": "f425"
     },
     {
       "name": "ios-eye-outline",
-      "tags": "show, view"
+      "tags": "show, view",
+      "unicode": "f424"
     },
     {
       "name": "ios-fastforward",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "f427"
     },
     {
       "name": "ios-fastforward-outline",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "f426"
     },
     {
-      "name": "ios-filing"
+      "name": "ios-filing",
+      "unicode": "f429"
     },
     {
       "name": "ios-film",
-      "tags": "movies"
+      "tags": "movies",
+      "unicode": "f42b"
     },
     {
       "name": "ios-film-outline",
-      "tags": "movies"
+      "tags": "movies",
+      "unicode": "f42a"
     },
     {
-      "name": "ios-flag"
+      "name": "ios-flag",
+      "unicode": "f42d"
     },
     {
-      "name": "ios-flag-outline"
+      "name": "ios-flag-outline",
+      "unicode": "f42c"
     },
     {
       "name": "ios-flame",
-      "tags": "fire"
+      "tags": "fire",
+      "unicode": "f42f"
     },
     {
       "name": "ios-flame-outline",
-      "tags": "fire"
+      "tags": "fire",
+      "unicode": "f42e"
     },
     {
       "name": "ios-flask",
-      "tags": "beaker, chemistry, science"
+      "tags": "beaker, chemistry, science",
+      "unicode": "f431"
     },
     {
       "name": "ios-flask-outline",
-      "tags": "beaker, chemistry, science"
+      "tags": "beaker, chemistry, science",
+      "unicode": "f430"
     },
     {
       "name": "ios-flower",
-      "tags": ""
+      "tags": "",
+      "unicode": "f433"
     },
     {
       "name": "ios-flower-outline",
-      "tags": ""
+      "tags": "",
+      "unicode": "f432"
     },
     {
-      "name": "ios-folder"
+      "name": "ios-folder",
+      "unicode": "f435"
     },
     {
-      "name": "ios-folder-outline"
+      "name": "ios-folder-outline",
+      "unicode": "f434"
     },
     {
       "name": "ios-football",
-      "tags": "sports, soccer"
+      "tags": "sports, soccer",
+      "unicode": "f437"
     },
     {
       "name": "ios-football-outline",
-      "tags": "sports, soccer"
+      "tags": "sports, soccer",
+      "unicode": "f436"
     },
     {
       "name": "ios-game-controller-a",
-      "tags": ""
+      "tags": "",
+      "unicode": "f439"
     },
     {
       "name": "ios-game-controller-a-outline",
-      "tags": ""
+      "tags": "",
+      "unicode": "f438"
     },
     {
       "name": "ios-game-controller-b",
-      "tags": ""
+      "tags": "",
+      "unicode": "f43b"
     },
     {
       "name": "ios-game-controller-b-outline",
-      "tags": ""
+      "tags": "",
+      "unicode": "f43a"
     },
     {
       "name": "ios-gear",
-      "tags": "cog, settings"
+      "tags": "cog, settings",
+      "unicode": "f43d"
     },
     {
       "name": "ios-gear-outline",
-      "tags": "cogs, settings"
+      "tags": "cogs, settings",
+      "unicode": "f43c"
     },
     {
       "name": "ios-glasses",
-      "tags": "sunglasses"
+      "tags": "sunglasses",
+      "unicode": "f43f"
     },
     {
-      "name": "ios-glasses-outline"
+      "name": "ios-glasses-outline",
+      "unicode": "f43e"
     },
     {
       "name": "ios-grid-view",
-      "tags": "tic tac toe"
+      "tags": "tic tac toe",
+      "unicode": "f441"
     },
     {
       "name": "ios-grid-view-outline",
-      "tags": "tic tac toe"
+      "tags": "tic tac toe",
+      "unicode": "f440"
     },
     {
       "name": "ios-heart",
-      "tags": "favorite, like, rate, ratings"
+      "tags": "favorite, like, rate, ratings",
+      "unicode": "f443"
     },
     {
       "name": "ios-heart-outline",
-      "tags": "favorite, like, rate, ratings"
+      "tags": "favorite, like, rate, ratings",
+      "unicode": "f442"
     },
     {
       "name": "ios-help",
-      "tags": "question mark"
+      "tags": "question mark",
+      "unicode": "f446"
     },
     {
       "name": "ios-help-empty",
-      "tags": "question mark"
+      "tags": "question mark",
+      "unicode": "f444"
     },
     {
       "name": "ios-help-outline",
-      "tags": "question mark"
+      "tags": "question mark",
+      "unicode": "f445"
     },
     {
       "name": "ios-home-outline",
-      "tags": "house"
+      "tags": "house",
+      "unicode": "f447"
     },
     {
       "name": "ios-home",
-      "tags": "house"
+      "tags": "house",
+      "unicode": "f448"
     },
     {
       "name": "ios-infinite",
-      "tags": "infinity, math symbol"
+      "tags": "infinity, math symbol",
+      "unicode": "f44a"
     },
     {
       "name": "ios-infinite-outline",
-      "tags": "infinity, math symbol"
+      "tags": "infinity, math symbol",
+      "unicode": "f449"
     },
     {
-      "name": "ios-information"
+      "name": "ios-information",
+      "unicode": "f44d"
     },
     {
-      "name": "ios-information-empty"
+      "name": "ios-information-empty",
+      "unicode": "f44b"
     },
     {
-      "name": "ios-information-outline"
+      "name": "ios-information-outline",
+      "unicode": "f44c"
     },
     {
       "name": "ios-ionic-outline",
-      "tags": "atom, brand, logo, science, chemistry"
+      "tags": "atom, brand, logo, science, chemistry",
+      "unicode": "f44e"
     },
     {
       "name": "ios-keypad",
-      "tags": "grid"
+      "tags": "grid",
+      "unicode": "f450"
     },
     {
       "name": "ios-keypad-outline",
-      "tags": "grid"
+      "tags": "grid",
+      "unicode": "f44f"
     },
     {
-      "name": "ios-lightbulb"
+      "name": "ios-lightbulb",
+      "unicode": "f452"
     },
     {
-      "name": "ios-lightbulb-outline"
+      "name": "ios-lightbulb-outline",
+      "unicode": "f451"
     },
     {
       "name": "ios-list",
-      "tags": ""
+      "tags": "",
+      "unicode": "f454"
     },
     {
       "name": "ios-list-outline",
-      "tags": ""
+      "tags": "",
+      "unicode": "f453"
     },
     {
       "name": "ios-location",
-      "tags": "map marker"
+      "tags": "map marker",
+      "unicode": "f456"
     },
     {
       "name": "ios-location-outline",
-      "tags": "map marker"
+      "tags": "map marker",
+      "unicode": "f455"
     },
     {
-      "name": "ios-locked"
+      "name": "ios-locked",
+      "unicode": "f458"
     },
     {
-      "name": "ios-locked-outline"
+      "name": "ios-locked-outline",
+      "unicode": "f457"
     },
     {
       "name": "ios-loop",
-      "tags": "refresh, reload"
+      "tags": "refresh, reload",
+      "unicode": "f45a"
     },
     {
       "name": "ios-loop-strong",
-      "tags": "refresh, reload"
+      "tags": "refresh, reload",
+      "unicode": "f459"
     },
     {
       "name": "ios-medical",
-      "tags": "asterisk"
+      "tags": "asterisk",
+      "unicode": "f45c"
     },
     {
       "name": "ios-medical-outline",
-      "tags": "asterisk"
+      "tags": "asterisk",
+      "unicode": "f45b"
     },
     {
       "name": "ios-medkit",
-      "tags": "medical, health, hospital"
+      "tags": "medical, health, hospital",
+      "unicode": "f45e"
     },
     {
       "name": "ios-medkit-outline",
-      "tags": "medical, health, hospital"
+      "tags": "medical, health, hospital",
+      "unicode": "f45d"
     },
     {
       "name": "ios-mic",
-      "tags": "audio, sound"
+      "tags": "audio, sound",
+      "unicode": "f461"
     },
     {
       "name": "ios-mic-off",
-      "tags": "audio, sound, mute"
+      "tags": "audio, sound, mute",
+      "unicode": "f45f"
     },
     {
       "name": "ios-mic-outline",
-      "tags": "audio, sound"
+      "tags": "audio, sound",
+      "unicode": "f460"
     },
     {
-      "name": "ios-minus"
+      "name": "ios-minus",
+      "unicode": "f464"
     },
     {
-      "name": "ios-minus-empty"
+      "name": "ios-minus-empty",
+      "unicode": "f462"
     },
     {
-      "name": "ios-minus-outline"
+      "name": "ios-minus-outline",
+      "unicode": "f463"
     },
     {
       "name": "ios-monitor",
-      "tags": "computer, display"
+      "tags": "computer, display",
+      "unicode": "f466"
     },
     {
       "name": "ios-monitor-outline",
-      "tags": "computer, display"
+      "tags": "computer, display",
+      "unicode": "f465"
     },
     {
       "name": "ios-moon",
-      "tags": "crescent, night"
+      "tags": "crescent, night",
+      "unicode": "f468"
     },
     {
       "name": "ios-moon-outline",
-      "tags": "crescent, night"
+      "tags": "crescent, night",
+      "unicode": "f467"
     },
     {
       "name": "ios-more",
-      "tags": "dots, menu"
+      "tags": "dots, menu",
+      "unicode": "f46a"
     },
     {
       "name": "ios-more-outline",
-      "tags": "dots, menu"
+      "tags": "dots, menu",
+      "unicode": "f469"
     },
     {
       "name": "ios-musical-note",
-      "tags": "song"
+      "tags": "song",
+      "unicode": "f46b"
     },
     {
       "name": "ios-musical-notes",
-      "tags": "song"
+      "tags": "song",
+      "unicode": "f46c"
     },
     {
       "name": "ios-navigate",
-      "tags": "compass, directions, location"
+      "tags": "compass, directions, location",
+      "unicode": "f46e"
     },
     {
       "name": "ios-navigate-outline",
-      "tags": "compass, directions, location"
+      "tags": "compass, directions, location",
+      "unicode": "f46d"
     },
     {
       "name": "ios-nutrition",
-      "tags": "food, carrot"
+      "tags": "food, carrot",
+      "unicode": "f470"
     },
     {
       "name": "ios-nutrition-outline",
-      "tags": "food, carrot"
+      "tags": "food, carrot",
+      "unicode": "f46f"
     },
     {
       "name": "ios-paper",
-      "tags": "newspaper"
+      "tags": "newspaper",
+      "unicode": "f472"
     },
     {
       "name": "ios-paper-outline",
-      "tags": "newspaper"
+      "tags": "newspaper",
+      "unicode": "f471"
     },
     {
       "name": "ios-paperplane",
-      "tags": "airplane"
+      "tags": "airplane",
+      "unicode": "f474"
     },
     {
       "name": "ios-paperplane-outline",
-      "tags": "airplane"
+      "tags": "airplane",
+      "unicode": "f473"
     },
     {
       "name": "ios-partlysunny",
-      "tags": "weather"
+      "tags": "weather",
+      "unicode": "f476"
     },
     {
       "name": "ios-partlysunny-outline",
-      "tags": "weather"
+      "tags": "weather",
+      "unicode": "f475"
     },
     {
       "name": "ios-pause",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "f478"
     },
     {
       "name": "ios-pause-outline",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "f477"
     },
     {
       "name": "ios-paw",
-      "tags": "animal, pet"
+      "tags": "animal, pet",
+      "unicode": "f47a"
     },
     {
       "name": "ios-paw-outline",
-      "tags": "animal, pet"
+      "tags": "animal, pet",
+      "unicode": "f479"
     },
     {
       "name": "ios-people",
-      "tags": "users"
+      "tags": "users",
+      "unicode": "f47c"
     },
     {
       "name": "ios-people-outline",
-      "tags": "users"
+      "tags": "users",
+      "unicode": "f47b"
     },
     {
       "name": "ios-person",
-      "tags": "user, head, profile"
+      "tags": "user, head, profile",
+      "unicode": "f47e"
     },
     {
       "name": "ios-person-outline",
-      "tags": "user, head, profile"
+      "tags": "user, head, profile",
+      "unicode": "f47d"
     },
     {
       "name": "ios-personadd",
-      "tags": "user, head, profile"
+      "tags": "user, head, profile",
+      "unicode": "f480"
     },
     {
       "name": "ios-personadd-outline",
-      "tags": "user, head, profile"
+      "tags": "user, head, profile",
+      "unicode": "f47f"
     },
     {
       "name": "ios-photos",
-      "tags": "boxes, squares"
+      "tags": "boxes, squares",
+      "unicode": "f482"
     },
     {
       "name": "ios-photos-outline",
-      "tags": "boxes, squares"
+      "tags": "boxes, squares",
+      "unicode": "f481"
     },
     {
       "name": "ios-pie",
-      "tags": "chart, graph"
+      "tags": "chart, graph",
+      "unicode": "f484"
     },
     {
       "name": "ios-pie-outline",
-      "tags": "chart, graph"
+      "tags": "chart, graph",
+      "unicode": "f483"
     },
     {
       "name": "ios-pint",
-      "tags": "beer, drink, glass, alcohol"
+      "tags": "beer, drink, glass, alcohol",
+      "unicode": "f486"
     },
     {
       "name": "ios-pint-outline",
-      "tags": "beer, drink, glass, alcohol"
+      "tags": "beer, drink, glass, alcohol",
+      "unicode": "f485"
     },
     {
       "name": "ios-play",
-      "tags": "video player, triangle"
+      "tags": "video player, triangle",
+      "unicode": "f488"
     },
     {
       "name": "ios-play-outline",
-      "tags": "video player, triangle"
+      "tags": "video player, triangle",
+      "unicode": "f487"
     },
     {
       "name": "ios-plus",
-      "tags": "add"
+      "tags": "add",
+      "unicode": "f48b"
     },
     {
       "name": "ios-plus-empty",
-      "tags": "add"
+      "tags": "add",
+      "unicode": "f489"
     },
     {
       "name": "ios-plus-outline",
-      "tags": "add"
+      "tags": "add",
+      "unicode": "f48a"
     },
     {
       "name": "ios-pricetag",
-      "tags": "shopping"
+      "tags": "shopping",
+      "unicode": "f48d"
     },
     {
       "name": "ios-pricetag-outline",
-      "tags": "shopping"
+      "tags": "shopping",
+      "unicode": "f48c"
     },
     {
       "name": "ios-pricetags",
-      "tags": "shopping"
+      "tags": "shopping",
+      "unicode": "f48f"
     },
     {
       "name": "ios-pricetags-outline",
-      "tags": "shopping"
+      "tags": "shopping",
+      "unicode": "f48e"
     },
     {
       "name": "ios-printer",
-      "tags": "computer"
+      "tags": "computer",
+      "unicode": "f491"
     },
     {
       "name": "ios-printer-outline",
-      "tags": "computer"
+      "tags": "computer",
+      "unicode": "f490"
     },
     {
       "name": "ios-pulse",
-      "tags": "signal"
+      "tags": "signal",
+      "unicode": "f493"
     },
     {
       "name": "ios-pulse-strong",
-      "tags": "signal"
+      "tags": "signal",
+      "unicode": "f492"
     },
     {
       "name": "ios-rainy",
-      "tags": "weather, cloud"
+      "tags": "weather, cloud",
+      "unicode": "f495"
     },
     {
       "name": "ios-rainy-outline",
-      "tags": "weather, cloud"
+      "tags": "weather, cloud",
+      "unicode": "f494"
     },
     {
       "name": "ios-recording",
-      "tags": "video player, tape, reels"
+      "tags": "video player, tape, reels",
+      "unicode": "f497"
     },
     {
       "name": "ios-recording-outline",
-      "tags": "video player, tape, reels"
+      "tags": "video player, tape, reels",
+      "unicode": "f496"
     },
     {
       "name": "ios-redo",
-      "tags": "text editor, arrow"
+      "tags": "text editor, arrow",
+      "unicode": "f499"
     },
     {
       "name": "ios-redo-outline",
-      "tags": "text editor, arrow"
+      "tags": "text editor, arrow",
+      "unicode": "f498"
     },
     {
       "name": "ios-refresh",
-      "tags": "reload"
+      "tags": "reload",
+      "unicode": "f49c"
     },
     {
       "name": "ios-refresh-empty",
-      "tags": "reload"
+      "tags": "reload",
+      "unicode": "f49a"
     },
     {
       "name": "ios-refresh-outline",
-      "tags": "reload"
+      "tags": "reload",
+      "unicode": "f49b"
     },
     {
       "name": "ios-reload",
-      "tags": "refresh"
+      "tags": "refresh",
+      "unicode": "f49d"
     },
     {
-      "name": "ios-reverse-camera"
+      "name": "ios-reverse-camera",
+      "unicode": "f49f"
     },
     {
-      "name": "ios-reverse-camera-outline"
+      "name": "ios-reverse-camera-outline",
+      "unicode": "f49e"
     },
     {
       "name": "ios-rewind",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "f4a1"
     },
     {
       "name": "ios-rewind-outline",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "f4a0"
     },
     {
       "name": "ios-rose",
-      "tags": "flower"
+      "tags": "flower",
+      "unicode": "f4a3"
     },
     {
       "name": "ios-rose-outline",
-      "tags": "flower"
+      "tags": "flower",
+      "unicode": "f4a2"
     },
     {
       "name": "ios-search",
-      "tags": "magnifying glass"
+      "tags": "magnifying glass",
+      "unicode": "f4a5"
     },
     {
       "name": "ios-search-strong",
-      "tags": "magnifying glass"
+      "tags": "magnifying glass",
+      "unicode": "f4a4"
     },
     {
       "name": "ios-settings",
-      "tags": "equalizer, levels"
+      "tags": "equalizer, levels",
+      "unicode": "f4a7"
     },
     {
       "name": "ios-settings-strong",
-      "tags": "equalizer, levels"
+      "tags": "equalizer, levels",
+      "unicode": "f4a6"
     },
     {
       "name": "ios-shuffle",
-      "tags": "random"
+      "tags": "random",
+      "unicode": "f4a9"
     },
     {
       "name": "ios-shuffle-strong",
-      "tags": "random"
+      "tags": "random",
+      "unicode": "f4a8"
     },
     {
       "name": "ios-skipbackward",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "f4ab"
     },
     {
       "name": "ios-skipbackward-outline",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "f4aa"
     },
     {
       "name": "ios-skipforward",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "f4ad"
     },
     {
       "name": "ios-skipforward-outline",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "f4ac"
     },
     {
       "name": "ios-snowy",
-      "tags": "weather, snowflake, winter"
+      "tags": "weather, snowflake, winter",
+      "unicode": "f4ae"
     },
     {
       "name": "ios-speedometer",
-      "tags": "dashboard, tachometer"
+      "tags": "dashboard, tachometer",
+      "unicode": "f4b0"
     },
     {
       "name": "ios-speedometer-outline",
-      "tags": "dashboard, tachometer"
+      "tags": "dashboard, tachometer",
+      "unicode": "f4af"
     },
     {
       "name": "ios-star",
-      "tags": "like, favorite, rate, ratings"
+      "tags": "like, favorite, rate, ratings",
+      "unicode": "f4b3"
     },
     {
       "name": "ios-star-half",
-      "tags": "rate, ratings"
+      "tags": "rate, ratings",
+      "unicode": "f4b1"
     },
     {
       "name": "ios-star-outline",
-      "tags": "like, favorite, rate, ratings"
+      "tags": "like, favorite, rate, ratings",
+      "unicode": "f4b2"
     },
     {
       "name": "ios-stopwatch",
-      "tags": "timer, clock"
+      "tags": "timer, clock",
+      "unicode": "f4b5"
     },
     {
       "name": "ios-stopwatch-outline",
-      "tags": "timer, clock"
+      "tags": "timer, clock",
+      "unicode": "f4b4"
     },
     {
       "name": "ios-sunny",
-      "tags": "weather"
+      "tags": "weather",
+      "unicode": "f4b7"
     },
     {
       "name": "ios-sunny-outline",
-      "tags": "weather"
+      "tags": "weather",
+      "unicode": "f4b6"
     },
     {
-      "name": "ios-telephone"
+      "name": "ios-telephone",
+      "unicode": "f4b9"
     },
     {
-      "name": "ios-telephone-outline"
+      "name": "ios-telephone-outline",
+      "unicode": "f4b8"
     },
     {
       "name": "ios-tennisball",
-      "tags": "sports"
+      "tags": "sports",
+      "unicode": "f4bb"
     },
     {
       "name": "ios-tennisball-outline",
-      "tags": "sports"
+      "tags": "sports",
+      "unicode": "f4ba"
     },
     {
       "name": "ios-thunderstorm",
-      "tags": "weather, cloud, lightning"
+      "tags": "weather, cloud, lightning",
+      "unicode": "f4bd"
     },
     {
       "name": "ios-thunderstorm-outline",
-      "tags": "weather, cloud, lightning"
+      "tags": "weather, cloud, lightning",
+      "unicode": "f4bc"
     },
     {
       "name": "ios-time",
-      "tags": "clock"
+      "tags": "clock",
+      "unicode": "f4bf"
     },
     {
       "name": "ios-time-outline",
-      "tags": "clock"
+      "tags": "clock",
+      "unicode": "f4be"
     },
     {
       "name": "ios-timer",
-      "tags": "clock"
+      "tags": "clock",
+      "unicode": "f4c1"
     },
     {
       "name": "ios-timer-outline",
-      "tags": "clock"
+      "tags": "clock",
+      "unicode": "f4c0"
     },
     {
       "name": "ios-toggle",
-      "tags": "settings"
+      "tags": "settings",
+      "unicode": "f4c3"
     },
     {
       "name": "ios-toggle-outline",
-      "tags": "settings"
+      "tags": "settings",
+      "unicode": "f4c2"
     },
     {
       "name": "ios-trash",
-      "tags": "delete"
+      "tags": "delete",
+      "unicode": "f4c5"
     },
     {
       "name": "ios-trash-outline",
-      "tags": "delete"
+      "tags": "delete",
+      "unicode": "f4c4"
     },
     {
       "name": "ios-undo",
-      "tags": "text editor, arrow"
+      "tags": "text editor, arrow",
+      "unicode": "f4c7"
     },
     {
       "name": "ios-undo-outline",
-      "tags": "text editor, arrow"
+      "tags": "text editor, arrow",
+      "unicode": "f4c6"
     },
     {
-      "name": "ios-unlocked"
+      "name": "ios-unlocked",
+      "unicode": "f4c9"
     },
     {
-      "name": "ios-unlocked-outline"
+      "name": "ios-unlocked-outline",
+      "unicode": "f4c8"
     },
     {
-      "name": "ios-upload"
+      "name": "ios-upload",
+      "unicode": "f4cb"
     },
     {
-      "name": "ios-upload-outline"
+      "name": "ios-upload-outline",
+      "unicode": "f4ca"
     },
     {
       "name": "ios-videocam",
-      "tags": "camera"
+      "tags": "camera",
+      "unicode": "f4cd"
     },
     {
       "name": "ios-videocam-outline",
-      "tags": "camera"
+      "tags": "camera",
+      "unicode": "f4cc"
     },
     {
       "name": "ios-volume-high",
-      "tags": "audio, sound"
+      "tags": "audio, sound",
+      "unicode": "f4ce"
     },
     {
       "name": "ios-volume-low",
-      "tags": "audio, sound"
+      "tags": "audio, sound",
+      "unicode": "f4cf"
     },
     {
       "name": "ios-wineglass",
-      "tags": "drink, glass, alcohol"
+      "tags": "drink, glass, alcohol",
+      "unicode": "f4d1"
     },
     {
       "name": "ios-wineglass-outline",
-      "tags": "drink, glass, alcohol"
+      "tags": "drink, glass, alcohol",
+      "unicode": "f4d0"
     },
     {
       "name": "ios-world",
-      "tags": "globe, earth, planet"
+      "tags": "globe, earth, planet",
+      "unicode": "f4d3"
     },
     {
       "name": "ios-world-outline",
-      "tags": "globe, earth, planet"
+      "tags": "globe, earth, planet",
+      "unicode": "f4d2"
     },
     {
       "name": "ipad",
-      "tags": "brand, apple, device, computer"
+      "tags": "brand, apple, device, computer",
+      "unicode": "f1f9"
     },
     {
       "name": "iphone",
-      "tags": "brand, apple, device, mobile phone"
+      "tags": "brand, apple, device, mobile phone",
+      "unicode": "f1fa"
     },
     {
       "name": "ipod",
-      "tags": "brand, apple, device, music, mp3"
+      "tags": "brand, apple, device, music, mp3",
+      "unicode": "f1fb"
     },
     {
       "name": "jet",
-      "tags": "airplane"
+      "tags": "airplane",
+      "unicode": "f295"
     },
     {
       "name": "key",
-      "tags": "secure"
+      "tags": "secure",
+      "unicode": "f296"
     },
     {
       "name": "knife",
-      "tags": "cutlery, dining, food"
+      "tags": "cutlery, dining, food",
+      "unicode": "f297"
     },
     {
       "name": "laptop",
-      "tags": "computer"
+      "tags": "computer",
+      "unicode": "f1fc"
     },
     {
       "name": "leaf",
-      "tags": "plant, nature"
+      "tags": "plant, nature",
+      "unicode": "f1fd"
     },
     {
       "name": "levels",
-      "tags": "audio, settings, equalizer"
+      "tags": "audio, settings, equalizer",
+      "unicode": "f298"
     },
     {
-      "name": "lightbulb"
+      "name": "lightbulb",
+      "unicode": "f299"
     },
     {
       "name": "link",
-      "tags": "chain"
+      "tags": "chain",
+      "unicode": "f1fe"
     },
     {
       "name": "load-a",
-      "tags": "loading"
+      "tags": "loading",
+      "unicode": "f29a"
     },
     {
       "name": "load-b",
-      "tags": "loading"
+      "tags": "loading",
+      "unicode": "f29b"
     },
     {
       "name": "load-c",
-      "tags": "loading"
+      "tags": "loading",
+      "unicode": "f29c"
     },
     {
       "name": "load-d",
-      "tags": "loading"
+      "tags": "loading",
+      "unicode": "f29d"
     },
     {
       "name": "location",
-      "tags": "map marker"
+      "tags": "map marker",
+      "unicode": "f1ff"
     },
     {
       "name": "lock-combination",
-      "tags": ""
+      "tags": "",
+      "unicode": "f4d4"
     },
     {
-      "name": "locked"
+      "name": "locked",
+      "unicode": "f200"
     },
     {
-      "name": "log-in"
+      "name": "log-in",
+      "unicode": "f29e"
     },
     {
-      "name": "log-out"
+      "name": "log-out",
+      "unicode": "f29f"
     },
     {
       "name": "loop",
-      "tags": "refresh, reload"
+      "tags": "refresh, reload",
+      "unicode": "f201"
     },
     {
-      "name": "magnet"
+      "name": "magnet",
+      "unicode": "f2a0"
     },
     {
       "name": "male",
-      "tags": "gender, sex, mars"
+      "tags": "gender, sex, mars",
+      "unicode": "f2a1"
     },
     {
       "name": "man",
-      "tags": "gender, sex, user, person"
+      "tags": "gender, sex, user, person",
+      "unicode": "f202"
     },
     {
       "name": "map",
-      "tags": ""
+      "tags": "",
+      "unicode": "f203"
     },
     {
       "name": "medkit",
-      "tags": "medical, health, hospital"
+      "tags": "medical, health, hospital",
+      "unicode": "f2a2"
     },
     {
       "name": "merge",
-      "tags": "git"
+      "tags": "git",
+      "unicode": "f33f"
     },
     {
       "name": "mic-a",
-      "tags": "audio"
+      "tags": "audio",
+      "unicode": "f204"
     },
     {
       "name": "mic-b",
-      "tags": "audio"
+      "tags": "audio",
+      "unicode": "f205"
     },
     {
       "name": "mic-c",
-      "tags": "audio"
+      "tags": "audio",
+      "unicode": "f206"
     },
     {
       "name": "minus",
-      "tags": "bar, remove"
+      "tags": "bar, remove",
+      "unicode": "f209"
     },
     {
       "name": "minus-circled",
-      "tags": "bar, remove"
+      "tags": "bar, remove",
+      "unicode": "f207"
     },
     {
       "name": "minus-round",
-      "tags": "bar, remove"
+      "tags": "bar, remove",
+      "unicode": "f208"
     },
     {
       "name": "model-s",
-      "tags": "automobile, car, tesla"
+      "tags": "automobile, car, tesla",
+      "unicode": "f2c1"
     },
     {
       "name": "monitor",
-      "tags": "computer, display"
+      "tags": "computer, display",
+      "unicode": "f20a"
     },
     {
       "name": "more",
-      "tags": "dots, menu"
+      "tags": "dots, menu",
+      "unicode": "f20b"
     },
     {
-      "name": "mouse"
+      "name": "mouse",
+      "unicode": "f340"
     },
     {
       "name": "music-note",
-      "tags": "song"
+      "tags": "song",
+      "unicode": "f20c"
     },
     {
       "name": "navicon",
-      "tags": "hamburger menu, more, bars"
+      "tags": "hamburger menu, more, bars",
+      "unicode": "f20e"
     },
     {
       "name": "navicon-round",
-      "tags": "hamburger menu, more, bars"
+      "tags": "hamburger menu, more, bars",
+      "unicode": "f20d"
     },
     {
       "name": "navigate",
-      "tags": "marker, arrow"
+      "tags": "marker, arrow",
+      "unicode": "f2a3"
     },
     {
-      "name": "network"
+      "name": "network",
+      "unicode": "f341"
     },
     {
       "name": "no-smoking",
-      "tags": ""
+      "tags": "",
+      "unicode": "f2c2"
     },
     {
       "name": "nuclear",
-      "tags": "warning, danger"
+      "tags": "warning, danger",
+      "unicode": "f2a4"
     },
     {
-      "name": "outlet"
+      "name": "outlet",
+      "unicode": "f342"
     },
     {
       "name": "paintbrush",
-      "tags": "art"
+      "tags": "art",
+      "unicode": "f4d5"
     },
     {
       "name": "paintbucket",
-      "tags": "fill, pour"
+      "tags": "fill, pour",
+      "unicode": "f4d6"
     },
     {
       "name": "paper-airplane",
-      "tags": ""
+      "tags": "",
+      "unicode": "f2c3"
     },
     {
       "name": "paperclip",
-      "tags": "email, file attachment"
+      "tags": "email, file attachment",
+      "unicode": "f20f"
     },
     {
-      "name": "pause"
+      "name": "pause",
+      "unicode": "f210"
     },
     {
       "name": "person",
-      "tags": "user, head"
+      "tags": "user, head",
+      "unicode": "f213"
     },
     {
       "name": "person-add",
-      "tags": "user, head"
+      "tags": "user, head",
+      "unicode": "f211"
     },
     {
       "name": "person-stalker",
-      "tags": "users, people"
+      "tags": "users, people",
+      "unicode": "f212"
     },
     {
       "name": "pie-graph",
-      "tags": "chart"
+      "tags": "chart",
+      "unicode": "f2a5"
     },
     {
       "name": "pin",
-      "tags": "thumbtack"
+      "tags": "thumbtack",
+      "unicode": "f2a6"
     },
     {
       "name": "pinpoint",
-      "tags": "aim, reticle, target"
+      "tags": "aim, reticle, target",
+      "unicode": "f2a7"
     },
     {
       "name": "pizza",
-      "tags": "food"
+      "tags": "food",
+      "unicode": "f2a8"
     },
     {
       "name": "plane",
-      "tags": "airplane"
+      "tags": "airplane",
+      "unicode": "f214"
     },
     {
       "name": "planet",
-      "tags": "saturn, space"
+      "tags": "saturn, space",
+      "unicode": "f343"
     },
     {
       "name": "play",
-      "tags": "video player, triangle"
+      "tags": "video player, triangle",
+      "unicode": "f215"
     },
     {
       "name": "playstation",
-      "tags": "brand, logo, sony, video games"
+      "tags": "brand, logo, sony, video games",
+      "unicode": "f30a"
     },
     {
       "name": "plus",
-      "tags": "add"
+      "tags": "add",
+      "unicode": "f218"
     },
     {
       "name": "plus-circled",
-      "tags": "add"
+      "tags": "add",
+      "unicode": "f216"
     },
     {
       "name": "plus-round",
-      "tags": "add"
+      "tags": "add",
+      "unicode": "f217"
     },
     {
       "name": "podium",
-      "tags": "bars"
+      "tags": "bars",
+      "unicode": "f344"
     },
     {
       "name": "pound",
-      "tags": "hash, number"
+      "tags": "hash, number",
+      "unicode": "f219"
     },
     {
       "name": "power",
-      "tags": "off, on"
+      "tags": "off, on",
+      "unicode": "f2a9"
     },
     {
       "name": "pricetag",
-      "tags": "shopping"
+      "tags": "shopping",
+      "unicode": "f2aa"
     },
     {
       "name": "pricetags",
-      "tags": "shopping"
+      "tags": "shopping",
+      "unicode": "f2ab"
     },
     {
       "name": "printer",
-      "tags": "computer"
+      "tags": "computer",
+      "unicode": "f21a"
     },
     {
       "name": "pull-request",
-      "tags": "github"
+      "tags": "github",
+      "unicode": "f345"
     },
     {
-      "name": "qr-scanner"
+      "name": "qr-scanner",
+      "unicode": "f346"
     },
     {
-      "name": "quote"
+      "name": "quote",
+      "unicode": "f347"
     },
     {
       "name": "radio-waves",
-      "tags": "sound, broadcast, signal"
+      "tags": "sound, broadcast, signal",
+      "unicode": "f2ac"
     },
     {
       "name": "record",
-      "tags": "video player, circle"
+      "tags": "video player, circle",
+      "unicode": "f21b"
     },
     {
       "name": "refresh",
-      "tags": "reload"
+      "tags": "reload",
+      "unicode": "f21c"
     },
     {
       "name": "reply",
-      "tags": "email"
+      "tags": "email",
+      "unicode": "f21e"
     },
     {
       "name": "reply-all",
-      "tags": "email"
+      "tags": "email",
+      "unicode": "f21d"
     },
     {
       "name": "ribbon-a",
-      "tags": "award, medal, prize"
+      "tags": "award, medal, prize",
+      "unicode": "f348"
     },
     {
       "name": "ribbon-b",
-      "tags": "award, medal, prize"
+      "tags": "award, medal, prize",
+      "unicode": "f349"
     },
     {
       "name": "sad",
-      "tags": "face, frown"
+      "tags": "face, frown",
+      "unicode": "f34a"
     },
     {
       "name": "sad-outline",
-      "tags": "face, frown"
+      "tags": "face, frown",
+      "unicode": "f4d7"
     },
     {
       "name": "scissors",
-      "tags": "cut"
+      "tags": "cut",
+      "unicode": "f34b"
     },
     {
       "name": "search",
-      "tags": "magnifying glass"
+      "tags": "magnifying glass",
+      "unicode": "f21f"
     },
     {
       "name": "settings",
-      "tags": "tools"
+      "tags": "tools",
+      "unicode": "f2ad"
     },
     {
-      "name": "share"
+      "name": "share",
+      "unicode": "f220"
     },
     {
       "name": "shuffle",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "f221"
     },
     {
       "name": "skip-backward",
-      "tags": "video player"
+      "tags": "video player",
+      "unicode": "f222"
     },
     {
       "name": "skip-forward",
-      "tags": "video payer"
+      "tags": "video payer",
+      "unicode": "f223"
     },
     {
       "name": "social-android",
-      "tags": "brand, logo, google"
+      "tags": "brand, logo, google",
+      "unicode": "f225"
     },
     {
       "name": "social-android-outline",
-      "tags": "brand, logo, google"
+      "tags": "brand, logo, google",
+      "unicode": "f224"
     },
     {
       "name": "social-angular",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4d9"
     },
     {
       "name": "social-angular-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4d8"
     },
     {
       "name": "social-apple",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f227"
     },
     {
       "name": "social-apple-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f226"
     },
     {
       "name": "social-bitcoin",
-      "tags": "currency, money"
+      "tags": "currency, money",
+      "unicode": "f2af"
     },
     {
       "name": "social-bitcoin-outline",
-      "tags": "currency, money"
+      "tags": "currency, money",
+      "unicode": "f2ae"
     },
     {
       "name": "social-buffer",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f229"
     },
     {
       "name": "social-buffer-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f228"
     },
     {
       "name": "social-chrome",
-      "tags": "brand, browser, logo"
+      "tags": "brand, browser, logo",
+      "unicode": "f4db"
     },
     {
       "name": "social-chrome-outline",
-      "tags": "brand, browser, logo"
+      "tags": "brand, browser, logo",
+      "unicode": "f4da"
     },
     {
       "name": "social-codepen",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4dd"
     },
     {
       "name": "social-codepen-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4dc"
     },
     {
       "name": "social-css3",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4df"
     },
     {
       "name": "social-css3-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4de"
     },
     {
       "name": "social-designernews",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f22b"
     },
     {
       "name": "social-designernews-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f22a"
     },
     {
       "name": "social-dribbble",
-      "tags": "brand, logo, basketball"
+      "tags": "brand, logo, basketball",
+      "unicode": "f22d"
     },
     {
       "name": "social-dribbble-outline",
-      "tags": "brand, logo, basketball"
+      "tags": "brand, logo, basketball",
+      "unicode": "f22c"
     },
     {
       "name": "social-dropbox",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f22f"
     },
     {
       "name": "social-dropbox-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f22e"
     },
     {
       "name": "social-euro",
-      "tags": "currency, money"
+      "tags": "currency, money",
+      "unicode": "f4e1"
     },
     {
       "name": "social-euro-outline",
-      "tags": "currency, money"
+      "tags": "currency, money",
+      "unicode": "f4e0"
     },
     {
       "name": "social-facebook",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f231"
     },
     {
       "name": "social-facebook-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f230"
     },
     {
       "name": "social-foursquare",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f34d"
     },
     {
       "name": "social-foursquare-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f34c"
     },
     {
       "name": "social-freebsd-devil",
-      "tags": ""
+      "tags": "",
+      "unicode": "f2c4"
     },
     {
       "name": "social-github",
-      "tags": "brand, logo, code"
+      "tags": "brand, logo, code",
+      "unicode": "f233"
     },
     {
       "name": "social-github-outline",
-      "tags": "brand, logo, code"
+      "tags": "brand, logo, code",
+      "unicode": "f232"
     },
     {
       "name": "social-google",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f34f"
     },
     {
       "name": "social-google-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f34e"
     },
     {
       "name": "social-googleplus",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f235"
     },
     {
       "name": "social-googleplus-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f234"
     },
     {
       "name": "social-hackernews",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f237"
     },
     {
       "name": "social-hackernews-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f236"
     },
     {
       "name": "social-html5",
-      "tags": "brand"
+      "tags": "brand",
+      "unicode": "f4e3"
     },
     {
       "name": "social-html5-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4e2"
     },
     {
       "name": "social-instagram",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f351"
     },
     {
       "name": "social-instagram-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f350"
     },
     {
       "name": "social-javascript",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4e5"
     },
     {
       "name": "social-javascript-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4e4"
     },
     {
       "name": "social-linkedin",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f239"
     },
     {
       "name": "social-linkedin-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f238"
     },
     {
       "name": "social-markdown",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4e6"
     },
     {
       "name": "social-nodejs",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4e7"
     },
     {
       "name": "social-octocat",
-      "tags": "brand, logo, github"
+      "tags": "brand, logo, github",
+      "unicode": "f4e8"
     },
     {
       "name": "social-pinterest",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f2b1"
     },
     {
       "name": "social-pinterest-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f2b0"
     },
     {
       "name": "social-python",
-      "tags": "brand, logo,"
+      "tags": "brand, logo,",
+      "unicode": "f4e9"
     },
     {
       "name": "social-reddit",
-      "tags": "brand, logo, alien"
+      "tags": "brand, logo, alien",
+      "unicode": "f23b"
     },
     {
       "name": "social-reddit-outline",
-      "tags": "brand, logo, alien"
+      "tags": "brand, logo, alien",
+      "unicode": "f23a"
     },
     {
       "name": "social-rss",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f23d"
     },
     {
       "name": "social-rss-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f23c"
     },
     {
       "name": "social-sass",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4ea"
     },
     {
       "name": "social-skype",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f23f"
     },
     {
       "name": "social-skype-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f23e"
     },
     {
       "name": "social-snapchat",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4ec"
     },
     {
       "name": "social-snapchat-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4eb"
     },
     {
       "name": "social-tumblr",
-      "tags": "brand, logo, yahoo"
+      "tags": "brand, logo, yahoo",
+      "unicode": "f241"
     },
     {
       "name": "social-tumblr-outline",
-      "tags": "brand, logo, yahoo"
+      "tags": "brand, logo, yahoo",
+      "unicode": "f240"
     },
     {
       "name": "social-tux",
-      "tags": "brand, logo, bird, linux, penguin"
+      "tags": "brand, logo, bird, linux, penguin",
+      "unicode": "f2c5"
     },
     {
       "name": "social-twitch",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4ee"
     },
     {
       "name": "social-twitch-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4ed"
     },
     {
       "name": "social-twitter",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f243"
     },
     {
       "name": "social-twitter-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f242"
     },
     {
       "name": "social-usd",
-      "tags": "currency, dollar, money"
+      "tags": "currency, dollar, money",
+      "unicode": "f353"
     },
     {
       "name": "social-usd-outline",
-      "tags": "currency, dollar, money"
+      "tags": "currency, dollar, money",
+      "unicode": "f352"
     },
     {
       "name": "social-vimeo",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f245"
     },
     {
       "name": "social-vimeo-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f244"
     },
     {
       "name": "social-whatsapp",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4f0"
     },
     {
       "name": "social-whatsapp-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f4ef"
     },
     {
       "name": "social-windows",
-      "tags": "brand, logo, microsoft"
+      "tags": "brand, logo, microsoft",
+      "unicode": "f247"
     },
     {
       "name": "social-windows-outline",
-      "tags": "brand, logo, microsoft"
+      "tags": "brand, logo, microsoft",
+      "unicode": "f246"
     },
     {
       "name": "social-wordpress",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f249"
     },
     {
       "name": "social-wordpress-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f248"
     },
     {
       "name": "social-yahoo",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f24b"
     },
     {
       "name": "social-yahoo-outline",
-      "tags": "brand, logo"
+      "tags": "brand, logo",
+      "unicode": "f24a"
     },
     {
       "name": "social-yen",
-      "tags": "currency, money"
+      "tags": "currency, money",
+      "unicode": "f4f2"
     },
     {
       "name": "social-yen-outline",
-      "tags": "currency, money"
+      "tags": "currency, money",
+      "unicode": "f4f1"
     },
     {
       "name": "social-youtube",
-      "tags": "brand, logo, video"
+      "tags": "brand, logo, video",
+      "unicode": "f24d"
     },
     {
       "name": "social-youtube-outline",
-      "tags": "brand, logo, video"
+      "tags": "brand, logo, video",
+      "unicode": "f24c"
     },
     {
       "name": "soup-can",
-      "tags": "food"
+      "tags": "food",
+      "unicode": "f4f4"
     },
     {
       "name": "soup-can-outline",
-      "tags": "food"
+      "tags": "food",
+      "unicode": "f4f3"
     },
     {
       "name": "speakerphone",
-      "tags": "bullhorn"
+      "tags": "bullhorn",
+      "unicode": "f2b2"
     },
     {
       "name": "speedometer",
-      "tags": "dashboard, tachometer"
+      "tags": "dashboard, tachometer",
+      "unicode": "f2b3"
     },
     {
       "name": "spoon",
-      "tags": "cutlery, dining, food"
+      "tags": "cutlery, dining, food",
+      "unicode": "f2b4"
     },
     {
       "name": "star",
-      "tags": "like, rate, ratings"
+      "tags": "like, rate, ratings",
+      "unicode": "f24e"
     },
     {
       "name": "stats-bars",
-      "tags": "graph"
+      "tags": "graph",
+      "unicode": "f2b5"
     },
     {
       "name": "steam",
-      "tags": "brand, logo, social"
+      "tags": "brand, logo, social",
+      "unicode": "f30b"
     },
     {
       "name": "stop",
-      "tags": "video player, square"
+      "tags": "video player, square",
+      "unicode": "f24f"
     },
     {
       "name": "thermometer",
-      "tags": "temperature"
+      "tags": "temperature",
+      "unicode": "f2b6"
     },
     {
       "name": "thumbsdown",
-      "tags": "dislike, ratings"
+      "tags": "dislike, ratings",
+      "unicode": "f250"
     },
     {
       "name": "thumbsup",
-      "tags": "like, ratings"
+      "tags": "like, ratings",
+      "unicode": "f251"
     },
     {
       "name": "toggle",
-      "tags": "setting"
+      "tags": "setting",
+      "unicode": "f355"
     },
     {
       "name": "toggle-filled",
-      "tags": "setting"
+      "tags": "setting",
+      "unicode": "f354"
     },
     {
-      "name": "transgender"
+      "name": "transgender",
+      "unicode": "f4f5"
     },
     {
       "name": "trash-a",
-      "tags": "delete"
+      "tags": "delete",
+      "unicode": "f252"
     },
     {
       "name": "trash-b",
-      "tags": "delete"
+      "tags": "delete",
+      "unicode": "f253"
     },
     {
       "name": "trophy",
-      "tags": "award, prize"
+      "tags": "award, prize",
+      "unicode": "f356"
     },
     {
       "name": "tshirt",
-      "tags": "clothes"
+      "tags": "clothes",
+      "unicode": "f4f7"
     },
     {
       "name": "tshirt-outline",
-      "tags": "clothes"
+      "tags": "clothes",
+      "unicode": "f4f6"
     },
     {
       "name": "umbrella",
-      "tags": "weather"
+      "tags": "weather",
+      "unicode": "f2b7"
     },
     {
       "name": "university",
-      "tags": "education, graduate"
+      "tags": "education, graduate",
+      "unicode": "f357"
     },
     {
-      "name": "unlocked"
+      "name": "unlocked",
+      "unicode": "f254"
     },
     {
-      "name": "upload"
+      "name": "upload",
+      "unicode": "f255"
     },
     {
-      "name": "usb"
+      "name": "usb",
+      "unicode": "f2b8"
     },
     {
-      "name": "videocamera"
+      "name": "videocamera",
+      "unicode": "f256"
     },
     {
       "name": "volume-high",
-      "tags": "audio, sound"
+      "tags": "audio, sound",
+      "unicode": "f257"
     },
     {
       "name": "volume-low",
-      "tags": "audio, sound"
+      "tags": "audio, sound",
+      "unicode": "f258"
     },
     {
       "name": "volume-medium",
-      "tags": "audio, sound"
+      "tags": "audio, sound",
+      "unicode": "f259"
     },
     {
       "name": "volume-mute",
-      "tags": "audio, sound"
+      "tags": "audio, sound",
+      "unicode": "f25a"
     },
     {
       "name": "wand",
-      "tags": "magic"
+      "tags": "magic",
+      "unicode": "f358"
     },
     {
       "name": "waterdrop",
-      "tags": "rain, weather"
+      "tags": "rain, weather",
+      "unicode": "f25b"
     },
     {
       "name": "wifi",
-      "tags": "signal"
+      "tags": "signal",
+      "unicode": "f25c"
     },
     {
       "name": "wineglass",
-      "tags": "drink, glass, alcohol"
+      "tags": "drink, glass, alcohol",
+      "unicode": "f2b9"
     },
     {
       "name": "woman",
-      "tags": "gender, sex, person"
+      "tags": "gender, sex, person",
+      "unicode": "f25d"
     },
     {
       "name": "wrench",
-      "tags": "tool, settings"
+      "tags": "tool, settings",
+      "unicode": "f2ba"
     },
     {
       "name": "xbox",
-      "tags": "brand, logo, video game"
+      "tags": "brand, logo, video game",
+      "unicode": "f30c"
     }
   ]
 }

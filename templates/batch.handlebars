@@ -4,43 +4,9 @@
     "_tags": ["font-awesome"],
     "name": "{{name}}",
     "tags": "{{tags}}",
-    "class": "fa fa-{{name}}"
-  },
-  {{/each}} 
-
-  {{#each glyphicons}}
-  {
-    "_tags": ["glyphicons"],
-    "name": "{{name}}",
-    "tags": "{{tags}}",
-    "class": "glyphicon glyphicon-{{name}}"
-  },
-  {{/each}} 
-
-  {{#each ionicons}}
-  {
-    "_tags": ["ionicons"],
-    "name": "{{name}}",
-    "tags": "{{tags}}",
-    "class": "ionicons ion-{{name}}"
-  },
-  {{/each}} 
-
-  {{#each icomoon}}
-  {
-    "_tags": ["icomoon"],
-    "name": "{{name}}",
-    "tags": "{{tags}}",
-    "class": "icomoon icon-{{name}}"
-  },
-  {{/each}} 
-
-  {{#each octicons}}
-  {
-    "_tags": ["octicons"],
-    "name": "{{name}}",
-    "tags": "{{tags}}",
-    "class": "mega-octicon octicon-{{name}}"
+    "class": "fa fa-{{name}}",
+    "html": "<i class=\"fa fa-{{name}}\"></i>",
+    "unicode": "{{unicode}}"
   },
   {{/each}}
 
@@ -49,7 +15,64 @@
     "_tags": ["foundation"],
     "name": "{{name}}",
     "tags": "{{tags}}",
-    "class": "fi-{{name}}"
+    "class": "fi-{{name}}",
+    "html": "<i class=\"fi-{{name}}\"></i>",
+    "unicode": "{{unicode}}"
+  },
+  {{/each}}
+
+  {{#each glyphicons}}
+  {
+    "_tags": ["glyphicons"],
+    "name": "{{name}}",
+    "tags": "{{tags}}",
+    "class": "glyphicon glyphicon-{{name}}",
+    "html": "<i class=\"glyphicon glyphicon-{{name}}\"></i>",
+    "unicode": "{{unicode}}"
+  },
+  {{/each}}
+
+  {{#each ionicons}}
+  {
+    "_tags": ["ionicons"],
+    "name": "{{name}}",
+    "tags": "{{tags}}",
+    "class": "ionicons ion-{{name}}",
+    "html": "<i class=\"ionicons ion-{{name}}\"></i>",
+    "unicode": "{{unicode}}"
+  },
+  {{/each}}
+
+  {{#each icomoon}}
+  {
+    "_tags": ["icomoon"],
+    "name": "{{name}}",
+    "tags": "{{tags}}",
+    "class": "icomoon icon-{{name}}",
+    "html": "<i class=\"icomoon icon-{{name}}\"></i>",
+    "unicode": "{{unicode}}"
+  },
+  {{/each}}
+
+  {{#each material}}
+  {
+    "_tags": ["material"],
+    "name": "{{name}}",
+    "tags": "{{tags}}",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">{{name}}</i>",
+    "unicode": "{{name}}"
+  },
+  {{/each}}
+
+  {{#each octicons}}
+  {
+    "_tags": ["octicons"],
+    "name": "{{name}}",
+    "tags": "{{tags}}",
+    "class": "mega-octicon octicon-{{name}}",
+    "html": "<i class=\"mega-octicon octicon-{{name}}\"></i>",
+    "unicode": "{{unicode}}"
   },
   {{/each}}
 

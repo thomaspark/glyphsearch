@@ -1,1030 +1,1321 @@
 {
   "foundation": [
     {
-      "name": "heart",
-      "tags": "love"
-    },
-    {
-      "name": "star",
-      "tags": "rating"
-    },
-    {
-      "name": "plus",
-      "tags": "add"
-    },
-    {
-      "name": "minus",
-      "tags": "subtract"
-    },
-    {
-      "name": "x",
-      "tags": "close"
-    },
-    {
-      "name": "check"
-    },
-    {
-      "name": "upload"
-    },
-    {
-      "name": "download"
-    },
-    {
-      "name": "widget",
-      "tags": "gear, cog, settings"
-    },
-    {
-      "name": "marker",
-      "tags": "map"
-    },
-    {
-      "name": "refresh",
-      "tags": "reload"
-    },
-    {
-      "name": "home",
-      "tags": "house"
-    },
-    {
-      "name": "trash",
-      "tags": "delete"
-    },
-    {
-      "name": "paperclip",
-      "tags": "attachment"
-    },
-    {
-      "name": "lock"
-    },
-    {
-      "name": "unlock"
-    },
-    {
-      "name": "calendar",
-      "tags": "date"
-    },
-    {
-      "name": "cloud",
-      "tags": "weather"
-    },
-    {
-      "name": "magnifying-glass",
-      "tags": "find, search"
-    },
-    {
-      "name": "zoom-out"
-    },
-    {
-      "name": "zoom-in"
-    },
-    {
-      "name": "wrench",
-      "tags": "tools"
-    },
-    {
-      "name": "rss"
-    },
-    {
-      "name": "share"
-    },
-    {
-      "name": "flag"
-    },
-    {
-      "name": "list-thumbnails"
-    },
-    {
-      "name": "list"
-    },
-    {
-      "name": "thumbnails"
-    },
-    {
-      "name": "annotate"
-    },
-    {
-      "name": "folder"
-    },
-    {
-      "name": "folder-lock"
-    },
-    {
-      "name": "folder-add"
-    },
-    {
-      "name": "clock",
-      "tags": "timer"
-    },
-    {
-      "name": "play-video"
-    },
-    {
-      "name": "crop"
-    },
-    {
-      "name": "archive"
-    },
-    {
-      "name": "pencil"
-    },
-    {
-      "name": "graph-trend"
-    },
-    {
-      "name": "graph-bar"
-    },
-    {
-      "name": "graph-horizontal"
-    },
-    {
-      "name": "graph-pie",
-      "tags": "chart"
-    },
-    {
-      "name": "checkbox"
-    },
-    {
-      "name": "minus-circle",
-      "tags": "remove"
-    },
-    {
-      "name": "x-circle",
-      "tags": "delete, remove"
-    },
-    {
-      "name": "eye",
-      "tags": "view"
-    },
-    {
-      "name": "database"
-    },
-    {
-      "name": "results"
-    },
-    {
-      "name": "results-demographics"
-    },
-    {
-      "name": "like",
-      "tags": "rating, thumbs up"
-    },
-    {
-      "name": "dislike",
-      "tags": "rating, thumbs down,"
-    },
-    {
-      "name": "upload-cloud"
-    },
-    {
-      "name": "camera",
-      "tags": "photos"
+      "name": "address-book",
+      "tags": "contacts",
+      "unicode": "f100"
     },
     {
       "name": "alert",
-      "tags": "caution, danger, exclamation, warning, sign"
-    },
-    {
-      "name": "bookmark"
-    },
-    {
-      "name": "contrast",
-      "tags": "adjust"
-    },
-    {
-      "name": "mail",
-      "tags": "envelope"
-    },
-    {
-      "name": "video",
-      "tags": "camera"
-    },
-    {
-      "name": "telephone"
-    },
-    {
-      "name": "comment",
-      "tags": "chat bubble"
-    },
-    {
-      "name": "comment-video",
-      "tags": "chat bubble"
-    },
-    {
-      "name": "comment-quotes",
-      "tags": "chat bubble"
-    },
-    {
-      "name": "comment-minus",
-      "tags": "chat bubble, delete, remove"
-    },
-    {
-      "name": "comments",
-      "tags": "chat bubble"
-    },
-    {
-      "name": "microphone"
-    },
-    {
-      "name": "megaphone",
-      "tags": "bullhorn"
-    },
-    {
-      "name": "sound",
-      "tags": "audio"
-    },
-    {
-      "name": "address-book"
-    },
-    {
-      "name": "bluetooth"
-    },
-    {
-      "name": "html5",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "css3",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "layout"
-    },
-    {
-      "name": "web",
-      "tags": "earth, planet, globe"
-    },
-    {
-      "name": "foundation"
-    },
-    {
-      "name": "page"
-    },
-    {
-      "name": "page-csv"
-    },
-    {
-      "name": "page-doc"
-    },
-    {
-      "name": "page-pdf"
-    },
-    {
-      "name": "page-export"
-    },
-    {
-      "name": "page-export-csv"
-    },
-    {
-      "name": "page-export-doc"
-    },
-    {
-      "name": "page-export-pdf"
-    },
-    {
-      "name": "page-add"
-    },
-    {
-      "name": "page-remove"
-    },
-    {
-      "name": "page-delete"
-    },
-    {
-      "name": "page-edit"
-    },
-    {
-      "name": "page-search"
-    },
-    {
-      "name": "page-copy",
-      "tags": "clone, documents, duplicate, files"
-    },
-    {
-      "name": "page-filled"
-    },
-    {
-      "name": "page-multiple"
-    },
-    {
-      "name": "arrow-up"
-    },
-    {
-      "name": "arrow-right"
-    },
-    {
-      "name": "arrow-down"
-    },
-    {
-      "name": "arrow-left"
-    },
-    {
-      "name": "arrows-out",
-      "tags": "resize, expand"
-    },
-    {
-      "name": "arrows-in",
-      "tags": "resize, compress, contract, shrink"
-    },
-    {
-      "name": "arrows-expand",
-      "tags": "resize, fullscreen"
-    },
-    {
-      "name": "arrows-compress",
-      "tags": "resize, contract, shrink"
-    },
-    {
-      "name": "torso",
-      "tags": "user, person"
-    },
-    {
-      "name": "torso-female",
-      "tags": "user, person"
-    },
-    {
-      "name": "torsos",
-      "tags": "users, people"
-    },
-    {
-      "name": "torsos-female-male",
-      "tags": "users, people"
-    },
-    {
-      "name": "torsos-male-female",
-      "tags": "users, people"
-    },
-    {
-      "name": "torsos-all",
-      "tags": "users, people"
-    },
-    {
-      "name": "torsos-all-female"
-    },
-    {
-      "name": "torso-business",
-      "tags": "user, person"
-    },
-    {
-      "name": "monitor",
-      "tags": "display"
-    },
-    {
-      "name": "laptop",
-      "tags": "computer"
-    },
-    {
-      "name": "tablet-portrait",
-      "tags": "ipad"
-    },
-    {
-      "name": "tablet-landscape",
-      "tags": "ipad"
-    },
-    {
-      "name": "mobile",
-      "tags": "smartphone"
-    },
-    {
-      "name": "mobile-signal",
-      "tags": "smartphone"
-    },
-    {
-      "name": "usb"
-    },
-    {
-      "name": "bold",
-      "tags": "text"
-    },
-    {
-      "name": "italic",
-      "tags": "text"
-    },
-    {
-      "name": "underline",
-      "tags": "text"
-    },
-    {
-      "name": "strikethrough",
-      "tags": "text"
-    },
-    {
-      "name": "text-color"
-    },
-    {
-      "name": "background-color",
-      "tags": "text"
-    },
-    {
-      "name": "superscript",
-      "tags": "text"
-    },
-    {
-      "name": "subscript",
-      "tags": "text"
-    },
-    {
-      "name": "align-left",
-      "tags": "text"
+      "tags": "caution, danger, exclamation, warning sign",
+      "unicode": "f101"
     },
     {
       "name": "align-center",
-      "tags": "text"
-    },
-    {
-      "name": "align-right",
-      "tags": "text"
+      "tags": "text",
+      "unicode": "f102"
     },
     {
       "name": "align-justify",
-      "tags": "text"
+      "tags": "text",
+      "unicode": "f103"
     },
     {
-      "name": "list-number",
-      "tags": "text"
+      "name": "align-left",
+      "tags": "text",
+      "unicode": "f104"
     },
     {
-      "name": "list-bullet",
-      "tags": "text"
+      "name": "align-right",
+      "tags": "text",
+      "unicode": "f105"
     },
     {
-      "name": "indent-more",
-      "tags": "text"
+      "name": "anchor",
+      "unicode": "f106"
     },
     {
-      "name": "indent-less",
-      "tags": "text"
+      "name": "annotate",
+      "unicode": "f107"
     },
     {
-      "name": "print"
+      "name": "archive",
+      "unicode": "f108"
     },
     {
-      "name": "save"
+      "name": "arrow-down",
+      "unicode": "f109"
     },
     {
-      "name": "photo"
+      "name": "arrow-left",
+      "unicode": "f10a"
     },
     {
-      "name": "filter"
+      "name": "arrow-right",
+      "unicode": "f10b"
     },
     {
-      "name": "paint-bucket",
-      "tags": "fill, pour"
+      "name": "arrow-up",
+      "unicode": "f10c"
     },
     {
-      "name": "link",
-      "tags": "chain"
+      "name": "arrows-compress",
+      "tags": "resize, contract, shrink",
+      "unicode": "f10d"
     },
     {
-      "name": "unlink",
-      "tags": "chain"
+      "name": "arrows-expand",
+      "tags": "resize, fullscreen",
+      "unicode": "f10e"
     },
     {
-      "name": "quote",
-      "tags": "text"
+      "name": "arrows-in",
+      "tags": "resize, compress, contract, shrink",
+      "unicode": "f10f"
     },
     {
-      "name": "play"
-    },
-    {
-      "name": "stop"
-    },
-    {
-      "name": "pause"
-    },
-    {
-      "name": "previous"
-    },
-    {
-      "name": "rewind"
-    },
-    {
-      "name": "fast-forward"
-    },
-    {
-      "name": "next"
-    },
-    {
-      "name": "record"
-    },
-    {
-      "name": "play-circle"
-    },
-    {
-      "name": "volume-none"
-    },
-    {
-      "name": "volume"
-    },
-    {
-      "name": "volume-strike"
-    },
-    {
-      "name": "loop",
-      "tags": "refresh, reload"
-    },
-    {
-      "name": "shuffle",
-      "tags": "random"
-    },
-    {
-      "name": "eject"
-    },
-    {
-      "name": "rewind-ten"
-    },
-    {
-      "name": "dollar",
-      "tags": "money, currency"
-    },
-    {
-      "name": "euro",
-      "tags": "money, currency"
-    },
-    {
-      "name": "pound",
-      "tags": "money, currency"
-    },
-    {
-      "name": "yen",
-      "tags": "money, currency"
-    },
-    {
-      "name": "bitcoin",
-      "tags": "money, currency"
-    },
-    {
-      "name": "bitcoin-circle",
-      "tags": "money, currency"
-    },
-    {
-      "name": "credit-card",
-      "tags": "payment"
-    },
-    {
-      "name": "shopping-cart"
-    },
-    {
-      "name": "burst",
-      "tags": "seal"
-    },
-    {
-      "name": "burst-new",
-      "tags": "seal"
-    },
-    {
-      "name": "burst-sale",
-      "tags": "seal"
-    },
-    {
-      "name": "paypal",
-      "tags": "payment"
-    },
-    {
-      "name": "price-tag"
-    },
-    {
-      "name": "pricetag-multiple"
-    },
-    {
-      "name": "shopping-bag"
-    },
-    {
-      "name": "dollar-bill",
-      "tags": "money"
-    },
-    {
-      "name": "wheelchair",
-      "tags": "handicap"
-    },
-    {
-      "name": "braille",
-      "tags": "dots"
-    },
-    {
-      "name": "closed-caption"
-    },
-    {
-      "name": "blind"
+      "name": "arrows-out",
+      "tags": "resize, expand",
+      "unicode": "f110"
     },
     {
       "name": "asl",
-      "tags": "deaf, sign language"
+      "tags": "deaf, sign language",
+      "unicode": "f111"
     },
     {
-      "name": "hearing-aid",
-      "tags": "deaf, ear"
-    },
-    {
-      "name": "guide-dog",
-      "tags": "blind"
-    },
-    {
-      "name": "universal-access"
-    },
-    {
-      "name": "telephone-accessible"
-    },
-    {
-      "name": "elevator"
-    },
-    {
-      "name": "male",
-      "tags": "gender"
-    },
-    {
-      "name": "female",
-      "tags": "gender"
-    },
-    {
-      "name": "male-female",
-      "tags": "genders"
-    },
-    {
-      "name": "male-symbol",
-      "tags": "gender, mars"
-    },
-    {
-      "name": "female-symbol",
-      "tags": "gender, venus"
-    },
-    {
-      "name": "social-500px",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-adobe",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-amazon",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-android",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-apple",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-behance",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-bing",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-blogger",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-delicious",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-designer-news",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-deviant-art",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-digg",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-dribbble",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-drive",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-dropbox",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-evernote",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-facebook",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-flickr",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-forrst",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-foursquare",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-game-center",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-github",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-google-plus",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-hacker-news",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-hi5",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-instagram",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-joomla",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-lastfm",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-linkedin",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-medium",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-myspace",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-orkut",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-path",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-picasa",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-pinterest",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-rdio",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-reddit",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-skype",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-skillshare",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-smashing-mag",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-snapchat",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-spotify",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-squidoo",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-stack-overflow",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-steam",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-stumbleupon",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-treehouse",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-tumblr",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-twitter",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-vimeo",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-windows",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-xbox",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-yahoo",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-yelp",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-youtube",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-zerply",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "social-zurb",
-      "tags": "brand, logo"
-    },
-    {
-      "name": "compass",
-      "tags": "map, directions"
-    },
-    {
-      "name": "music"
-    },
-    {
-      "name": "lightbulb"
-    },
-    {
-      "name": "battery-full",
-      "tags": "power"
-    },
-    {
-      "name": "battery-half",
-      "tags": "power"
-    },
-    {
-      "name": "battery-empty",
-      "tags": "power"
-    },
-    {
-      "name": "projection-screen",
-      "tags": "presentation"
-    },
-    {
-      "name": "info"
-    },
-    {
-      "name": "power"
-    },
-    {
-      "name": "asterisk"
+      "name": "asterisk",
+      "unicode": "f112"
     },
     {
       "name": "at-sign",
-      "tags": "email"
+      "tags": "email",
+      "unicode": "f113"
     },
     {
-      "name": "key"
+      "name": "background-color",
+      "tags": "text",
+      "unicode": "f114"
     },
     {
-      "name": "ticket"
+      "name": "battery-empty",
+      "tags": "power",
+      "unicode": "f115"
     },
     {
-      "name": "book"
+      "name": "battery-full",
+      "tags": "power",
+      "unicode": "f116"
     },
     {
-      "name": "book-bookmark"
+      "name": "battery-half",
+      "tags": "power",
+      "unicode": "f117"
     },
     {
-      "name": "anchor"
+      "name": "bitcoin",
+      "tags": "money, currency",
+      "unicode": "f118"
     },
     {
-      "name": "puzzle",
-      "tags": "game"
+      "name": "bitcoin-circle",
+      "tags": "money, currency",
+      "unicode": "f119"
     },
     {
-      "name": "foot",
-      "tags": "print"
+      "name": "blind",
+      "unicode": "f11a"
     },
     {
-      "name": "paw",
-      "tags": "animal, pet, print"
+      "name": "bluetooth",
+      "tags": "logo",
+      "unicode": "f11b"
     },
     {
-      "name": "mountains"
+      "name": "bold",
+      "tags": "text",
+      "unicode": "f11c"
     },
     {
-      "name": "trees",
-      "tags": "nature"
+      "name": "book",
+      "unicode": "f11d"
     },
     {
-      "name": "sheriff-badge"
+      "name": "book-bookmark",
+      "unicode": "f11e"
     },
     {
-      "name": "first-aid",
-      "tags": "medical, health, hospital"
+      "name": "bookmark",
+      "unicode": "f11f"
     },
     {
-      "name": "trophy",
-      "tags": "prize, award"
+      "name": "braille",
+      "tags": "dots",
+      "unicode": "f120"
     },
     {
-      "name": "prohibited"
+      "name": "burst",
+      "tags": "seal",
+      "unicode": "f121"
     },
     {
-      "name": "no-dogs",
-      "tags": "pets"
+      "name": "burst-new",
+      "tags": "seal",
+      "unicode": "f122"
     },
     {
-      "name": "no-smoking"
+      "name": "burst-sale",
+      "tags": "seal",
+      "unicode": "f123"
     },
     {
-      "name": "safety-cone"
+      "name": "calendar",
+      "tags": "date",
+      "unicode": "f124"
     },
     {
-      "name": "shield"
+      "name": "camera",
+      "tags": "photos",
+      "unicode": "f125"
     },
     {
-      "name": "crown"
+      "name": "check",
+      "unicode": "f126"
     },
     {
-      "name": "target"
+      "name": "checkbox",
+      "unicode": "f127"
     },
     {
-      "name": "target-two",
-      "tags": "aim, reticle"
+      "name": "clipboard",
+      "unicode": "f128"
     },
     {
-      "name": "die-one",
-      "tags": "game"
+      "name": "clipboard-notes",
+      "unicode": "f129"
     },
     {
-      "name": "die-two",
-      "tags": "game"
+      "name": "clipboard-pencil",
+      "unicode": "f12a"
     },
     {
-      "name": "die-three",
-      "tags": "game"
+      "name": "clock",
+      "tags": "timer",
+      "unicode": "f12b"
     },
     {
-      "name": "die-four",
-      "tags": "game"
+      "name": "closed-caption",
+      "unicode": "f12c"
+    },
+    {
+      "name": "cloud",
+      "tags": "weather",
+      "unicode": "f12d"
+    },
+    {
+      "name": "comment",
+      "tags": "chat bubble",
+      "unicode": "f131"
+    },
+    {
+      "name": "comment-minus",
+      "tags": "chat bubble, delete, remove",
+      "unicode": "f12e"
+    },
+    {
+      "name": "comment-quotes",
+      "tags": "chat bubble",
+      "unicode": "f12f"
+    },
+    {
+      "name": "comment-video",
+      "tags": "chat bubble",
+      "unicode": "f130"
+    },
+    {
+      "name": "comments",
+      "tags": "chat bubble",
+      "unicode": "f132"
+    },
+    {
+      "name": "compass",
+      "tags": "map, directions",
+      "unicode": "f133"
+    },
+    {
+      "name": "contrast",
+      "tags": "adjust",
+      "unicode": "f134"
+    },
+    {
+      "name": "credit-card",
+      "tags": "payment",
+      "unicode": "f135"
+    },
+    {
+      "name": "crop",
+      "unicode": "f136"
+    },
+    {
+      "name": "crown",
+      "tags": "king, royal",
+      "unicode": "f137"
+    },
+    {
+      "name": "css3",
+      "tags": "brand, logo",
+      "unicode": "f138"
+    },
+    {
+      "name": "database",
+      "unicode": "f139"
     },
     {
       "name": "die-five",
-      "tags": "game"
+      "tags": "game",
+      "unicode": "f13a"
+    },
+    {
+      "name": "die-four",
+      "tags": "game",
+      "unicode": "f13b"
+    },
+    {
+      "name": "die-one",
+      "tags": "game",
+      "unicode": "f13c"
     },
     {
       "name": "die-six",
-      "tags": "game"
+      "tags": "game",
+      "unicode": "f13d"
     },
     {
-      "name": "skull",
-      "tags": "caution, danger, warning"
+      "name": "die-three",
+      "tags": "game",
+      "unicode": "f13e"
+    },
+    {
+      "name": "die-two",
+      "tags": "game",
+      "unicode": "f13f"
+    },
+    {
+      "name": "dislike",
+      "tags": "rating, thumbs down",
+      "unicode": "f140"
+    },
+    {
+      "name": "dollar-bill",
+      "tags": "money",
+      "unicode": "f141"
+    },
+    {
+      "name": "dollar",
+      "tags": "money, currency",
+      "unicode": "f142"
+    },
+    {
+      "name": "download",
+      "unicode": "f143"
+    },
+    {
+      "name": "eject",
+      "unicode": "f144"
+    },
+    {
+      "name": "elevator",
+      "unicode": "f145"
+    },
+    {
+      "name": "euro",
+      "tags": "money, currency",
+      "unicode": "f146"
+    },
+    {
+      "name": "eye",
+      "tags": "view",
+      "unicode": "f147"
+    },
+    {
+      "name": "fast-forward",
+      "unicode": "f148"
+    },
+    {
+      "name": "female-symbol",
+      "tags": "gender, venus",
+      "unicode": "f149"
+    },
+    {
+      "name": "female",
+      "tags": "gender",
+      "unicode": "f14a"
+    },
+    {
+      "name": "filter",
+      "unicode": "f14b"
+    },
+    {
+      "name": "first-aid",
+      "tags": "medical, health, hospital",
+      "unicode": "f14c"
+    },
+    {
+      "name": "flag",
+      "unicode": "f14d"
+    },
+    {
+      "name": "folder",
+      "unicode": "f150"
+    },
+    {
+      "name": "folder-lock",
+      "unicode": "f14f"
+    },
+    {
+      "name": "folder-add",
+      "unicode": "f14e"
+    },
+    {
+      "name": "foot",
+      "tags": "print",
+      "unicode": "f151"
+    },
+    {
+      "name": "foundation",
+      "unicode": "f152"
+    },
+    {
+      "name": "graph-bar",
+      "unicode": "f153"
+    },
+    {
+      "name": "graph-horizontal",
+      "unicode": "f154"
+    },
+    {
+      "name": "graph-pie",
+      "tags": "chart",
+      "unicode": "f155"
+    },
+    {
+      "name": "graph-trend",
+      "unicode": "f156"
+    },
+    {
+      "name": "guide-dog",
+      "tags": "blind",
+      "unicode": "f157"
+    },
+    {
+      "name": "hearing-aid",
+      "tags": "deaf, ear",
+      "unicode": "f158"
+    },
+    {
+      "name": "heart",
+      "tags": "love",
+      "unicode": "f159"
+    },
+    {
+      "name": "home",
+      "tags": "house",
+      "unicode": "f15a"
+    },
+    {
+      "name": "html5",
+      "tags": "brand, logo",
+      "unicode": "f15b"
+    },
+    {
+      "name": "indent-less",
+      "tags": "text",
+      "unicode": "f15c"
+    },
+    {
+      "name": "indent-more",
+      "tags": "text",
+      "unicode": "f15d"
+    },
+    {
+      "name": "info",
+      "unicode": "f15e"
+    },
+    {
+      "name": "italic",
+      "tags": "text",
+      "unicode": "f15f"
+    },
+    {
+      "name": "key",
+      "unicode": "f160"
+    },
+    {
+      "name": "laptop",
+      "tags": "computer",
+      "unicode": "f161"
+    },
+    {
+      "name": "layout",
+      "unicode": "f162"
+    },
+    {
+      "name": "lightbulb",
+      "unicode": "f163"
+    },
+    {
+      "name": "like",
+      "tags": "rating, thumbs up",
+      "unicode": "f164"
+    },
+    {
+      "name": "link",
+      "tags": "chain",
+      "unicode": "f165"
+    },
+    {
+      "name": "list-bullet",
+      "tags": "text",
+      "unicode": "f166"
+    },
+    {
+      "name": "list-number",
+      "tags": "text",
+      "unicode": "f167"
+    },
+    {
+      "name": "list-thumbnails",
+      "unicode": "f168"
+    },
+    {
+      "name": "list",
+      "unicode": "f169"
+    },
+    {
+      "name": "lock",
+      "unicode": "f16a"
+    },
+    {
+      "name": "loop",
+      "tags": "refresh, reload",
+      "unicode": "f16b"
+    },
+    {
+      "name": "magnifying-glass",
+      "tags": "find, search",
+      "unicode": "f16c"
+    },
+    {
+      "name": "mail",
+      "tags": "envelope",
+      "unicode": "f16d"
+    },
+    {
+      "name": "male-female",
+      "tags": "genders",
+      "unicode": "f16e"
+    },
+    {
+      "name": "male-symbol",
+      "tags": "gender, mars",
+      "unicode": "f16f"
+    },
+    {
+      "name": "male",
+      "tags": "gender",
+      "unicode": "f170"
     },
     {
       "name": "map",
-      "tags": "directions"
+      "tags": "directions",
+      "unicode": "f171"
     },
     {
-      "name": "clipboard"
+      "name": "marker",
+      "tags": "map",
+      "unicode": "f172"
     },
     {
-      "name": "clipboard-pencil"
+      "name": "megaphone",
+      "tags": "bullhorn",
+      "unicode": "f173"
     },
     {
-      "name": "clipboard-notes"
+      "name": "microphone",
+      "unicode": "f174"
+    },
+    {
+      "name": "minus",
+      "tags": "subtract",
+      "unicode": "f175"
+    },
+    {
+      "name": "minus-circle",
+      "tags": "remove",
+      "unicode": "f176"
+    },
+    {
+      "name": "mobile-signal",
+      "tags": "smartphone",
+      "unicode": "f177"
+    },
+    {
+      "name": "mobile",
+      "tags": "smartphone",
+      "unicode": "f178"
+    },
+    {
+      "name": "monitor",
+      "tags": "display",
+      "unicode": "f179"
+    },
+    {
+      "name": "mountains",
+      "unicode": "f17a"
+    },
+    {
+      "name": "music",
+      "unicode": "f17b"
+    },
+    {
+      "name": "next",
+      "unicode": "f17c"
+    },
+    {
+      "name": "no-dogs",
+      "tags": "pets",
+      "unicode": "f17d"
+    },
+    {
+      "name": "no-smoking",
+      "unicode": "f17e"
+    },
+    {
+      "name": "page",
+      "unicode": "f18e"
+    },
+    {
+      "name": "page-add",
+      "unicode": "f17f"
+    },
+    {
+      "name": "page-copy",
+      "tags": "clone, documents, duplicate, files",
+      "unicode": "f180"
+    },
+    {
+      "name": "page-csv",
+      "unicode": "f181"
+    },
+    {
+      "name": "page-delete",
+      "unicode": "f182"
+    },
+    {
+      "name": "page-doc",
+      "unicode": "f183"
+    },
+    {
+      "name": "page-edit",
+      "unicode": "f184"
+    },
+    {
+      "name": "page-export-csv",
+      "unicode": "f185"
+    },
+    {
+      "name": "page-export-doc",
+      "unicode": "f186"
+    },
+    {
+      "name": "page-export-pdf",
+      "unicode": "f187"
+    },
+    {
+      "name": "page-export",
+      "unicode": "f188"
+    },
+    {
+      "name": "page-filled",
+      "unicode": "f189"
+    },
+    {
+      "name": "page-multiple",
+      "unicode": "f18a"
+    },
+    {
+      "name": "page-pdf",
+      "unicode": "f18b"
+    },
+    {
+      "name": "page-remove",
+      "unicode": "f18c"
+    },
+    {
+      "name": "page-search",
+      "unicode": "f18d"
+    },
+    {
+      "name": "paint-bucket",
+      "tags": "fill, pour",
+      "unicode": "f18f"
+    },
+    {
+      "name": "paperclip",
+      "tags": "attachment",
+      "unicode": "f190"
+    },
+    {
+      "name": "pause",
+      "unicode": "f191"
+    },
+    {
+      "name": "paw",
+      "tags": "animal, pet, print",
+      "unicode": "f192"
+    },
+    {
+      "name": "paypal",
+      "tags": "payment",
+      "unicode": "f193"
+    },
+    {
+      "name": "pencil",
+      "unicode": "f194"
+    },
+    {
+      "name": "photo",
+      "unicode": "f195"
+    },
+    {
+      "name": "play",
+      "unicode": "f198"
+    },
+    {
+      "name": "play-circle",
+      "unicode": "f196"
+    },
+    {
+      "name": "play-video",
+      "unicode": "f197"
+    },
+    {
+      "name": "plus",
+      "tags": "add",
+      "unicode": "f199"
+    },
+    {
+      "name": "pound",
+      "tags": "money, currency",
+      "unicode": "f19a"
+    },
+    {
+      "name": "power",
+      "unicode": "f19b"
+    },
+    {
+      "name": "previous",
+      "unicode": "f19c"
+    },
+    {
+      "name": "price-tag",
+      "unicode": "f19d"
+    },
+    {
+      "name": "pricetag-multiple",
+      "unicode": "f19e"
+    },
+    {
+      "name": "print",
+      "unicode": "f19f"
+    },
+    {
+      "name": "prohibited",
+      "tags": "ban",
+      "unicode": "f1a0"
+    },
+    {
+      "name": "projection-screen",
+      "tags": "presentation",
+      "unicode": "f1a1"
+    },
+    {
+      "name": "puzzle",
+      "tags": "game, jigsaw",
+      "unicode": "f1a2"
+    },
+    {
+      "name": "quote",
+      "tags": "text",
+      "unicode": "f1a3"
+    },
+    {
+      "name": "record",
+      "unicode": "f1a4"
+    },
+    {
+      "name": "refresh",
+      "tags": "reload",
+      "unicode": "f1a5"
+    },
+    {
+      "name": "results",
+      "unicode": "f1a7"
+    },
+    {
+      "name": "results-demographics",
+      "unicode": "f1a6"
+    },
+    {
+      "name": "rewind",
+      "unicode": "f1a9"
+    },
+    {
+      "name": "rewind-ten",
+      "unicode": "f1a8"
+    },
+    {
+      "name": "rss",
+      "unicode": "f1aa"
+    },
+    {
+      "name": "safety-cone",
+      "unicode": "f1ab"
+    },
+    {
+      "name": "save",
+      "tags": "floppy disk",
+      "unicode": "f1ac"
+    },
+    {
+      "name": "share",
+      "unicode": "f1ad"
+    },
+    {
+      "name": "sheriff-badge",
+      "unicode": "f1ae"
+    },
+    {
+      "name": "shield",
+      "unicode": "f1af"
+    },
+    {
+      "name": "shopping-bag",
+      "unicode": "f1b0"
+    },
+    {
+      "name": "shopping-cart",
+      "unicode": "f1b1"
+    },
+    {
+      "name": "shuffle",
+      "tags": "random",
+      "unicode": "f1b2"
+    },
+    {
+      "name": "skull",
+      "tags": "danger, poison, warning",
+      "unicode": "f1b3"
+    },
+    {
+      "name": "social-500px",
+      "tags": "brand, logo",
+      "unicode": "f1b4"
+    },
+    {
+      "name": "social-adobe",
+      "tags": "brand, logo",
+      "unicode": "f1b5"
+    },
+    {
+      "name": "social-amazon",
+      "tags": "brand, logo",
+      "unicode": "f1b6"
+    },
+    {
+      "name": "social-android",
+      "tags": "brand, logo",
+      "unicode": "f1b7"
+    },
+    {
+      "name": "social-apple",
+      "tags": "brand, logo",
+      "unicode": "f1b8"
+    },
+    {
+      "name": "social-behance",
+      "tags": "brand, logo",
+      "unicode": "f1b9"
+    },
+    {
+      "name": "social-bing",
+      "tags": "brand, logo",
+      "unicode": "f1ba"
+    },
+    {
+      "name": "social-blogger",
+      "tags": "brand, logo",
+      "unicode": "f1bb"
+    },
+    {
+      "name": "social-delicious",
+      "tags": "brand, logo",
+      "unicode": "f1bc"
+    },
+    {
+      "name": "social-designer-news",
+      "tags": "brand, logo",
+      "unicode": "f1bd"
+    },
+    {
+      "name": "social-deviant-art",
+      "tags": "brand, logo",
+      "unicode": "f1be"
+    },
+    {
+      "name": "social-digg",
+      "tags": "brand, logo",
+      "unicode": "f1bf"
+    },
+    {
+      "name": "social-dribbble",
+      "tags": "brand, logo",
+      "unicode": "f1c0"
+    },
+    {
+      "name": "social-drive",
+      "tags": "brand, logo",
+      "unicode": "f1c1"
+    },
+    {
+      "name": "social-dropbox",
+      "tags": "brand, logo",
+      "unicode": "f1c2"
+    },
+    {
+      "name": "social-evernote",
+      "tags": "brand, logo",
+      "unicode": "f1c3"
+    },
+    {
+      "name": "social-facebook",
+      "tags": "brand, logo",
+      "unicode": "f1c4"
+    },
+    {
+      "name": "social-flickr",
+      "tags": "brand, logo",
+      "unicode": "f1c5"
+    },
+    {
+      "name": "social-forrst",
+      "tags": "brand, logo",
+      "unicode": "f1c6"
+    },
+    {
+      "name": "social-foursquare",
+      "tags": "brand, logo",
+      "unicode": "f1c7"
+    },
+    {
+      "name": "social-game-center",
+      "tags": "brand, logo",
+      "unicode": "f1c8"
+    },
+    {
+      "name": "social-github",
+      "tags": "brand, logo",
+      "unicode": "f1c9"
+    },
+    {
+      "name": "social-google-plus",
+      "tags": "brand, logo",
+      "unicode": "f1ca"
+    },
+    {
+      "name": "social-hacker-news",
+      "tags": "brand, logo",
+      "unicode": "f1cb"
+    },
+    {
+      "name": "social-hi5",
+      "tags": "brand, logo",
+      "unicode": "f1cc"
+    },
+    {
+      "name": "social-instagram",
+      "tags": "brand, logo",
+      "unicode": "f1cd"
+    },
+    {
+      "name": "social-joomla",
+      "tags": "brand, logo",
+      "unicode": "f1ce"
+    },
+    {
+      "name": "social-lastfm",
+      "tags": "brand, logo",
+      "unicode": "f1cf"
+    },
+    {
+      "name": "social-linkedin",
+      "tags": "brand, logo",
+      "unicode": "f1d0"
+    },
+    {
+      "name": "social-medium",
+      "tags": "brand, logo",
+      "unicode": "f1d1"
+    },
+    {
+      "name": "social-myspace",
+      "tags": "brand, logo",
+      "unicode": "f1d2"
+    },
+    {
+      "name": "social-orkut",
+      "tags": "brand, logo",
+      "unicode": "f1d3"
+    },
+    {
+      "name": "social-path",
+      "tags": "brand, logo",
+      "unicode": "f1d4"
+    },
+    {
+      "name": "social-picasa",
+      "tags": "brand, logo",
+      "unicode": "f1d5"
+    },
+    {
+      "name": "social-pinterest",
+      "tags": "brand, logo",
+      "unicode": "f1d6"
+    },
+    {
+      "name": "social-rdio",
+      "tags": "brand, logo",
+      "unicode": "f1d7"
+    },
+    {
+      "name": "social-reddit",
+      "tags": "brand, logo",
+      "unicode": "f1d8"
+    },
+    {
+      "name": "social-skype",
+      "tags": "brand, logo",
+      "unicode": "f1d9"
+    },
+    {
+      "name": "social-skillshare",
+      "tags": "brand, logo",
+      "unicode": "f1da"
+    },
+    {
+      "name": "social-smashing-mag",
+      "tags": "brand, logo",
+      "unicode": "f1db"
+    },
+    {
+      "name": "social-snapchat",
+      "tags": "brand, logo",
+      "unicode": "f1dc"
+    },
+    {
+      "name": "social-spotify",
+      "tags": "brand, logo",
+      "unicode": "f1dd"
+    },
+    {
+      "name": "social-squidoo",
+      "tags": "brand, logo",
+      "unicode": "f1de"
+    },
+    {
+      "name": "social-stack-overflow",
+      "tags": "brand, logo",
+      "unicode": "f1df"
+    },
+    {
+      "name": "social-steam",
+      "tags": "brand, logo",
+      "unicode": "f1e0"
+    },
+    {
+      "name": "social-stumbleupon",
+      "tags": "brand, logo",
+      "unicode": "f1e1"
+    },
+    {
+      "name": "social-treehouse",
+      "tags": "brand, logo",
+      "unicode": "f1e2"
+    },
+    {
+      "name": "social-tumblr",
+      "tags": "brand, logo",
+      "unicode": "f1e3"
+    },
+    {
+      "name": "social-twitter",
+      "tags": "brand, logo",
+      "unicode": "f1e4"
+    },
+    {
+      "name": "social-vimeo",
+      "tags": "brand, logo",
+      "unicode": "f1e5"
+    },
+    {
+      "name": "social-windows",
+      "tags": "brand, logo",
+      "unicode": "f1e6"
+    },
+    {
+      "name": "social-xbox",
+      "tags": "brand, logo",
+      "unicode": "f1e7"
+    },
+    {
+      "name": "social-yahoo",
+      "tags": "brand, logo",
+      "unicode": "f1e8"
+    },
+    {
+      "name": "social-yelp",
+      "tags": "brand, logo",
+      "unicode": "f1e9"
+    },
+    {
+      "name": "social-youtube",
+      "tags": "brand, logo",
+      "unicode": "f1ea"
+    },
+    {
+      "name": "social-zerply",
+      "tags": "brand, logo",
+      "unicode": "f1eb"
+    },
+    {
+      "name": "social-zurb",
+      "tags": "brand, logo",
+      "unicode": "f1ec"
+    },
+    {
+      "name": "sound",
+      "tags": "audio",
+      "unicode": "f1ed"
+    },
+    {
+      "name": "star",
+      "tags": "rating",
+      "unicode": "f1ee"
+    },
+    {
+      "name": "stop",
+      "unicode": "f1ef"
+    },
+    {
+      "name": "strikethrough",
+      "tags": "text",
+      "unicode": "f1f0"
+    },
+    {
+      "name": "subscript",
+      "tags": "text",
+      "unicode": "f1f1"
+    },
+    {
+      "name": "superscript",
+      "tags": "text",
+      "unicode": "f1f2"
+    },
+    {
+      "name": "tablet-portrait",
+      "tags": "ipad",
+      "unicode": "f1f3"
+    },
+    {
+      "name": "tablet-landscape",
+      "tags": "ipad",
+      "unicode": "f1f4"
+    },
+    {
+      "name": "target",
+      "tags": "bullseye",
+      "unicode": "f1f6"
+    },
+    {
+      "name": "target-two",
+      "tags": "aim, reticle",
+      "unicode": "f1f5"
+    },
+    {
+      "name": "telephone",
+      "unicode": "f1f8"
+    },
+    {
+      "name": "telephone-accessible",
+      "unicode": "f1f7"
+    },
+    {
+      "name": "text-color",
+      "unicode": "f1f9"
+    },
+    {
+      "name": "thumbnails",
+      "unicode": "f1fa"
+    },
+    {
+      "name": "ticket",
+      "unicode": "f1fb"
+    },
+    {
+      "name": "trees",
+      "tags": "nature",
+      "unicode": "f205"
+    },
+    {
+      "name": "torso",
+      "tags": "user, person",
+      "unicode": "f1fe"
+    },
+    {
+      "name": "torsos-all",
+      "tags": "users, people",
+      "unicode": "f200"
+    },
+    {
+      "name": "torsos-all-female",
+      "unicode": "f1ff"
+    },
+    {
+      "name": "torso-business",
+      "tags": "user, person",
+      "unicode": "f1fc"
+    },
+    {
+      "name": "torso-female",
+      "tags": "user, person",
+      "unicode": "f1fd"
+    },
+    {
+      "name": "torsos",
+      "tags": "users, people",
+      "unicode": "f1fe"
+    },
+    {
+      "name": "torsos-female-male",
+      "tags": "users, people",
+      "unicode": "f201"
+    },
+    {
+      "name": "torsos-male-female",
+      "tags": "users, people",
+      "unicode": "f202"
+    },
+    {
+      "name": "trash",
+      "tags": "delete",
+      "unicode": "f204"
+    },
+    {
+      "name": "trophy",
+      "tags": "prize, award",
+      "unicode": "f206"
+    },
+    {
+      "name": "underline",
+      "tags": "text",
+      "unicode": "f207"
+    },
+    {
+      "name": "universal-access",
+      "unicode": "f208"
+    },
+    {
+      "name": "unlink",
+      "tags": "chain",
+      "unicode": "f209"
+    },
+    {
+      "name": "unlock",
+      "unicode": "f20a"
+    },
+    {
+      "name": "upload",
+      "unicode": "f20c"
+    },
+    {
+      "name": "upload-cloud",
+      "unicode": ""
+    },
+    {
+      "name": "usb",
+      "unicode": "f20b"
+    },
+    {
+      "name": "video",
+      "tags": "camera",
+      "unicode": "f20e"
+    },
+    {
+      "name": "volume",
+      "unicode": "f211"
+    },
+    {
+      "name": "volume-none",
+      "unicode": "f20f"
+    },
+    {
+      "name": "volume-strike",
+      "unicode": "f210"
+    },
+    {
+      "name": "web",
+      "tags": "earth, planet, globe",
+      "unicode": "f212"
+    },
+    {
+      "name": "wheelchair",
+      "tags": "handicap",
+      "unicode": "f213"
+    },
+    {
+      "name": "widget",
+      "tags": "gear, cog, settings",
+      "unicode": "f214"
+    },
+    {
+      "name": "wrench",
+      "tags": "tools",
+      "unicode": "f215"
+    },
+    {
+      "name": "x",
+      "tags": "close",
+      "unicode": "f217"
+    },
+    {
+      "name": "x-circle",
+      "tags": "delete, remove",
+      "unicode": "f216"
+    },
+    {
+      "name": "yen",
+      "tags": "money, currency",
+      "unicode": "f218"
+    },
+    {
+      "name": "zoom-in",
+      "tags": "magnifying glass",
+      "unicode": "f219"
+    },
+    {
+      "name": "zoom-out",
+      "tags": "magnifying glass",
+      "unicode": "f21a"
     }
   ]
 }
