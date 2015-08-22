@@ -1,17 +1,17 @@
 module.exports = function(grunt) {
   grunt.initConfig({
     'merge-json': {
-        icons: {
-            src: [ "data/icons-*.json" ],
-            dest: "data/icons.json"
-        }
+      icons: {
+          src: [ "data/icons-*.json" ],
+          dest: "data/icons.json"
+      }
     },
     'compile-handlebars': {
-        remote: {
-          template: 'templates/batch.handlebars',
-          templateData: 'data/icons.json',
-          output: 'data/batch.json'
-        }
+      remote: {
+        template: 'templates/batch.handlebars',
+        templateData: 'data/icons.json',
+        output: 'data/batch.json'
+      }
     }
   });
 
