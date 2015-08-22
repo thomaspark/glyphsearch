@@ -1,12 +1,12 @@
 (function() {
   var iconsIndex = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").initIndex('icons'),
-    innerTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-3" data-unicode="{{{unicode}}}">' +
+    innerTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-3" data-name={{{name}}} data-unicode="{{{unicode}}}">' +
       '<div class="description">{{{class}}}</div>' +
       '<div class="thumb">{{{html}}}</div>' +
       '<div class="name">{{{_highlightResult.name.value}}}</div>' +
       '<div class="tags hidden-xs">{{{_highlightResult.tags.value}}}</div>' +
       '</div>',
-    allTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-3" data-unicode="{{{unicode}}}">' +
+    allTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-3" data-name={{{name}}} data-unicode="{{{unicode}}}">' +
       '<div class="description">{{{class}}}</div>' +
       '<div class="thumb">{{{html}}}</i></div>' +
       '<div class="name">{{{name}}}</div>' +
@@ -196,7 +196,7 @@
         } else if (state.copy === "class") {
           copy = target.find(".description").html();
         } else if (state.copy === "name") {
-          copy = target.find(".name").html();
+          copy = target.attr("data-name");
         } else if (state.copy === "unicode") {
           if (target.find("i").hasClass("material-icons")) {
             copy = target.attr("data-unicode");
