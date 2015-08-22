@@ -194,11 +194,10 @@ body.all .header {
 .header h1 {
   display: inline-block;
   width: 100%;
-  padding: 6px 10px;
+  padding: 7px 10px 6px;
   margin: 0;
-  background-color: #34495e;
+  background-color: #ECF0F1;
   text-align: center;
-  color: #fff;
   font-size: 12px;
   line-height: 1.5;
   -webkit-transition: all 1s;
@@ -209,8 +208,6 @@ body.all .header {
 
 .header.fixedsticky-on h1 {
   border-radius: 0 0 6px 0;
-  background-color: #ECF0F1;
-  color: inherit;
 }
 
 .entry {
