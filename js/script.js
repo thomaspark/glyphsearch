@@ -53,8 +53,7 @@
       $(".section#" + library).removeClass("hide");
     }
 
-    history.replaceState(null, "GlyphSearch", "?" + $.param(qs));
-    window.scrollTo(0, 0);
+    updateURL(qs);
   }
 
   function search(v) {
@@ -89,8 +88,7 @@
       delete qs.query;
     }
 
-    history.replaceState(null, "GlyphSearch", "?" + $.param(qs));
-    window.scrollTo(0, 0);
+    updateURL(qs);
   }
 
   function generate(data, template, output) {
@@ -128,6 +126,18 @@
 
   function refreshSticky() {
     $(".header").fixedsticky("destroy").fixedsticky();
+  }
+
+  function updateURL(qs) {
+    qs = $.param(qs);
+
+    if (qs.length === 0) {
+      history.replaceState(null, "GlyphSearch", "./");
+    } else {
+      history.replaceState(null, "GlyphSearch", "?" + qs);
+    }
+
+    window.scrollTo(0, 0);
   }
 
   function handlers() {
