@@ -146,6 +146,11 @@ hr {
   color: #fff;
 }
 
+.title a {
+  color: #fff;
+  font-weight: 300;
+}
+
 .size {
   float: right;
   margin-bottom: 15px;
