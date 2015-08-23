@@ -1,28 +1,27 @@
 # GlyphSearch
-Visit [GlyphSearch](http://glyphsearch.com) to search for icons from [Font Awesome](http://fontawesome.io), [Glyphicons](http://glyphicons.com), [IcoMoon](http://icomoon.io/), [Ionicons](http://ionicons.com), and [Octicons](http://octicons.github.com/).
+
+Search for icons from Font Awesome, Foundation, Glyphicons, IcoMoon, Ionicons, Material Design, and Octicons at [glyphsearch.com](http://glyphsearch.com).
 
 ## Build
 
 Run `grunt build` to build after you've modified the icon data in `/data`.
 
-
 ## Author
 
 Thomas Park
 
-* hello@thomaspark.me
+* http://thomaspark.co
 * http://twitter.com/thomashpark
 * https://github.com/thomaspark
-* http://thomaspark.me
 
 ## Credits
 
-Thanks to the creators of:
+Thanks to the [contributors](https://github.com/thomaspark/glyphsearch/graphs/contributors) and the creators of:
 
 * [Font Awesome](http://fontawesome.io)
+* [Foundation](http://zurb.com/playground/foundation-icon-fonts-3)
 * [Glyphicons](http://glyphicons.com)
 * [IcoMoon](http://icomoon.io/)
 * [Ionicons](http://ionicons.com)
+* [Material Design](https://www.google.com/design/icons/)
 * [Octicons](http://octicons.github.com/)
-
-And the [contributors](https://github.com/thomaspark/glyphsearch/graphs/contributors).
