@@ -198,25 +198,8 @@
       flashEnabled = true;
 
       clip.on("copy", function(e) {
-        var target = $(e.target);
-        var copy;
-
-        if (state.copy === "markup") {
-          copy = target.find(".thumb").html();
-        } else if (state.copy === "class") {
-          copy = target.find(".description").html();
-        } else if (state.copy === "name") {
-          copy = target.attr("data-name");
-        } else if (state.copy === "unicode") {
-          if (target.find("i").hasClass("material-icons")) {
-            copy = target.attr("data-unicode");
-          } else {
-            var hex = target.attr("data-unicode");
-            copy = String.fromCharCode(parseInt(hex, 16));
-          }
-        }
-
-        e.clipboardData.setData("text/plain", copy);
+        var text = copyText($(e.target));
+        e.clipboardData.setData("text/plain", text);
       });
 
       clip.on("aftercopy", function(e) {
@@ -238,13 +221,32 @@
     });
 
     clip.on("error", function(e) {
-      console.log(e);
-
-      $(".icons").on("click", ".entry", function(){
-        var name = $(this).find(".description").text();
-        window.prompt("Copy to clipboard:", name);
+      $(".icons").on("click", ".entry", function() {
+        var text = copyText($(this));
+        window.prompt("Copy to clipboard:", text);
       });
     });
+  }
+
+  function copyText(target) {
+    var text;
+
+    if (state.copy === "markup") {
+      text = target.find(".thumb").html();
+    } else if (state.copy === "class") {
+      text = target.find(".description").html();
+    } else if (state.copy === "name") {
+      text = target.attr("data-name");
+    } else if (state.copy === "unicode") {
+      if (target.find("i").hasClass("material-icons")) {
+        text = target.attr("data-unicode");
+      } else {
+        var hex = target.attr("data-unicode");
+        text = String.fromCharCode(parseInt(hex, 16));
+      }
+    }
+
+    return text;
   }
 
   function setState(prop, val) {
