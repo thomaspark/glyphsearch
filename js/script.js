@@ -57,6 +57,21 @@
     updateURL(qs);
   }
 
+  function setCopy(copy) {
+    var qs = $.url().param();
+    copy = copy || "markup";
+
+    $("#copy > .btn").removeClass("active");
+    $("[data-copy='" + copy + "']").addClass("active");
+
+    if (copy == "markup") {
+      delete qs.copy;
+	} else {
+      qs.copy = copy;
+	}
+    updateURL(qs);
+  }
+
   function search(v) {
     v = v || "";
     v = $.trim(v);
@@ -253,6 +268,8 @@
   function setState(prop, val) {
     if (prop == "library") {
       setLibrary(val);
+    } else if (prop == "copy") {
+      setCopy(val);
     } else if (prop == "query") {
       search(val);
     }
