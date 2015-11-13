@@ -26,6 +26,7 @@
 
   var qs = $.url().param();
   setState("library", qs.library);
+  setState("copy", qs.copy);
 
   $.getJSON("./data/batch.json", function(data) {
     generate(data, allTemplateCompiled, icons);
