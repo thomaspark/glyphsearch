@@ -25,14 +25,14 @@
   };
 
   var qs = $.url().param();
-  setState("library", qs.library);
-  setState("copy", qs.copy);
+  setState("library", qs.library || "all");
+  setState("copy", qs.copy || "markup");
 
   $.getJSON("./data/batch.json", function(data) {
     generate(data, allTemplateCompiled, icons);
     handlers();
 
-    setState("query", qs.query);
+    setState("query", qs.query || "");
   });
 
   function setLibrary(library) {
