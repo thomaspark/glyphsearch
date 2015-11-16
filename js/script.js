@@ -37,7 +37,6 @@
 
   function setLibrary(library) {
     var qs = $.url().param();
-    library = library || "all";
 
     $("#libraries > .btn").removeClass("active");
     $("[data-library='" + library + "']").addClass("active");
@@ -59,16 +58,16 @@
 
   function setCopy(copy) {
     var qs = $.url().param();
-    copy = copy || "markup";
 
     $("#copy > .btn").removeClass("active");
     $("[data-copy='" + copy + "']").addClass("active");
 
     if (copy == "markup") {
       delete qs.copy;
-	} else {
+    } else {
       qs.copy = copy;
-	}
+    }
+
     updateURL(qs);
   }
 
@@ -288,4 +287,3 @@
     };
   }
 }());
-
