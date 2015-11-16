@@ -25,13 +25,14 @@
   };
 
   var qs = $.url().param();
-  setState("library", qs.library);
+  setState("library", qs.library || "all");
+  setState("copy", qs.copy || "markup");
 
   $.getJSON("./data/batch.json", function(data) {
     generate(data, allTemplateCompiled, icons);
     handlers();
 
-    setState("query", qs.query);
+    setState("query", qs.query || "");
   });
 
   function setLibrary(library) {
@@ -53,6 +54,21 @@
       $(".section#" + library).removeClass("hide");
     }
 
+    updateURL(qs);
+  }
+
+  function setCopy(copy) {
+    var qs = $.url().param();
+    copy = copy || "markup";
+
+    $("#copy > .btn").removeClass("active");
+    $("[data-copy='" + copy + "']").addClass("active");
+
+    if (copy == "markup") {
+      delete qs.copy;
+	} else {
+      qs.copy = copy;
+	}
     updateURL(qs);
   }
 
@@ -252,6 +268,8 @@
   function setState(prop, val) {
     if (prop == "library") {
       setLibrary(val);
+    } else if (prop == "copy") {
+      setCopy(val);
     } else if (prop == "query") {
       search(val);
     }
