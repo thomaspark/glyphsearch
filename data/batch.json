@@ -529,6 +529,22 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "bluetooth",
+    "tags": "logo",
+    "class": "fa fa-bluetooth",
+    "html": "<i class=\"fa fa-bluetooth\"></i>",
+    "unicode": "f293"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "bluetooth-b",
+    "tags": "logo",
+    "class": "fa fa-bluetooth-b",
+    "html": "<i class=\"fa fa-bluetooth-b\"></i>",
+    "unicode": "f294"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "bold",
     "tags": "text editor",
     "class": "fa fa-bold",
@@ -1121,6 +1137,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "codiepie",
+    "tags": "brand, logo",
+    "class": "fa fa-codiepie",
+    "html": "<i class=\"fa fa-codiepie\"></i>",
+    "unicode": "f284"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "coffee",
     "tags": "cup, drink, mug",
     "class": "fa fa-coffee",
@@ -1254,6 +1278,14 @@
     "class": "fa fa-credit-card",
     "html": "<i class=\"fa fa-credit-card\"></i>",
     "unicode": "f09d"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "credit-card-alt",
+    "tags": "money, payment",
+    "class": "fa fa-credit-card-alt",
+    "html": "<i class=\"fa fa-credit-card-alt\"></i>",
+    "unicode": "f283"
   },
   {
     "_tags": ["font-awesome"],
@@ -1398,6 +1430,14 @@
     "class": "fa fa-drupal",
     "html": "<i class=\"fa fa-drupal\"></i>",
     "unicode": "f1a9"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "edge",
+    "tags": "brand, browser, logo",
+    "class": "fa fa-edge",
+    "html": "<i class=\"fa fa-edge\"></i>",
+    "unicode": "f282"
   },
   {
     "_tags": ["font-awesome"],
@@ -1873,6 +1913,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "fort-awesome",
+    "tags": "brand, castle, logo",
+    "class": "fa fa-fort-awesome",
+    "html": "<i class=\"fa fa-fort-awesome\"></i>",
+    "unicode": "f286"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "forumbee",
     "tags": "brand, logo",
     "class": "fa fa-forumbee",
@@ -2182,6 +2230,14 @@
     "class": "fa fa-hand-spock-o",
     "html": "<i class=\"fa fa-hand-spock-o\"></i>",
     "unicode": "f259"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "hashtag",
+    "tags": "pound",
+    "class": "fa fa-hashtag",
+    "html": "<i class=\"fa fa-hashtag\"></i>",
+    "unicode": "f292"
   },
   {
     "_tags": ["font-awesome"],
@@ -2857,11 +2913,27 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "mixcloud",
+    "tags": "brand, logo",
+    "class": "fa fa-mixcloud",
+    "html": "<i class=\"fa fa-mixcloud\"></i>",
+    "unicode": "f289"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "mobile",
     "tags": "phone",
     "class": "fa fa-mobile",
     "html": "<i class=\"fa fa-mobile\"></i>",
     "unicode": "f10b"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "modx",
+    "tags": "brand, logo",
+    "class": "fa fa-modx",
+    "html": "<i class=\"fa fa-modx\"></i>",
+    "unicode": "f285"
   },
   {
     "_tags": ["font-awesome"],
@@ -3049,6 +3121,22 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "pause-circle",
+    "tags": "video player",
+    "class": "fa fa-pause-circle",
+    "html": "<i class=\"fa fa-pause-circle\"></i>",
+    "unicode": "f28b"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "pause-circle-o",
+    "tags": "video player",
+    "class": "fa fa-pause-circle-o",
+    "html": "<i class=\"fa fa-pause-circle-o\"></i>",
+    "unicode": "f28c"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "paw",
     "tags": "animal, pet, print",
     "class": "fa fa-paw",
@@ -3086,6 +3174,14 @@
     "class": "fa fa-pencil-square-o",
     "html": "<i class=\"fa fa-pencil-square-o\"></i>",
     "unicode": "f044"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "percent",
+    "tags": "",
+    "class": "fa fa-percent",
+    "html": "<i class=\"fa fa-percent\"></i>",
+    "unicode": "f295"
   },
   {
     "_tags": ["font-awesome"],
@@ -3249,6 +3345,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "product-hunt",
+    "tags": "brand, logo",
+    "class": "fa fa-product-hunt",
+    "html": "<i class=\"fa fa-product-hunt\"></i>",
+    "unicode": "f288"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "puzzle-piece",
     "tags": "jigsaw",
     "class": "fa fa-puzzle-piece",
@@ -3334,6 +3438,14 @@
     "class": "fa fa-reddit",
     "html": "<i class=\"fa fa-reddit\"></i>",
     "unicode": "f1a1"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "reddit-alien",
+    "tags": "brand, logo, alien, social",
+    "class": "fa fa-reddit-alien",
+    "html": "<i class=\"fa fa-reddit-alien\"></i>",
+    "unicode": "f281"
   },
   {
     "_tags": ["font-awesome"],
@@ -3457,6 +3569,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "scribd",
+    "tags": "brand, logo",
+    "class": "fa fa-scribd",
+    "html": "<i class=\"fa fa-scribd\"></i>",
+    "unicode": "f28a"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "search",
     "tags": "find, magnifying glass",
     "class": "fa fa-search",
@@ -3558,6 +3678,22 @@
     "class": "fa fa-shirtsinbulk",
     "html": "<i class=\"fa fa-shirtsinbulk\"></i>",
     "unicode": "f214"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "shopping-bag",
+    "tags": "purse",
+    "class": "fa fa-shopping-bag",
+    "html": "<i class=\"fa fa-shopping-bag\"></i>",
+    "unicode": "f290"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "shopping-baseket",
+    "tags": "",
+    "class": "fa fa-shopping-baseket",
+    "html": "<i class=\"fa fa-shopping-baseket\"></i>",
+    "unicode": "f291"
   },
   {
     "_tags": ["font-awesome"],
@@ -3894,6 +4030,22 @@
     "class": "fa fa-stop",
     "html": "<i class=\"fa fa-stop\"></i>",
     "unicode": "f04d"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "stop-circle",
+    "tags": "video player",
+    "class": "fa fa-stop-circle",
+    "html": "<i class=\"fa fa-stop-circle\"></i>",
+    "unicode": "f28d"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "stop-circle-o",
+    "tags": "video player",
+    "class": "fa fa-stop-circle-o",
+    "html": "<i class=\"fa fa-stop-circle-o\"></i>",
+    "unicode": "f28e"
   },
   {
     "_tags": ["font-awesome"],
@@ -4382,6 +4534,14 @@
     "class": "fa fa-upload",
     "html": "<i class=\"fa fa-upload\"></i>",
     "unicode": "f093"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "usb",
+    "tags": "",
+    "class": "fa fa-usb",
+    "html": "<i class=\"fa fa-usb\"></i>",
+    "unicode": "f287"
   },
   {
     "_tags": ["font-awesome"],

@@ -325,6 +325,16 @@
       "unicode": "f27e"
     },
     {
+      "name": "bluetooth",
+      "tags": "logo",
+      "unicode": "f293"
+    },
+    {
+      "name": "bluetooth-b",
+      "tags": "logo",
+      "unicode": "f294"
+    },
+    {
       "name": "bold",
       "tags": "text editor",
       "unicode": "f032"
@@ -680,6 +690,11 @@
       "unicode": "f1cb"
     },
     {
+      "name": "codiepie",
+      "tags": "brand, logo",
+      "unicode": "f284"
+    },
+    {
       "name": "coffee",
       "tags": "cup, drink, mug",
       "unicode": "f0f4"
@@ -764,6 +779,11 @@
       "unicode": "f09d"
     },
     {
+      "name": "credit-card-alt",
+      "tags": "money, payment",
+      "unicode": "f283"
+    },
+    {
       "name": "crop",
       "unicode": "f125"
     },
@@ -846,6 +866,11 @@
       "name": "drupal",
       "tags": "brand, logo",
       "unicode": "f1a9"
+    },
+    {
+      "name": "edge",
+      "tags": "brand, browser, logo",
+      "unicode": "f282"
     },
     {
       "name": "eject",
@@ -1122,6 +1147,11 @@
       "unicode": "f280"
     },
     {
+      "name": "fort-awesome",
+      "tags": "brand, castle, logo",
+      "unicode": "f286"
+    },
+    {
       "name": "forumbee",
       "tags": "brand, logo",
       "unicode": "f211"
@@ -1315,6 +1345,11 @@
       "name": "hand-spock-o",
       "tags": "",
       "unicode": "f259"
+    },
+    {
+      "name": "hashtag",
+      "tags": "pound",
+      "unicode": "f292"
     },
     {
       "name": "hdd-o",
@@ -1727,9 +1762,19 @@
       "unicode": "f147"
     },
     {
+      "name": "mixcloud",
+      "tags": "brand, logo",
+      "unicode": "f289"
+    },
+    {
       "name": "mobile",
       "tags": "phone",
       "unicode": "f10b"
+    },
+    {
+      "name": "modx",
+      "tags": "brand, logo",
+      "unicode": "f285"
     },
     {
       "name": "money",
@@ -1845,6 +1890,16 @@
       "unicode": "f04c"
     },
     {
+      "name": "pause-circle",
+      "tags": "video player",
+      "unicode": "f28b"
+    },
+    {
+      "name": "pause-circle-o",
+      "tags": "video player",
+      "unicode": "f28c"
+    },
+    {
       "name": "paw",
       "tags": "animal, pet, print",
       "unicode": "f1b0"
@@ -1868,6 +1923,11 @@
       "name": "pencil-square-o",
       "tags": "write, edit",
       "unicode": "f044"
+    },
+    {
+      "name": "percent",
+      "tags": "",
+      "unicode": "f295"
     },
     {
       "name": "phone",
@@ -1969,6 +2029,11 @@
       "unicode": "f02f"
     },
     {
+      "name": "product-hunt",
+      "tags": "brand, logo",
+      "unicode": "f288"
+    },
+    {
       "name": "puzzle-piece",
       "tags": "jigsaw",
       "unicode": "f12e"
@@ -2017,6 +2082,11 @@
       "name": "reddit",
       "tags": "brand, logo, alien, social",
       "unicode": "f1a1"
+    },
+    {
+      "name": "reddit-alien",
+      "tags": "brand, logo, alien, social",
+      "unicode": "f281"
     },
     {
       "name": "reddit-square",
@@ -2091,6 +2161,11 @@
       "unicode": "f0c4"
     },
     {
+      "name": "scribd",
+      "tags": "brand, logo",
+      "unicode": "f28a"
+    },
+    {
       "name": "search",
       "tags": "find, magnifying glass",
       "unicode": "f002"
@@ -2152,6 +2227,15 @@
       "name": "shirtsinbulk",
       "tags": "brand, logo",
       "unicode": "f214"
+    },
+    {
+      "name": "shopping-bag",
+      "tags": "purse",
+      "unicode": "f290"
+    },
+    {
+      "name": "shopping-baseket",
+      "unicode": "f291"
     },
     {
       "name": "shopping-cart",
@@ -2349,6 +2433,16 @@
       "name": "stop",
       "tags": "video player, square",
       "unicode": "f04d"
+    },
+    {
+      "name": "stop-circle",
+      "tags": "video player",
+      "unicode": "f28d"
+    },
+    {
+      "name": "stop-circle-o",
+      "tags": "video player",
+      "unicode": "f28e"
     },
     {
       "name": "street-view",
@@ -2643,6 +2737,10 @@
     {
       "name": "upload",
       "unicode": "f093"
+    },
+    {
+      "name": "usb",
+      "unicode": "f287"
     },
     {
       "name": "usd",
