@@ -3689,10 +3689,10 @@
   },
   {
     "_tags": ["font-awesome"],
-    "name": "shopping-baseket",
+    "name": "shopping-basket",
     "tags": "",
-    "class": "fa fa-shopping-baseket",
-    "html": "<i class=\"fa fa-shopping-baseket\"></i>",
+    "class": "fa fa-shopping-basket",
+    "html": "<i class=\"fa fa-shopping-basket\"></i>",
     "unicode": "f291"
   },
   {
