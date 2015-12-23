@@ -27,14 +27,15 @@
     "**/.*",
     "bower_components"
   ],
-  "version": "3.1.0",
-  "_release": "3.1.0",
+  "version": "3.3.0",
+  "_release": "3.3.0",
   "_resolution": {
     "type": "version",
-    "tag": "v3.1.0",
-    "commit": "d622851e97c343192bed957b33434ae32e7dc775"
+    "tag": "v3.3.0",
+    "commit": "92efb667ddcc179ab75c1ba6cf5d7971faf84dcd"
   },
   "_source": "git://github.com/github/octicons.git",
-  "_target": "3.1.0",
-  "_originalSource": "octicons"
+  "_target": "~3.3.0",
+  "_originalSource": "octicons",
+  "_direct": true
 }

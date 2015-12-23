@@ -56,6 +56,11 @@
       "unicode": "f0de"
     },
     {
+      "name": "bold",
+      "tags": "text editor",
+      "unicode": "f0e2"
+    },
+    {
       "name": "book",
       "tags": "book, journal, wiki, readme",
       "unicode": "f007"
@@ -421,6 +426,11 @@
       "unicode": "f027"
     },
     {
+      "name": "italic",
+      "tags": "text editor",
+      "unicode": "f0e4"
+    },
+    {
       "name": "jersey",
       "tags": "basketball, shirt, sport, uniform",
       "unicode": "f019"
@@ -474,6 +484,11 @@
       "name": "lock",
       "tags": "security",
       "unicode": "f06a"
+    },
+    {
+      "name": "logo-gist",
+      "tags": "brand",
+      "unicode": "f0ad"
     },
     {
       "name": "logo-github",
@@ -661,16 +676,6 @@
       "unicode": "f047"
     },
     {
-      "name": "screen-full",
-      "tags": "view",
-      "unicode": "f066"
-    },
-    {
-      "name": "screen-normal",
-      "tags": "view",
-      "unicode": "f067"
-    },
-    {
       "name": "search",
       "tags": "find, magnifying glass",
       "unicode": "f02e"
@@ -726,6 +731,11 @@
       "unicode": "f015"
     },
     {
+      "name": "tasklist",
+      "tags": "",
+      "unicode": "f0e5"
+    },
+    {
       "name": "telescope",
       "tags": "science, view, explore",
       "unicode": "f088"
@@ -734,6 +744,11 @@
       "name": "terminal",
       "tags": "console, shell",
       "unicode": "f0c8"
+    },
+    {
+      "name": "text-size",
+      "tags": "font",
+      "unicode": "f0e3"
     },
     {
       "name": "three-bars",

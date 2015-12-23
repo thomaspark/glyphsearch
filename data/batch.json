@@ -25063,6 +25063,14 @@
   },
   {
     "_tags": ["octicons"],
+    "name": "bold",
+    "tags": "text editor",
+    "class": "mega-octicon octicon-bold",
+    "html": "<i class=\"mega-octicon octicon-bold\"></i>",
+    "unicode": "f0e2"
+  },
+  {
+    "_tags": ["octicons"],
     "name": "book",
     "tags": "book, journal, wiki, readme",
     "class": "mega-octicon octicon-book",
@@ -25647,6 +25655,14 @@
   },
   {
     "_tags": ["octicons"],
+    "name": "italic",
+    "tags": "text editor",
+    "class": "mega-octicon octicon-italic",
+    "html": "<i class=\"mega-octicon octicon-italic\"></i>",
+    "unicode": "f0e4"
+  },
+  {
+    "_tags": ["octicons"],
     "name": "jersey",
     "tags": "basketball, shirt, sport, uniform",
     "class": "mega-octicon octicon-jersey",
@@ -25732,6 +25748,14 @@
     "class": "mega-octicon octicon-lock",
     "html": "<i class=\"mega-octicon octicon-lock\"></i>",
     "unicode": "f06a"
+  },
+  {
+    "_tags": ["octicons"],
+    "name": "logo-gist",
+    "tags": "brand",
+    "class": "mega-octicon octicon-logo-gist",
+    "html": "<i class=\"mega-octicon octicon-logo-gist\"></i>",
+    "unicode": "f0ad"
   },
   {
     "_tags": ["octicons"],
@@ -26031,22 +26055,6 @@
   },
   {
     "_tags": ["octicons"],
-    "name": "screen-full",
-    "tags": "view",
-    "class": "mega-octicon octicon-screen-full",
-    "html": "<i class=\"mega-octicon octicon-screen-full\"></i>",
-    "unicode": "f066"
-  },
-  {
-    "_tags": ["octicons"],
-    "name": "screen-normal",
-    "tags": "view",
-    "class": "mega-octicon octicon-screen-normal",
-    "html": "<i class=\"mega-octicon octicon-screen-normal\"></i>",
-    "unicode": "f067"
-  },
-  {
-    "_tags": ["octicons"],
     "name": "search",
     "tags": "find, magnifying glass",
     "class": "mega-octicon octicon-search",
@@ -26135,6 +26143,14 @@
   },
   {
     "_tags": ["octicons"],
+    "name": "tasklist",
+    "tags": "",
+    "class": "mega-octicon octicon-tasklist",
+    "html": "<i class=\"mega-octicon octicon-tasklist\"></i>",
+    "unicode": "f0e5"
+  },
+  {
+    "_tags": ["octicons"],
     "name": "telescope",
     "tags": "science, view, explore",
     "class": "mega-octicon octicon-telescope",
@@ -26148,6 +26164,14 @@
     "class": "mega-octicon octicon-terminal",
     "html": "<i class=\"mega-octicon octicon-terminal\"></i>",
     "unicode": "f0c8"
+  },
+  {
+    "_tags": ["octicons"],
+    "name": "text-size",
+    "tags": "font",
+    "class": "mega-octicon octicon-text-size",
+    "html": "<i class=\"mega-octicon octicon-text-size\"></i>",
+    "unicode": "f0e3"
   },
   {
     "_tags": ["octicons"],
