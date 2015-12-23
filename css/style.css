@@ -199,11 +199,12 @@ body.all .header {
 .header h1 {
   display: inline-block;
   width: 100%;
-  padding: 7px 10px 6px;
+  padding: 7px 6px 6px;
   margin: 0;
-  background-color: #ECF0F1;
+  background-color: rgba(236, 240, 241, 0.9);
   text-align: center;
   font-size: 12px;
+  font-weight: bold;
   line-height: 1.5;
   -webkit-transition: all 1s;
   -moz-transition: all 1s;
