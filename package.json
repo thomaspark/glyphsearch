@@ -21,5 +21,13 @@
     "grunt-compile-handlebars": "~0.6.2",
     "algolia-search": "~1.2.1",
     "grunt-merge-json": "~0.9.4"
+  },
+  "devDependencies": {
+    "grunt-cli": "latest",
+    "http-server": "latest"
+  },
+  "scripts": {
+    "build": "./node_modules/.bin/grunt build",
+    "start": "./node_modules/.bin/http-server -p 3000"
   }
 }
