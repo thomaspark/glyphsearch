@@ -252,6 +252,10 @@
       text = target.find(".description").html();
     } else if (state.copy === "name") {
       text = target.attr("data-name");
+    } else if (state.copy === "htmlentity") {
+      // "HTMLEntity": `f123` => `&#xf123;`
+      var unicode = target.attr("data-unicode");
+      text = ['&#x', unicode, ';'].join('')
     } else if (state.copy === "unicode") {
       if (target.find("i").hasClass("material-icons")) {
         text = target.attr("data-unicode");
