@@ -18650,7 +18650,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">3d_rotation</i>",
-    "unicode": "3d_rotation"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18658,7 +18658,7 @@
     "tags": "clock, reminder",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">access_alarm</i>",
-    "unicode": "access_alarm"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18666,7 +18666,7 @@
     "tags": "clock, reminder",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">access_alarms</i>",
-    "unicode": "access_alarms"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18674,7 +18674,7 @@
     "tags": "clock, timer",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">access_time</i>",
-    "unicode": "access_time"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18682,7 +18682,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">accessibility</i>",
-    "unicode": "accessibility"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18690,7 +18690,7 @@
     "tags": "bank, building",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">account_balance</i>",
-    "unicode": "account_balance"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18698,7 +18698,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">account_balance_wallet</i>",
-    "unicode": "account_balance_wallet"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18706,7 +18706,7 @@
     "tags": "avatar, user",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">account_box</i>",
-    "unicode": "account_box"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18714,7 +18714,7 @@
     "tags": "avatar, user",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">account_circle</i>",
-    "unicode": "account_circle"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18722,7 +18722,7 @@
     "tags": "android bot, brand, logo",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">adb</i>",
-    "unicode": "adb"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18730,7 +18730,7 @@
     "tags": "plus",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">add</i>",
-    "unicode": "add"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18738,7 +18738,7 @@
     "tags": "clock, reminder",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">add_alarm</i>",
-    "unicode": "add_alarm"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18746,7 +18746,7 @@
     "tags": "bell",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">add_alert</i>",
-    "unicode": "add_alert"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18754,7 +18754,7 @@
     "tags": "plus",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">add_box</i>",
-    "unicode": "add_box"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18762,7 +18762,7 @@
     "tags": "plus",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">add_circle</i>",
-    "unicode": "add_circle"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18770,7 +18770,7 @@
     "tags": "plus",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">add_circle_outline</i>",
-    "unicode": "add_circle_outline"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18778,7 +18778,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">add_shopping_cart</i>",
-    "unicode": "add_shopping_cart"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18786,7 +18786,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">add_to_photos</i>",
-    "unicode": "add_to_photos"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18794,7 +18794,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">adjust</i>",
-    "unicode": "adjust"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18802,7 +18802,7 @@
     "tags": "bed",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">airline_seat_flat</i>",
-    "unicode": "airline_seat_flat"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18810,7 +18810,7 @@
     "tags": "bed",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">airline_seat_flat_angled</i>",
-    "unicode": "airline_seat_flat_angled"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18818,7 +18818,7 @@
     "tags": "bed",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">airline_seat_individual_suite</i>",
-    "unicode": "airline_seat_individual_suite"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18826,7 +18826,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">airline_seat_legroom_extra</i>",
-    "unicode": "airline_seat_legroom_extra"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18834,7 +18834,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">airline_seat_legroom_normal</i>",
-    "unicode": "airline_seat_legroom_normal"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18842,7 +18842,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">airline_seat_legroom_reduced</i>",
-    "unicode": "airline_seat_legroom_reduced"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18850,7 +18850,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">airline_seat_recline_extra</i>",
-    "unicode": "airline_seat_recline_extra"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18858,7 +18858,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">airline_seat_recline_normal</i>",
-    "unicode": "airline_seat_recline_normal"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18866,7 +18866,7 @@
     "tags": "jet",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">airplanemode_active</i>",
-    "unicode": "airplanemode_active"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18874,7 +18874,7 @@
     "tags": "jet",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">airplanemode_inactive</i>",
-    "unicode": "airplanemode_inactive"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18882,7 +18882,7 @@
     "tags": "video",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">airplay</i>",
-    "unicode": "airplay"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18890,7 +18890,7 @@
     "tags": "clock",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">alarm</i>",
-    "unicode": "alarm"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18898,7 +18898,7 @@
     "tags": "clock",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">alarm_add</i>",
-    "unicode": "alarm_add"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18906,7 +18906,7 @@
     "tags": "clock",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">alarm_off</i>",
-    "unicode": "alarm_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18914,7 +18914,7 @@
     "tags": "clock",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">alarm_on</i>",
-    "unicode": "alarm_on"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18922,7 +18922,7 @@
     "tags": "music, record, vinyl",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">album</i>",
-    "unicode": "album"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18930,7 +18930,7 @@
     "tags": "brand, logo",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">android</i>",
-    "unicode": "android"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18938,7 +18938,7 @@
     "tags": "alert, speech bubble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">announcement</i>",
-    "unicode": "announcement"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18946,7 +18946,7 @@
     "tags": "grid",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">apps</i>",
-    "unicode": "apps"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18954,7 +18954,7 @@
     "tags": "download, save",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">archive</i>",
-    "unicode": "archive"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18962,7 +18962,7 @@
     "tags": "directional",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">arrow_back</i>",
-    "unicode": "arrow_back"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18970,7 +18970,7 @@
     "tags": "caret",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">arrow_drop_down</i>",
-    "unicode": "arrow_drop_down"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18978,7 +18978,7 @@
     "tags": "caret",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">arrow_drop_down_circle</i>",
-    "unicode": "arrow_drop_down_circle"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18986,7 +18986,7 @@
     "tags": "caret",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">arrow_drop_up</i>",
-    "unicode": "arrow_drop_up"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -18994,7 +18994,7 @@
     "tags": "directional",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">arrow_forward</i>",
-    "unicode": "arrow_forward"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19002,7 +19002,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">aspect_ratio</i>",
-    "unicode": "aspect_ratio"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19010,7 +19010,7 @@
     "tags": "chart, graph",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">assessment</i>",
-    "unicode": "assessment"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19018,7 +19018,7 @@
     "tags": "clipboard",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">assignment</i>",
-    "unicode": "assignment"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19026,7 +19026,7 @@
     "tags": "clipboard",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">assignment_ind</i>",
-    "unicode": "assignment_ind"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19034,7 +19034,7 @@
     "tags": "clipboard",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">assignment_late</i>",
-    "unicode": "assignment_late"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19042,7 +19042,7 @@
     "tags": "clipboard",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">assignment_return</i>",
-    "unicode": "assignment_return"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19050,7 +19050,7 @@
     "tags": "clipboard",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">assignment_returned</i>",
-    "unicode": "assignment_returned"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19058,7 +19058,7 @@
     "tags": "clipboard",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">assignment_turned_in</i>",
-    "unicode": "assignment_turned_in"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19066,7 +19066,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">assistant</i>",
-    "unicode": "assistant"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19074,7 +19074,7 @@
     "tags": "flag",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">assistant_photo</i>",
-    "unicode": "assistant_photo"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19082,7 +19082,7 @@
     "tags": "paperclip",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">attach_file</i>",
-    "unicode": "attach_file"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19090,7 +19090,7 @@
     "tags": "currency, dollar sign, usd",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">attach_money</i>",
-    "unicode": "attach_money"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19098,7 +19098,7 @@
     "tags": "paperclip",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">attachment</i>",
-    "unicode": "attachment"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19106,7 +19106,7 @@
     "tags": "music note",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">audiotrack</i>",
-    "unicode": "audiotrack"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19114,7 +19114,7 @@
     "tags": "refresh, reload",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">autorenew</i>",
-    "unicode": "autorenew"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19122,7 +19122,7 @@
     "tags": "gauge",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">av_timer</i>",
-    "unicode": "av_timer"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19130,7 +19130,7 @@
     "tags": "delete",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">backspace</i>",
-    "unicode": "backspace"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19138,7 +19138,7 @@
     "tags": "cloud, upload",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">backup</i>",
-    "unicode": "backup"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19146,7 +19146,7 @@
     "tags": "power",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">battery_alert</i>",
-    "unicode": "battery_alert"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19154,7 +19154,7 @@
     "tags": "power",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">battery_charging_full</i>",
-    "unicode": "battery_charging_full"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19162,7 +19162,7 @@
     "tags": "power",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">battery_full</i>",
-    "unicode": "battery_full"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19170,7 +19170,7 @@
     "tags": "power",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">battery_std</i>",
-    "unicode": "battery_std"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19178,7 +19178,7 @@
     "tags": "power",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">battery_unknown</i>",
-    "unicode": "battery_unknown"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19186,7 +19186,7 @@
     "tags": "checkmark",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">beenhere</i>",
-    "unicode": "beenhere"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19194,7 +19194,7 @@
     "tags": "prohibited",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">block</i>",
-    "unicode": "block"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19202,7 +19202,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">bluetooth</i>",
-    "unicode": "bluetooth"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19210,7 +19210,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">bluetooth_audio</i>",
-    "unicode": "bluetooth_audio"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19218,7 +19218,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">bluetooth_connected</i>",
-    "unicode": "bluetooth_connected"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19226,7 +19226,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">bluetooth_disabled</i>",
-    "unicode": "bluetooth_disabled"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19234,7 +19234,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">bluetooth_searching</i>",
-    "unicode": "bluetooth_searching"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19242,7 +19242,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">blur_circular</i>",
-    "unicode": "blur_circular"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19250,7 +19250,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">blur_linear</i>",
-    "unicode": "blur_linear"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19258,7 +19258,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">blur_off</i>",
-    "unicode": "blur_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19266,7 +19266,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">blur_on</i>",
-    "unicode": "blur_on"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19274,7 +19274,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">book</i>",
-    "unicode": "book"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19282,7 +19282,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">bookmark</i>",
-    "unicode": "bookmark"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19290,7 +19290,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">bookmark_border</i>",
-    "unicode": "bookmark_border"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19298,7 +19298,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">border_all</i>",
-    "unicode": "border_all"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19306,7 +19306,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">border_bottom</i>",
-    "unicode": "border_bottom"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19314,7 +19314,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">border_clear</i>",
-    "unicode": "border_clear"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19322,7 +19322,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">border_color</i>",
-    "unicode": "border_color"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19330,7 +19330,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">border_horizontal</i>",
-    "unicode": "border_horizontal"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19338,7 +19338,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">border_inner</i>",
-    "unicode": "border_inner"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19346,7 +19346,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">border_left</i>",
-    "unicode": "border_left"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19354,7 +19354,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">border_outer</i>",
-    "unicode": "border_outer"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19362,7 +19362,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">border_right</i>",
-    "unicode": "border_right"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19370,7 +19370,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">border_style</i>",
-    "unicode": "border_style"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19378,7 +19378,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">border_top</i>",
-    "unicode": "border_top"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19386,7 +19386,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">border_vertical</i>",
-    "unicode": "border_vertical"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19394,7 +19394,7 @@
     "tags": "circle, full moon",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">brightness_1</i>",
-    "unicode": "brightness_1"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19402,7 +19402,7 @@
     "tags": "crescent moon",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">brightness_2</i>",
-    "unicode": "brightness_2"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19410,7 +19410,7 @@
     "tags": "crescent moon",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">brightness_3</i>",
-    "unicode": "brightness_3"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19418,7 +19418,7 @@
     "tags": "eclipse, moon, sun",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">brightness_4</i>",
-    "unicode": "brightness_4"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19426,7 +19426,7 @@
     "tags": "sun",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">brightness_5</i>",
-    "unicode": "brightness_5"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19434,7 +19434,7 @@
     "tags": "sun",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">brightness_6</i>",
-    "unicode": "brightness_6"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19442,7 +19442,7 @@
     "tags": "sun",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">brightness_7</i>",
-    "unicode": "brightness_7"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19450,7 +19450,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">brightness_auto</i>",
-    "unicode": "brightness_auto"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19458,7 +19458,7 @@
     "tags": "sun",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">brightness_high</i>",
-    "unicode": "brightness_high"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19466,7 +19466,7 @@
     "tags": "sun",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">brightness_low</i>",
-    "unicode": "brightness_low"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19474,7 +19474,7 @@
     "tags": "sun",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">brightness_medium</i>",
-    "unicode": "brightness_medium"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19482,7 +19482,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">broken_image</i>",
-    "unicode": "broken_image"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19490,7 +19490,7 @@
     "tags": "paintbrush",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">brush</i>",
-    "unicode": "brush"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19498,7 +19498,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">bug_report</i>",
-    "unicode": "bug_report"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19506,7 +19506,7 @@
     "tags": "tool, wrench",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">build</i>",
-    "unicode": "build"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19514,7 +19514,7 @@
     "tags": "buildings",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">business</i>",
-    "unicode": "business"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19522,7 +19522,7 @@
     "tags": "refresh, reload",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">cached</i>",
-    "unicode": "cached"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19530,7 +19530,7 @@
     "tags": "phone, telephone",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">call</i>",
-    "unicode": "call"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19538,7 +19538,7 @@
     "tags": "phone, telephone",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">call_end</i>",
-    "unicode": "call_end"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19546,7 +19546,7 @@
     "tags": "arrow",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">call_made</i>",
-    "unicode": "call_made"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19554,7 +19554,7 @@
     "tags": "arrows, merge",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">call_merge</i>",
-    "unicode": "call_merge"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19562,7 +19562,7 @@
     "tags": "arrow",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">call_missed</i>",
-    "unicode": "call_missed"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19570,7 +19570,7 @@
     "tags": "arrow",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">call_received</i>",
-    "unicode": "call_received"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19578,7 +19578,7 @@
     "tags": "arrows, fork",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">call_split</i>",
-    "unicode": "call_split"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19586,7 +19586,7 @@
     "tags": "birthday",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">cake</i>",
-    "unicode": "cake"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19594,7 +19594,7 @@
     "tags": "shutter",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">camera</i>",
-    "unicode": "camera"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19602,7 +19602,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">camera_alt</i>",
-    "unicode": "camera_alt"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19610,7 +19610,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">camera_front</i>",
-    "unicode": "camera_front"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19618,7 +19618,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">camera_enhance</i>",
-    "unicode": "camera_enhance"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19626,7 +19626,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">camera_rear</i>",
-    "unicode": "camera_rear"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19634,7 +19634,7 @@
     "tags": "film",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">camera_roll</i>",
-    "unicode": "camera_roll"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19642,7 +19642,7 @@
     "tags": "close, remove, x",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">cancel</i>",
-    "unicode": "cancel"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19650,7 +19650,7 @@
     "tags": "present",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">card_giftcard</i>",
-    "unicode": "card_giftcard"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19658,7 +19658,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">card_membership</i>",
-    "unicode": "card_membership"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19666,7 +19666,7 @@
     "tags": "briefcase, luggage, suitcase",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">card_travel</i>",
-    "unicode": "card_travel"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19674,7 +19674,7 @@
     "tags": "broadcast",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">cast</i>",
-    "unicode": "cast"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19682,7 +19682,7 @@
     "tags": "broadcast",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">cast_connected</i>",
-    "unicode": "cast_connected"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19690,7 +19690,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">center_focus_strong</i>",
-    "unicode": "center_focus_strong"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19698,7 +19698,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">center_focus_weak</i>",
-    "unicode": "center_focus_weak"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19706,7 +19706,7 @@
     "tags": "triangle",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">change_history</i>",
-    "unicode": "change_history"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19714,7 +19714,7 @@
     "tags": "speech bubble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">chat</i>",
-    "unicode": "chat"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19722,7 +19722,7 @@
     "tags": "speech bubble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">chat_bubble</i>",
-    "unicode": "chat_bubble"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19730,7 +19730,7 @@
     "tags": "speech bubble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">chat_bubble_outline</i>",
-    "unicode": "chat_bubble_outline"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19738,7 +19738,7 @@
     "tags": "checkmark",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">check</i>",
-    "unicode": "check"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19746,7 +19746,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">check_box</i>",
-    "unicode": "check_box"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19754,7 +19754,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">check_box_outline</i>",
-    "unicode": "check_box_outline"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19762,7 +19762,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">check_circle</i>",
-    "unicode": "check_circle"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19770,7 +19770,7 @@
     "tags": "angle, directional",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">chevron_left</i>",
-    "unicode": "chevron_left"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19778,7 +19778,7 @@
     "tags": "angle, directional",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">chevron_right</i>",
-    "unicode": "chevron_right"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19786,7 +19786,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">chrome_reader_mode</i>",
-    "unicode": "chrome_reader_mode"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19794,7 +19794,7 @@
     "tags": "bookmark",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">class</i>",
-    "unicode": "class"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19802,7 +19802,7 @@
     "tags": "close, x",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">clear</i>",
-    "unicode": "clear"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19810,7 +19810,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">clear_all</i>",
-    "unicode": "clear_all"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19818,7 +19818,7 @@
     "tags": "cancel, remove, x",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">close</i>",
-    "unicode": "close"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19826,7 +19826,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">closed_caption</i>",
-    "unicode": "closed_caption"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19834,7 +19834,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">cloud</i>",
-    "unicode": "cloud"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19842,7 +19842,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">cloud_circle</i>",
-    "unicode": "cloud_circle"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19850,7 +19850,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">cloud_done</i>",
-    "unicode": "cloud_done"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19858,7 +19858,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">cloud_download</i>",
-    "unicode": "cloud_download"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19866,7 +19866,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">cloud_off</i>",
-    "unicode": "cloud_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19874,7 +19874,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">cloud_queue</i>",
-    "unicode": "cloud_queue"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19882,7 +19882,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">cloud_upload</i>",
-    "unicode": "cloud_upload"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19890,7 +19890,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">code</i>",
-    "unicode": "code"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19898,7 +19898,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">collections</i>",
-    "unicode": "collections"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19906,7 +19906,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">collections_bookmark</i>",
-    "unicode": "collections_bookmark"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19914,7 +19914,7 @@
     "tags": "art, paint, palette",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">color_lens</i>",
-    "unicode": "color_lens"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19922,7 +19922,7 @@
     "tags": "eyedropper",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">colorize</i>",
-    "unicode": "colorize"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19930,7 +19930,7 @@
     "tags": "chat, speech bubble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">comment</i>",
-    "unicode": "comment"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19938,7 +19938,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">compare</i>",
-    "unicode": "compare"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19946,7 +19946,7 @@
     "tags": "laptop",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">computer</i>",
-    "unicode": "computer"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19954,7 +19954,7 @@
     "tags": "ticket",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">confirmation_number</i>",
-    "unicode": "confirmation_number"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19962,7 +19962,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">contact_phone</i>",
-    "unicode": "contact_phone"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19970,7 +19970,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">contacts</i>",
-    "unicode": "contacts"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19978,7 +19978,7 @@
     "tags": "clone, copy",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">content_copy</i>",
-    "unicode": "content_copy"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19986,7 +19986,7 @@
     "tags": "scissors",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">content_cut</i>",
-    "unicode": "content_cut"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -19994,7 +19994,7 @@
     "tags": "clipboard",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">content_paste</i>",
-    "unicode": "content_paste"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20002,7 +20002,7 @@
     "tags": "plus",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">control_point</i>",
-    "unicode": "control_point"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20010,7 +20010,7 @@
     "tags": "plus",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">control_point_duplicate</i>",
-    "unicode": "control_point_duplicate"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20018,7 +20018,7 @@
     "tags": "pencil",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">create</i>",
-    "unicode": "create"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20026,7 +20026,7 @@
     "tags": "payment",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">credit_card</i>",
-    "unicode": "credit_card"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20034,7 +20034,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">crop</i>",
-    "unicode": "crop"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20042,7 +20042,7 @@
     "tags": "aspect ratio",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">crop_16_9</i>",
-    "unicode": "crop_16_9"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20050,7 +20050,7 @@
     "tags": "aspect ratio",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">crop_3_2</i>",
-    "unicode": "crop_3_2"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20058,7 +20058,7 @@
     "tags": "aspect ratio",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">crop_5_4</i>",
-    "unicode": "crop_5_4"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20066,7 +20066,7 @@
     "tags": "aspect ratio",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">crop_7_5</i>",
-    "unicode": "crop_7_5"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20074,7 +20074,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">crop_din</i>",
-    "unicode": "crop_din"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20082,7 +20082,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">crop_free</i>",
-    "unicode": "crop_free"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20090,7 +20090,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">crop_landscape</i>",
-    "unicode": "crop_landscape"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20098,7 +20098,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">crop_original</i>",
-    "unicode": "crop_original"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20106,7 +20106,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">crop_portrait</i>",
-    "unicode": "crop_portrait"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20114,7 +20114,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">crop_square</i>",
-    "unicode": "crop_square"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20122,7 +20122,7 @@
     "tags": "blocks, grid",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">dashboard</i>",
-    "unicode": "dashboard"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20130,7 +20130,7 @@
     "tags": "pie chart, graph",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">data_usage</i>",
-    "unicode": "data_usage"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20138,7 +20138,7 @@
     "tags": "bars, hamburger menu, more",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">dehaze</i>",
-    "unicode": "dehaze"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20146,7 +20146,7 @@
     "tags": "trash can",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">delete</i>",
-    "unicode": "delete"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20154,7 +20154,7 @@
     "tags": "document, file",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">description</i>",
-    "unicode": "description"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20162,7 +20162,7 @@
     "tags": "computer, display, monitor",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">desktop_mac</i>",
-    "unicode": "desktop_mac"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20170,7 +20170,7 @@
     "tags": "computer, display, monitor",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">desktop_windows</i>",
-    "unicode": "desktop_windows"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20178,7 +20178,7 @@
     "tags": "triangle",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">details</i>",
-    "unicode": "details"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20186,7 +20186,7 @@
     "tags": "notebook, scrap book",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">developer_board</i>",
-    "unicode": "developer_board"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20194,7 +20194,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">developer_mode</i>",
-    "unicode": "developer_mode"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20202,7 +20202,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">device_hub</i>",
-    "unicode": "device_hub"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20210,7 +20210,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">devices</i>",
-    "unicode": "devices"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20218,7 +20218,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">dialer_sip</i>",
-    "unicode": "dialer_sip"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20226,7 +20226,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">dialpad</i>",
-    "unicode": "dialpad"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20234,7 +20234,7 @@
     "tags": "road sign",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">directions</i>",
-    "unicode": "directions"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20242,7 +20242,7 @@
     "tags": "bicycle",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">directions_bike</i>",
-    "unicode": "directions_bike"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20250,7 +20250,7 @@
     "tags": "ship",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">directions_boat</i>",
-    "unicode": "directions_boat"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20258,7 +20258,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">directions_bus</i>",
-    "unicode": "directions_bus"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20266,7 +20266,7 @@
     "tags": "automobile, car",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">directions_car</i>",
-    "unicode": "directions_car"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20274,7 +20274,7 @@
     "tags": "train",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">directions_railway</i>",
-    "unicode": "directions_railway"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20282,7 +20282,7 @@
     "tags": "person",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">directions_run</i>",
-    "unicode": "directions_run"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20290,7 +20290,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">directions_subway</i>",
-    "unicode": "directions_subway"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20298,7 +20298,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">directions_transit</i>",
-    "unicode": "directions_transit"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20306,7 +20306,7 @@
     "tags": "person",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">directions_walk</i>",
-    "unicode": "directions_walk"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20314,7 +20314,7 @@
     "tags": "record, vinyl",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">disc_full</i>",
-    "unicode": "disc_full"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20322,7 +20322,7 @@
     "tags": "server",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">dns</i>",
-    "unicode": "dns"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20330,7 +20330,7 @@
     "tags": "prohibited",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">do_not_disturb</i>",
-    "unicode": "do_not_disturb"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20338,7 +20338,7 @@
     "tags": "prohibited",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">do_not_disturb_alt</i>",
-    "unicode": "do_not_disturb_alt"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20346,7 +20346,7 @@
     "tags": "phone",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">dock</i>",
-    "unicode": "dock"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20354,7 +20354,7 @@
     "tags": "building",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">domain</i>",
-    "unicode": "domain"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20362,7 +20362,7 @@
     "tags": "check mark",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">done</i>",
-    "unicode": "done"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20370,7 +20370,7 @@
     "tags": "check mark",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">done_all</i>",
-    "unicode": "done_all"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20378,7 +20378,7 @@
     "tags": "envelope, mail",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">drafts</i>",
-    "unicode": "drafts"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20386,7 +20386,7 @@
     "tags": "automobile, car",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">drive_eta</i>",
-    "unicode": "drive_eta"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20394,7 +20394,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">dvr</i>",
-    "unicode": "dvr"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20402,7 +20402,7 @@
     "tags": "pencil",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">edit</i>",
-    "unicode": "edit"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20410,7 +20410,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">eject</i>",
-    "unicode": "eject"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20418,7 +20418,7 @@
     "tags": "envelope, letter",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">email</i>",
-    "unicode": "email"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20426,7 +20426,7 @@
     "tags": "audio, levels, settings",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">equalizer</i>",
-    "unicode": "equalizer"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20434,7 +20434,7 @@
     "tags": "alert, warning",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">error</i>",
-    "unicode": "error"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20442,7 +20442,7 @@
     "tags": "alert, warning",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">error_outline</i>",
-    "unicode": "error_outline"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20450,7 +20450,7 @@
     "tags": "calendar",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">event</i>",
-    "unicode": "event"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20458,7 +20458,7 @@
     "tags": "calendar",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">event_available</i>",
-    "unicode": "event_available"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20466,7 +20466,7 @@
     "tags": "calendar",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">event_busy</i>",
-    "unicode": "event_busy"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20474,7 +20474,7 @@
     "tags": "calendar",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">event_note</i>",
-    "unicode": "event_note"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20482,7 +20482,7 @@
     "tags": "chair",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">event_seat</i>",
-    "unicode": "event_seat"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20490,7 +20490,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">exit_to_app</i>",
-    "unicode": "exit_to_app"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20498,7 +20498,7 @@
     "tags": "angle, chevron, directional, up",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">expand_less</i>",
-    "unicode": "expand_less"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20506,7 +20506,7 @@
     "tags": "angle, chevron, directional, down",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">expand_more</i>",
-    "unicode": "expand_more"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20514,7 +20514,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">explicit</i>",
-    "unicode": "explicit"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20522,7 +20522,7 @@
     "tags": "compass, directions",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">explore</i>",
-    "unicode": "explore"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20530,7 +20530,7 @@
     "tags": "brightness, contrast",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">exposure</i>",
-    "unicode": "exposure"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20538,7 +20538,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">exposure_neg_1</i>",
-    "unicode": "exposure_neg_1"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20546,7 +20546,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">exposure_neg_2</i>",
-    "unicode": "exposure_neg_2"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20554,7 +20554,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">exposure_plus_1</i>",
-    "unicode": "exposure_plus_1"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20562,7 +20562,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">exposure_plus_2</i>",
-    "unicode": "exposure_plus_2"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20570,7 +20570,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">exposure_zero</i>",
-    "unicode": "exposure_zero"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20578,7 +20578,7 @@
     "tags": "jigsaw, puzzle",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">extension</i>",
-    "unicode": "extension"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20586,7 +20586,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">face</i>",
-    "unicode": "face"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20594,7 +20594,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">fast_forward</i>",
-    "unicode": "fast_forward"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20602,7 +20602,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">fast_rewind</i>",
-    "unicode": "fast_rewind"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20610,7 +20610,7 @@
     "tags": "heart, like",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">favorite</i>",
-    "unicode": "favorite"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20618,7 +20618,7 @@
     "tags": "heart, like",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">favorite_border</i>",
-    "unicode": "favorite_border"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20626,7 +20626,7 @@
     "tags": "alert, speech bubble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">feedback</i>",
-    "unicode": "feedback"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20634,7 +20634,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">file_download</i>",
-    "unicode": "file_download"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20642,7 +20642,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">file_upload</i>",
-    "unicode": "file_upload"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20650,7 +20650,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter</i>",
-    "unicode": "filter"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20658,7 +20658,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_1</i>",
-    "unicode": "filter_1"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20666,7 +20666,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_2</i>",
-    "unicode": "filter_2"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20674,7 +20674,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_3</i>",
-    "unicode": "filter_3"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20682,7 +20682,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_4</i>",
-    "unicode": "filter_4"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20690,7 +20690,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_5</i>",
-    "unicode": "filter_5"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20698,7 +20698,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_6</i>",
-    "unicode": "filter_6"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20706,7 +20706,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_7</i>",
-    "unicode": "filter_7"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20714,7 +20714,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_8</i>",
-    "unicode": "filter_8"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20722,7 +20722,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_9</i>",
-    "unicode": "filter_9"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20730,7 +20730,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_9_plus</i>",
-    "unicode": "filter_9_plus"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20738,7 +20738,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_b_and_w</i>",
-    "unicode": "filter_b_and_w"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20746,7 +20746,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_center_focus</i>",
-    "unicode": "filter_center_focus"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20754,7 +20754,7 @@
     "tags": "cloud",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_drama</i>",
-    "unicode": "filter_drama"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20762,7 +20762,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_frames</i>",
-    "unicode": "filter_frames"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20770,7 +20770,7 @@
     "tags": "mountains",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_hdr</i>",
-    "unicode": "filter_hdr"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20778,7 +20778,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_list</i>",
-    "unicode": "filter_list"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20786,7 +20786,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_none</i>",
-    "unicode": "filter_none"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20794,7 +20794,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_tilt_shift</i>",
-    "unicode": "filter_tilt_shift"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20802,7 +20802,7 @@
     "tags": "flower",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_vintage</i>",
-    "unicode": "filter_vintage"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20810,7 +20810,7 @@
     "tags": "search, magnifying glass",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">find_in_page</i>",
-    "unicode": "find_in_page"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20818,7 +20818,7 @@
     "tags": "search, magnifying glass",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">find_replace</i>",
-    "unicode": "find_replace"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20826,7 +20826,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">flag</i>",
-    "unicode": "flag"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20834,7 +20834,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">flare</i>",
-    "unicode": "flare"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20842,7 +20842,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">flash_auto</i>",
-    "unicode": "flash_auto"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20850,7 +20850,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">flash_off</i>",
-    "unicode": "flash_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20858,7 +20858,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">flash_on</i>",
-    "unicode": "flash_on"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20866,7 +20866,7 @@
     "tags": "airplane",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">flight</i>",
-    "unicode": "flight"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20874,7 +20874,7 @@
     "tags": "airplane, plane, travel",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">flight_land</i>",
-    "unicode": "flight_land"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20882,7 +20882,7 @@
     "tags": "airplane, plane, travel",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">flight_takeoff</i>",
-    "unicode": "flight_takeoff"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20890,7 +20890,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">flip</i>",
-    "unicode": "flip"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20898,7 +20898,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">flip_to_back</i>",
-    "unicode": "flip_to_back"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20906,7 +20906,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">flip_to_front</i>",
-    "unicode": "flip_to_front"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20914,7 +20914,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">folder</i>",
-    "unicode": "folder"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20922,7 +20922,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">folder_open</i>",
-    "unicode": "folder_open"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20930,7 +20930,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">folder_shared</i>",
-    "unicode": "folder_shared"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20938,7 +20938,7 @@
     "tags": "star",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">folder_special</i>",
-    "unicode": "folder_special"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20946,7 +20946,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">font_download</i>",
-    "unicode": "font_download"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20954,7 +20954,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_align_center</i>",
-    "unicode": "format_align_center"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20962,7 +20962,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_align_justify</i>",
-    "unicode": "format_align_justify"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20970,7 +20970,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_align_left</i>",
-    "unicode": "format_align_left"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20978,7 +20978,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_align_right</i>",
-    "unicode": "format_align_right"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20986,7 +20986,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_bold</i>",
-    "unicode": "format_bold"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -20994,7 +20994,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_clear</i>",
-    "unicode": "format_clear"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21002,7 +21002,7 @@
     "tags": "paint can",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_color_fill</i>",
-    "unicode": "format_color_fill"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21010,7 +21010,7 @@
     "tags": "droplet",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_color_reset</i>",
-    "unicode": "format_color_reset"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21018,7 +21018,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_color_text</i>",
-    "unicode": "format_color_text"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21026,7 +21026,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_indent_decrease</i>",
-    "unicode": "format_indent_decrease"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21034,7 +21034,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_indent_increase</i>",
-    "unicode": "format_indent_increase"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21042,7 +21042,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_italic</i>",
-    "unicode": "format_italic"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21050,7 +21050,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_line_spacing</i>",
-    "unicode": "format_line_spacing"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21058,7 +21058,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_list_bulleted</i>",
-    "unicode": "format_list_bulleted"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21066,7 +21066,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_list_numbered</i>",
-    "unicode": "format_list_numbered"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21074,7 +21074,7 @@
     "tags": "paint brush, roller",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_paint</i>",
-    "unicode": "format_paint"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21082,7 +21082,7 @@
     "tags": "quotation marks",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_quote</i>",
-    "unicode": "format_quote"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21090,7 +21090,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_size</i>",
-    "unicode": "format_size"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21098,7 +21098,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_strikethrough</i>",
-    "unicode": "format_strikethrough"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21106,7 +21106,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_textdirection_l_to_r</i>",
-    "unicode": "format_textdirection_l_to_r"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21114,7 +21114,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_textdirection_r_to_l</i>",
-    "unicode": "format_textdirection_r_to_l"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21122,7 +21122,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">format_underlined</i>",
-    "unicode": "format_underlined"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21130,7 +21130,7 @@
     "tags": "chat, comments, speech bubbles",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">forum</i>",
-    "unicode": "forum"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21138,7 +21138,7 @@
     "tags": "arrow",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">forward</i>",
-    "unicode": "forward"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21146,7 +21146,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">forward_10</i>",
-    "unicode": "forward_10"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21154,7 +21154,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">forward_30</i>",
-    "unicode": "forward_30"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21162,7 +21162,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">forward_5</i>",
-    "unicode": "forward_5"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21170,7 +21170,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">fullscreen</i>",
-    "unicode": "fullscreen"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21178,7 +21178,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">fullscreen_exit</i>",
-    "unicode": "fullscreen_exit"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21186,7 +21186,7 @@
     "tags": "math, sigma",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">functions</i>",
-    "unicode": "functions"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21194,7 +21194,7 @@
     "tags": "controller",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">gamepad</i>",
-    "unicode": "gamepad"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21202,7 +21202,7 @@
     "tags": "controller, pad",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">games</i>",
-    "unicode": "games"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21210,7 +21210,7 @@
     "tags": "scribble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">gesture</i>",
-    "unicode": "gesture"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21218,7 +21218,7 @@
     "tags": "download, arrow",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">get_app</i>",
-    "unicode": "get_app"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21226,7 +21226,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">gif</i>",
-    "unicode": "gif"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21234,7 +21234,7 @@
     "tags": "reticle, target",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">gps_fixed</i>",
-    "unicode": "gps_fixed"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21242,7 +21242,7 @@
     "tags": "reticle, target",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">gps_not_fixed</i>",
-    "unicode": "gps_not_fixed"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21250,7 +21250,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">gps_off</i>",
-    "unicode": "gps_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21258,7 +21258,7 @@
     "tags": "star, rating",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">grade</i>",
-    "unicode": "grade"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21266,7 +21266,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">gradient</i>",
-    "unicode": "gradient"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21274,7 +21274,7 @@
     "tags": "dots",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">grain</i>",
-    "unicode": "grain"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21282,7 +21282,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">graphic_eq</i>",
-    "unicode": "graphic_eq"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21290,7 +21290,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">grid_off</i>",
-    "unicode": "grid_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21298,7 +21298,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">grid_on</i>",
-    "unicode": "grid_on"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21306,7 +21306,7 @@
     "tags": "people, users",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">group</i>",
-    "unicode": "group"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21314,7 +21314,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">group_add</i>",
-    "unicode": "group_add"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21322,7 +21322,7 @@
     "tags": "circles",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">group_work</i>",
-    "unicode": "group_work"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21330,7 +21330,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">hd</i>",
-    "unicode": "hd"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21338,7 +21338,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">hdr_off</i>",
-    "unicode": "hdr_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21346,7 +21346,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">hdr_on</i>",
-    "unicode": "hdr_on"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21354,7 +21354,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">hdr_strong</i>",
-    "unicode": "hdr_strong"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21362,7 +21362,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">hdr_weak</i>",
-    "unicode": "hdr_weak"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21370,7 +21370,7 @@
     "tags": "bandage, bandaid, first aid",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">healing</i>",
-    "unicode": "healing"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21378,7 +21378,7 @@
     "tags": "headphones",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">headset</i>",
-    "unicode": "headset"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21386,7 +21386,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">headset_mic</i>",
-    "unicode": "headset_mic"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21394,7 +21394,7 @@
     "tags": "ear",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">hearing</i>",
-    "unicode": "hearing"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21402,7 +21402,7 @@
     "tags": "question mark",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">help</i>",
-    "unicode": "help"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21410,7 +21410,7 @@
     "tags": "question mark",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">help_outline</i>",
-    "unicode": "help_outline"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21418,7 +21418,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">high_quality</i>",
-    "unicode": "high_quality"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21426,7 +21426,7 @@
     "tags": "x, cancel",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">highlight_off</i>",
-    "unicode": "highlight_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21434,7 +21434,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">history</i>",
-    "unicode": "history"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21442,7 +21442,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">home</i>",
-    "unicode": "home"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21450,7 +21450,7 @@
     "tags": "bed",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">hotel</i>",
-    "unicode": "hotel"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21458,7 +21458,7 @@
     "tags": "timer",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">hourglass_empty</i>",
-    "unicode": "hourglass_empty"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21466,7 +21466,7 @@
     "tags": "timer",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">hourglass_full</i>",
-    "unicode": "hourglass_full"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21474,7 +21474,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">http</i>",
-    "unicode": "http"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21482,7 +21482,7 @@
     "tags": "lock, security",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">https</i>",
-    "unicode": "https"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21490,7 +21490,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">image</i>",
-    "unicode": "image"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21498,7 +21498,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">image_aspect_ratio</i>",
-    "unicode": "image_aspect_ratio"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21506,7 +21506,7 @@
     "tags": "arrows",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">import_export</i>",
-    "unicode": "import_export"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21514,7 +21514,7 @@
     "tags": "email",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">inbox</i>",
-    "unicode": "inbox"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21522,7 +21522,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">indeterminate_check_box</i>",
-    "unicode": "indeterminate_check_box"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21530,7 +21530,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">info</i>",
-    "unicode": "info"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21538,7 +21538,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">info_outline</i>",
-    "unicode": "info_outline"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21546,7 +21546,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">input</i>",
-    "unicode": "input"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21554,7 +21554,7 @@
     "tags": "adjust, contrast",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">invert_colors</i>",
-    "unicode": "invert_colors"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21562,7 +21562,7 @@
     "tags": "adjust, contrast",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">invert_colors_off</i>",
-    "unicode": "invert_colors_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21570,7 +21570,7 @@
     "tags": "graph",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">insert_chart</i>",
-    "unicode": "insert_chart"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21578,7 +21578,7 @@
     "tags": "chat, speech bubble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">insert_comment</i>",
-    "unicode": "insert_comment"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21586,7 +21586,7 @@
     "tags": "document, file, paper",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">insert_drive_file</i>",
-    "unicode": "insert_drive_file"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21594,7 +21594,7 @@
     "tags": "happy, smiley face",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">insert_emoticon</i>",
-    "unicode": "insert_emoticon"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21602,7 +21602,7 @@
     "tags": "calendar, date",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">insert_invitation</i>",
-    "unicode": "insert_invitation"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21610,7 +21610,7 @@
     "tags": "chain",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">insert_link</i>",
-    "unicode": "insert_link"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21618,7 +21618,7 @@
     "tags": "image, picture",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">insert_photo</i>",
-    "unicode": "insert_photo"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21626,7 +21626,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">iso</i>",
-    "unicode": "iso"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21634,7 +21634,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">keyboard</i>",
-    "unicode": "keyboard"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21642,7 +21642,7 @@
     "tags": "angle, chevron, directional",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">keyboard_arrow_down</i>",
-    "unicode": "keyboard_arrow_down"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21650,7 +21650,7 @@
     "tags": "angle, chevron, directional",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">keyboard_arrow_left</i>",
-    "unicode": "keyboard_arrow_left"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21658,7 +21658,7 @@
     "tags": "angle, chevron, directional",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">keyboard_arrow_right</i>",
-    "unicode": "keyboard_arrow_right"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21666,7 +21666,7 @@
     "tags": "angle, chevron, directional",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">keyboard_arrow_up</i>",
-    "unicode": "keyboard_arrow_up"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21674,7 +21674,7 @@
     "tags": "arrow",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">keyboard_backspace</i>",
-    "unicode": "keyboard_backspace"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21682,7 +21682,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">keyboard_capslock</i>",
-    "unicode": "keyboard_capslock"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21690,7 +21690,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">keyboard_hide</i>",
-    "unicode": "keyboard_hide"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21698,7 +21698,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">keyboard_return</i>",
-    "unicode": "keyboard_return"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21706,7 +21706,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">keyboard_tab</i>",
-    "unicode": "keyboard_tab"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21714,7 +21714,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">keyboard_voice</i>",
-    "unicode": "keyboard_voice"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21722,7 +21722,7 @@
     "tags": "tag",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">label</i>",
-    "unicode": "label"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21730,7 +21730,7 @@
     "tags": "tag",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">label_outline</i>",
-    "unicode": "label_outline"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21738,7 +21738,7 @@
     "tags": "mountains",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">landscape</i>",
-    "unicode": "landscape"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21746,7 +21746,7 @@
     "tags": "earth, globe, planet",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">language</i>",
-    "unicode": "language"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21754,7 +21754,7 @@
     "tags": "computer",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">laptop</i>",
-    "unicode": "laptop"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21762,7 +21762,7 @@
     "tags": "computer",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">laptop_chromebook</i>",
-    "unicode": "laptop_chromebook"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21770,7 +21770,7 @@
     "tags": "computer",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">laptop_mac</i>",
-    "unicode": "laptop_mac"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21778,7 +21778,7 @@
     "tags": "computer",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">laptop_windows</i>",
-    "unicode": "laptop_windows"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21786,7 +21786,7 @@
     "tags": "open",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">launch</i>",
-    "unicode": "launch"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21794,7 +21794,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">layers</i>",
-    "unicode": "layers"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21802,7 +21802,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">layers_clear</i>",
-    "unicode": "layers_clear"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21810,7 +21810,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">leak_add</i>",
-    "unicode": "leak_add"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21818,7 +21818,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">leak_remove</i>",
-    "unicode": "leak_remove"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21826,7 +21826,7 @@
     "tags": "circle",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">lens</i>",
-    "unicode": "lens"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21834,7 +21834,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">library_add</i>",
-    "unicode": "library_add"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21842,7 +21842,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">library_books</i>",
-    "unicode": "library_books"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21850,7 +21850,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">library_music</i>",
-    "unicode": "library_music"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21858,7 +21858,7 @@
     "tags": "chain",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">link</i>",
-    "unicode": "link"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21866,7 +21866,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">list</i>",
-    "unicode": "list"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21874,7 +21874,7 @@
     "tags": "question mark",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">live_help</i>",
-    "unicode": "live_help"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21882,7 +21882,7 @@
     "tags": "television",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">live_tv</i>",
-    "unicode": "live_tv"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21890,7 +21890,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_activity</i>",
-    "unicode": "local_activity"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21898,7 +21898,7 @@
     "tags": "airplane",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_airport</i>",
-    "unicode": "local_airport"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21906,7 +21906,7 @@
     "tags": "dollar sign, money",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_atm</i>",
-    "unicode": "local_atm"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21914,7 +21914,7 @@
     "tags": "drink, martini glass",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_bar</i>",
-    "unicode": "local_bar"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21922,7 +21922,7 @@
     "tags": "coffee cup, mug",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_cafe</i>",
-    "unicode": "local_cafe"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21930,7 +21930,7 @@
     "tags": "automobile, car",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_car_wash</i>",
-    "unicode": "local_car_wash"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21938,7 +21938,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_convenience_store</i>",
-    "unicode": "local_convenience_store"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21946,7 +21946,7 @@
     "tags": "cutlery, knife, spoon",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_dining</i>",
-    "unicode": "local_dining"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21954,7 +21954,7 @@
     "tags": "cup, droplet, glass, juice",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_drink</i>",
-    "unicode": "local_drink"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21962,7 +21962,7 @@
     "tags": "flower, plant",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_florist</i>",
-    "unicode": "local_florist"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21970,7 +21970,7 @@
     "tags": "gas pump",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_gas_station</i>",
-    "unicode": "local_gas_station"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21978,7 +21978,7 @@
     "tags": "shopping cart",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_grocery_store</i>",
-    "unicode": "local_grocery_store"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21986,7 +21986,7 @@
     "tags": "first aid, medical",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_hospital</i>",
-    "unicode": "local_hospital"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -21994,7 +21994,7 @@
     "tags": "bed",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_hotel</i>",
-    "unicode": "local_hotel"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22002,7 +22002,7 @@
     "tags": "washing machine",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_laundry_service</i>",
-    "unicode": "local_laundry_service"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22010,7 +22010,7 @@
     "tags": "book",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_library</i>",
-    "unicode": "local_library"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22018,7 +22018,7 @@
     "tags": "shopping bag",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_mall</i>",
-    "unicode": "local_mall"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22026,7 +22026,7 @@
     "tags": "film",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_movies</i>",
-    "unicode": "local_movies"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22034,7 +22034,7 @@
     "tags": "sale, tag",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_offer</i>",
-    "unicode": "local_offer"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22042,7 +22042,7 @@
     "tags": "p",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_parking</i>",
-    "unicode": "local_parking"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22050,7 +22050,7 @@
     "tags": "drug store, medicine",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_pharmacy</i>",
-    "unicode": "local_pharmacy"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22058,7 +22058,7 @@
     "tags": "telephone",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_phone</i>",
-    "unicode": "local_phone"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22066,7 +22066,7 @@
     "tags": "food, slice",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_pizza</i>",
-    "unicode": "local_pizza"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22074,7 +22074,7 @@
     "tags": "admission, ticket",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_play</i>",
-    "unicode": "local_play"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22082,7 +22082,7 @@
     "tags": "envelope, mail",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_post_office</i>",
-    "unicode": "local_post_office"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22090,7 +22090,7 @@
     "tags": "printer",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_print_shop</i>",
-    "unicode": "local_print_shop"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22098,7 +22098,7 @@
     "tags": "camera",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_see</i>",
-    "unicode": "local_see"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22106,7 +22106,7 @@
     "tags": "truck",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_shipping</i>",
-    "unicode": "local_shipping"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22114,7 +22114,7 @@
     "tags": "automobile, cab, car",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_taxi</i>",
-    "unicode": "local_taxi"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22122,7 +22122,7 @@
     "tags": "city, buildings, skyscrapers",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">location_city</i>",
-    "unicode": "location_city"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22130,7 +22130,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">location_disabled</i>",
-    "unicode": "location_disabled"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22138,7 +22138,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">location_off</i>",
-    "unicode": "location_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22146,7 +22146,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">location_on</i>",
-    "unicode": "location_on"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22154,7 +22154,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">location_searching</i>",
-    "unicode": "location_searching"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22162,7 +22162,7 @@
     "tags": "security",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">lock</i>",
-    "unicode": "lock"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22170,7 +22170,7 @@
     "tags": "security, unlock",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">lock_open</i>",
-    "unicode": "lock_open"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22178,7 +22178,7 @@
     "tags": "security",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">lock_outline</i>",
-    "unicode": "lock_outline"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22186,7 +22186,7 @@
     "tags": "rainbow",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">looks</i>",
-    "unicode": "looks"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22194,7 +22194,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">looks_3</i>",
-    "unicode": "looks_3"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22202,7 +22202,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">looks_4</i>",
-    "unicode": "looks_4"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22210,7 +22210,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">looks_5</i>",
-    "unicode": "looks_5"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22218,7 +22218,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">looks_one</i>",
-    "unicode": "looks_one"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22226,7 +22226,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">looks_two</i>",
-    "unicode": "looks_two"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22234,7 +22234,7 @@
     "tags": "refresh, reload",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">loop</i>",
-    "unicode": "loop"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22242,7 +22242,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">loupe</i>",
-    "unicode": "loupe"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22250,7 +22250,7 @@
     "tags": "heart, tag",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">loyalty</i>",
-    "unicode": "loyalty"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22258,7 +22258,7 @@
     "tags": "envelope",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">mail</i>",
-    "unicode": "mail"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22266,7 +22266,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">map</i>",
-    "unicode": "map"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22274,7 +22274,7 @@
     "tags": "envelope, mail",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">markunread</i>",
-    "unicode": "markunread"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22282,7 +22282,7 @@
     "tags": "mailbox",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">markunread_mailbox</i>",
-    "unicode": "markunread_mailbox"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22290,7 +22290,7 @@
     "tags": "chip, circuit board",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">memory</i>",
-    "unicode": "memory"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22298,7 +22298,7 @@
     "tags": "bars, more",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">menu</i>",
-    "unicode": "menu"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22306,7 +22306,7 @@
     "tags": "arrows",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">merge_type</i>",
-    "unicode": "merge_type"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22314,7 +22314,7 @@
     "tags": "chat, speech bubble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">message</i>",
-    "unicode": "message"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22322,7 +22322,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">mic</i>",
-    "unicode": "mic"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22330,7 +22330,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">mic_none</i>",
-    "unicode": "mic_none"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22338,7 +22338,7 @@
     "tags": "mute",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">mic_off</i>",
-    "unicode": "mic_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22346,7 +22346,7 @@
     "tags": "speech bubble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">mms</i>",
-    "unicode": "mms"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22354,7 +22354,7 @@
     "tags": "chat, speech bubble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">mode_comment</i>",
-    "unicode": "mode_comment"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22362,7 +22362,7 @@
     "tags": "pencil",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">mode_edit</i>",
-    "unicode": "mode_edit"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22370,7 +22370,7 @@
     "tags": "currency, dollar sign, usd",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">money_off</i>",
-    "unicode": "money_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22378,7 +22378,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">monochrome_photos</i>",
-    "unicode": "monochrome_photos"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22386,7 +22386,7 @@
     "tags": "happy, smiley face",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">mood</i>",
-    "unicode": "mood"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22394,7 +22394,7 @@
     "tags": "frowny face, sad",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">mood_bad</i>",
-    "unicode": "mood_bad"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22402,7 +22402,7 @@
     "tags": "tag",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">more</i>",
-    "unicode": "more"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22410,7 +22410,7 @@
     "tags": "dots",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">more_horiz</i>",
-    "unicode": "more_horiz"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22418,7 +22418,7 @@
     "tags": "dots",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">more_vert</i>",
-    "unicode": "more_vert"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22426,7 +22426,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">mouse</i>",
-    "unicode": "mouse"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22434,7 +22434,7 @@
     "tags": "film",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">movie</i>",
-    "unicode": "movie"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22442,7 +22442,7 @@
     "tags": "film marker",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">movie_creation</i>",
-    "unicode": "movie_creation"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22450,7 +22450,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">music_note</i>",
-    "unicode": "music_note"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22458,7 +22458,7 @@
     "tags": "reticle, target",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">my_location</i>",
-    "unicode": "my_location"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22466,7 +22466,7 @@
     "tags": "arrow",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">navigation</i>",
-    "unicode": "navigation"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22474,7 +22474,7 @@
     "tags": "tree",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">nature</i>",
-    "unicode": "nature"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22482,7 +22482,7 @@
     "tags": "tree",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">nature_people</i>",
-    "unicode": "nature_people"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22490,7 +22490,7 @@
     "tags": "angle, directional",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">navigate_before</i>",
-    "unicode": "navigate_before"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22498,7 +22498,7 @@
     "tags": "angle, directional",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">navigate_next</i>",
-    "unicode": "navigate_next"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22506,7 +22506,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">network_cell</i>",
-    "unicode": "network_cell"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22514,7 +22514,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">network_locked</i>",
-    "unicode": "network_locked"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22522,7 +22522,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">network_wifi</i>",
-    "unicode": "network_wifi"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22530,7 +22530,7 @@
     "tags": "alert",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">new_releases</i>",
-    "unicode": "new_releases"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22538,7 +22538,7 @@
     "tags": "chip, circuit board",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">nfc</i>",
-    "unicode": "nfc"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22546,7 +22546,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">no_sim</i>",
-    "unicode": "no_sim"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22554,7 +22554,7 @@
     "tags": "ban, prohibited",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">not_interested</i>",
-    "unicode": "not_interested"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22562,7 +22562,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">note_add</i>",
-    "unicode": "note_add"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22570,7 +22570,7 @@
     "tags": "bell",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">notifications</i>",
-    "unicode": "notifications"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22578,7 +22578,7 @@
     "tags": "bell",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">notifications_active</i>",
-    "unicode": "notifications_active"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22586,7 +22586,7 @@
     "tags": "bell",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">notifications_none</i>",
-    "unicode": "notifications_none"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22594,7 +22594,7 @@
     "tags": "bell",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">notifications_off</i>",
-    "unicode": "notifications_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22602,7 +22602,7 @@
     "tags": "bell",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">notifications_paused</i>",
-    "unicode": "notifications_paused"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22610,7 +22610,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">offline_pin</i>",
-    "unicode": "offline_pin"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22618,7 +22618,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">ondemand_video</i>",
-    "unicode": "ondemand_video"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22626,7 +22626,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">open_in_browser</i>",
-    "unicode": "open_in_browser"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22634,7 +22634,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">open_in_new</i>",
-    "unicode": "open_in_new"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22642,7 +22642,7 @@
     "tags": "expand, resize",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">open_with</i>",
-    "unicode": "open_with"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22650,7 +22650,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">pages</i>",
-    "unicode": "pages"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22658,7 +22658,7 @@
     "tags": "find, magnifying glass, search",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">pageview</i>",
-    "unicode": "pageview"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22666,7 +22666,7 @@
     "tags": "art, paint",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">palette</i>",
-    "unicode": "palette"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22674,7 +22674,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">panorama</i>",
-    "unicode": "panorama"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22682,7 +22682,7 @@
     "tags": "circle",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">panorama_fish_eye</i>",
-    "unicode": "panorama_fish_eye"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22690,7 +22690,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">panorama_horizontal</i>",
-    "unicode": "panorama_horizontal"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22698,7 +22698,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">panorama_vertical</i>",
-    "unicode": "panorama_vertical"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22706,7 +22706,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">panorama_wide_angle</i>",
-    "unicode": "panorama_wide_angle"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22714,7 +22714,7 @@
     "tags": "camera",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">party_mode</i>",
-    "unicode": "party_mode"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22722,7 +22722,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">pause</i>",
-    "unicode": "pause"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22730,7 +22730,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">pause_circle_filled</i>",
-    "unicode": "pause_circle_filled"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22738,7 +22738,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">pause_circle_outline</i>",
-    "unicode": "pause_circle_outline"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22746,7 +22746,7 @@
     "tags": "credit card",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">payment</i>",
-    "unicode": "payment"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22754,7 +22754,7 @@
     "tags": "users",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">people</i>",
-    "unicode": "people"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22762,7 +22762,7 @@
     "tags": "users",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">people_outline</i>",
-    "unicode": "people_outline"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22770,7 +22770,7 @@
     "tags": "camera, microphone",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">perm_camera_mic</i>",
-    "unicode": "perm_camera_mic"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22778,7 +22778,7 @@
     "tags": "contact, calendar",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">perm_contact_calendar</i>",
-    "unicode": "perm_contact_calendar"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22786,7 +22786,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">perm_data_setting</i>",
-    "unicode": "perm_data_setting"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22794,7 +22794,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">perm_device_information</i>",
-    "unicode": "perm_device_information"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22802,7 +22802,7 @@
     "tags": "user",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">perm_identity</i>",
-    "unicode": "perm_identity"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22810,7 +22810,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">perm_media</i>",
-    "unicode": "perm_media"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22818,7 +22818,7 @@
     "tags": "telephone",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">perm_phone_msg</i>",
-    "unicode": "perm_phone_msg"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22826,7 +22826,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">perm_scan_wifi</i>",
-    "unicode": "perm_scan_wifi"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22834,7 +22834,7 @@
     "tags": "user",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">person</i>",
-    "unicode": "person"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22842,7 +22842,7 @@
     "tags": "user",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">person_add</i>",
-    "unicode": "person_add"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22850,7 +22850,7 @@
     "tags": "user",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">person_outline</i>",
-    "unicode": "person_outline"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22858,7 +22858,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">person_pin</i>",
-    "unicode": "person_pin"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22866,7 +22866,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">personal_video</i>",
-    "unicode": "personal_video"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22874,7 +22874,7 @@
     "tags": "telephone",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phone</i>",
-    "unicode": "phone"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22882,7 +22882,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phone_android</i>",
-    "unicode": "phone_android"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22890,7 +22890,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phone_bluetooth_speaker</i>",
-    "unicode": "phone_bluetooth_speaker"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22898,7 +22898,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phone_forwarded</i>",
-    "unicode": "phone_forwarded"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22906,7 +22906,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phone_in_talk</i>",
-    "unicode": "phone_in_talk"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22914,7 +22914,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phone_iphone</i>",
-    "unicode": "phone_iphone"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22922,7 +22922,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phone_locked</i>",
-    "unicode": "phone_locked"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22930,7 +22930,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phone_missed</i>",
-    "unicode": "phone_missed"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22938,7 +22938,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phone_paused</i>",
-    "unicode": "phone_paused"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22946,7 +22946,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phonelink</i>",
-    "unicode": "phonelink"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22954,7 +22954,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phonelink_erase</i>",
-    "unicode": "phonelink_erase"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22962,7 +22962,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phonelink_lock</i>",
-    "unicode": "phonelink_lock"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22970,7 +22970,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phonelink_off</i>",
-    "unicode": "phonelink_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22978,7 +22978,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phonelink_ring</i>",
-    "unicode": "phonelink_ring"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22986,7 +22986,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phonelink_setup</i>",
-    "unicode": "phonelink_setup"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -22994,7 +22994,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">photo</i>",
-    "unicode": "photo"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23002,7 +23002,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">photo_album</i>",
-    "unicode": "photo_album"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23010,7 +23010,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">photo_camera</i>",
-    "unicode": "photo_camera"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23018,7 +23018,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">photo_library</i>",
-    "unicode": "photo_library"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23026,7 +23026,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">photo_size_select_actual</i>",
-    "unicode": "photo_size_select_actual"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23034,7 +23034,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">photo_size_select_large</i>",
-    "unicode": "photo_size_select_large"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23042,7 +23042,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">photo_size_select_small</i>",
-    "unicode": "photo_size_select_small"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23050,7 +23050,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">picture_as_pdf</i>",
-    "unicode": "picture_as_pdf"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23058,7 +23058,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">picture_in_picture</i>",
-    "unicode": "picture_in_picture"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23066,7 +23066,7 @@
     "tags": "map marker",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">pin_drop</i>",
-    "unicode": "pin_drop"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23074,7 +23074,7 @@
     "tags": "map marker",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">place</i>",
-    "unicode": "place"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23082,7 +23082,7 @@
     "tags": "triangle",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">play_arrow</i>",
-    "unicode": "play_arrow"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23090,7 +23090,7 @@
     "tags": "triangle",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">play_circle_filled</i>",
-    "unicode": "play_circle_filled"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23098,7 +23098,7 @@
     "tags": "triangle",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">play_circle_outline</i>",
-    "unicode": "play_circle_outline"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23106,7 +23106,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">play_for_work</i>",
-    "unicode": "play_for_work"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23114,7 +23114,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">playlist_add</i>",
-    "unicode": "playlist_add"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23122,7 +23122,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">plus_one</i>",
-    "unicode": "plus_one"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23130,7 +23130,7 @@
     "tags": "chart, graph",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">poll</i>",
-    "unicode": "poll"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23138,7 +23138,7 @@
     "tags": "brand, logo",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">polymer</i>",
-    "unicode": "polymer"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23146,7 +23146,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">portable_wifi_off</i>",
-    "unicode": "portable_wifi_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23154,7 +23154,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">portrait</i>",
-    "unicode": "portrait"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23162,7 +23162,7 @@
     "tags": "plug",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">power</i>",
-    "unicode": "power"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23170,7 +23170,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">power_input</i>",
-    "unicode": "power_input"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23178,7 +23178,7 @@
     "tags": "on, switch",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">power_settings_new</i>",
-    "unicode": "power_settings_new"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23186,7 +23186,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">present_to_all</i>",
-    "unicode": "present_to_all"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23194,7 +23194,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">print</i>",
-    "unicode": "print"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23202,7 +23202,7 @@
     "tags": "earth, globe, planet",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">public</i>",
-    "unicode": "public"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23210,7 +23210,7 @@
     "tags": "upload",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">publish</i>",
-    "unicode": "publish"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23218,7 +23218,7 @@
     "tags": "clock",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">query_builder</i>",
-    "unicode": "query_builder"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23226,7 +23226,7 @@
     "tags": "chat, speech bubbles",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">question_answer</i>",
-    "unicode": "question_answer"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23234,7 +23234,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">queue</i>",
-    "unicode": "queue"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23242,7 +23242,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">queue_music</i>",
-    "unicode": "queue_music"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23250,7 +23250,7 @@
     "tags": "music",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">radio</i>",
-    "unicode": "radio"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23258,7 +23258,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">radio_button_checked</i>",
-    "unicode": "radio_button_checked"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23266,7 +23266,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">radio_button_unchecked</i>",
-    "unicode": "radio_button_unchecked"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23274,7 +23274,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">rate_review</i>",
-    "unicode": "rate_review"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23282,7 +23282,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">receipt</i>",
-    "unicode": "receipt"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23290,7 +23290,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">recent_actors</i>",
-    "unicode": "recent_actors"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23298,7 +23298,7 @@
     "tags": "gift card, present",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">redeem</i>",
-    "unicode": "redeem"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23306,7 +23306,7 @@
     "tags": "arrow",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">redo</i>",
-    "unicode": "redo"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23314,7 +23314,7 @@
     "tags": "reload",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">refresh</i>",
-    "unicode": "refresh"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23322,7 +23322,7 @@
     "tags": "minus",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">remove</i>",
-    "unicode": "remove"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23330,7 +23330,7 @@
     "tags": "minus",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">remove_circle</i>",
-    "unicode": "remove_circle"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23338,7 +23338,7 @@
     "tags": "minus",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">remove_circle_outline</i>",
-    "unicode": "remove_circle_outline"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23346,7 +23346,7 @@
     "tags": "eyeball",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">remove_red_eye</i>",
-    "unicode": "remove_red_eye"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23354,7 +23354,7 @@
     "tags": "bars, menu, more",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">reorder</i>",
-    "unicode": "reorder"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23362,7 +23362,7 @@
     "tags": "loop",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">repeat</i>",
-    "unicode": "repeat"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23370,7 +23370,7 @@
     "tags": "loop",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">repeat_one</i>",
-    "unicode": "repeat_one"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23378,7 +23378,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">replay</i>",
-    "unicode": "replay"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23386,7 +23386,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">replay_10</i>",
-    "unicode": "replay_10"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23394,7 +23394,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">replay_30</i>",
-    "unicode": "replay_30"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23402,7 +23402,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">replay_5</i>",
-    "unicode": "replay_5"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23410,7 +23410,7 @@
     "tags": "arrow",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">reply</i>",
-    "unicode": "reply"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23418,7 +23418,7 @@
     "tags": "arrow",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">reply_all</i>",
-    "unicode": "reply_all"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23426,7 +23426,7 @@
     "tags": "alert, warning",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">report</i>",
-    "unicode": "report"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23434,7 +23434,7 @@
     "tags": "alert, warning",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">report_problem</i>",
-    "unicode": "report_problem"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23442,7 +23442,7 @@
     "tags": "cutlery, dining, knife, spoon",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">restaurant</i>",
-    "unicode": "restaurant"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23450,7 +23450,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">restore</i>",
-    "unicode": "restore"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23458,7 +23458,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">ring_volume</i>",
-    "unicode": "ring_volume"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23466,7 +23466,7 @@
     "tags": "map marker",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">room</i>",
-    "unicode": "room"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23474,7 +23474,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">rotate_90_degrees_ccw</i>",
-    "unicode": "rotate_90_degrees_ccw"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23482,7 +23482,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">rotate_left</i>",
-    "unicode": "rotate_left"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23490,7 +23490,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">rotate_right</i>",
-    "unicode": "rotate_right"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23498,7 +23498,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">router</i>",
-    "unicode": "router"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23506,7 +23506,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">satellite</i>",
-    "unicode": "satellite"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23514,7 +23514,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">scanner</i>",
-    "unicode": "scanner"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23522,7 +23522,7 @@
     "tags": "floppy disk",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">save</i>",
-    "unicode": "save"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23530,7 +23530,7 @@
     "tags": "clock",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">schedule</i>",
-    "unicode": "schedule"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23538,7 +23538,7 @@
     "tags": "education, graduation cap, hat",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">school</i>",
-    "unicode": "school"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23546,7 +23546,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">screen_lock_landscape</i>",
-    "unicode": "screen_lock_landscape"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23554,7 +23554,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">screen_lock_portrait</i>",
-    "unicode": "screen_lock_portrait"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23562,7 +23562,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">screen_lock_rotation</i>",
-    "unicode": "screen_lock_rotation"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23570,7 +23570,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">screen_rotation</i>",
-    "unicode": "screen_rotation"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23578,7 +23578,7 @@
     "tags": "memory",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">sd_card</i>",
-    "unicode": "sd_card"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23586,7 +23586,7 @@
     "tags": "memory",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">sd_storage</i>",
-    "unicode": "sd_storage"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23594,7 +23594,7 @@
     "tags": "find, magnifying glass",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">search</i>",
-    "unicode": "search"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23602,7 +23602,7 @@
     "tags": "shield",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">security</i>",
-    "unicode": "security"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23610,7 +23610,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">select_all</i>",
-    "unicode": "select_all"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23618,7 +23618,7 @@
     "tags": "paper airplane",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">send</i>",
-    "unicode": "send"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23626,7 +23626,7 @@
     "tags": "cog, gear",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings</i>",
-    "unicode": "settings"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23634,7 +23634,7 @@
     "tags": "cog, gear",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_applications</i>",
-    "unicode": "settings_applications"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23642,7 +23642,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_backup_restore</i>",
-    "unicode": "settings_backup_restore"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23650,7 +23650,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_bluetooth</i>",
-    "unicode": "settings_bluetooth"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23658,7 +23658,7 @@
     "tags": "adjust, contrast",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_brightness</i>",
-    "unicode": "settings_brightness"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23666,7 +23666,7 @@
     "tags": "phone",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_cell</i>",
-    "unicode": "settings_cell"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23674,7 +23674,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_ethernet</i>",
-    "unicode": "settings_ethernet"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23682,7 +23682,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_input_antenna</i>",
-    "unicode": "settings_input_antenna"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23690,7 +23690,7 @@
     "tags": "cables, wires",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_input_component</i>",
-    "unicode": "settings_input_component"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23698,7 +23698,7 @@
     "tags": "cables, wires",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_input_composite</i>",
-    "unicode": "settings_input_composite"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23706,7 +23706,7 @@
     "tags": "cables, wires",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_input_hdmi</i>",
-    "unicode": "settings_input_hdmi"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23714,7 +23714,7 @@
     "tags": "cables, wires",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_input_svideo</i>",
-    "unicode": "settings_input_svideo"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23722,7 +23722,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_overscan</i>",
-    "unicode": "settings_overscan"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23730,7 +23730,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_phone</i>",
-    "unicode": "settings_phone"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23738,7 +23738,7 @@
     "tags": "on, switch",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_power</i>",
-    "unicode": "settings_power"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23746,7 +23746,7 @@
     "tags": "remote control",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_remote</i>",
-    "unicode": "settings_remote"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23754,7 +23754,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_system_daydream</i>",
-    "unicode": "settings_system_daydream"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23762,7 +23762,7 @@
     "tags": "microphone",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_voice</i>",
-    "unicode": "settings_voice"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23770,7 +23770,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">share</i>",
-    "unicode": "share"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23778,7 +23778,7 @@
     "tags": "bag",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">shop</i>",
-    "unicode": "shop"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23786,7 +23786,7 @@
     "tags": "bags",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">shop_two</i>",
-    "unicode": "shop_two"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23794,7 +23794,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">shopping_basket</i>",
-    "unicode": "shopping_basket"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23802,7 +23802,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">shopping_cart</i>",
-    "unicode": "shopping_cart"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23810,7 +23810,7 @@
     "tags": "random",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">shuffle</i>",
-    "unicode": "shuffle"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23818,7 +23818,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">signal_cellular_4_bar</i>",
-    "unicode": "signal_cellular_4_bar"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23826,7 +23826,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">signal_cellular_connected_no_internet_4_bar</i>",
-    "unicode": "signal_cellular_connected_no_internet_4_bar"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23834,7 +23834,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">signal_cellular_no_sim</i>",
-    "unicode": "signal_cellular_no_sim"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23842,7 +23842,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">signal_cellular_null</i>",
-    "unicode": "signal_cellular_null"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23850,7 +23850,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">signal_cellular_off</i>",
-    "unicode": "signal_cellular_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23858,7 +23858,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">signal_wifi_4_bar</i>",
-    "unicode": "signal_wifi_4_bar"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23866,7 +23866,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">signal_wifi_4_bar_lock</i>",
-    "unicode": "signal_wifi_4_bar_lock"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23874,7 +23874,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">signal_wifi_off</i>",
-    "unicode": "signal_wifi_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23882,7 +23882,7 @@
     "tags": "memory",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">sim_card</i>",
-    "unicode": "sim_card"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23890,7 +23890,7 @@
     "tags": "memory",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">sim_cart_alert</i>",
-    "unicode": "sim_cart_alert"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23898,7 +23898,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">skip_next</i>",
-    "unicode": "skip_next"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23906,7 +23906,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">skip_previous</i>",
-    "unicode": "skip_previous"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23914,7 +23914,7 @@
     "tags": "play",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">slideshow</i>",
-    "unicode": "slideshow"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23922,7 +23922,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">smartphone</i>",
-    "unicode": "smartphone"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23930,7 +23930,7 @@
     "tags": "speech bubble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">sms</i>",
-    "unicode": "sms"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23938,7 +23938,7 @@
     "tags": "speech bubble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">sms_failed</i>",
-    "unicode": "sms_failed"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23946,7 +23946,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">sort</i>",
-    "unicode": "sort"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23954,7 +23954,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">speaker</i>",
-    "unicode": "speaker"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23962,7 +23962,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">speaker_group</i>",
-    "unicode": "speaker_group"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23970,7 +23970,7 @@
     "tags": "speech bubble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">speaker_notes</i>",
-    "unicode": "speaker_notes"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23978,7 +23978,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">spellcheck</i>",
-    "unicode": "spellcheck"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23986,7 +23986,7 @@
     "tags": "alarm clock",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">snooze</i>",
-    "unicode": "snooze"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -23994,7 +23994,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">sort_by_alpha</i>",
-    "unicode": "sort_by_alpha"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24002,7 +24002,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">space_bar</i>",
-    "unicode": "space_bar"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24010,7 +24010,7 @@
     "tags": "telephone",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">speaker_phone</i>",
-    "unicode": "speaker_phone"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24018,7 +24018,7 @@
     "tags": "rating",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">star</i>",
-    "unicode": "star"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24026,7 +24026,7 @@
     "tags": "rating",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">star_border</i>",
-    "unicode": "star_border"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24034,7 +24034,7 @@
     "tags": "rating",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">star_half</i>",
-    "unicode": "star_half"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24042,7 +24042,7 @@
     "tags": "rating",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">stars</i>",
-    "unicode": "stars"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24050,7 +24050,7 @@
     "tags": "tablet, phone",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">stay_current_landscape</i>",
-    "unicode": "stay_current_landscape"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24058,7 +24058,7 @@
     "tags": "tablet, phone",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">stay_current_portrait</i>",
-    "unicode": "stay_current_portrait"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24066,7 +24066,7 @@
     "tags": "tablet, phone",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">stay_primary_landscape</i>",
-    "unicode": "stay_primary_landscape"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24074,7 +24074,7 @@
     "tags": "tablet, phone",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">stay_primary_portrait</i>",
-    "unicode": "stay_primary_portrait"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24082,7 +24082,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">strikethrough_s</i>",
-    "unicode": "strikethrough_s"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24090,7 +24090,7 @@
     "tags": "square",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">stop</i>",
-    "unicode": "stop"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24098,7 +24098,7 @@
     "tags": "server",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">storage</i>",
-    "unicode": "storage"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24106,7 +24106,7 @@
     "tags": "building, shop",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">store</i>",
-    "unicode": "store"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24114,7 +24114,7 @@
     "tags": "building, shop",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">store_mall_directory</i>",
-    "unicode": "store_mall_directory"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24122,7 +24122,7 @@
     "tags": "comb",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">straighten</i>",
-    "unicode": "straighten"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24130,7 +24130,7 @@
     "tags": "swatches",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">style</i>",
-    "unicode": "style"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24138,7 +24138,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">subject</i>",
-    "unicode": "subject"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24146,7 +24146,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">subtitles</i>",
-    "unicode": "subtitles"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24154,7 +24154,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">supervisor_account</i>",
-    "unicode": "supervisor_account"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24162,7 +24162,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">surround_sound</i>",
-    "unicode": "surround_sound"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24170,7 +24170,7 @@
     "tags": "arrows",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">swap_calls</i>",
-    "unicode": "swap_calls"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24178,7 +24178,7 @@
     "tags": "arrows",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">swap_horiz</i>",
-    "unicode": "swap_horiz"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24186,7 +24186,7 @@
     "tags": "arrows",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">swap_vert</i>",
-    "unicode": "swap_vert"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24194,7 +24194,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">swap_vertical_circle</i>",
-    "unicode": "swap_vertical_circle"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24202,7 +24202,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">switch_camera</i>",
-    "unicode": "switch_camera"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24210,7 +24210,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">switch_video</i>",
-    "unicode": "switch_video"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24218,7 +24218,7 @@
     "tags": "refresh, reload",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">sync</i>",
-    "unicode": "sync"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24226,7 +24226,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">sync_disabled</i>",
-    "unicode": "sync_disabled"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24234,7 +24234,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">sync_problem</i>",
-    "unicode": "sync_problem"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24242,7 +24242,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">system_update</i>",
-    "unicode": "system_update"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24250,7 +24250,7 @@
     "tags": "download",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">system_update_alt</i>",
-    "unicode": "system_update_alt"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24258,7 +24258,7 @@
     "tags": "folder",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">tab</i>",
-    "unicode": "tab"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24266,7 +24266,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">tab_unselected</i>",
-    "unicode": "tab_unselected"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24274,7 +24274,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">tablet</i>",
-    "unicode": "tablet"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24282,7 +24282,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">tablet_android</i>",
-    "unicode": "tablet_android"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24290,7 +24290,7 @@
     "tags": "ipad",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">tablet_mac</i>",
-    "unicode": "tablet_mac"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24298,7 +24298,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">tag_faces</i>",
-    "unicode": "tag_faces"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24306,7 +24306,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">tap_and_play</i>",
-    "unicode": "tap_and_play"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24314,7 +24314,7 @@
     "tags": "mountains",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">terrain</i>",
-    "unicode": "terrain"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24322,7 +24322,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">text_format</i>",
-    "unicode": "text_format"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24330,7 +24330,7 @@
     "tags": "chat, sms, speech bubble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">textsms</i>",
-    "unicode": "textsms"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24338,7 +24338,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">texture</i>",
-    "unicode": "texture"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24346,7 +24346,7 @@
     "tags": "film, movie",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">theaters</i>",
-    "unicode": "theaters"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24354,7 +24354,7 @@
     "tags": "dislike, rating",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">thumb_down</i>",
-    "unicode": "thumb_down"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24362,7 +24362,7 @@
     "tags": "like, rating",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">thumb_up</i>",
-    "unicode": "thumb_up"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24370,7 +24370,7 @@
     "tags": "automobile, car",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">time_to_leave</i>",
-    "unicode": "time_to_leave"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24378,7 +24378,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">timelapse</i>",
-    "unicode": "timelapse"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24386,7 +24386,7 @@
     "tags": "stopwatch",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">timer</i>",
-    "unicode": "timer"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24394,7 +24394,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">timer_10</i>",
-    "unicode": "timer_10"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24402,7 +24402,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">timer_3</i>",
-    "unicode": "timer_3"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24410,7 +24410,7 @@
     "tags": "stopwatch",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">timer_off</i>",
-    "unicode": "timer_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24418,7 +24418,7 @@
     "tags": "rows",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">toc</i>",
-    "unicode": "toc"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24426,7 +24426,7 @@
     "tags": "calendar, date",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">today</i>",
-    "unicode": "today"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24434,7 +24434,7 @@
     "tags": "circle, coin",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">toll</i>",
-    "unicode": "toll"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24442,7 +24442,7 @@
     "tags": "contrast",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">tonality</i>",
-    "unicode": "tonality"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24450,7 +24450,7 @@
     "tags": "pinwheel",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">toys</i>",
-    "unicode": "toys"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24458,7 +24458,7 @@
     "tags": "radar",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">track_changes</i>",
-    "unicode": "track_changes"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24466,7 +24466,7 @@
     "tags": "light, signal",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">traffic</i>",
-    "unicode": "traffic"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24474,7 +24474,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">transform</i>",
-    "unicode": "transform"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24482,7 +24482,7 @@
     "tags": "language",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">translate</i>",
-    "unicode": "translate"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24490,7 +24490,7 @@
     "tags": "arrow, chart, graph",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">trending_down</i>",
-    "unicode": "trending_down"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24498,7 +24498,7 @@
     "tags": "arrow, chart, graph",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">trending_flat</i>",
-    "unicode": "trending_flat"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24506,7 +24506,7 @@
     "tags": "arrow, chart, graph",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">trending_up</i>",
-    "unicode": "trending_up"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24514,7 +24514,7 @@
     "tags": "equalizer, levels, settings",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">tune</i>",
-    "unicode": "tune"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24522,7 +24522,7 @@
     "tags": "bookmark",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">turned_in</i>",
-    "unicode": "turned_in"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24530,7 +24530,7 @@
     "tags": "bookmark",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">turned_in_not</i>",
-    "unicode": "turned_in_not"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24538,7 +24538,7 @@
     "tags": "television",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">tv</i>",
-    "unicode": "tv"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24546,7 +24546,7 @@
     "tags": "arrow",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">undo</i>",
-    "unicode": "undo"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24554,7 +24554,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">usb</i>",
-    "unicode": "usb"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24562,7 +24562,7 @@
     "tags": "checkmark, shield",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">verified_user</i>",
-    "unicode": "verified_user"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24570,7 +24570,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">vertical_align_bottom</i>",
-    "unicode": "vertical_align_bottom"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24578,7 +24578,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">vertical_align_center</i>",
-    "unicode": "vertical_align_center"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24586,7 +24586,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">vertical_align_top</i>",
-    "unicode": "vertical_align_top"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24594,7 +24594,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">vibration</i>",
-    "unicode": "vibration"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24602,7 +24602,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">video_library</i>",
-    "unicode": "video_library"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24610,7 +24610,7 @@
     "tags": "record",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">videocam</i>",
-    "unicode": "videocam"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24618,7 +24618,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">videocam_off</i>",
-    "unicode": "videocam_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24626,7 +24626,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">view_agenda</i>",
-    "unicode": "view_agenda"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24634,7 +24634,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">view_array</i>",
-    "unicode": "view_array"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24642,7 +24642,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">view_carousel</i>",
-    "unicode": "view_carousel"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24650,7 +24650,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">view_column</i>",
-    "unicode": "view_column"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24658,7 +24658,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">view_comfy</i>",
-    "unicode": "view_comfy"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24666,7 +24666,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">view_compact</i>",
-    "unicode": "view_compact"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24674,7 +24674,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">view_day</i>",
-    "unicode": "view_day"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24682,7 +24682,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">view_headline</i>",
-    "unicode": "view_headline"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24690,7 +24690,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">view_list</i>",
-    "unicode": "view_list"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24698,7 +24698,7 @@
     "tags": "grid",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">view_module</i>",
-    "unicode": "view_module"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24706,7 +24706,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">view_quilt</i>",
-    "unicode": "view_quilt"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24714,7 +24714,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">view_stream</i>",
-    "unicode": "view_stream"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24722,7 +24722,7 @@
     "tags": "columns",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">view_week</i>",
-    "unicode": "view_week"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24730,7 +24730,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">vignette</i>",
-    "unicode": "vignette"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24738,7 +24738,7 @@
     "tags": "eye, show, view",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">visibility</i>",
-    "unicode": "visibility"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24746,7 +24746,7 @@
     "tags": "eye, hide",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">visibility_off</i>",
-    "unicode": "visibility_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24754,7 +24754,7 @@
     "tags": "camera, chat, speech bubble, video",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">voice_chat</i>",
-    "unicode": "voice_chat"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24762,7 +24762,7 @@
     "tags": "record",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">voicemail</i>",
-    "unicode": "voicemail"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24770,7 +24770,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">volume_down</i>",
-    "unicode": "volume_down"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24778,7 +24778,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">volume_mute</i>",
-    "unicode": "volume_mute"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24786,7 +24786,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">volume_off</i>",
-    "unicode": "volume_off"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24794,7 +24794,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">volume_up</i>",
-    "unicode": "volume_up"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24802,7 +24802,7 @@
     "tags": "key, lock",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">vpn_key</i>",
-    "unicode": "vpn_key"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24810,7 +24810,7 @@
     "tags": "globe, lock",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">vpn_lock</i>",
-    "unicode": "vpn_lock"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24818,7 +24818,7 @@
     "tags": "picture",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">wallpaper</i>",
-    "unicode": "wallpaper"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24826,7 +24826,7 @@
     "tags": "alert, danger",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">warning</i>",
-    "unicode": "warning"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24834,7 +24834,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">watch</i>",
-    "unicode": "watch"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24842,7 +24842,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">wb_auto</i>",
-    "unicode": "wb_auto"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24850,7 +24850,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">wb_cloudy</i>",
-    "unicode": "wb_cloudy"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24858,7 +24858,7 @@
     "tags": "lightbulb",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">wb_incandescent</i>",
-    "unicode": "wb_incandescent"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24866,7 +24866,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">wb_iridescent</i>",
-    "unicode": "wb_iridescent"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24874,7 +24874,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">wb_sunny</i>",
-    "unicode": "wb_sunny"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24882,7 +24882,7 @@
     "tags": "bathroom, restroom",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">wc</i>",
-    "unicode": "wc"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24890,7 +24890,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">web</i>",
-    "unicode": "web"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24898,7 +24898,7 @@
     "tags": "fire, flame",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">whatshot</i>",
-    "unicode": "whatshot"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24906,7 +24906,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">widgets</i>",
-    "unicode": "widgets"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24914,7 +24914,7 @@
     "tags": "signal",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">wifi</i>",
-    "unicode": "wifi"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24922,7 +24922,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">wifi_lock</i>",
-    "unicode": "wifi_lock"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24930,7 +24930,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">wifi_tethering</i>",
-    "unicode": "wifi_tethering"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24938,7 +24938,7 @@
     "tags": "briefcase, suitcase",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">work</i>",
-    "unicode": "work"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24946,7 +24946,7 @@
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">wrap_text</i>",
-    "unicode": "wrap_text"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24954,7 +24954,7 @@
     "tags": "find, magnifying glass",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">youtube_searched_for</i>",
-    "unicode": "youtube_searched_for"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24962,7 +24962,7 @@
     "tags": "magnifying glass",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">zoom_in</i>",
-    "unicode": "zoom_in"
+    "unicode": ""
   },
   {
     "_tags": ["material"],
@@ -24970,7 +24970,7 @@
     "tags": "magnifying glass",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">zoom_out</i>",
-    "unicode": "zoom_out"
+    "unicode": ""
   },
 
   {

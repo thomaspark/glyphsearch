@@ -253,12 +253,9 @@
     } else if (state.copy === "name") {
       text = target.attr("data-name");
     } else if (state.copy === "unicode") {
-      if (target.find("i").hasClass("material-icons")) {
-        text = target.attr("data-unicode");
-      } else {
-        var hex = target.attr("data-unicode");
-        text = String.fromCharCode(parseInt(hex, 16));
-      }
+      // "Unicode": `f12a` => <UnicodeChar>
+      var hex = target.attr("data-unicode");
+      text = String.fromCharCode(parseInt(hex, 16));
     }
 
     return text;
