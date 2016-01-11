@@ -61,4 +61,43 @@ module.exports = function(grunt) {
       }
     });
   });
+
+  grunt.registerTask('map-unicodes-for-material-icons', function() {
+    var done = this.async();
+
+    var materialIconsData = require('./data/icons-material.json')
+
+    // console.log('IN', materialIconsData)
+
+    var fs = require('fs')
+    var cvsParse = require('csv-parse')
+
+    var writeStream = fs.createWriteStream('./data/icons-material.json')
+
+    var fontCodepointsParser = cvsParse({delimiter: ' ', columns: ['name', 'unicode']}, function(err, fontCodepoints){
+      // console.log('CODEPOINTS', fontCodepoints)
+
+      var fontCodepointsMap = {}
+
+      fontCodepoints.forEach(function(codepoint) {
+        fontCodepointsMap['' + codepoint.name] = codepoint.unicode
+        fontCodepointsMap['' + codepoint.unicode] = codepoint.name
+      })
+
+      materialIconsData.material.forEach(function(item) {
+        item.unicode = fontCodepointsMap[item.name]
+        // item.tags = ''
+      })
+
+      console.log('OUT', materialIconsData)
+
+      writeStream.write(JSON.stringify(materialIconsData, null, '  '), 'utf8')
+      writeStream.end()
+
+      done()
+    })
+
+    fs.createReadStream('./bower_components/material-design-icons/iconfont/codepoints').pipe(fontCodepointsParser)
+  });
+
 };

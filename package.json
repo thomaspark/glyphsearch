@@ -19,10 +19,11 @@
   "dependencies": {
     "grunt": "~0.4.1",
     "grunt-compile-handlebars": "~0.6.2",
-    "algolia-search": "~1.2.1",
+    "algolia-search": "~2.0.1",
     "grunt-merge-json": "~0.9.4"
   },
   "devDependencies": {
+    "csv-parse": "^1.0.1",
     "grunt-cli": "latest",
     "http-server": "latest"
   },

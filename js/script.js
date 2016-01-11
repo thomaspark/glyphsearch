@@ -266,12 +266,8 @@
       text = unicodeHex
     } else if (state.copy === "unicode") {
       // "Unicode": `f12a` => <UnicodeChar>
-      if (target.find("i").hasClass("material-icons")) {
-        text = target.attr("data-unicode");
-      } else {
-        var hex = target.attr("data-unicode");
-        text = String.fromCharCode(parseInt(hex, 16));
-      }
+      var hex = target.attr("data-unicode");
+      text = String.fromCharCode(parseInt(hex, 16));
     } else if (state.copy === "svg") {
       // "SVG Markup": `f12a` => `<svg ...><path ... d="..."></path></svg>`
       var unicodeHex = target.attr("data-unicode")
