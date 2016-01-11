@@ -25,8 +25,11 @@ module.exports = function(grunt) {
   grunt.registerTask('build', ['merge-json', 'compile-handlebars']);
 
   grunt.registerTask('index', 'Push batch.json to Algolia\'s server', function() {
-    // required api key
+
+    // --- Step 0: required Algolia api key
+
     var personalApiKey = grunt.option('apikey');
+
     if (!personalApiKey) {
       grunt.log.write("Checking API key...").error();
       grunt.log.write("Please provide a valid API key with option --apikey");
@@ -36,21 +39,38 @@ module.exports = function(grunt) {
     // this task is async
     var done = this.async();
 
-    // init Algolia API client
+
+    // --- Step 1: init Algolia API client
+
     var init = grunt.log.write("Initialize Algolia's client...");
+
     var Algolia = require('algolia-search');
     var client = new Algolia('9JQV0RIHU0', personalApiKey);
+
     init.ok();
 
-    // prepare index
-    init = grunt.log.write("Clearing index...");
+
+    // --- Step 2: prepare Algolia index
+
+    var prepare = grunt.log.write("Clearing index...");
+
     client.deleteIndex('icons');
-    var index = client.initIndex('icons');
-    index.setSettings({ 'attributesToIndex' : ["name", "tags"], 'customRanking' : ["asc(name)"], 'queryType' : 'prefixAll' });
-    init.ok();
 
-    // push data
+    var index = client.initIndex('icons');
+
+    index.setSettings({
+      'attributesToIndex': ["name", "tags", "unicode"],
+      'customRanking': ["asc(name)"],
+      'queryType': 'prefixAll'
+    });
+
+    prepare.ok();
+
+
+    // --- Step 3: push data to Algolia
+
     var push = grunt.log.write("Push batch.json...");
+
     index.addObjects(require('./data/batch.json'), function(error, content) {
       if (error) {
         push.error();
@@ -60,5 +80,6 @@ module.exports = function(grunt) {
         done();
       }
     });
+
   });
 };
