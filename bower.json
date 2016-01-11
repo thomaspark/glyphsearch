@@ -16,7 +16,7 @@
     "foundation-icon-fonts": "zurb/foundation-icon-fonts",
     "icomoon": "0.0.3",
     "ionicons": "2.0.1",
-    "material-design-icons": "2.0.0",
+    "material-design-icons": "https://github.com/grimen/material-design-icons.git#f489e39a86c6d2d0cd09c0f28cd217d43a06fafe",
     "octicons": "3.3.0"
   }
 }

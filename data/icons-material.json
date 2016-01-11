@@ -3,3957 +3,3953 @@
     {
       "name": "3d_rotation",
       "tags": "",
-      "unicode": ""
+      "unicode": "e84d"
     },
     {
       "name": "access_alarm",
       "tags": "clock, reminder",
-      "unicode": ""
+      "unicode": "e190"
     },
     {
       "name": "access_alarms",
       "tags": "clock, reminder",
-      "unicode": ""
+      "unicode": "e191"
     },
     {
       "name": "access_time",
       "tags": "clock, timer",
-      "unicode": ""
+      "unicode": "e192"
     },
     {
       "name": "accessibility",
       "tags": "",
-      "unicode": ""
+      "unicode": "e84e"
     },
     {
       "name": "account_balance",
       "tags": "bank, building",
-      "unicode": ""
+      "unicode": "e84f"
     },
     {
       "name": "account_balance_wallet",
       "tags": "",
-      "unicode": ""
+      "unicode": "e850"
     },
     {
       "name": "account_box",
       "tags": "avatar, user",
-      "unicode": ""
+      "unicode": "e851"
     },
     {
       "name": "account_circle",
       "tags": "avatar, user",
-      "unicode": ""
+      "unicode": "e853"
     },
     {
       "name": "adb",
       "tags": "android bot, brand, logo",
-      "unicode": ""
+      "unicode": "e60e"
     },
     {
       "name": "add",
       "tags": "plus",
-      "unicode": ""
+      "unicode": "e145"
     },
     {
       "name": "add_alarm",
       "tags": "clock, reminder",
-      "unicode": ""
+      "unicode": "e193"
     },
     {
       "name": "add_alert",
       "tags": "bell",
-      "unicode": ""
+      "unicode": "e003"
     },
     {
       "name": "add_box",
       "tags": "plus",
-      "unicode": ""
+      "unicode": "e146"
     },
     {
       "name": "add_circle",
       "tags": "plus",
-      "unicode": ""
+      "unicode": "e147"
     },
     {
       "name": "add_circle_outline",
       "tags": "plus",
-      "unicode": ""
+      "unicode": "e148"
     },
     {
       "name": "add_shopping_cart",
       "tags": "",
-      "unicode": ""
+      "unicode": "e854"
     },
     {
       "name": "add_to_photos",
       "tags": "",
-      "unicode": ""
+      "unicode": "e39d"
     },
     {
       "name": "adjust",
       "tags": "",
-      "unicode": ""
+      "unicode": "e39e"
     },
     {
       "name": "airline_seat_flat",
       "tags": "bed",
-      "unicode": ""
+      "unicode": "e630"
     },
     {
       "name": "airline_seat_flat_angled",
       "tags": "bed",
-      "unicode": ""
+      "unicode": "e631"
     },
     {
       "name": "airline_seat_individual_suite",
       "tags": "bed",
-      "unicode": ""
+      "unicode": "e632"
     },
     {
       "name": "airline_seat_legroom_extra",
       "tags": "",
-      "unicode": ""
+      "unicode": "e633"
     },
     {
       "name": "airline_seat_legroom_normal",
       "tags": "",
-      "unicode": ""
+      "unicode": "e634"
     },
     {
       "name": "airline_seat_legroom_reduced",
       "tags": "",
-      "unicode": ""
+      "unicode": "e635"
     },
     {
       "name": "airline_seat_recline_extra",
       "tags": "",
-      "unicode": ""
+      "unicode": "e636"
     },
     {
       "name": "airline_seat_recline_normal",
       "tags": "",
-      "unicode": ""
+      "unicode": "e637"
     },
     {
       "name": "airplanemode_active",
       "tags": "jet",
-      "unicode": ""
+      "unicode": "e195"
     },
     {
       "name": "airplanemode_inactive",
       "tags": "jet",
-      "unicode": ""
+      "unicode": "e194"
     },
     {
       "name": "airplay",
       "tags": "video",
-      "unicode": ""
+      "unicode": "e055"
     },
     {
       "name": "alarm",
       "tags": "clock",
-      "unicode": ""
+      "unicode": "e855"
     },
     {
       "name": "alarm_add",
       "tags": "clock",
-      "unicode": ""
+      "unicode": "e856"
     },
     {
       "name": "alarm_off",
       "tags": "clock",
-      "unicode": ""
+      "unicode": "e857"
     },
     {
       "name": "alarm_on",
       "tags": "clock",
-      "unicode": ""
+      "unicode": "e858"
     },
     {
       "name": "album",
       "tags": "music, record, vinyl",
-      "unicode": ""
+      "unicode": "e019"
     },
     {
       "name": "android",
       "tags": "brand, logo",
-      "unicode": ""
+      "unicode": "e859"
     },
     {
       "name": "announcement",
       "tags": "alert, speech bubble",
-      "unicode": ""
+      "unicode": "e85a"
     },
     {
       "name": "apps",
       "tags": "grid",
-      "unicode": ""
+      "unicode": "e5c3"
     },
     {
       "name": "archive",
       "tags": "download, save",
-      "unicode": ""
+      "unicode": "e149"
     },
     {
       "name": "arrow_back",
       "tags": "directional",
-      "unicode": ""
+      "unicode": "e5c4"
     },
     {
       "name": "arrow_drop_down",
       "tags": "caret",
-      "unicode": ""
+      "unicode": "e5c5"
     },
     {
       "name": "arrow_drop_down_circle",
       "tags": "caret",
-      "unicode": ""
+      "unicode": "e5c6"
     },
     {
       "name": "arrow_drop_up",
       "tags": "caret",
-      "unicode": ""
+      "unicode": "e5c7"
     },
     {
       "name": "arrow_forward",
       "tags": "directional",
-      "unicode": ""
+      "unicode": "e5c8"
     },
     {
       "name": "aspect_ratio",
       "tags": "",
-      "unicode": ""
+      "unicode": "e85b"
     },
     {
       "name": "assessment",
       "tags": "chart, graph",
-      "unicode": ""
+      "unicode": "e85c"
     },
     {
       "name": "assignment",
       "tags": "clipboard",
-      "unicode": ""
+      "unicode": "e85d"
     },
     {
       "name": "assignment_ind",
       "tags": "clipboard",
-      "unicode": ""
+      "unicode": "e85e"
     },
     {
       "name": "assignment_late",
       "tags": "clipboard",
-      "unicode": ""
+      "unicode": "e85f"
     },
     {
       "name": "assignment_return",
       "tags": "clipboard",
-      "unicode": ""
+      "unicode": "e860"
     },
     {
       "name": "assignment_returned",
       "tags": "clipboard",
-      "unicode": ""
+      "unicode": "e861"
     },
     {
       "name": "assignment_turned_in",
       "tags": "clipboard",
-      "unicode": ""
+      "unicode": "e862"
     },
     {
       "name": "assistant",
       "tags": "",
-      "unicode": ""
+      "unicode": "e39f"
     },
     {
       "name": "assistant_photo",
       "tags": "flag",
-      "unicode": ""
+      "unicode": "e3a0"
     },
     {
       "name": "attach_file",
       "tags": "paperclip",
-      "unicode": ""
+      "unicode": "e226"
     },
     {
       "name": "attach_money",
       "tags": "currency, dollar sign, usd",
-      "unicode": ""
+      "unicode": "e227"
     },
     {
       "name": "attachment",
       "tags": "paperclip",
-      "unicode": ""
+      "unicode": "e2bc"
     },
     {
       "name": "audiotrack",
       "tags": "music note",
-      "unicode": ""
+      "unicode": "e3a1"
     },
     {
       "name": "autorenew",
       "tags": "refresh, reload",
-      "unicode": ""
+      "unicode": "e863"
     },
     {
       "name": "av_timer",
       "tags": "gauge",
-      "unicode": ""
+      "unicode": "e01b"
     },
     {
       "name": "backspace",
       "tags": "delete",
-      "unicode": ""
+      "unicode": "e14a"
     },
     {
       "name": "backup",
       "tags": "cloud, upload",
-      "unicode": ""
+      "unicode": "e864"
     },
     {
       "name": "battery_alert",
       "tags": "power",
-      "unicode": ""
+      "unicode": "e19c"
     },
     {
       "name": "battery_charging_full",
       "tags": "power",
-      "unicode": ""
+      "unicode": "e1a3"
     },
     {
       "name": "battery_full",
       "tags": "power",
-      "unicode": ""
+      "unicode": "e1a4"
     },
     {
       "name": "battery_std",
       "tags": "power",
-      "unicode": ""
+      "unicode": "e1a5"
     },
     {
       "name": "battery_unknown",
       "tags": "power",
-      "unicode": ""
+      "unicode": "e1a6"
     },
     {
       "name": "beenhere",
       "tags": "checkmark",
-      "unicode": ""
+      "unicode": "e52d"
     },
     {
       "name": "block",
       "tags": "prohibited",
-      "unicode": ""
+      "unicode": "e14b"
     },
     {
       "name": "bluetooth",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1a7"
     },
     {
       "name": "bluetooth_audio",
       "tags": "",
-      "unicode": ""
+      "unicode": "e60f"
     },
     {
       "name": "bluetooth_connected",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1a8"
     },
     {
       "name": "bluetooth_disabled",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1a9"
     },
     {
       "name": "bluetooth_searching",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1aa"
     },
     {
       "name": "blur_circular",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3a2"
     },
     {
       "name": "blur_linear",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3a3"
     },
     {
       "name": "blur_off",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3a4"
     },
     {
       "name": "blur_on",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3a5"
     },
     {
       "name": "book",
       "tags": "",
-      "unicode": ""
+      "unicode": "e865"
     },
     {
       "name": "bookmark",
       "tags": "",
-      "unicode": ""
+      "unicode": "e866"
     },
     {
       "name": "bookmark_border",
       "tags": "",
-      "unicode": ""
+      "unicode": "e867"
     },
     {
       "name": "border_all",
       "tags": "",
-      "unicode": ""
+      "unicode": "e228"
     },
     {
       "name": "border_bottom",
       "tags": "",
-      "unicode": ""
+      "unicode": "e229"
     },
     {
       "name": "border_clear",
       "tags": "",
-      "unicode": ""
+      "unicode": "e22a"
     },
     {
       "name": "border_color",
       "tags": "",
-      "unicode": ""
+      "unicode": "e22b"
     },
     {
       "name": "border_horizontal",
       "tags": "",
-      "unicode": ""
+      "unicode": "e22c"
     },
     {
       "name": "border_inner",
       "tags": "",
-      "unicode": ""
+      "unicode": "e22d"
     },
     {
       "name": "border_left",
       "tags": "",
-      "unicode": ""
+      "unicode": "e22e"
     },
     {
       "name": "border_outer",
       "tags": "",
-      "unicode": ""
+      "unicode": "e22f"
     },
     {
       "name": "border_right",
       "tags": "",
-      "unicode": ""
+      "unicode": "e230"
     },
     {
       "name": "border_style",
       "tags": "",
-      "unicode": ""
+      "unicode": "e231"
     },
     {
       "name": "border_top",
       "tags": "",
-      "unicode": ""
+      "unicode": "e232"
     },
     {
       "name": "border_vertical",
       "tags": "",
-      "unicode": ""
+      "unicode": "e233"
     },
     {
       "name": "brightness_1",
       "tags": "circle, full moon",
-      "unicode": ""
+      "unicode": "e3a6"
     },
     {
       "name": "brightness_2",
       "tags": "crescent moon",
-      "unicode": ""
+      "unicode": "e3a7"
     },
     {
       "name": "brightness_3",
       "tags": "crescent moon",
-      "unicode": ""
+      "unicode": "e3a8"
     },
     {
       "name": "brightness_4",
       "tags": "eclipse, moon, sun",
-      "unicode": ""
+      "unicode": "e3a9"
     },
     {
       "name": "brightness_5",
       "tags": "sun",
-      "unicode": ""
+      "unicode": "e3aa"
     },
     {
       "name": "brightness_6",
       "tags": "sun",
-      "unicode": ""
+      "unicode": "e3ab"
     },
     {
       "name": "brightness_7",
       "tags": "sun",
-      "unicode": ""
+      "unicode": "e3ac"
     },
     {
       "name": "brightness_auto",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1ab"
     },
     {
       "name": "brightness_high",
       "tags": "sun",
-      "unicode": ""
+      "unicode": "e1ac"
     },
     {
       "name": "brightness_low",
       "tags": "sun",
-      "unicode": ""
+      "unicode": "e1ad"
     },
     {
       "name": "brightness_medium",
       "tags": "sun",
-      "unicode": ""
+      "unicode": "e1ae"
     },
     {
       "name": "broken_image",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3ad"
     },
     {
       "name": "brush",
       "tags": "paintbrush",
-      "unicode": ""
+      "unicode": "e3ae"
     },
     {
       "name": "bug_report",
       "tags": "",
-      "unicode": ""
+      "unicode": "e868"
     },
     {
       "name": "build",
       "tags": "tool, wrench",
-      "unicode": ""
+      "unicode": "e869"
     },
     {
       "name": "business",
       "tags": "buildings",
-      "unicode": ""
+      "unicode": "e0af"
     },
     {
       "name": "cached",
       "tags": "refresh, reload",
-      "unicode": ""
+      "unicode": "e86a"
     },
     {
       "name": "call",
       "tags": "phone, telephone",
-      "unicode": ""
+      "unicode": "e0b0"
     },
     {
       "name": "call_end",
       "tags": "phone, telephone",
-      "unicode": ""
+      "unicode": "e0b1"
     },
     {
       "name": "call_made",
       "tags": "arrow",
-      "unicode": ""
+      "unicode": "e0b2"
     },
     {
       "name": "call_merge",
       "tags": "arrows, merge",
-      "unicode": ""
+      "unicode": "e0b3"
     },
     {
       "name": "call_missed",
       "tags": "arrow",
-      "unicode": ""
+      "unicode": "e0b4"
     },
     {
       "name": "call_received",
       "tags": "arrow",
-      "unicode": ""
+      "unicode": "e0b5"
     },
     {
       "name": "call_split",
       "tags": "arrows, fork",
-      "unicode": ""
+      "unicode": "e0b6"
     },
     {
       "name": "cake",
       "tags": "birthday",
-      "unicode": ""
+      "unicode": "e7e9"
     },
     {
       "name": "camera",
       "tags": "shutter",
-      "unicode": ""
+      "unicode": "e3af"
     },
     {
       "name": "camera_alt",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3b0"
     },
     {
       "name": "camera_front",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3b1"
     },
     {
       "name": "camera_enhance",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8fc"
     },
     {
       "name": "camera_rear",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3b2"
     },
     {
       "name": "camera_roll",
       "tags": "film",
-      "unicode": ""
+      "unicode": "e3b3"
     },
     {
       "name": "cancel",
       "tags": "close, remove, x",
-      "unicode": ""
+      "unicode": "e5c9"
     },
     {
       "name": "card_giftcard",
       "tags": "present",
-      "unicode": ""
+      "unicode": "e8f6"
     },
     {
       "name": "card_membership",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8f7"
     },
     {
       "name": "card_travel",
       "tags": "briefcase, luggage, suitcase",
-      "unicode": ""
+      "unicode": "e8f8"
     },
     {
       "name": "cast",
       "tags": "broadcast",
-      "unicode": ""
+      "unicode": "e307"
     },
     {
       "name": "cast_connected",
       "tags": "broadcast",
-      "unicode": ""
+      "unicode": "e308"
     },
     {
       "name": "center_focus_strong",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3b4"
     },
     {
       "name": "center_focus_weak",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3b5"
     },
     {
       "name": "change_history",
       "tags": "triangle",
-      "unicode": ""
+      "unicode": "e86b"
     },
     {
       "name": "chat",
       "tags": "speech bubble",
-      "unicode": ""
+      "unicode": "e0b7"
     },
     {
       "name": "chat_bubble",
       "tags": "speech bubble",
-      "unicode": ""
+      "unicode": "e0ca"
     },
     {
       "name": "chat_bubble_outline",
       "tags": "speech bubble",
-      "unicode": ""
+      "unicode": "e0cb"
     },
     {
       "name": "check",
       "tags": "checkmark",
-      "unicode": ""
+      "unicode": "e5ca"
     },
     {
       "name": "check_box",
       "tags": "",
-      "unicode": ""
+      "unicode": "e834"
     },
     {
       "name": "check_box_outline",
-      "tags": "",
-      "unicode": ""
+      "tags": ""
     },
     {
       "name": "check_circle",
       "tags": "",
-      "unicode": ""
+      "unicode": "e86c"
     },
     {
       "name": "chevron_left",
       "tags": "angle, directional",
-      "unicode": ""
+      "unicode": "e5cb"
     },
     {
       "name": "chevron_right",
       "tags": "angle, directional",
-      "unicode": ""
+      "unicode": "e5cc"
     },
     {
       "name": "chrome_reader_mode",
       "tags": "",
-      "unicode": ""
+      "unicode": "e86d"
     },
     {
       "name": "class",
       "tags": "bookmark",
-      "unicode": ""
+      "unicode": "e86e"
     },
     {
       "name": "clear",
       "tags": "close, x",
-      "unicode": ""
+      "unicode": "e14c"
     },
     {
       "name": "clear_all",
       "tags": "",
-      "unicode": ""
+      "unicode": "e0b8"
     },
     {
       "name": "close",
       "tags": "cancel, remove, x",
-      "unicode": ""
+      "unicode": "e5cd"
     },
     {
       "name": "closed_caption",
       "tags": "",
-      "unicode": ""
+      "unicode": "e01c"
     },
     {
       "name": "cloud",
       "tags": "",
-      "unicode": ""
+      "unicode": "e2bd"
     },
     {
       "name": "cloud_circle",
       "tags": "",
-      "unicode": ""
+      "unicode": "e2be"
     },
     {
       "name": "cloud_done",
       "tags": "",
-      "unicode": ""
+      "unicode": "e2bf"
     },
     {
       "name": "cloud_download",
       "tags": "",
-      "unicode": ""
+      "unicode": "e2c0"
     },
     {
       "name": "cloud_off",
       "tags": "",
-      "unicode": ""
+      "unicode": "e2c1"
     },
     {
       "name": "cloud_queue",
       "tags": "",
-      "unicode": ""
+      "unicode": "e2c2"
     },
     {
       "name": "cloud_upload",
       "tags": "",
-      "unicode": ""
+      "unicode": "e2c3"
     },
     {
       "name": "code",
       "tags": "",
-      "unicode": ""
+      "unicode": "e86f"
     },
     {
       "name": "collections",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3b6"
     },
     {
       "name": "collections_bookmark",
       "tags": "",
-      "unicode": ""
+      "unicode": "e431"
     },
     {
       "name": "color_lens",
       "tags": "art, paint, palette",
-      "unicode": ""
+      "unicode": "e3b7"
     },
     {
       "name": "colorize",
       "tags": "eyedropper",
-      "unicode": ""
+      "unicode": "e3b8"
     },
     {
       "name": "comment",
       "tags": "chat, speech bubble",
-      "unicode": ""
+      "unicode": "e0b9"
     },
     {
       "name": "compare",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3b9"
     },
     {
       "name": "computer",
       "tags": "laptop",
-      "unicode": ""
+      "unicode": "e30a"
     },
     {
       "name": "confirmation_number",
       "tags": "ticket",
-      "unicode": ""
+      "unicode": "e638"
     },
     {
       "name": "contact_phone",
       "tags": "",
-      "unicode": ""
+      "unicode": "e0cf"
     },
     {
       "name": "contacts",
       "tags": "",
-      "unicode": ""
+      "unicode": "e0ba"
     },
     {
       "name": "content_copy",
       "tags": "clone, copy",
-      "unicode": ""
+      "unicode": "e14d"
     },
     {
       "name": "content_cut",
       "tags": "scissors",
-      "unicode": ""
+      "unicode": "e14e"
     },
     {
       "name": "content_paste",
       "tags": "clipboard",
-      "unicode": ""
+      "unicode": "e14f"
     },
     {
       "name": "control_point",
       "tags": "plus",
-      "unicode": ""
+      "unicode": "e3ba"
     },
     {
       "name": "control_point_duplicate",
       "tags": "plus",
-      "unicode": ""
+      "unicode": "e3bb"
     },
     {
       "name": "create",
       "tags": "pencil",
-      "unicode": ""
+      "unicode": "e150"
     },
     {
       "name": "credit_card",
       "tags": "payment",
-      "unicode": ""
+      "unicode": "e870"
     },
     {
       "name": "crop",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3be"
     },
     {
       "name": "crop_16_9",
       "tags": "aspect ratio",
-      "unicode": ""
+      "unicode": "e3bc"
     },
     {
       "name": "crop_3_2",
       "tags": "aspect ratio",
-      "unicode": ""
+      "unicode": "e3bd"
     },
     {
       "name": "crop_5_4",
       "tags": "aspect ratio",
-      "unicode": ""
+      "unicode": "e3bf"
     },
     {
       "name": "crop_7_5",
       "tags": "aspect ratio",
-      "unicode": ""
+      "unicode": "e3c0"
     },
     {
       "name": "crop_din",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3c1"
     },
     {
       "name": "crop_free",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3c2"
     },
     {
       "name": "crop_landscape",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3c3"
     },
     {
       "name": "crop_original",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3c4"
     },
     {
       "name": "crop_portrait",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3c5"
     },
     {
       "name": "crop_square",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3c6"
     },
     {
       "name": "dashboard",
       "tags": "blocks, grid",
-      "unicode": ""
+      "unicode": "e871"
     },
     {
       "name": "data_usage",
       "tags": "pie chart, graph",
-      "unicode": ""
+      "unicode": "e1af"
     },
     {
       "name": "dehaze",
       "tags": "bars, hamburger menu, more",
-      "unicode": ""
+      "unicode": "e3c7"
     },
     {
       "name": "delete",
       "tags": "trash can",
-      "unicode": ""
+      "unicode": "e872"
     },
     {
       "name": "description",
       "tags": "document, file",
-      "unicode": ""
+      "unicode": "e873"
     },
     {
       "name": "desktop_mac",
       "tags": "computer, display, monitor",
-      "unicode": ""
+      "unicode": "e30b"
     },
     {
       "name": "desktop_windows",
       "tags": "computer, display, monitor",
-      "unicode": ""
+      "unicode": "e30c"
     },
     {
       "name": "details",
       "tags": "triangle",
-      "unicode": ""
+      "unicode": "e3c8"
     },
     {
       "name": "developer_board",
       "tags": "notebook, scrap book",
-      "unicode": ""
+      "unicode": "e30d"
     },
     {
       "name": "developer_mode",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1b0"
     },
     {
       "name": "device_hub",
       "tags": "",
-      "unicode": ""
+      "unicode": "e335"
     },
     {
       "name": "devices",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1b1"
     },
     {
       "name": "dialer_sip",
       "tags": "",
-      "unicode": ""
+      "unicode": "e0bb"
     },
     {
       "name": "dialpad",
       "tags": "",
-      "unicode": ""
+      "unicode": "e0bc"
     },
     {
       "name": "directions",
       "tags": "road sign",
-      "unicode": ""
+      "unicode": "e52e"
     },
     {
       "name": "directions_bike",
       "tags": "bicycle",
-      "unicode": ""
+      "unicode": "e52f"
     },
     {
       "name": "directions_boat",
       "tags": "ship",
-      "unicode": ""
+      "unicode": "e532"
     },
     {
       "name": "directions_bus",
       "tags": "",
-      "unicode": ""
+      "unicode": "e530"
     },
     {
       "name": "directions_car",
       "tags": "automobile, car",
-      "unicode": ""
+      "unicode": "e531"
     },
     {
       "name": "directions_railway",
       "tags": "train",
-      "unicode": ""
+      "unicode": "e534"
     },
     {
       "name": "directions_run",
       "tags": "person",
-      "unicode": ""
+      "unicode": "e566"
     },
     {
       "name": "directions_subway",
       "tags": "",
-      "unicode": ""
+      "unicode": "e533"
     },
     {
       "name": "directions_transit",
       "tags": "",
-      "unicode": ""
+      "unicode": "e535"
     },
     {
       "name": "directions_walk",
       "tags": "person",
-      "unicode": ""
+      "unicode": "e536"
     },
     {
       "name": "disc_full",
       "tags": "record, vinyl",
-      "unicode": ""
+      "unicode": "e610"
     },
     {
       "name": "dns",
       "tags": "server",
-      "unicode": ""
+      "unicode": "e875"
     },
     {
       "name": "do_not_disturb",
       "tags": "prohibited",
-      "unicode": ""
+      "unicode": "e612"
     },
     {
       "name": "do_not_disturb_alt",
       "tags": "prohibited",
-      "unicode": ""
+      "unicode": "e611"
     },
     {
       "name": "dock",
       "tags": "phone",
-      "unicode": ""
+      "unicode": "e30e"
     },
     {
       "name": "domain",
       "tags": "building",
-      "unicode": ""
+      "unicode": "e7ee"
     },
     {
       "name": "done",
       "tags": "check mark",
-      "unicode": ""
+      "unicode": "e876"
     },
     {
       "name": "done_all",
       "tags": "check mark",
-      "unicode": ""
+      "unicode": "e877"
     },
     {
       "name": "drafts",
       "tags": "envelope, mail",
-      "unicode": ""
+      "unicode": "e151"
     },
     {
       "name": "drive_eta",
       "tags": "automobile, car",
-      "unicode": ""
+      "unicode": "e613"
     },
     {
       "name": "dvr",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1b2"
     },
     {
       "name": "edit",
       "tags": "pencil",
-      "unicode": ""
+      "unicode": "e3c9"
     },
     {
       "name": "eject",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8fb"
     },
     {
       "name": "email",
       "tags": "envelope, letter",
-      "unicode": ""
+      "unicode": "e0be"
     },
     {
       "name": "equalizer",
       "tags": "audio, levels, settings",
-      "unicode": ""
+      "unicode": "e01d"
     },
     {
       "name": "error",
       "tags": "alert, warning",
-      "unicode": ""
+      "unicode": "e000"
     },
     {
       "name": "error_outline",
       "tags": "alert, warning",
-      "unicode": ""
+      "unicode": "e001"
     },
     {
       "name": "event",
       "tags": "calendar",
-      "unicode": ""
+      "unicode": "e878"
     },
     {
       "name": "event_available",
       "tags": "calendar",
-      "unicode": ""
+      "unicode": "e614"
     },
     {
       "name": "event_busy",
       "tags": "calendar",
-      "unicode": ""
+      "unicode": "e615"
     },
     {
       "name": "event_note",
       "tags": "calendar",
-      "unicode": ""
+      "unicode": "e616"
     },
     {
       "name": "event_seat",
       "tags": "chair",
-      "unicode": ""
+      "unicode": "e903"
     },
     {
       "name": "exit_to_app",
       "tags": "",
-      "unicode": ""
+      "unicode": "e879"
     },
     {
       "name": "expand_less",
       "tags": "angle, chevron, directional, up",
-      "unicode": ""
+      "unicode": "e5ce"
     },
     {
       "name": "expand_more",
       "tags": "angle, chevron, directional, down",
-      "unicode": ""
+      "unicode": "e5cf"
     },
     {
       "name": "explicit",
       "tags": "",
-      "unicode": ""
+      "unicode": "e01e"
     },
     {
       "name": "explore",
       "tags": "compass, directions",
-      "unicode": ""
+      "unicode": "e87a"
     },
     {
       "name": "exposure",
       "tags": "brightness, contrast",
-      "unicode": ""
+      "unicode": "e3ca"
     },
     {
       "name": "exposure_neg_1",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3cb"
     },
     {
       "name": "exposure_neg_2",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3cc"
     },
     {
       "name": "exposure_plus_1",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3cd"
     },
     {
       "name": "exposure_plus_2",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3ce"
     },
     {
       "name": "exposure_zero",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3cf"
     },
     {
       "name": "extension",
       "tags": "jigsaw, puzzle",
-      "unicode": ""
+      "unicode": "e87b"
     },
     {
       "name": "face",
       "tags": "",
-      "unicode": ""
+      "unicode": "e87c"
     },
     {
       "name": "fast_forward",
       "tags": "",
-      "unicode": ""
+      "unicode": "e01f"
     },
     {
       "name": "fast_rewind",
       "tags": "",
-      "unicode": ""
+      "unicode": "e020"
     },
     {
       "name": "favorite",
       "tags": "heart, like",
-      "unicode": ""
+      "unicode": "e87d"
     },
     {
       "name": "favorite_border",
       "tags": "heart, like",
-      "unicode": ""
+      "unicode": "e87e"
     },
     {
       "name": "feedback",
       "tags": "alert, speech bubble",
-      "unicode": ""
+      "unicode": "e87f"
     },
     {
       "name": "file_download",
       "tags": "",
-      "unicode": ""
+      "unicode": "e2c4"
     },
     {
       "name": "file_upload",
       "tags": "",
-      "unicode": ""
+      "unicode": "e2c6"
     },
     {
       "name": "filter",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3d3"
     },
     {
       "name": "filter_1",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3d0"
     },
     {
       "name": "filter_2",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3d1"
     },
     {
       "name": "filter_3",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3d2"
     },
     {
       "name": "filter_4",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3d4"
     },
     {
       "name": "filter_5",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3d5"
     },
     {
       "name": "filter_6",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3d6"
     },
     {
       "name": "filter_7",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3d7"
     },
     {
       "name": "filter_8",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3d8"
     },
     {
       "name": "filter_9",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3d9"
     },
     {
       "name": "filter_9_plus",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3da"
     },
     {
       "name": "filter_b_and_w",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3db"
     },
     {
       "name": "filter_center_focus",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3dc"
     },
     {
       "name": "filter_drama",
       "tags": "cloud",
-      "unicode": ""
+      "unicode": "e3dd"
     },
     {
       "name": "filter_frames",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3de"
     },
     {
       "name": "filter_hdr",
       "tags": "mountains",
-      "unicode": ""
+      "unicode": "e3df"
     },
     {
       "name": "filter_list",
       "tags": "",
-      "unicode": ""
+      "unicode": "e152"
     },
     {
       "name": "filter_none",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3e0"
     },
     {
       "name": "filter_tilt_shift",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3e2"
     },
     {
       "name": "filter_vintage",
       "tags": "flower",
-      "unicode": ""
+      "unicode": "e3e3"
     },
     {
       "name": "find_in_page",
       "tags": "search, magnifying glass",
-      "unicode": ""
+      "unicode": "e880"
     },
     {
       "name": "find_replace",
       "tags": "search, magnifying glass",
-      "unicode": ""
+      "unicode": "e881"
     },
     {
       "name": "flag",
       "tags": "",
-      "unicode": ""
+      "unicode": "e153"
     },
     {
       "name": "flare",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3e4"
     },
     {
       "name": "flash_auto",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3e5"
     },
     {
       "name": "flash_off",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3e6"
     },
     {
       "name": "flash_on",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3e7"
     },
     {
       "name": "flight",
       "tags": "airplane",
-      "unicode": ""
+      "unicode": "e539"
     },
     {
       "name": "flight_land",
       "tags": "airplane, plane, travel",
-      "unicode": ""
+      "unicode": "e904"
     },
     {
       "name": "flight_takeoff",
       "tags": "airplane, plane, travel",
-      "unicode": ""
+      "unicode": "e905"
     },
     {
       "name": "flip",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3e8"
     },
     {
       "name": "flip_to_back",
       "tags": "",
-      "unicode": ""
+      "unicode": "e882"
     },
     {
       "name": "flip_to_front",
       "tags": "",
-      "unicode": ""
+      "unicode": "e883"
     },
     {
       "name": "folder",
       "tags": "",
-      "unicode": ""
+      "unicode": "e2c7"
     },
     {
       "name": "folder_open",
       "tags": "",
-      "unicode": ""
+      "unicode": "e2c8"
     },
     {
       "name": "folder_shared",
       "tags": "",
-      "unicode": ""
+      "unicode": "e2c9"
     },
     {
       "name": "folder_special",
       "tags": "star",
-      "unicode": ""
+      "unicode": "e617"
     },
     {
       "name": "font_download",
       "tags": "",
-      "unicode": ""
+      "unicode": "e167"
     },
     {
       "name": "format_align_center",
       "tags": "",
-      "unicode": ""
+      "unicode": "e234"
     },
     {
       "name": "format_align_justify",
       "tags": "",
-      "unicode": ""
+      "unicode": "e235"
     },
     {
       "name": "format_align_left",
       "tags": "",
-      "unicode": ""
+      "unicode": "e236"
     },
     {
       "name": "format_align_right",
       "tags": "",
-      "unicode": ""
+      "unicode": "e237"
     },
     {
       "name": "format_bold",
       "tags": "",
-      "unicode": ""
+      "unicode": "e238"
     },
     {
       "name": "format_clear",
       "tags": "",
-      "unicode": ""
+      "unicode": "e239"
     },
     {
       "name": "format_color_fill",
       "tags": "paint can",
-      "unicode": ""
+      "unicode": "e23a"
     },
     {
       "name": "format_color_reset",
       "tags": "droplet",
-      "unicode": ""
+      "unicode": "e23b"
     },
     {
       "name": "format_color_text",
       "tags": "",
-      "unicode": ""
+      "unicode": "e23c"
     },
     {
       "name": "format_indent_decrease",
       "tags": "",
-      "unicode": ""
+      "unicode": "e23d"
     },
     {
       "name": "format_indent_increase",
       "tags": "",
-      "unicode": ""
+      "unicode": "e23e"
     },
     {
       "name": "format_italic",
       "tags": "",
-      "unicode": ""
+      "unicode": "e23f"
     },
     {
       "name": "format_line_spacing",
       "tags": "",
-      "unicode": ""
+      "unicode": "e240"
     },
     {
       "name": "format_list_bulleted",
       "tags": "",
-      "unicode": ""
+      "unicode": "e241"
     },
     {
       "name": "format_list_numbered",
       "tags": "",
-      "unicode": ""
+      "unicode": "e242"
     },
     {
       "name": "format_paint",
       "tags": "paint brush, roller",
-      "unicode": ""
+      "unicode": "e243"
     },
     {
       "name": "format_quote",
       "tags": "quotation marks",
-      "unicode": ""
+      "unicode": "e244"
     },
     {
       "name": "format_size",
       "tags": "",
-      "unicode": ""
+      "unicode": "e245"
     },
     {
       "name": "format_strikethrough",
       "tags": "",
-      "unicode": ""
+      "unicode": "e246"
     },
     {
       "name": "format_textdirection_l_to_r",
       "tags": "",
-      "unicode": ""
+      "unicode": "e247"
     },
     {
       "name": "format_textdirection_r_to_l",
       "tags": "",
-      "unicode": ""
+      "unicode": "e248"
     },
     {
       "name": "format_underlined",
       "tags": "",
-      "unicode": ""
+      "unicode": "e249"
     },
     {
       "name": "forum",
       "tags": "chat, comments, speech bubbles",
-      "unicode": ""
+      "unicode": "e0bf"
     },
     {
       "name": "forward",
       "tags": "arrow",
-      "unicode": ""
+      "unicode": "e154"
     },
     {
       "name": "forward_10",
       "tags": "",
-      "unicode": ""
+      "unicode": "e056"
     },
     {
       "name": "forward_30",
       "tags": "",
-      "unicode": ""
+      "unicode": "e057"
     },
     {
       "name": "forward_5",
       "tags": "",
-      "unicode": ""
+      "unicode": "e058"
     },
     {
       "name": "fullscreen",
       "tags": "",
-      "unicode": ""
+      "unicode": "e5d0"
     },
     {
       "name": "fullscreen_exit",
       "tags": "",
-      "unicode": ""
+      "unicode": "e5d1"
     },
     {
       "name": "functions",
       "tags": "math, sigma",
-      "unicode": ""
+      "unicode": "e24a"
     },
     {
       "name": "gamepad",
       "tags": "controller",
-      "unicode": ""
+      "unicode": "e30f"
     },
     {
       "name": "games",
       "tags": "controller, pad",
-      "unicode": ""
+      "unicode": "e021"
     },
     {
       "name": "gesture",
       "tags": "scribble",
-      "unicode": ""
+      "unicode": "e155"
     },
     {
       "name": "get_app",
       "tags": "download, arrow",
-      "unicode": ""
+      "unicode": "e884"
     },
     {
       "name": "gif",
       "tags": "",
-      "unicode": ""
+      "unicode": "e908"
     },
     {
       "name": "gps_fixed",
       "tags": "reticle, target",
-      "unicode": ""
+      "unicode": "e1b3"
     },
     {
       "name": "gps_not_fixed",
       "tags": "reticle, target",
-      "unicode": ""
+      "unicode": "e1b4"
     },
     {
       "name": "gps_off",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1b5"
     },
     {
       "name": "grade",
       "tags": "star, rating",
-      "unicode": ""
+      "unicode": "e885"
     },
     {
       "name": "gradient",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3e9"
     },
     {
       "name": "grain",
       "tags": "dots",
-      "unicode": ""
+      "unicode": "e3ea"
     },
     {
       "name": "graphic_eq",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1b8"
     },
     {
       "name": "grid_off",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3eb"
     },
     {
       "name": "grid_on",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3ec"
     },
     {
       "name": "group",
       "tags": "people, users",
-      "unicode": ""
+      "unicode": "e7ef"
     },
     {
       "name": "group_add",
       "tags": "",
-      "unicode": ""
+      "unicode": "e7f0"
     },
     {
       "name": "group_work",
       "tags": "circles",
-      "unicode": ""
+      "unicode": "e886"
     },
     {
       "name": "hd",
       "tags": "",
-      "unicode": ""
+      "unicode": "e052"
     },
     {
       "name": "hdr_off",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3ed"
     },
     {
       "name": "hdr_on",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3ee"
     },
     {
       "name": "hdr_strong",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3f1"
     },
     {
       "name": "hdr_weak",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3f2"
     },
     {
       "name": "healing",
       "tags": "bandage, bandaid, first aid",
-      "unicode": ""
+      "unicode": "e3f3"
     },
     {
       "name": "headset",
       "tags": "headphones",
-      "unicode": ""
+      "unicode": "e310"
     },
     {
       "name": "headset_mic",
       "tags": "",
-      "unicode": ""
+      "unicode": "e311"
     },
     {
       "name": "hearing",
       "tags": "ear",
-      "unicode": ""
+      "unicode": "e023"
     },
     {
       "name": "help",
       "tags": "question mark",
-      "unicode": ""
+      "unicode": "e887"
     },
     {
       "name": "help_outline",
       "tags": "question mark",
-      "unicode": ""
+      "unicode": "e8fd"
     },
     {
       "name": "high_quality",
       "tags": "",
-      "unicode": ""
+      "unicode": "e024"
     },
     {
       "name": "highlight_off",
       "tags": "x, cancel",
-      "unicode": ""
+      "unicode": "e888"
     },
     {
       "name": "history",
       "tags": "",
-      "unicode": ""
+      "unicode": "e889"
     },
     {
       "name": "home",
       "tags": "",
-      "unicode": ""
+      "unicode": "e88a"
     },
     {
       "name": "hotel",
       "tags": "bed",
-      "unicode": ""
+      "unicode": "e53a"
     },
     {
       "name": "hourglass_empty",
       "tags": "timer",
-      "unicode": ""
+      "unicode": "e88b"
     },
     {
       "name": "hourglass_full",
       "tags": "timer",
-      "unicode": ""
+      "unicode": "e88c"
     },
     {
       "name": "http",
       "tags": "",
-      "unicode": ""
+      "unicode": "e902"
     },
     {
       "name": "https",
       "tags": "lock, security",
-      "unicode": ""
+      "unicode": "e88d"
     },
     {
       "name": "image",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3f4"
     },
     {
       "name": "image_aspect_ratio",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3f5"
     },
     {
       "name": "import_export",
       "tags": "arrows",
-      "unicode": ""
+      "unicode": "e0c3"
     },
     {
       "name": "inbox",
       "tags": "email",
-      "unicode": ""
+      "unicode": "e156"
     },
     {
       "name": "indeterminate_check_box",
       "tags": "",
-      "unicode": ""
+      "unicode": "e909"
     },
     {
       "name": "info",
       "tags": "",
-      "unicode": ""
+      "unicode": "e88e"
     },
     {
       "name": "info_outline",
       "tags": "",
-      "unicode": ""
+      "unicode": "e88f"
     },
     {
       "name": "input",
       "tags": "",
-      "unicode": ""
+      "unicode": "e890"
     },
     {
       "name": "invert_colors",
       "tags": "adjust, contrast",
-      "unicode": ""
+      "unicode": "e891"
     },
     {
       "name": "invert_colors_off",
       "tags": "adjust, contrast",
-      "unicode": ""
+      "unicode": "e0c4"
     },
     {
       "name": "insert_chart",
       "tags": "graph",
-      "unicode": ""
+      "unicode": "e24b"
     },
     {
       "name": "insert_comment",
       "tags": "chat, speech bubble",
-      "unicode": ""
+      "unicode": "e24c"
     },
     {
       "name": "insert_drive_file",
       "tags": "document, file, paper",
-      "unicode": ""
+      "unicode": "e24d"
     },
     {
       "name": "insert_emoticon",
       "tags": "happy, smiley face",
-      "unicode": ""
+      "unicode": "e24e"
     },
     {
       "name": "insert_invitation",
       "tags": "calendar, date",
-      "unicode": ""
+      "unicode": "e24f"
     },
     {
       "name": "insert_link",
       "tags": "chain",
-      "unicode": ""
+      "unicode": "e250"
     },
     {
       "name": "insert_photo",
       "tags": "image, picture",
-      "unicode": ""
+      "unicode": "e251"
     },
     {
       "name": "iso",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3f6"
     },
     {
       "name": "keyboard",
       "tags": "",
-      "unicode": ""
+      "unicode": "e312"
     },
     {
       "name": "keyboard_arrow_down",
       "tags": "angle, chevron, directional",
-      "unicode": ""
+      "unicode": "e313"
     },
     {
       "name": "keyboard_arrow_left",
       "tags": "angle, chevron, directional",
-      "unicode": ""
+      "unicode": "e314"
     },
     {
       "name": "keyboard_arrow_right",
       "tags": "angle, chevron, directional",
-      "unicode": ""
+      "unicode": "e315"
     },
     {
       "name": "keyboard_arrow_up",
       "tags": "angle, chevron, directional",
-      "unicode": ""
+      "unicode": "e316"
     },
     {
       "name": "keyboard_backspace",
       "tags": "arrow",
-      "unicode": ""
+      "unicode": "e317"
     },
     {
       "name": "keyboard_capslock",
       "tags": "",
-      "unicode": ""
+      "unicode": "e318"
     },
     {
       "name": "keyboard_hide",
       "tags": "",
-      "unicode": ""
+      "unicode": "e31a"
     },
     {
       "name": "keyboard_return",
       "tags": "",
-      "unicode": ""
+      "unicode": "e31b"
     },
     {
       "name": "keyboard_tab",
       "tags": "",
-      "unicode": ""
+      "unicode": "e31c"
     },
     {
       "name": "keyboard_voice",
       "tags": "",
-      "unicode": ""
+      "unicode": "e31d"
     },
     {
       "name": "label",
       "tags": "tag",
-      "unicode": ""
+      "unicode": "e892"
     },
     {
       "name": "label_outline",
       "tags": "tag",
-      "unicode": ""
+      "unicode": "e893"
     },
     {
       "name": "landscape",
       "tags": "mountains",
-      "unicode": ""
+      "unicode": "e3f7"
     },
     {
       "name": "language",
       "tags": "earth, globe, planet",
-      "unicode": ""
+      "unicode": "e894"
     },
     {
       "name": "laptop",
       "tags": "computer",
-      "unicode": ""
+      "unicode": "e31e"
     },
     {
       "name": "laptop_chromebook",
       "tags": "computer",
-      "unicode": ""
+      "unicode": "e31f"
     },
     {
       "name": "laptop_mac",
       "tags": "computer",
-      "unicode": ""
+      "unicode": "e320"
     },
     {
       "name": "laptop_windows",
       "tags": "computer",
-      "unicode": ""
+      "unicode": "e321"
     },
     {
       "name": "launch",
       "tags": "open",
-      "unicode": ""
+      "unicode": "e895"
     },
     {
       "name": "layers",
       "tags": "",
-      "unicode": ""
+      "unicode": "e53b"
     },
     {
       "name": "layers_clear",
       "tags": "",
-      "unicode": ""
+      "unicode": "e53c"
     },
     {
       "name": "leak_add",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3f8"
     },
     {
       "name": "leak_remove",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3f9"
     },
     {
       "name": "lens",
       "tags": "circle",
-      "unicode": ""
+      "unicode": "e3fa"
     },
     {
       "name": "library_add",
       "tags": "",
-      "unicode": ""
+      "unicode": "e02e"
     },
     {
       "name": "library_books",
       "tags": "",
-      "unicode": ""
+      "unicode": "e02f"
     },
     {
       "name": "library_music",
       "tags": "",
-      "unicode": ""
+      "unicode": "e030"
     },
     {
       "name": "link",
       "tags": "chain",
-      "unicode": ""
+      "unicode": "e157"
     },
     {
       "name": "list",
       "tags": "",
-      "unicode": ""
+      "unicode": "e896"
     },
     {
       "name": "live_help",
       "tags": "question mark",
-      "unicode": ""
+      "unicode": "e0c6"
     },
     {
       "name": "live_tv",
       "tags": "television",
-      "unicode": ""
+      "unicode": "e639"
     },
     {
       "name": "local_activity",
       "tags": "",
-      "unicode": ""
+      "unicode": "e53f"
     },
     {
       "name": "local_airport",
       "tags": "airplane",
-      "unicode": ""
+      "unicode": "e53d"
     },
     {
       "name": "local_atm",
       "tags": "dollar sign, money",
-      "unicode": ""
+      "unicode": "e53e"
     },
     {
       "name": "local_bar",
       "tags": "drink, martini glass",
-      "unicode": ""
+      "unicode": "e540"
     },
     {
       "name": "local_cafe",
       "tags": "coffee cup, mug",
-      "unicode": ""
+      "unicode": "e541"
     },
     {
       "name": "local_car_wash",
       "tags": "automobile, car",
-      "unicode": ""
+      "unicode": "e542"
     },
     {
       "name": "local_convenience_store",
       "tags": "",
-      "unicode": ""
+      "unicode": "e543"
     },
     {
       "name": "local_dining",
       "tags": "cutlery, knife, spoon",
-      "unicode": ""
+      "unicode": "e556"
     },
     {
       "name": "local_drink",
       "tags": "cup, droplet, glass, juice",
-      "unicode": ""
+      "unicode": "e544"
     },
     {
       "name": "local_florist",
       "tags": "flower, plant",
-      "unicode": ""
+      "unicode": "e545"
     },
     {
       "name": "local_gas_station",
       "tags": "gas pump",
-      "unicode": ""
+      "unicode": "e546"
     },
     {
       "name": "local_grocery_store",
       "tags": "shopping cart",
-      "unicode": ""
+      "unicode": "e547"
     },
     {
       "name": "local_hospital",
       "tags": "first aid, medical",
-      "unicode": ""
+      "unicode": "e548"
     },
     {
       "name": "local_hotel",
       "tags": "bed",
-      "unicode": ""
+      "unicode": "e549"
     },
     {
       "name": "local_laundry_service",
       "tags": "washing machine",
-      "unicode": ""
+      "unicode": "e54a"
     },
     {
       "name": "local_library",
       "tags": "book",
-      "unicode": ""
+      "unicode": "e54b"
     },
     {
       "name": "local_mall",
       "tags": "shopping bag",
-      "unicode": ""
+      "unicode": "e54c"
     },
     {
       "name": "local_movies",
       "tags": "film",
-      "unicode": ""
+      "unicode": "e54d"
     },
     {
       "name": "local_offer",
       "tags": "sale, tag",
-      "unicode": ""
+      "unicode": "e54e"
     },
     {
       "name": "local_parking",
       "tags": "p",
-      "unicode": ""
+      "unicode": "e54f"
     },
     {
       "name": "local_pharmacy",
       "tags": "drug store, medicine",
-      "unicode": ""
+      "unicode": "e550"
     },
     {
       "name": "local_phone",
       "tags": "telephone",
-      "unicode": ""
+      "unicode": "e551"
     },
     {
       "name": "local_pizza",
       "tags": "food, slice",
-      "unicode": ""
+      "unicode": "e552"
     },
     {
       "name": "local_play",
       "tags": "admission, ticket",
-      "unicode": ""
+      "unicode": "e553"
     },
     {
       "name": "local_post_office",
       "tags": "envelope, mail",
-      "unicode": ""
+      "unicode": "e554"
     },
     {
       "name": "local_print_shop",
-      "tags": "printer",
-      "unicode": ""
+      "tags": "printer"
     },
     {
       "name": "local_see",
       "tags": "camera",
-      "unicode": ""
+      "unicode": "e557"
     },
     {
       "name": "local_shipping",
       "tags": "truck",
-      "unicode": ""
+      "unicode": "e558"
     },
     {
       "name": "local_taxi",
       "tags": "automobile, cab, car",
-      "unicode": ""
+      "unicode": "e559"
     },
     {
       "name": "location_city",
       "tags": "city, buildings, skyscrapers",
-      "unicode": ""
+      "unicode": "e7f1"
     },
     {
       "name": "location_disabled",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1b6"
     },
     {
       "name": "location_off",
       "tags": "",
-      "unicode": ""
+      "unicode": "e0c7"
     },
     {
       "name": "location_on",
       "tags": "",
-      "unicode": ""
+      "unicode": "e0c8"
     },
     {
       "name": "location_searching",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1b7"
     },
     {
       "name": "lock",
       "tags": "security",
-      "unicode": ""
+      "unicode": "e897"
     },
     {
       "name": "lock_open",
       "tags": "security, unlock",
-      "unicode": ""
+      "unicode": "e898"
     },
     {
       "name": "lock_outline",
       "tags": "security",
-      "unicode": ""
+      "unicode": "e899"
     },
     {
       "name": "looks",
       "tags": "rainbow",
-      "unicode": ""
+      "unicode": "e3fc"
     },
     {
       "name": "looks_3",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3fb"
     },
     {
       "name": "looks_4",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3fd"
     },
     {
       "name": "looks_5",
       "tags": "",
-      "unicode": ""
+      "unicode": "e3fe"
     },
     {
       "name": "looks_one",
       "tags": "",
-      "unicode": ""
+      "unicode": "e400"
     },
     {
       "name": "looks_two",
       "tags": "",
-      "unicode": ""
+      "unicode": "e401"
     },
     {
       "name": "loop",
       "tags": "refresh, reload",
-      "unicode": ""
+      "unicode": "e028"
     },
     {
       "name": "loupe",
       "tags": "",
-      "unicode": ""
+      "unicode": "e402"
     },
     {
       "name": "loyalty",
       "tags": "heart, tag",
-      "unicode": ""
+      "unicode": "e89a"
     },
     {
       "name": "mail",
       "tags": "envelope",
-      "unicode": ""
+      "unicode": "e158"
     },
     {
       "name": "map",
       "tags": "",
-      "unicode": ""
+      "unicode": "e55b"
     },
     {
       "name": "markunread",
       "tags": "envelope, mail",
-      "unicode": ""
+      "unicode": "e159"
     },
     {
       "name": "markunread_mailbox",
       "tags": "mailbox",
-      "unicode": ""
+      "unicode": "e89b"
     },
     {
       "name": "memory",
       "tags": "chip, circuit board",
-      "unicode": ""
+      "unicode": "e322"
     },
     {
       "name": "menu",
       "tags": "bars, more",
-      "unicode": ""
+      "unicode": "e5d2"
     },
     {
       "name": "merge_type",
       "tags": "arrows",
-      "unicode": ""
+      "unicode": "e252"
     },
     {
       "name": "message",
       "tags": "chat, speech bubble",
-      "unicode": ""
+      "unicode": "e0c9"
     },
     {
       "name": "mic",
       "tags": "",
-      "unicode": ""
+      "unicode": "e029"
     },
     {
       "name": "mic_none",
       "tags": "",
-      "unicode": ""
+      "unicode": "e02a"
     },
     {
       "name": "mic_off",
       "tags": "mute",
-      "unicode": ""
+      "unicode": "e02b"
     },
     {
       "name": "mms",
       "tags": "speech bubble",
-      "unicode": ""
+      "unicode": "e618"
     },
     {
       "name": "mode_comment",
       "tags": "chat, speech bubble",
-      "unicode": ""
+      "unicode": "e253"
     },
     {
       "name": "mode_edit",
       "tags": "pencil",
-      "unicode": ""
+      "unicode": "e254"
     },
     {
       "name": "money_off",
       "tags": "currency, dollar sign, usd",
-      "unicode": ""
+      "unicode": "e25c"
     },
     {
       "name": "monochrome_photos",
       "tags": "",
-      "unicode": ""
+      "unicode": "e403"
     },
     {
       "name": "mood",
       "tags": "happy, smiley face",
-      "unicode": ""
+      "unicode": "e7f2"
     },
     {
       "name": "mood_bad",
       "tags": "frowny face, sad",
-      "unicode": ""
+      "unicode": "e7f3"
     },
     {
       "name": "more",
       "tags": "tag",
-      "unicode": ""
+      "unicode": "e619"
     },
     {
       "name": "more_horiz",
       "tags": "dots",
-      "unicode": ""
+      "unicode": "e5d3"
     },
     {
       "name": "more_vert",
       "tags": "dots",
-      "unicode": ""
+      "unicode": "e5d4"
     },
     {
       "name": "mouse",
       "tags": "",
-      "unicode": ""
+      "unicode": "e323"
     },
     {
       "name": "movie",
       "tags": "film",
-      "unicode": ""
+      "unicode": "e02c"
     },
     {
       "name": "movie_creation",
       "tags": "film marker",
-      "unicode": ""
+      "unicode": "e404"
     },
     {
       "name": "music_note",
       "tags": "",
-      "unicode": ""
+      "unicode": "e405"
     },
     {
       "name": "my_location",
       "tags": "reticle, target",
-      "unicode": ""
+      "unicode": "e55c"
     },
     {
       "name": "navigation",
       "tags": "arrow",
-      "unicode": ""
+      "unicode": "e55d"
     },
     {
       "name": "nature",
       "tags": "tree",
-      "unicode": ""
+      "unicode": "e406"
     },
     {
       "name": "nature_people",
       "tags": "tree",
-      "unicode": ""
+      "unicode": "e407"
     },
     {
       "name": "navigate_before",
       "tags": "angle, directional",
-      "unicode": ""
+      "unicode": "e408"
     },
     {
       "name": "navigate_next",
       "tags": "angle, directional",
-      "unicode": ""
+      "unicode": "e409"
     },
     {
       "name": "network_cell",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1b9"
     },
     {
       "name": "network_locked",
       "tags": "",
-      "unicode": ""
+      "unicode": "e61a"
     },
     {
       "name": "network_wifi",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1ba"
     },
     {
       "name": "new_releases",
       "tags": "alert",
-      "unicode": ""
+      "unicode": "e031"
     },
     {
       "name": "nfc",
       "tags": "chip, circuit board",
-      "unicode": ""
+      "unicode": "e1bb"
     },
     {
       "name": "no_sim",
       "tags": "",
-      "unicode": ""
+      "unicode": "e0cc"
     },
     {
       "name": "not_interested",
       "tags": "ban, prohibited",
-      "unicode": ""
+      "unicode": "e033"
     },
     {
       "name": "note_add",
       "tags": "",
-      "unicode": ""
+      "unicode": "e89c"
     },
     {
       "name": "notifications",
       "tags": "bell",
-      "unicode": ""
+      "unicode": "e7f4"
     },
     {
       "name": "notifications_active",
       "tags": "bell",
-      "unicode": ""
+      "unicode": "e7f7"
     },
     {
       "name": "notifications_none",
       "tags": "bell",
-      "unicode": ""
+      "unicode": "e7f5"
     },
     {
       "name": "notifications_off",
       "tags": "bell",
-      "unicode": ""
+      "unicode": "e7f6"
     },
     {
       "name": "notifications_paused",
       "tags": "bell",
-      "unicode": ""
+      "unicode": "e7f8"
     },
     {
       "name": "offline_pin",
       "tags": "",
-      "unicode": ""
+      "unicode": "e90a"
     },
     {
       "name": "ondemand_video",
       "tags": "",
-      "unicode": ""
+      "unicode": "e63a"
     },
     {
       "name": "open_in_browser",
       "tags": "",
-      "unicode": ""
+      "unicode": "e89d"
     },
     {
       "name": "open_in_new",
       "tags": "",
-      "unicode": ""
+      "unicode": "e89e"
     },
     {
       "name": "open_with",
       "tags": "expand, resize",
-      "unicode": ""
+      "unicode": "e89f"
     },
     {
       "name": "pages",
       "tags": "",
-      "unicode": ""
+      "unicode": "e7f9"
     },
     {
       "name": "pageview",
       "tags": "find, magnifying glass, search",
-      "unicode": ""
+      "unicode": "e8a0"
     },
     {
       "name": "palette",
       "tags": "art, paint",
-      "unicode": ""
+      "unicode": "e40a"
     },
     {
       "name": "panorama",
       "tags": "",
-      "unicode": ""
+      "unicode": "e40b"
     },
     {
       "name": "panorama_fish_eye",
       "tags": "circle",
-      "unicode": ""
+      "unicode": "e40c"
     },
     {
       "name": "panorama_horizontal",
       "tags": "",
-      "unicode": ""
+      "unicode": "e40d"
     },
     {
       "name": "panorama_vertical",
       "tags": "",
-      "unicode": ""
+      "unicode": "e40e"
     },
     {
       "name": "panorama_wide_angle",
       "tags": "",
-      "unicode": ""
+      "unicode": "e40f"
     },
     {
       "name": "party_mode",
       "tags": "camera",
-      "unicode": ""
+      "unicode": "e7fa"
     },
     {
       "name": "pause",
       "tags": "",
-      "unicode": ""
+      "unicode": "e034"
     },
     {
       "name": "pause_circle_filled",
       "tags": "",
-      "unicode": ""
+      "unicode": "e035"
     },
     {
       "name": "pause_circle_outline",
       "tags": "",
-      "unicode": ""
+      "unicode": "e036"
     },
     {
       "name": "payment",
       "tags": "credit card",
-      "unicode": ""
+      "unicode": "e8a1"
     },
     {
       "name": "people",
       "tags": "users",
-      "unicode": ""
+      "unicode": "e7fb"
     },
     {
       "name": "people_outline",
       "tags": "users",
-      "unicode": ""
+      "unicode": "e7fc"
     },
     {
       "name": "perm_camera_mic",
       "tags": "camera, microphone",
-      "unicode": ""
+      "unicode": "e8a2"
     },
     {
       "name": "perm_contact_calendar",
       "tags": "contact, calendar",
-      "unicode": ""
+      "unicode": "e8a3"
     },
     {
       "name": "perm_data_setting",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8a4"
     },
     {
       "name": "perm_device_information",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8a5"
     },
     {
       "name": "perm_identity",
       "tags": "user",
-      "unicode": ""
+      "unicode": "e8a6"
     },
     {
       "name": "perm_media",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8a7"
     },
     {
       "name": "perm_phone_msg",
       "tags": "telephone",
-      "unicode": ""
+      "unicode": "e8a8"
     },
     {
       "name": "perm_scan_wifi",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8a9"
     },
     {
       "name": "person",
       "tags": "user",
-      "unicode": ""
+      "unicode": "e7fd"
     },
     {
       "name": "person_add",
       "tags": "user",
-      "unicode": ""
+      "unicode": "e7fe"
     },
     {
       "name": "person_outline",
       "tags": "user",
-      "unicode": ""
+      "unicode": "e7ff"
     },
     {
       "name": "person_pin",
       "tags": "",
-      "unicode": ""
+      "unicode": "e55a"
     },
     {
       "name": "personal_video",
       "tags": "",
-      "unicode": ""
+      "unicode": "e63b"
     },
     {
       "name": "phone",
       "tags": "telephone",
-      "unicode": ""
+      "unicode": "e0cd"
     },
     {
       "name": "phone_android",
       "tags": "",
-      "unicode": ""
+      "unicode": "e324"
     },
     {
       "name": "phone_bluetooth_speaker",
       "tags": "",
-      "unicode": ""
+      "unicode": "e61b"
     },
     {
       "name": "phone_forwarded",
       "tags": "",
-      "unicode": ""
+      "unicode": "e61c"
     },
     {
       "name": "phone_in_talk",
       "tags": "",
-      "unicode": ""
+      "unicode": "e61d"
     },
     {
       "name": "phone_iphone",
       "tags": "",
-      "unicode": ""
+      "unicode": "e325"
     },
     {
       "name": "phone_locked",
       "tags": "",
-      "unicode": ""
+      "unicode": "e61e"
     },
     {
       "name": "phone_missed",
       "tags": "",
-      "unicode": ""
+      "unicode": "e61f"
     },
     {
       "name": "phone_paused",
       "tags": "",
-      "unicode": ""
+      "unicode": "e620"
     },
     {
       "name": "phonelink",
       "tags": "",
-      "unicode": ""
+      "unicode": "e326"
     },
     {
       "name": "phonelink_erase",
       "tags": "",
-      "unicode": ""
+      "unicode": "e0db"
     },
     {
       "name": "phonelink_lock",
       "tags": "",
-      "unicode": ""
+      "unicode": "e0dc"
     },
     {
       "name": "phonelink_off",
       "tags": "",
-      "unicode": ""
+      "unicode": "e327"
     },
     {
       "name": "phonelink_ring",
       "tags": "",
-      "unicode": ""
+      "unicode": "e0dd"
     },
     {
       "name": "phonelink_setup",
       "tags": "",
-      "unicode": ""
+      "unicode": "e0de"
     },
     {
       "name": "photo",
       "tags": "",
-      "unicode": ""
+      "unicode": "e410"
     },
     {
       "name": "photo_album",
       "tags": "",
-      "unicode": ""
+      "unicode": "e411"
     },
     {
       "name": "photo_camera",
       "tags": "",
-      "unicode": ""
+      "unicode": "e412"
     },
     {
       "name": "photo_library",
       "tags": "",
-      "unicode": ""
+      "unicode": "e413"
     },
     {
       "name": "photo_size_select_actual",
       "tags": "",
-      "unicode": ""
+      "unicode": "e432"
     },
     {
       "name": "photo_size_select_large",
       "tags": "",
-      "unicode": ""
+      "unicode": "e433"
     },
     {
       "name": "photo_size_select_small",
       "tags": "",
-      "unicode": ""
+      "unicode": "e434"
     },
     {
       "name": "picture_as_pdf",
       "tags": "",
-      "unicode": ""
+      "unicode": "e415"
     },
     {
       "name": "picture_in_picture",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8aa"
     },
     {
       "name": "pin_drop",
       "tags": "map marker",
-      "unicode": ""
+      "unicode": "e55e"
     },
     {
       "name": "place",
       "tags": "map marker",
-      "unicode": ""
+      "unicode": "e55f"
     },
     {
       "name": "play_arrow",
       "tags": "triangle",
-      "unicode": ""
+      "unicode": "e037"
     },
     {
       "name": "play_circle_filled",
       "tags": "triangle",
-      "unicode": ""
+      "unicode": "e038"
     },
     {
       "name": "play_circle_outline",
       "tags": "triangle",
-      "unicode": ""
+      "unicode": "e039"
     },
     {
       "name": "play_for_work",
       "tags": "",
-      "unicode": ""
+      "unicode": "e906"
     },
     {
       "name": "playlist_add",
       "tags": "",
-      "unicode": ""
+      "unicode": "e03b"
     },
     {
       "name": "plus_one",
       "tags": "",
-      "unicode": ""
+      "unicode": "e800"
     },
     {
       "name": "poll",
       "tags": "chart, graph",
-      "unicode": ""
+      "unicode": "e801"
     },
     {
       "name": "polymer",
       "tags": "brand, logo",
-      "unicode": ""
+      "unicode": "e8ab"
     },
     {
       "name": "portable_wifi_off",
       "tags": "",
-      "unicode": ""
+      "unicode": "e0ce"
     },
     {
       "name": "portrait",
       "tags": "",
-      "unicode": ""
+      "unicode": "e416"
     },
     {
       "name": "power",
       "tags": "plug",
-      "unicode": ""
+      "unicode": "e63c"
     },
     {
       "name": "power_input",
       "tags": "",
-      "unicode": ""
+      "unicode": "e336"
     },
     {
       "name": "power_settings_new",
       "tags": "on, switch",
-      "unicode": ""
+      "unicode": "e8ac"
     },
     {
       "name": "present_to_all",
       "tags": "",
-      "unicode": ""
+      "unicode": "e0df"
     },
     {
       "name": "print",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8ad"
     },
     {
       "name": "public",
       "tags": "earth, globe, planet",
-      "unicode": ""
+      "unicode": "e80b"
     },
     {
       "name": "publish",
       "tags": "upload",
-      "unicode": ""
+      "unicode": "e255"
     },
     {
       "name": "query_builder",
       "tags": "clock",
-      "unicode": ""
+      "unicode": "e8ae"
     },
     {
       "name": "question_answer",
       "tags": "chat, speech bubbles",
-      "unicode": ""
+      "unicode": "e8af"
     },
     {
       "name": "queue",
       "tags": "",
-      "unicode": ""
+      "unicode": "e03c"
     },
     {
       "name": "queue_music",
       "tags": "",
-      "unicode": ""
+      "unicode": "e03d"
     },
     {
       "name": "radio",
       "tags": "music",
-      "unicode": ""
+      "unicode": "e03e"
     },
     {
       "name": "radio_button_checked",
       "tags": "",
-      "unicode": ""
+      "unicode": "e837"
     },
     {
       "name": "radio_button_unchecked",
       "tags": "",
-      "unicode": ""
+      "unicode": "e836"
     },
     {
       "name": "rate_review",
       "tags": "",
-      "unicode": ""
+      "unicode": "e560"
     },
     {
       "name": "receipt",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8b0"
     },
     {
       "name": "recent_actors",
       "tags": "",
-      "unicode": ""
+      "unicode": "e03f"
     },
     {
       "name": "redeem",
       "tags": "gift card, present",
-      "unicode": ""
+      "unicode": "e8b1"
     },
     {
       "name": "redo",
       "tags": "arrow",
-      "unicode": ""
+      "unicode": "e15a"
     },
     {
       "name": "refresh",
       "tags": "reload",
-      "unicode": ""
+      "unicode": "e5d5"
     },
     {
       "name": "remove",
       "tags": "minus",
-      "unicode": ""
+      "unicode": "e15b"
     },
     {
       "name": "remove_circle",
       "tags": "minus",
-      "unicode": ""
+      "unicode": "e15c"
     },
     {
       "name": "remove_circle_outline",
       "tags": "minus",
-      "unicode": ""
+      "unicode": "e15d"
     },
     {
       "name": "remove_red_eye",
       "tags": "eyeball",
-      "unicode": ""
+      "unicode": "e417"
     },
     {
       "name": "reorder",
       "tags": "bars, menu, more",
-      "unicode": ""
+      "unicode": "e8fe"
     },
     {
       "name": "repeat",
       "tags": "loop",
-      "unicode": ""
+      "unicode": "e040"
     },
     {
       "name": "repeat_one",
       "tags": "loop",
-      "unicode": ""
+      "unicode": "e041"
     },
     {
       "name": "replay",
       "tags": "",
-      "unicode": ""
+      "unicode": "e042"
     },
     {
       "name": "replay_10",
       "tags": "",
-      "unicode": ""
+      "unicode": "e059"
     },
     {
       "name": "replay_30",
       "tags": "",
-      "unicode": ""
+      "unicode": "e05a"
     },
     {
       "name": "replay_5",
       "tags": "",
-      "unicode": ""
+      "unicode": "e05b"
     },
     {
       "name": "reply",
       "tags": "arrow",
-      "unicode": ""
+      "unicode": "e15e"
     },
     {
       "name": "reply_all",
       "tags": "arrow",
-      "unicode": ""
+      "unicode": "e15f"
     },
     {
       "name": "report",
       "tags": "alert, warning",
-      "unicode": ""
+      "unicode": "e160"
     },
     {
       "name": "report_problem",
       "tags": "alert, warning",
-      "unicode": ""
+      "unicode": "e8b2"
     },
     {
       "name": "restaurant",
-      "tags": "cutlery, dining, knife, spoon",
-      "unicode": ""
+      "tags": "cutlery, dining, knife, spoon"
     },
     {
       "name": "restore",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8b3"
     },
     {
       "name": "ring_volume",
       "tags": "",
-      "unicode": ""
+      "unicode": "e0d1"
     },
     {
       "name": "room",
       "tags": "map marker",
-      "unicode": ""
+      "unicode": "e8b4"
     },
     {
       "name": "rotate_90_degrees_ccw",
       "tags": "",
-      "unicode": ""
+      "unicode": "e418"
     },
     {
       "name": "rotate_left",
       "tags": "",
-      "unicode": ""
+      "unicode": "e419"
     },
     {
       "name": "rotate_right",
       "tags": "",
-      "unicode": ""
+      "unicode": "e41a"
     },
     {
       "name": "router",
       "tags": "",
-      "unicode": ""
+      "unicode": "e328"
     },
     {
       "name": "satellite",
       "tags": "",
-      "unicode": ""
+      "unicode": "e562"
     },
     {
       "name": "scanner",
       "tags": "",
-      "unicode": ""
+      "unicode": "e329"
     },
     {
       "name": "save",
       "tags": "floppy disk",
-      "unicode": ""
+      "unicode": "e161"
     },
     {
       "name": "schedule",
       "tags": "clock",
-      "unicode": ""
+      "unicode": "e8b5"
     },
     {
       "name": "school",
       "tags": "education, graduation cap, hat",
-      "unicode": ""
+      "unicode": "e80c"
     },
     {
       "name": "screen_lock_landscape",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1be"
     },
     {
       "name": "screen_lock_portrait",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1bf"
     },
     {
       "name": "screen_lock_rotation",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1c0"
     },
     {
       "name": "screen_rotation",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1c1"
     },
     {
       "name": "sd_card",
       "tags": "memory",
-      "unicode": ""
+      "unicode": "e623"
     },
     {
       "name": "sd_storage",
       "tags": "memory",
-      "unicode": ""
+      "unicode": "e1c2"
     },
     {
       "name": "search",
       "tags": "find, magnifying glass",
-      "unicode": ""
+      "unicode": "e8b6"
     },
     {
       "name": "security",
       "tags": "shield",
-      "unicode": ""
+      "unicode": "e32a"
     },
     {
       "name": "select_all",
       "tags": "",
-      "unicode": ""
+      "unicode": "e162"
     },
     {
       "name": "send",
       "tags": "paper airplane",
-      "unicode": ""
+      "unicode": "e163"
     },
     {
       "name": "settings",
       "tags": "cog, gear",
-      "unicode": ""
+      "unicode": "e8b8"
     },
     {
       "name": "settings_applications",
       "tags": "cog, gear",
-      "unicode": ""
+      "unicode": "e8b9"
     },
     {
       "name": "settings_backup_restore",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8ba"
     },
     {
       "name": "settings_bluetooth",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8bb"
     },
     {
       "name": "settings_brightness",
       "tags": "adjust, contrast",
-      "unicode": ""
+      "unicode": "e8bd"
     },
     {
       "name": "settings_cell",
       "tags": "phone",
-      "unicode": ""
+      "unicode": "e8bc"
     },
     {
       "name": "settings_ethernet",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8be"
     },
     {
       "name": "settings_input_antenna",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8bf"
     },
     {
       "name": "settings_input_component",
       "tags": "cables, wires",
-      "unicode": ""
+      "unicode": "e8c0"
     },
     {
       "name": "settings_input_composite",
       "tags": "cables, wires",
-      "unicode": ""
+      "unicode": "e8c1"
     },
     {
       "name": "settings_input_hdmi",
       "tags": "cables, wires",
-      "unicode": ""
+      "unicode": "e8c2"
     },
     {
       "name": "settings_input_svideo",
       "tags": "cables, wires",
-      "unicode": ""
+      "unicode": "e8c3"
     },
     {
       "name": "settings_overscan",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8c4"
     },
     {
       "name": "settings_phone",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8c5"
     },
     {
       "name": "settings_power",
       "tags": "on, switch",
-      "unicode": ""
+      "unicode": "e8c6"
     },
     {
       "name": "settings_remote",
       "tags": "remote control",
-      "unicode": ""
+      "unicode": "e8c7"
     },
     {
       "name": "settings_system_daydream",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1c3"
     },
     {
       "name": "settings_voice",
       "tags": "microphone",
-      "unicode": ""
+      "unicode": "e8c8"
     },
     {
       "name": "share",
       "tags": "",
-      "unicode": ""
+      "unicode": "e80d"
     },
     {
       "name": "shop",
       "tags": "bag",
-      "unicode": ""
+      "unicode": "e8c9"
     },
     {
       "name": "shop_two",
       "tags": "bags",
-      "unicode": ""
+      "unicode": "e8ca"
     },
     {
       "name": "shopping_basket",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8cb"
     },
     {
       "name": "shopping_cart",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8cc"
     },
     {
       "name": "shuffle",
       "tags": "random",
-      "unicode": ""
+      "unicode": "e043"
     },
     {
       "name": "signal_cellular_4_bar",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1c8"
     },
     {
       "name": "signal_cellular_connected_no_internet_4_bar",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1cd"
     },
     {
       "name": "signal_cellular_no_sim",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1ce"
     },
     {
       "name": "signal_cellular_null",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1cf"
     },
     {
       "name": "signal_cellular_off",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1d0"
     },
     {
       "name": "signal_wifi_4_bar",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1d8"
     },
     {
       "name": "signal_wifi_4_bar_lock",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1d9"
     },
     {
       "name": "signal_wifi_off",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1da"
     },
     {
       "name": "sim_card",
       "tags": "memory",
-      "unicode": ""
+      "unicode": "e32b"
     },
     {
       "name": "sim_cart_alert",
-      "tags": "memory",
-      "unicode": ""
+      "tags": "memory"
     },
     {
       "name": "skip_next",
       "tags": "",
-      "unicode": ""
+      "unicode": "e044"
     },
     {
       "name": "skip_previous",
       "tags": "",
-      "unicode": ""
+      "unicode": "e045"
     },
     {
       "name": "slideshow",
       "tags": "play",
-      "unicode": ""
+      "unicode": "e41b"
     },
     {
       "name": "smartphone",
       "tags": "",
-      "unicode": ""
+      "unicode": "e32c"
     },
     {
       "name": "sms",
       "tags": "speech bubble",
-      "unicode": ""
+      "unicode": "e625"
     },
     {
       "name": "sms_failed",
       "tags": "speech bubble",
-      "unicode": ""
+      "unicode": "e626"
     },
     {
       "name": "sort",
       "tags": "",
-      "unicode": ""
+      "unicode": "e164"
     },
     {
       "name": "speaker",
       "tags": "",
-      "unicode": ""
+      "unicode": "e32d"
     },
     {
       "name": "speaker_group",
       "tags": "",
-      "unicode": ""
+      "unicode": "e32e"
     },
     {
       "name": "speaker_notes",
       "tags": "speech bubble",
-      "unicode": ""
+      "unicode": "e8cd"
     },
     {
       "name": "spellcheck",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8ce"
     },
     {
       "name": "snooze",
       "tags": "alarm clock",
-      "unicode": ""
+      "unicode": "e046"
     },
     {
       "name": "sort_by_alpha",
       "tags": "",
-      "unicode": ""
+      "unicode": "e053"
     },
     {
       "name": "space_bar",
       "tags": "",
-      "unicode": ""
+      "unicode": "e256"
     },
     {
       "name": "speaker_phone",
       "tags": "telephone",
-      "unicode": ""
+      "unicode": "e0d2"
     },
     {
       "name": "star",
       "tags": "rating",
-      "unicode": ""
+      "unicode": "e838"
     },
     {
       "name": "star_border",
       "tags": "rating",
-      "unicode": ""
+      "unicode": "e83a"
     },
     {
       "name": "star_half",
       "tags": "rating",
-      "unicode": ""
+      "unicode": "e839"
     },
     {
       "name": "stars",
       "tags": "rating",
-      "unicode": ""
+      "unicode": "e8d0"
     },
     {
       "name": "stay_current_landscape",
       "tags": "tablet, phone",
-      "unicode": ""
+      "unicode": "e0d3"
     },
     {
       "name": "stay_current_portrait",
       "tags": "tablet, phone",
-      "unicode": ""
+      "unicode": "e0d4"
     },
     {
       "name": "stay_primary_landscape",
       "tags": "tablet, phone",
-      "unicode": ""
+      "unicode": "e0d5"
     },
     {
       "name": "stay_primary_portrait",
       "tags": "tablet, phone",
-      "unicode": ""
+      "unicode": "e0d6"
     },
     {
       "name": "strikethrough_s",
       "tags": "",
-      "unicode": ""
+      "unicode": "e257"
     },
     {
       "name": "stop",
       "tags": "square",
-      "unicode": ""
+      "unicode": "e047"
     },
     {
       "name": "storage",
       "tags": "server",
-      "unicode": ""
+      "unicode": "e1db"
     },
     {
       "name": "store",
       "tags": "building, shop",
-      "unicode": ""
+      "unicode": "e8d1"
     },
     {
       "name": "store_mall_directory",
       "tags": "building, shop",
-      "unicode": ""
+      "unicode": "e563"
     },
     {
       "name": "straighten",
       "tags": "comb",
-      "unicode": ""
+      "unicode": "e41c"
     },
     {
       "name": "style",
       "tags": "swatches",
-      "unicode": ""
+      "unicode": "e41d"
     },
     {
       "name": "subject",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8d2"
     },
     {
       "name": "subtitles",
       "tags": "",
-      "unicode": ""
+      "unicode": "e048"
     },
     {
       "name": "supervisor_account",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8d3"
     },
     {
       "name": "surround_sound",
       "tags": "",
-      "unicode": ""
+      "unicode": "e049"
     },
     {
       "name": "swap_calls",
       "tags": "arrows",
-      "unicode": ""
+      "unicode": "e0d7"
     },
     {
       "name": "swap_horiz",
       "tags": "arrows",
-      "unicode": ""
+      "unicode": "e8d4"
     },
     {
       "name": "swap_vert",
       "tags": "arrows",
-      "unicode": ""
+      "unicode": "e8d5"
     },
     {
       "name": "swap_vertical_circle",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8d6"
     },
     {
       "name": "switch_camera",
       "tags": "",
-      "unicode": ""
+      "unicode": "e41e"
     },
     {
       "name": "switch_video",
       "tags": "",
-      "unicode": ""
+      "unicode": "e41f"
     },
     {
       "name": "sync",
       "tags": "refresh, reload",
-      "unicode": ""
+      "unicode": "e627"
     },
     {
       "name": "sync_disabled",
       "tags": "",
-      "unicode": ""
+      "unicode": "e628"
     },
     {
       "name": "sync_problem",
       "tags": "",
-      "unicode": ""
+      "unicode": "e629"
     },
     {
       "name": "system_update",
       "tags": "",
-      "unicode": ""
+      "unicode": "e62a"
     },
     {
       "name": "system_update_alt",
       "tags": "download",
-      "unicode": ""
+      "unicode": "e8d7"
     },
     {
       "name": "tab",
       "tags": "folder",
-      "unicode": ""
+      "unicode": "e8d8"
     },
     {
       "name": "tab_unselected",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8d9"
     },
     {
       "name": "tablet",
       "tags": "",
-      "unicode": ""
+      "unicode": "e32f"
     },
     {
       "name": "tablet_android",
       "tags": "",
-      "unicode": ""
+      "unicode": "e330"
     },
     {
       "name": "tablet_mac",
       "tags": "ipad",
-      "unicode": ""
+      "unicode": "e331"
     },
     {
       "name": "tag_faces",
       "tags": "",
-      "unicode": ""
+      "unicode": "e420"
     },
     {
       "name": "tap_and_play",
       "tags": "",
-      "unicode": ""
+      "unicode": "e62b"
     },
     {
       "name": "terrain",
       "tags": "mountains",
-      "unicode": ""
+      "unicode": "e564"
     },
     {
       "name": "text_format",
       "tags": "",
-      "unicode": ""
+      "unicode": "e165"
     },
     {
       "name": "textsms",
       "tags": "chat, sms, speech bubble",
-      "unicode": ""
+      "unicode": "e0d8"
     },
     {
       "name": "texture",
       "tags": "",
-      "unicode": ""
+      "unicode": "e421"
     },
     {
       "name": "theaters",
       "tags": "film, movie",
-      "unicode": ""
+      "unicode": "e8da"
     },
     {
       "name": "thumb_down",
       "tags": "dislike, rating",
-      "unicode": ""
+      "unicode": "e8db"
     },
     {
       "name": "thumb_up",
       "tags": "like, rating",
-      "unicode": ""
+      "unicode": "e8dc"
     },
     {
       "name": "time_to_leave",
       "tags": "automobile, car",
-      "unicode": ""
+      "unicode": "e62c"
     },
     {
       "name": "timelapse",
       "tags": "",
-      "unicode": ""
+      "unicode": "e422"
     },
     {
       "name": "timer",
       "tags": "stopwatch",
-      "unicode": ""
+      "unicode": "e425"
     },
     {
       "name": "timer_10",
       "tags": "",
-      "unicode": ""
+      "unicode": "e423"
     },
     {
       "name": "timer_3",
       "tags": "",
-      "unicode": ""
+      "unicode": "e424"
     },
     {
       "name": "timer_off",
       "tags": "stopwatch",
-      "unicode": ""
+      "unicode": "e426"
     },
     {
       "name": "toc",
       "tags": "rows",
-      "unicode": ""
+      "unicode": "e8de"
     },
     {
       "name": "today",
       "tags": "calendar, date",
-      "unicode": ""
+      "unicode": "e8df"
     },
     {
       "name": "toll",
       "tags": "circle, coin",
-      "unicode": ""
+      "unicode": "e8e0"
     },
     {
       "name": "tonality",
       "tags": "contrast",
-      "unicode": ""
+      "unicode": "e427"
     },
     {
       "name": "toys",
       "tags": "pinwheel",
-      "unicode": ""
+      "unicode": "e332"
     },
     {
       "name": "track_changes",
       "tags": "radar",
-      "unicode": ""
+      "unicode": "e8e1"
     },
     {
       "name": "traffic",
       "tags": "light, signal",
-      "unicode": ""
+      "unicode": "e565"
     },
     {
       "name": "transform",
       "tags": "",
-      "unicode": ""
+      "unicode": "e428"
     },
     {
       "name": "translate",
       "tags": "language",
-      "unicode": ""
+      "unicode": "e8e2"
     },
     {
       "name": "trending_down",
       "tags": "arrow, chart, graph",
-      "unicode": ""
+      "unicode": "e8e3"
     },
     {
       "name": "trending_flat",
       "tags": "arrow, chart, graph",
-      "unicode": ""
+      "unicode": "e8e4"
     },
     {
       "name": "trending_up",
       "tags": "arrow, chart, graph",
-      "unicode": ""
+      "unicode": "e8e5"
     },
     {
       "name": "tune",
       "tags": "equalizer, levels, settings",
-      "unicode": ""
+      "unicode": "e429"
     },
     {
       "name": "turned_in",
       "tags": "bookmark",
-      "unicode": ""
+      "unicode": "e8e6"
     },
     {
       "name": "turned_in_not",
       "tags": "bookmark",
-      "unicode": ""
+      "unicode": "e8e7"
     },
     {
       "name": "tv",
       "tags": "television",
-      "unicode": ""
+      "unicode": "e333"
     },
     {
       "name": "undo",
       "tags": "arrow",
-      "unicode": ""
+      "unicode": "e166"
     },
     {
       "name": "usb",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1e0"
     },
     {
       "name": "verified_user",
       "tags": "checkmark, shield",
-      "unicode": ""
+      "unicode": "e8e8"
     },
     {
       "name": "vertical_align_bottom",
       "tags": "",
-      "unicode": ""
+      "unicode": "e258"
     },
     {
       "name": "vertical_align_center",
       "tags": "",
-      "unicode": ""
+      "unicode": "e259"
     },
     {
       "name": "vertical_align_top",
       "tags": "",
-      "unicode": ""
+      "unicode": "e25a"
     },
     {
       "name": "vibration",
       "tags": "",
-      "unicode": ""
+      "unicode": "e62d"
     },
     {
       "name": "video_library",
       "tags": "",
-      "unicode": ""
+      "unicode": "e04a"
     },
     {
       "name": "videocam",
       "tags": "record",
-      "unicode": ""
+      "unicode": "e04b"
     },
     {
       "name": "videocam_off",
       "tags": "",
-      "unicode": ""
+      "unicode": "e04c"
     },
     {
       "name": "view_agenda",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8e9"
     },
     {
       "name": "view_array",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8ea"
     },
     {
       "name": "view_carousel",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8eb"
     },
     {
       "name": "view_column",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8ec"
     },
     {
       "name": "view_comfy",
       "tags": "",
-      "unicode": ""
+      "unicode": "e42a"
     },
     {
       "name": "view_compact",
       "tags": "",
-      "unicode": ""
+      "unicode": "e42b"
     },
     {
       "name": "view_day",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8ed"
     },
     {
       "name": "view_headline",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8ee"
     },
     {
       "name": "view_list",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8ef"
     },
     {
       "name": "view_module",
       "tags": "grid",
-      "unicode": ""
+      "unicode": "e8f0"
     },
     {
       "name": "view_quilt",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8f1"
     },
     {
       "name": "view_stream",
       "tags": "",
-      "unicode": ""
+      "unicode": "e8f2"
     },
     {
       "name": "view_week",
       "tags": "columns",
-      "unicode": ""
+      "unicode": "e8f3"
     },
     {
       "name": "vignette",
       "tags": "",
-      "unicode": ""
+      "unicode": "e435"
     },
     {
       "name": "visibility",
       "tags": "eye, show, view",
-      "unicode": ""
+      "unicode": "e8f4"
     },
     {
       "name": "visibility_off",
       "tags": "eye, hide",
-      "unicode": ""
+      "unicode": "e8f5"
     },
     {
       "name": "voice_chat",
       "tags": "camera, chat, speech bubble, video",
-      "unicode": ""
+      "unicode": "e62e"
     },
     {
       "name": "voicemail",
       "tags": "record",
-      "unicode": ""
+      "unicode": "e0d9"
     },
     {
       "name": "volume_down",
       "tags": "",
-      "unicode": ""
+      "unicode": "e04d"
     },
     {
       "name": "volume_mute",
       "tags": "",
-      "unicode": ""
+      "unicode": "e04e"
     },
     {
       "name": "volume_off",
       "tags": "",
-      "unicode": ""
+      "unicode": "e04f"
     },
     {
       "name": "volume_up",
       "tags": "",
-      "unicode": ""
+      "unicode": "e050"
     },
     {
       "name": "vpn_key",
       "tags": "key, lock",
-      "unicode": ""
+      "unicode": "e0da"
     },
     {
       "name": "vpn_lock",
       "tags": "globe, lock",
-      "unicode": ""
+      "unicode": "e62f"
     },
     {
       "name": "wallpaper",
       "tags": "picture",
-      "unicode": ""
+      "unicode": "e1bc"
     },
     {
       "name": "warning",
       "tags": "alert, danger",
-      "unicode": ""
+      "unicode": "e002"
     },
     {
       "name": "watch",
       "tags": "",
-      "unicode": ""
+      "unicode": "e334"
     },
     {
       "name": "wb_auto",
       "tags": "",
-      "unicode": ""
+      "unicode": "e42c"
     },
     {
       "name": "wb_cloudy",
       "tags": "",
-      "unicode": ""
+      "unicode": "e42d"
     },
     {
       "name": "wb_incandescent",
       "tags": "lightbulb",
-      "unicode": ""
+      "unicode": "e42e"
     },
     {
       "name": "wb_iridescent",
       "tags": "",
-      "unicode": ""
+      "unicode": "e436"
     },
     {
       "name": "wb_sunny",
       "tags": "",
-      "unicode": ""
+      "unicode": "e430"
     },
     {
       "name": "wc",
       "tags": "bathroom, restroom",
-      "unicode": ""
+      "unicode": "e63d"
     },
     {
       "name": "web",
       "tags": "",
-      "unicode": ""
+      "unicode": "e051"
     },
     {
       "name": "whatshot",
       "tags": "fire, flame",
-      "unicode": ""
+      "unicode": "e80e"
     },
     {
       "name": "widgets",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1bd"
     },
     {
       "name": "wifi",
       "tags": "signal",
-      "unicode": ""
+      "unicode": "e63e"
     },
     {
       "name": "wifi_lock",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1e1"
     },
     {
       "name": "wifi_tethering",
       "tags": "",
-      "unicode": ""
+      "unicode": "e1e2"
     },
     {
       "name": "work",
       "tags": "briefcase, suitcase",
-      "unicode": ""
+      "unicode": "e8f9"
     },
     {
       "name": "wrap_text",
       "tags": "",
-      "unicode": ""
+      "unicode": "e25b"
     },
     {
       "name": "youtube_searched_for",
       "tags": "find, magnifying glass",
-      "unicode": ""
+      "unicode": "e8fa"
     },
     {
       "name": "zoom_in",
       "tags": "magnifying glass",
-      "unicode": ""
+      "unicode": "e8ff"
     },
     {
       "name": "zoom_out",
       "tags": "magnifying glass",
-      "unicode": ""
+      "unicode": "e900"
     }
   ]
 }

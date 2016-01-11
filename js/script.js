@@ -1,12 +1,12 @@
 (function() {
   var iconsIndex = new AlgoliaSearch("9JQV0RIHU0", "2219d421236cba4cf37a98e7f97b3ec5").initIndex('icons'),
-    innerTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-3" data-name={{{name}}} data-unicode="{{{unicode}}}">' +
+    innerTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-3" data-library="{{{library}}}" data-name="{{{name}}}" data-unicode="{{{unicode}}}">' +
       '<div class="description">{{{class}}}</div>' +
       '<div class="thumb">{{{html}}}</div>' +
       '<div class="name">{{{_highlightResult.name.value}}}</div>' +
       '<div class="tags hidden-xs">{{{_highlightResult.tags.value}}}</div>' +
       '</div>',
-    allTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-3" data-name={{{name}}} data-unicode="{{{unicode}}}">' +
+    allTemplate = '<div class="entry col-lg-1 col-md-2 col-sm-3 col-xs-3" data-library="{{{library}}}" data-name="{{{name}}}" data-unicode="{{{unicode}}}">' +
       '<div class="description">{{{class}}}</div>' +
       '<div class="thumb">{{{html}}}</i></div>' +
       '<div class="name">{{{name}}}</div>' +
@@ -244,22 +244,39 @@
   }
 
   function copyText(target) {
-    var text;
+    var text, object;
+    var library = target.attr("data-library");
 
     if (state.copy === "markup") {
+      // "Name": `f35f` => `<i class="ionicons ion-android-arrow-dropdown"></i>`
       text = target.find(".thumb").html();
     } else if (state.copy === "class") {
+      // "Name": `f35f` => `ionicons ion-android-arrow-dropdown`
       text = target.find(".description").html();
     } else if (state.copy === "name") {
+      // "Name": `f35f` => `android-arrow-dropdown`
       text = target.attr("data-name");
+    } else if (state.copy === "htmlentity") {
+      // "HTMLEntity": `f123` => `&#xf123;`
+      var unicode = target.attr("data-unicode");
+      text = ['&#x', unicode, ';'].join('')
+    } else if (state.copy === "unicode-hexadecimal") {
+      // "Hex": `f12a` => `f12a`
+      var unicodeHex = target.attr("data-unicode")
+      text = unicodeHex
     } else if (state.copy === "unicode") {
-      if (target.find("i").hasClass("material-icons")) {
-        text = target.attr("data-unicode");
-      } else {
-        var hex = target.attr("data-unicode");
-        text = String.fromCharCode(parseInt(hex, 16));
-      }
+      // "Unicode": `f12a` => <UnicodeChar>
+      var hex = target.attr("data-unicode");
+      text = String.fromCharCode(parseInt(hex, 16));
+    } else if (state.copy === "svg") {
+      // "SVG Markup": `f12a` => `<svg ...><path ... d="..."></path></svg>`
+      var unicodeHex = target.attr("data-unicode")
+      var svgFont = svgFonts.filter(function(f) { return f.id === library })[0]
+      var object = svgFont.pathByUnicode(unicodeHex, {width: 24, height: 24})
+      text = object.outerHTML
     }
+
+    console.log("[" + library + "]: COPY `" + state.copy + "`\n---\n", text, "\n---\n", object, "\n\n")
 
     return text;
   }
@@ -286,4 +303,20 @@
       }, delay);
     };
   }
+
+  var svgFontRoot = '/bower_components'
+  var svgFonts = []
+
+  setTimeout(function() {
+    svgFonts = [
+      new SVGFont('font-awesome', svgFontRoot + '/font-awesome/fonts/fontawesome-webfont.svg'),
+      new SVGFont('foundation', svgFontRoot + '/foundation-icon-fonts/foundation-icons.svg'),
+      new SVGFont('glyphicons', svgFontRoot + '/bootstrap/dist/fonts/glyphicons-halflings-regular.svg'),
+      new SVGFont('icomoon', svgFontRoot + '/icomoon/dist/fonts/icomoon.svg'),
+      new SVGFont('ionicons', svgFontRoot + '/ionicons/fonts/ionicons.svg'),
+      new SVGFont('material', svgFontRoot + '/material-design-icons/iconfont/MaterialIcons-Regular.svg'),
+      new SVGFont('octicons', svgFontRoot + '/octicons/octicons/octicons.svg'),
+    ]
+  }, 0)
+
 }());
