@@ -252,6 +252,10 @@
       text = target.find(".description").html();
     } else if (state.copy === "name") {
       text = target.attr("data-name");
+    } else if (state.copy === "unicode-hexadecimal") {
+      // "Hex": `f12a` => `f12a`
+      var unicodeHex = target.attr("data-unicode")
+      text = unicodeHex
     } else if (state.copy === "unicode") {
       // "Unicode": `f12a` => <UnicodeChar>
       var hex = target.attr("data-unicode");
