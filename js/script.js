@@ -254,8 +254,12 @@
       text = target.attr("data-name");
     } else if (state.copy === "unicode-hexadecimal") {
       // "Hex": `f12a` => `f12a`
-      var unicodeHex = target.attr("data-unicode")
-      text = unicodeHex
+      var unicodeHex = target.attr("data-unicode");
+      text = unicodeHex;
+    } else if (state.copy === "htmlentity") {
+      // "HTMLEntity": `f123` => `&#xf123;`
+      var unicode = target.attr("data-unicode");
+      text = ['&#x', unicode, ';'].join('');
     } else if (state.copy === "unicode") {
       // "Unicode": `f12a` => <UnicodeChar>
       var hex = target.attr("data-unicode");
