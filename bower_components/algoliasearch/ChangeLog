@@ -1,0 +1,177 @@
+CHANGELOG
+
+2015-10-04  2.9.7
+    * fix: pass X-Algolia-Agent in v2 client
+      fixes #56
+
+2015-04-10  2.9.6
+    * FIX: JSONP timeout is now incremental like other strategies
+    * FEATURE: Now using APPID-%d.algolianet.com
+    * REMOVED: No more hosts shuffling
+
+2015-04-02  2.9.5
+    * fix aborted requests in IE9, #76
+
+2015-03-19  2.9.4
+    * force async XHR
+
+2015-03-19  2.9.3
+    * test suite, including request strategy test suite
+    * IE10 should now behave as a CORS supported XMLHttpRequest browser, as it is
+    * running tests on many browsers, using saucelabs
+    * refactor around `_makeXmlHttpRequestByHost` and `_makeJsonpRequestByHost`
+    * remove unused opts.callback(retry, success, obj, message) in all make..Request functions
+    * FIX: do not retry with JSONP when statusCode is 4xx
+
+2015-03-02  2.9.2
+    * Fixed calls to `.search(function() {})`, `.search(null, function() {})`, `.search(undefined, function() {})
+    * Fixed shared cache amongst instances
+
+2015-02-03  2.9.1
+    * Fixed listIndexes pagination, not working if page=0
+
+2015-01-13  2.9.0
+    * Angular.js & jQuery compatibility (returning promises)
+    * Helper: ability to exclude facets
+
+2015-01-13  2.8.6
+    * Search helper: ability to set default facet filters
+
+2015-01-07  2.8.5
+    * Avoid CORS preflight request
+
+2014-12-31  2.8.4
+    * Fixed a bug in JSONP fallback on multi-queries and getObject when a secured API Key was used (X-Algolia-TagFilters parameter was not set, resulting in a 403 permission denied error)
+
+2014-12-30  2.8.3
+    * Helper optimization: number of nested queries is now driven by the number of refined disjunctive facets only
+
+2014-12-23  2.8.2
+    * Increase the request timeout after each retry
+
+2014-12-09  2.8.1
+    * Enabled DSN by default (is working even if only one datacenter is selected)
+
+2014-11-28  2.8.0
+    * Move to algolia.net by default
+
+2014-11-25  2.7.5
+    * Expose one option to select the TTL (prepare migration to .net, allow to gain some milliseconds compared to .io)
+
+2014-11-12  2.7.4
+    * Expose more options (jsonp & requestTimeoutInMs)
+    * Change the way the JSONP fallback works
+
+2014-10-29  2.7.3
+  * Reintroduced Algolia Custom Headers (X-Algolia-*) on queries. It was removed to try to remove the CORS OPTIONS query but this has no impact because this is a POST action.
+
+2014-10-27  2.7.2
+  * Fixed browse method (author @muertet)
+
+2014-10-15  2.7.{0,1}
+  * Refactor the AlgoliaSearch constructor to allows optional/named arguments
+
+2014-10-07  2.6.6
+  * Fixed bower integration
+
+2014-09-26  2.6.5
+  * Optimize disjunctive queries that were retrieving useless attributes
+
+2014-09-23  2.6.4
+   * Fixed CORS handling issue on IE8/IE9
+
+2014-09-23  2.6.3
+   * Fixed IE11-based AJAX calls
+
+2014-09-20  2.6.2
+   * Updated package manager description files: npm and jsdelivr
+
+2014-09-20  2.6.1
+   * Fixed JSONP call: 'X-Algolia-TagFilters' and 'X-Algolia-UserToken' were not included in the URL.
+
+2014-09-06  2.6.0
+   * Improved retry strategy with implementation of a timeout on network call.
+     Upgrade to this version is highly recommended
+
+2014-09-04  2.5.4
+    * Removed the OPTIONS request for the first isalive query of for all search queries
+
+2014-07-23  2.5.3
+    * AlgoliaSearchHelper: add missing getIndex/setIndex
+    * listIndexes is now paginable
+
+2014-06-05  2.5.2
+    * AlgoliaSearchHelper: add getter/setter methods
+
+2014-05-14  2.5.1
+    * Fixed listIndexes call (trailing slash not compatible with our API anymore)
+
+2014-05-09  2.5.0
+    * If CORS is not available, use JSONP
+
+2014-04-23  2.4.7
+     * Ability to instantiate multiple AlgoliaSearchHelper
+
+2014-04-05  2.4.6
+     * Fixed IE 8/9 support of secured API keys
+
+2014-03-30  2.4.5
+     * Improved AlgoliaExplainResults helper handling array-based attributes as well.
+
+2014-03-19  2.4.4
+     * Improved the `waitTask` method, ensuring it sleeps 100ms before recalling the API.
+
+2014-03-12  2.4.3
+     * Removed invalid character from source code (could cause a parse error in IE8/9)
+
+2014-02-24  2.4.2
+     * Added support of secured API Key (SecurityTags & UserToken headers)
+
+2014-02-18  2.4.1
+     * Removed dependency on jquery
+
+2014-02-10  2.4.0
+
+      * Move to official Typeahead.js release (0.10.1)
+      * Remove getTypeAheadTransport* functions
+
+2014-01-16  2.3.8
+
+      * Ability to customize getTypeAheadTransport parameters once instantiated
+
+2014-01-08  2.3.7
+
+      * Remove extra encodeURI
+      * Travis integration
+
+2014-01-06  2.3.6
+
+      * Missing encodeURI
+      * Added "distinct" documentation
+
+2013-12-06  2.3.5
+
+      * Added browse methods
+
+2013-12-04 2.3.4-1
+
+      * Fixed IE9 bug while reading onload's event
+      * Here and there typos
+
+2013-11-07 2.3.0
+
+      * Added new ACL features (maxQueriesPerIPPerHour & maxHitsPerQuery)
+
+2013-11-07 2.2.0
+
+      * Added clearIndex method
+
+2013-11-03 2.1.0
+
+      * Auto-detect protocol to used based on current location
+      * Added auto-complete & instant-search examples
+
+2013-10-15 2.0.1
+
+      * Gruntification
+      * Embed typeahead.js

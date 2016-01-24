@@ -1,0 +1,66 @@
+<html>
+  <head>
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <script src="//code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/hogan.js/2.0.0/hogan.js"></script>
+    <script src="/dist/algoliasearch.min.js"></script>
+    <script src="/vendor/typeahead.jquery.js"></script>
+    <style type="text/css">
+      .demo { text-align: center; margin-top: 40px; }
+      .typeahead, .tt-query, .tt-hint { width: 500px; padding: 8px 12px; font-size: 24px; border: 2px solid #ccc; outline: none; margin: 0px; }
+      .typeahead { background-color: #fff; }
+      .typeahead:focus { border: 2px solid #0097cf; }
+      .tt-query { -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075); -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075); box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075); }
+      .tt-hint { color: #999 }
+      .tt-dropdown-menu { width: 100%; padding: 8px 0; background-color: #fff; border: 1px solid rgba(0, 0, 0, 0.2); border-top: 0px; -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2); -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2); box-shadow: 0 5px 10px rgba(0,0,0,.2); }
+      .tt-suggestion { text-align: left; padding: 3px 20px; font-size: 18px; line-height: 24px; }
+      .tt-suggestion.tt-cursor { color: #fff; background-color: #0097cf; }
+      .tt-suggestion p { margin: 0; }
+      .tt-suggestion a { color: #000; text-decoration: none; }
+      .tt-suggestion em { font-weight: bold; font-style: normal; }
+    </style>
+  </head>
+  <body>
+
+    <div class="demo">
+      <h3>Basic</h3>
+      <input class="typeahead" type="text" placeholder="Start typing" id="typeahead-algolia"  spellcheck="false"/>
+    </div>
+
+    <div class="demo">
+      <h3>Using Hogan templating engine</h3>
+      <input class="typeahead" type="text" placeholder="Start typing" id="typeahead-algolia-template"  spellcheck="false"/>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function() {
+        // Replace the following values by your ApplicationID and ApiKey.
+        var algolia = new AlgoliaSearch('latency', '6be0576ff61c053d5f9a3225e2a90f76');
+        // Replace the following value by the name of the index you want to query.
+        var index = algolia.initIndex('contacts');
+
+        // basic typeahead
+        $('#typeahead-algolia').typeahead(null, {
+          source: index.ttAdapter(),
+          displayKey: 'email'
+        });
+
+        // with a template and highlighting
+        var template = Hogan.compile('<picture><img src="{{{image_url}}}" /></picture>' +
+          '<div>{{{_highlightResult.email.value}}}</div>' +
+          '<div class="text-right"><small>{{{_highlightResult.name.value}}}</span></div>');
+        $('#typeahead-algolia-template').typeahead(null, {
+          source: index.ttAdapter({ hitsPerPage: 10 }),
+          displayKey: 'email',
+          templates: {
+            suggestion: function(hit) {
+              return template.render(hit);
+            }
+          }
+        });
+      });
+    </script>
+
+  </body>
+</html>
