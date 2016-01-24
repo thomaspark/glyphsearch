@@ -11320,6 +11320,11 @@
 			"unicode": "e84d"
 		},
 		{
+			"name": "ac_unit",
+			"tags": "cold, snowflake, winter",
+			"unicode": "eb3b"
+		},
+		{
 			"name": "access_alarm",
 			"tags": "clock, reminder",
 			"unicode": "e190"
@@ -11338,6 +11343,11 @@
 			"name": "accessibility",
 			"tags": "",
 			"unicode": "e84e"
+		},
+		{
+			"name": "accessible",
+			"tags": "",
+			"unicode": "e914"
 		},
 		{
 			"name": "account_balance",
@@ -11370,6 +11380,11 @@
 			"unicode": "e145"
 		},
 		{
+			"name": "add_a_photo",
+			"tags": "camera",
+			"unicode": "e439"
+		},
+		{
 			"name": "add_alarm",
 			"tags": "clock, reminder",
 			"unicode": "e193"
@@ -11395,6 +11410,11 @@
 			"unicode": "e148"
 		},
 		{
+			"name": "add_location",
+			"tags": "map marker",
+			"unicode": "e567"
+		},
+		{
 			"name": "add_shopping_cart",
 			"tags": "",
 			"unicode": "e854"
@@ -11403,6 +11423,11 @@
 			"name": "add_to_photos",
 			"tags": "",
 			"unicode": "e39d"
+		},
+		{
+			"name": "add_to_queue",
+			"tags": "",
+			"unicode": "e05c"
 		},
 		{
 			"name": "adjust",
@@ -11465,6 +11490,11 @@
 			"unicode": "e055"
 		},
 		{
+			"name": "airport_shuttle",
+			"tags": "bus, transportation, van",
+			"unicode": "eb3c"
+		},
+		{
 			"name": "alarm",
 			"tags": "clock",
 			"unicode": "e855"
@@ -11488,6 +11518,16 @@
 			"name": "album",
 			"tags": "music, record, vinyl",
 			"unicode": "e019"
+		},
+		{
+			"name": "all_inclusive",
+			"tags": "infinity",
+			"unicode": "eb3d"
+		},
+		{
+			"name": "all_out",
+			"tags": "",
+			"unicode": "e90b"
 		},
 		{
 			"name": "android",
@@ -11515,6 +11555,11 @@
 			"unicode": "e5c4"
 		},
 		{
+			"name": "arrow_downward",
+			"tags": "",
+			"unicode": "e5db"
+		},
+		{
 			"name": "arrow_drop_down",
 			"tags": "caret",
 			"unicode": "e5c5"
@@ -11533,6 +11578,16 @@
 			"name": "arrow_forward",
 			"tags": "directional",
 			"unicode": "e5c8"
+		},
+		{
+			"name": "arrow_upward",
+			"tags": "",
+			"unicode": "e5d8"
+		},
+		{
+			"name": "art_track",
+			"tags": "",
+			"unicode": "e060"
 		},
 		{
 			"name": "aspect_ratio",
@@ -11648,6 +11703,11 @@
 			"name": "battery_unknown",
 			"tags": "power",
 			"unicode": "e1a6"
+		},
+		{
+			"name": "beach_access",
+			"tags": "umbrella",
+			"unicode": "eb3e"
 		},
 		{
 			"name": "beenhere",
@@ -11860,6 +11920,11 @@
 			"unicode": "e0af"
 		},
 		{
+			"name": "business_center",
+			"tags": "briefcase",
+			"unicode": "eb3f"
+		},
+		{
 			"name": "cached",
 			"tags": "refresh, reload",
 			"unicode": "e86a"
@@ -11888,6 +11953,11 @@
 			"name": "call_missed",
 			"tags": "arrow",
 			"unicode": "e0b4"
+		},
+		{
+			"name": "call_missed_outgoing",
+			"tags": "arrow",
+			"unicode": "e0e4"
 		},
 		{
 			"name": "call_received",
@@ -11953,6 +12023,11 @@
 			"name": "card_travel",
 			"tags": "briefcase, luggage, suitcase",
 			"unicode": "e8f8"
+		},
+		{
+			"name": "casino",
+			"tags": "dice, game",
+			"unicode": "eb40"
 		},
 		{
 			"name": "cast",
@@ -12022,6 +12097,16 @@
 			"name": "chevron_right",
 			"tags": "angle, directional",
 			"unicode": "e5cc"
+		},
+		{
+			"name": "child_care",
+			"tags": "baby, face",
+			"unicode": "eb41"
+		},
+		{
+			"name": "child_friendly",
+			"tags": "baby stroller",
+			"unicode": "eb42"
 		},
 		{
 			"name": "chrome_reader_mode",
@@ -12124,6 +12209,11 @@
 			"unicode": "e3b9"
 		},
 		{
+			"name": "compare_arrows",
+			"tags": "",
+			"unicode": "e915"
+		},
+		{
 			"name": "computer",
 			"tags": "laptop",
 			"unicode": "e30a"
@@ -12132,6 +12222,11 @@
 			"name": "confirmation_number",
 			"tags": "ticket",
 			"unicode": "e638"
+		},
+		{
+			"name": "contact_mail",
+			"tags": "",
+			"unicode": "e0d0"
 		},
 		{
 			"name": "contact_phone",
@@ -12169,9 +12264,19 @@
 			"unicode": "e3bb"
 		},
 		{
+			"name": "copyright",
+			"tags": "",
+			"unicode": "e90c"
+		},
+		{
 			"name": "create",
 			"tags": "pencil",
 			"unicode": "e150"
+		},
+		{
+			"name": "create_new_folder",
+			"tags": "",
+			"unicode": "e2cc"
 		},
 		{
 			"name": "credit_card",
@@ -12229,6 +12334,11 @@
 			"unicode": "e3c5"
 		},
 		{
+			"name": "crop_rotate",
+			"tags": "",
+			"unicode": "e437"
+		},
+		{
 			"name": "crop_square",
 			"tags": "",
 			"unicode": "e3c6"
@@ -12242,6 +12352,11 @@
 			"name": "data_usage",
 			"tags": "pie chart, graph",
 			"unicode": "e1af"
+		},
+		{
+			"name": "date_range",
+			"tags": "calendar",
+			"unicode": "e916"
 		},
 		{
 			"name": "dehaze",
@@ -12292,6 +12407,11 @@
 			"name": "devices",
 			"tags": "",
 			"unicode": "e1b1"
+		},
+		{
+			"name": "devices_other",
+			"tags": "",
+			"unicode": "e337"
 		},
 		{
 			"name": "dialer_sip",
@@ -12394,9 +12514,24 @@
 			"unicode": "e877"
 		},
 		{
+			"name": "donut_large",
+			"tags": "chart, graph",
+			"unicode": "e917"
+		},
+		{
+			"name": "donut_small",
+			"tags": "chart, graph",
+			"unicode": "e918"
+		},
+		{
 			"name": "drafts",
 			"tags": "envelope, mail",
 			"unicode": "e151"
+		},
+		{
+			"name": "drag_handle",
+			"tags": "bars",
+			"unicode": "e25d"
 		},
 		{
 			"name": "drive_eta",
@@ -12414,6 +12549,11 @@
 			"unicode": "e3c9"
 		},
 		{
+			"name": "edit_location",
+			"tags": "map marker",
+			"unicode": "e568"
+		},
+		{
 			"name": "eject",
 			"tags": "",
 			"unicode": "e8fb"
@@ -12422,6 +12562,11 @@
 			"name": "email",
 			"tags": "envelope, letter",
 			"unicode": "e0be"
+		},
+		{
+			"name": "enhanced_encryption",
+			"tags": "lock",
+			"unicode": "e63f"
 		},
 		{
 			"name": "equalizer",
@@ -12554,6 +12699,31 @@
 			"unicode": "e87f"
 		},
 		{
+			"name": "fiber_dvr",
+			"tags": "",
+			"unicode": "e05d"
+		},
+		{
+			"name": "fiber_manual_record",
+			"tags": "circle",
+			"unicode": "e061"
+		},
+		{
+			"name": "fiber_new",
+			"tags": "",
+			"unicode": "e05e"
+		},
+		{
+			"name": "fiber_pin",
+			"tags": "",
+			"unicode": "e06a"
+		},
+		{
+			"name": "fiber_smart_record",
+			"tags": "",
+			"unicode": "e062"
+		},
+		{
 			"name": "file_download",
 			"tags": "",
 			"unicode": "e2c4"
@@ -12672,6 +12842,16 @@
 			"name": "find_replace",
 			"tags": "search, magnifying glass",
 			"unicode": "e881"
+		},
+		{
+			"name": "fingerprint",
+			"tags": "",
+			"unicode": "e90d"
+		},
+		{
+			"name": "fitness_center",
+			"tags": "barbell, gym, weights",
+			"unicode": "eb43"
 		},
 		{
 			"name": "flag",
@@ -12839,6 +13019,11 @@
 			"unicode": "e244"
 		},
 		{
+			"name": "format_shapes",
+			"tags": "",
+			"unicode": "e25e"
+		},
+		{
 			"name": "format_size",
 			"tags": "",
 			"unicode": "e245"
@@ -12889,6 +13074,11 @@
 			"unicode": "e058"
 		},
 		{
+			"name": "free_breakfast",
+			"tags": "coffee, mug",
+			"unicode": "eb44"
+		},
+		{
 			"name": "fullscreen",
 			"tags": "",
 			"unicode": "e5d0"
@@ -12914,6 +13104,11 @@
 			"unicode": "e021"
 		},
 		{
+			"name": "gavel",
+			"tags": "judge, law",
+			"unicode": "e90e"
+		},
+		{
 			"name": "gesture",
 			"tags": "scribble",
 			"unicode": "e155"
@@ -12927,6 +13122,11 @@
 			"name": "gif",
 			"tags": "",
 			"unicode": "e908"
+		},
+		{
+			"name": "golf_course",
+			"tags": "sports",
+			"unicode": "eb45"
 		},
 		{
 			"name": "gps_fixed",
@@ -13049,6 +13249,11 @@
 			"unicode": "e024"
 		},
 		{
+			"name": "highlight",
+			"tags": "flashlight",
+			"unicode": "e25f"
+		},
+		{
 			"name": "highlight_off",
 			"tags": "x, cancel",
 			"unicode": "e888"
@@ -13062,6 +13267,11 @@
 			"name": "home",
 			"tags": "",
 			"unicode": "e88a"
+		},
+		{
+			"name": "hot_tub",
+			"tags": "jacuzzi",
+			"unicode": "eb46"
 		},
 		{
 			"name": "hotel",
@@ -13099,9 +13309,19 @@
 			"unicode": "e3f5"
 		},
 		{
+			"name": "import_contacts",
+			"tags": "book",
+			"unicode": "e0e0"
+		},
+		{
 			"name": "import_export",
 			"tags": "arrows",
 			"unicode": "e0c3"
+		},
+		{
+			"name": "important_devices",
+			"tags": "computer",
+			"unicode": "e912"
 		},
 		{
 			"name": "inbox",
@@ -13234,6 +13454,11 @@
 			"unicode": "e31d"
 		},
 		{
+			"name": "kitchen",
+			"tags": "fridge, refrigerator",
+			"unicode": "eb47"
+		},
+		{
 			"name": "label",
 			"tags": "tag",
 			"unicode": "e892"
@@ -13319,9 +13544,34 @@
 			"unicode": "e030"
 		},
 		{
+			"name": "lightbulb_outline",
+			"tags": "idea",
+			"unicode": "e90f"
+		},
+		{
+			"name": "line_style",
+			"tags": "",
+			"unicode": "e919"
+		},
+		{
+			"name": "line_weight",
+			"tags": "",
+			"unicode": "e91a"
+		},
+		{
+			"name": "linear_scale",
+			"tags": "",
+			"unicode": "e260"
+		},
+		{
 			"name": "link",
 			"tags": "chain",
 			"unicode": "e157"
+		},
+		{
+			"name": "linked_camera",
+			"tags": "",
+			"unicode": "e438"
 		},
 		{
 			"name": "list",
@@ -13573,6 +13823,11 @@
 			"unicode": "e158"
 		},
 		{
+			"name": "mail_outline",
+			"tags": "envelope",
+			"unicode": "e0e1"
+		},
+		{
 			"name": "map",
 			"tags": "",
 			"unicode": "e55b"
@@ -13673,9 +13928,19 @@
 			"unicode": "e5d4"
 		},
 		{
+			"name": "motorcycle",
+			"tags": "bike",
+			"unicode": "e91b"
+		},
+		{
 			"name": "mouse",
 			"tags": "",
 			"unicode": "e323"
+		},
+		{
+			"name": "move_to_inbox",
+			"tags": "email",
+			"unicode": "e168"
 		},
 		{
 			"name": "movie",
@@ -13688,9 +13953,19 @@
 			"unicode": "e404"
 		},
 		{
+			"name": "movie_filter",
+			"tags": "film marker",
+			"unicode": "e43a"
+		},
+		{
 			"name": "music_note",
 			"tags": "",
 			"unicode": "e405"
+		},
+		{
+			"name": "music_video",
+			"tags": "music note",
+			"unicode": "e063"
 		},
 		{
 			"name": "my_location",
@@ -13723,9 +13998,19 @@
 			"unicode": "e409"
 		},
 		{
+			"name": "near_me",
+			"tags": "arrow, navigation",
+			"unicode": "e569"
+		},
+		{
 			"name": "network_cell",
 			"tags": "",
 			"unicode": "e1b9"
+		},
+		{
+			"name": "network_check",
+			"tags": "wifi signal",
+			"unicode": "e640"
 		},
 		{
 			"name": "network_locked",
@@ -13743,9 +14028,19 @@
 			"unicode": "e031"
 		},
 		{
+			"name": "next_week",
+			"tags": "briefcase, travel",
+			"unicode": "e16a"
+		},
+		{
 			"name": "nfc",
 			"tags": "chip, circuit board",
 			"unicode": "e1bb"
+		},
+		{
+			"name": "no_encryption",
+			"tags": "lock",
+			"unicode": "e641"
 		},
 		{
 			"name": "no_sim",
@@ -13798,6 +14093,11 @@
 			"unicode": "e63a"
 		},
 		{
+			"name": "opacity",
+			"tags": "droplet",
+			"unicode": "e91c"
+		},
+		{
 			"name": "open_in_browser",
 			"tags": "",
 			"unicode": "e89d"
@@ -13826,6 +14126,11 @@
 			"name": "palette",
 			"tags": "art, paint",
 			"unicode": "e40a"
+		},
+		{
+			"name": "pan_tool",
+			"tags": "hand",
+			"unicode": "e925"
 		},
 		{
 			"name": "panorama",
@@ -13948,9 +14253,19 @@
 			"unicode": "e55a"
 		},
 		{
+			"name": "person_pin_circle",
+			"tags": "",
+			"unicode": "e56a"
+		},
+		{
 			"name": "personal_video",
 			"tags": "",
 			"unicode": "e63b"
+		},
+		{
+			"name": "pets",
+			"tags": "paw",
+			"unicode": "e91d"
 		},
 		{
 			"name": "phone",
@@ -14043,6 +14358,11 @@
 			"unicode": "e412"
 		},
 		{
+			"name": "photo_filter",
+			"tags": "",
+			"unicode": "e43b"
+		},
+		{
 			"name": "photo_library",
 			"tags": "",
 			"unicode": "e413"
@@ -14071,6 +14391,11 @@
 			"name": "picture_in_picture",
 			"tags": "",
 			"unicode": "e8aa"
+		},
+		{
+			"name": "picture_in_picture_alt",
+			"tags": "",
+			"unicode": "e911"
 		},
 		{
 			"name": "pin_drop",
@@ -14108,6 +14433,16 @@
 			"unicode": "e03b"
 		},
 		{
+			"name": "playlist_add_check",
+			"tags": "",
+			"unicode": "e065"
+		},
+		{
+			"name": "playlist_play",
+			"tags": "",
+			"unicode": "e05f"
+		},
+		{
 			"name": "plus_one",
 			"tags": "",
 			"unicode": "e800"
@@ -14116,6 +14451,11 @@
 			"name": "poll",
 			"tags": "chart, graph",
 			"unicode": "e801"
+		},
+		{
+			"name": "pool",
+			"tags": "sports, swimming",
+			"unicode": "eb48"
 		},
 		{
 			"name": "polymer",
@@ -14146,6 +14486,11 @@
 			"name": "power_settings_new",
 			"tags": "on, switch",
 			"unicode": "e8ac"
+		},
+		{
+			"name": "pregnant_woman",
+			"tags": "",
+			"unicode": "e91e"
 		},
 		{
 			"name": "present_to_all",
@@ -14188,6 +14533,11 @@
 			"unicode": "e03d"
 		},
 		{
+			"name": "queue_play_next",
+			"tags": "",
+			"unicode": "e066"
+		},
+		{
 			"name": "radio",
 			"tags": "music",
 			"unicode": "e03e"
@@ -14218,6 +14568,11 @@
 			"unicode": "e03f"
 		},
 		{
+			"name": "record_voice_over",
+			"tags": "speech, talk",
+			"unicode": "e91f"
+		},
+		{
 			"name": "redeem",
 			"tags": "gift card, present",
 			"unicode": "e8b1"
@@ -14246,6 +14601,11 @@
 			"name": "remove_circle_outline",
 			"tags": "minus",
 			"unicode": "e15d"
+		},
+		{
+			"name": "remove_from_queue",
+			"tags": "",
+			"unicode": "e067"
 		},
 		{
 			"name": "remove_red_eye",
@@ -14327,6 +14687,11 @@
 			"unicode": "e8b4"
 		},
 		{
+			"name": "room_service",
+			"tags": "bell",
+			"unicode": "eb49"
+		},
+		{
 			"name": "rotate_90_degrees_ccw",
 			"tags": "",
 			"unicode": "e418"
@@ -14342,9 +14707,24 @@
 			"unicode": "e41a"
 		},
 		{
+			"name": "rounded_corner",
+			"tags": "",
+			"unicode": "e920"
+		},
+		{
 			"name": "router",
 			"tags": "",
 			"unicode": "e328"
+		},
+		{
+			"name": "rowing",
+			"tags": "sports",
+			"unicode": "e921"
+		},
+		{
+			"name": "rv_hookup",
+			"tags": "",
+			"unicode": "e642"
 		},
 		{
 			"name": "satellite",
@@ -14390,6 +14770,11 @@
 			"name": "screen_rotation",
 			"tags": "",
 			"unicode": "e1c1"
+		},
+		{
+			"name": "screen_share",
+			"tags": "",
+			"unicode": "e0e2"
 		},
 		{
 			"name": "sd_card",
@@ -14537,6 +14922,11 @@
 			"unicode": "e8cc"
 		},
 		{
+			"name": "short_text",
+			"tags": "",
+			"unicode": "e261"
+		},
+		{
 			"name": "shuffle",
 			"tags": "random",
 			"unicode": "e043"
@@ -14606,9 +14996,24 @@
 			"unicode": "e41b"
 		},
 		{
+			"name": "slow_motion_video",
+			"tags": "",
+			"unicode": "e068"
+		},
+		{
 			"name": "smartphone",
 			"tags": "",
 			"unicode": "e32c"
+		},
+		{
+			"name": "smoke_free",
+			"tags": "cigarette",
+			"unicode": "eb4a"
+		},
+		{
+			"name": "smoking_rooms",
+			"tags": "cigarette",
+			"unicode": "eb4b"
 		},
 		{
 			"name": "sms",
@@ -14624,6 +15029,11 @@
 			"name": "sort",
 			"tags": "",
 			"unicode": "e164"
+		},
+		{
+			"name": "spa",
+			"tags": "leaf",
+			"unicode": "eb4c"
 		},
 		{
 			"name": "speaker",
@@ -14716,6 +15126,11 @@
 			"unicode": "e047"
 		},
 		{
+			"name": "stop_screen_share",
+			"tags": "",
+			"unicode": "e0e3"
+		},
+		{
 			"name": "storage",
 			"tags": "server",
 			"unicode": "e1db"
@@ -14741,9 +15156,24 @@
 			"unicode": "e41d"
 		},
 		{
+			"name": "subdirectory_arrow_left",
+			"tags": "",
+			"unicode": "e5d9"
+		},
+		{
+			"name": "subdirectory_arrow_right",
+			"tags": "",
+			"unicode": "e5da"
+		},
+		{
 			"name": "subject",
 			"tags": "",
 			"unicode": "e8d2"
+		},
+		{
+			"name": "subscriptions",
+			"tags": "",
+			"unicode": "e064"
 		},
 		{
 			"name": "subtitles",
@@ -14856,6 +15286,11 @@
 			"unicode": "e564"
 		},
 		{
+			"name": "text_fields",
+			"tags": "",
+			"unicode": "e262"
+		},
+		{
 			"name": "text_format",
 			"tags": "",
 			"unicode": "e165"
@@ -14896,6 +15331,11 @@
 			"unicode": "e422"
 		},
 		{
+			"name": "timeline",
+			"tags": "chart, graph",
+			"unicode": "e922"
+		},
+		{
 			"name": "timer",
 			"tags": "stopwatch",
 			"unicode": "e425"
@@ -14934,6 +15374,11 @@
 			"name": "tonality",
 			"tags": "contrast",
 			"unicode": "e427"
+		},
+		{
+			"name": "touch_app",
+			"tags": "finger",
+			"unicode": "e913"
 		},
 		{
 			"name": "toys",
@@ -14996,9 +15441,19 @@
 			"unicode": "e333"
 		},
 		{
+			"name": "unarchive",
+			"tags": "",
+			"unicode": "e169"
+		},
+		{
 			"name": "undo",
 			"tags": "arrow",
 			"unicode": "e166"
+		},
+		{
+			"name": "update",
+			"tags": "clock, timer",
+			"unicode": "e923"
 		},
 		{
 			"name": "usb",
@@ -15044,6 +15499,11 @@
 			"name": "videocam_off",
 			"tags": "",
 			"unicode": "e04c"
+		},
+		{
+			"name": "videogame_asset",
+			"tags": "controller, gamepad",
+			"unicode": "e338"
 		},
 		{
 			"name": "view_agenda",
@@ -15181,6 +15641,11 @@
 			"unicode": "e334"
 		},
 		{
+			"name": "watch_later",
+			"tags": "clock, timer",
+			"unicode": "e924"
+		},
+		{
 			"name": "wb_auto",
 			"tags": "",
 			"unicode": "e42c"
@@ -15214,6 +15679,16 @@
 			"name": "web",
 			"tags": "",
 			"unicode": "e051"
+		},
+		{
+			"name": "web_asset",
+			"tags": "",
+			"unicode": "e069"
+		},
+		{
+			"name": "weekend",
+			"tags": "couch, furniture, sofa",
+			"unicode": "e16b"
 		},
 		{
 			"name": "whatshot",
@@ -15264,6 +15739,11 @@
 			"name": "zoom_out",
 			"tags": "magnifying glass",
 			"unicode": "e900"
+		},
+		{
+			"name": "zoom_out_map",
+			"tags": "expand",
+			"unicode": "e56b"
 		}
 	],
 	"octicons": [

@@ -18654,6 +18654,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "ac_unit",
+    "tags": "cold, snowflake, winter",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">ac_unit</i>",
+    "unicode": "eb3b"
+  },
+  {
+    "_tags": ["material"],
     "name": "access_alarm",
     "tags": "clock, reminder",
     "class": "material-icons",
@@ -18683,6 +18691,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">accessibility</i>",
     "unicode": "e84e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "accessible",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">accessible</i>",
+    "unicode": "e914"
   },
   {
     "_tags": ["material"],
@@ -18734,6 +18750,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "add_a_photo",
+    "tags": "camera",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_a_photo</i>",
+    "unicode": "e439"
+  },
+  {
+    "_tags": ["material"],
     "name": "add_alarm",
     "tags": "clock, reminder",
     "class": "material-icons",
@@ -18774,6 +18798,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "add_location",
+    "tags": "map marker",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_location</i>",
+    "unicode": "e567"
+  },
+  {
+    "_tags": ["material"],
     "name": "add_shopping_cart",
     "tags": "",
     "class": "material-icons",
@@ -18787,6 +18819,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">add_to_photos</i>",
     "unicode": "e39d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "add_to_queue",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_to_queue</i>",
+    "unicode": "e05c"
   },
   {
     "_tags": ["material"],
@@ -18886,6 +18926,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "airport_shuttle",
+    "tags": "bus, transportation, van",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">airport_shuttle</i>",
+    "unicode": "eb3c"
+  },
+  {
+    "_tags": ["material"],
     "name": "alarm",
     "tags": "clock",
     "class": "material-icons",
@@ -18923,6 +18971,22 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">album</i>",
     "unicode": "e019"
+  },
+  {
+    "_tags": ["material"],
+    "name": "all_inclusive",
+    "tags": "infinity",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">all_inclusive</i>",
+    "unicode": "eb3d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "all_out",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">all_out</i>",
+    "unicode": "e90b"
   },
   {
     "_tags": ["material"],
@@ -18966,6 +19030,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "arrow_downward",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">arrow_downward</i>",
+    "unicode": "e5db"
+  },
+  {
+    "_tags": ["material"],
     "name": "arrow_drop_down",
     "tags": "caret",
     "class": "material-icons",
@@ -18995,6 +19067,22 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">arrow_forward</i>",
     "unicode": "e5c8"
+  },
+  {
+    "_tags": ["material"],
+    "name": "arrow_upward",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">arrow_upward</i>",
+    "unicode": "e5d8"
+  },
+  {
+    "_tags": ["material"],
+    "name": "art_track",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">art_track</i>",
+    "unicode": "e060"
   },
   {
     "_tags": ["material"],
@@ -19179,6 +19267,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">battery_unknown</i>",
     "unicode": "e1a6"
+  },
+  {
+    "_tags": ["material"],
+    "name": "beach_access",
+    "tags": "umbrella",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">beach_access</i>",
+    "unicode": "eb3e"
   },
   {
     "_tags": ["material"],
@@ -19518,6 +19614,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "business_center",
+    "tags": "briefcase",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">business_center</i>",
+    "unicode": "eb3f"
+  },
+  {
+    "_tags": ["material"],
     "name": "cached",
     "tags": "refresh, reload",
     "class": "material-icons",
@@ -19563,6 +19667,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">call_missed</i>",
     "unicode": "e0b4"
+  },
+  {
+    "_tags": ["material"],
+    "name": "call_missed_outgoing",
+    "tags": "arrow",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">call_missed_outgoing</i>",
+    "unicode": "e0e4"
   },
   {
     "_tags": ["material"],
@@ -19667,6 +19779,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">card_travel</i>",
     "unicode": "e8f8"
+  },
+  {
+    "_tags": ["material"],
+    "name": "casino",
+    "tags": "dice, game",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">casino</i>",
+    "unicode": "eb40"
   },
   {
     "_tags": ["material"],
@@ -19779,6 +19899,22 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">chevron_right</i>",
     "unicode": "e5cc"
+  },
+  {
+    "_tags": ["material"],
+    "name": "child_care",
+    "tags": "baby, face",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">child_care</i>",
+    "unicode": "eb41"
+  },
+  {
+    "_tags": ["material"],
+    "name": "child_friendly",
+    "tags": "baby stroller",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">child_friendly</i>",
+    "unicode": "eb42"
   },
   {
     "_tags": ["material"],
@@ -19942,6 +20078,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "compare_arrows",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">compare_arrows</i>",
+    "unicode": "e915"
+  },
+  {
+    "_tags": ["material"],
     "name": "computer",
     "tags": "laptop",
     "class": "material-icons",
@@ -19955,6 +20099,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">confirmation_number</i>",
     "unicode": "e638"
+  },
+  {
+    "_tags": ["material"],
+    "name": "contact_mail",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">contact_mail</i>",
+    "unicode": "e0d0"
   },
   {
     "_tags": ["material"],
@@ -20014,11 +20166,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "copyright",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">copyright</i>",
+    "unicode": "e90c"
+  },
+  {
+    "_tags": ["material"],
     "name": "create",
     "tags": "pencil",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">create</i>",
     "unicode": "e150"
+  },
+  {
+    "_tags": ["material"],
+    "name": "create_new_folder",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">create_new_folder</i>",
+    "unicode": "e2cc"
   },
   {
     "_tags": ["material"],
@@ -20110,6 +20278,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "crop_rotate",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">crop_rotate</i>",
+    "unicode": "e437"
+  },
+  {
+    "_tags": ["material"],
     "name": "crop_square",
     "tags": "",
     "class": "material-icons",
@@ -20131,6 +20307,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">data_usage</i>",
     "unicode": "e1af"
+  },
+  {
+    "_tags": ["material"],
+    "name": "date_range",
+    "tags": "calendar",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">date_range</i>",
+    "unicode": "e916"
   },
   {
     "_tags": ["material"],
@@ -20211,6 +20395,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">devices</i>",
     "unicode": "e1b1"
+  },
+  {
+    "_tags": ["material"],
+    "name": "devices_other",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">devices_other</i>",
+    "unicode": "e337"
   },
   {
     "_tags": ["material"],
@@ -20374,11 +20566,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "donut_large",
+    "tags": "chart, graph",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">donut_large</i>",
+    "unicode": "e917"
+  },
+  {
+    "_tags": ["material"],
+    "name": "donut_small",
+    "tags": "chart, graph",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">donut_small</i>",
+    "unicode": "e918"
+  },
+  {
+    "_tags": ["material"],
     "name": "drafts",
     "tags": "envelope, mail",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">drafts</i>",
     "unicode": "e151"
+  },
+  {
+    "_tags": ["material"],
+    "name": "drag_handle",
+    "tags": "bars",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">drag_handle</i>",
+    "unicode": "e25d"
   },
   {
     "_tags": ["material"],
@@ -20406,6 +20622,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "edit_location",
+    "tags": "map marker",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">edit_location</i>",
+    "unicode": "e568"
+  },
+  {
+    "_tags": ["material"],
     "name": "eject",
     "tags": "",
     "class": "material-icons",
@@ -20419,6 +20643,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">email</i>",
     "unicode": "e0be"
+  },
+  {
+    "_tags": ["material"],
+    "name": "enhanced_encryption",
+    "tags": "lock",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">enhanced_encryption</i>",
+    "unicode": "e63f"
   },
   {
     "_tags": ["material"],
@@ -20630,6 +20862,46 @@
   },
   {
     "_tags": ["material"],
+    "name": "fiber_dvr",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">fiber_dvr</i>",
+    "unicode": "e05d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "fiber_manual_record",
+    "tags": "circle",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">fiber_manual_record</i>",
+    "unicode": "e061"
+  },
+  {
+    "_tags": ["material"],
+    "name": "fiber_new",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">fiber_new</i>",
+    "unicode": "e05e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "fiber_pin",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">fiber_pin</i>",
+    "unicode": "e06a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "fiber_smart_record",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">fiber_smart_record</i>",
+    "unicode": "e062"
+  },
+  {
+    "_tags": ["material"],
     "name": "file_download",
     "tags": "",
     "class": "material-icons",
@@ -20819,6 +21091,22 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">find_replace</i>",
     "unicode": "e881"
+  },
+  {
+    "_tags": ["material"],
+    "name": "fingerprint",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">fingerprint</i>",
+    "unicode": "e90d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "fitness_center",
+    "tags": "barbell, gym, weights",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">fitness_center</i>",
+    "unicode": "eb43"
   },
   {
     "_tags": ["material"],
@@ -21086,6 +21374,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "format_shapes",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">format_shapes</i>",
+    "unicode": "e25e"
+  },
+  {
+    "_tags": ["material"],
     "name": "format_size",
     "tags": "",
     "class": "material-icons",
@@ -21166,6 +21462,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "free_breakfast",
+    "tags": "coffee, mug",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">free_breakfast</i>",
+    "unicode": "eb44"
+  },
+  {
+    "_tags": ["material"],
     "name": "fullscreen",
     "tags": "",
     "class": "material-icons",
@@ -21206,6 +21510,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "gavel",
+    "tags": "judge, law",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">gavel</i>",
+    "unicode": "e90e"
+  },
+  {
+    "_tags": ["material"],
     "name": "gesture",
     "tags": "scribble",
     "class": "material-icons",
@@ -21227,6 +21539,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">gif</i>",
     "unicode": "e908"
+  },
+  {
+    "_tags": ["material"],
+    "name": "golf_course",
+    "tags": "sports",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">golf_course</i>",
+    "unicode": "eb45"
   },
   {
     "_tags": ["material"],
@@ -21422,6 +21742,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "highlight",
+    "tags": "flashlight",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">highlight</i>",
+    "unicode": "e25f"
+  },
+  {
+    "_tags": ["material"],
     "name": "highlight_off",
     "tags": "x, cancel",
     "class": "material-icons",
@@ -21443,6 +21771,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">home</i>",
     "unicode": "e88a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "hot_tub",
+    "tags": "jacuzzi",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">hot_tub</i>",
+    "unicode": "eb46"
   },
   {
     "_tags": ["material"],
@@ -21502,11 +21838,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "import_contacts",
+    "tags": "book",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">import_contacts</i>",
+    "unicode": "e0e0"
+  },
+  {
+    "_tags": ["material"],
     "name": "import_export",
     "tags": "arrows",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">import_export</i>",
     "unicode": "e0c3"
+  },
+  {
+    "_tags": ["material"],
+    "name": "important_devices",
+    "tags": "computer",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">important_devices</i>",
+    "unicode": "e912"
   },
   {
     "_tags": ["material"],
@@ -21718,6 +22070,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "kitchen",
+    "tags": "fridge, refrigerator",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">kitchen</i>",
+    "unicode": "eb47"
+  },
+  {
+    "_tags": ["material"],
     "name": "label",
     "tags": "tag",
     "class": "material-icons",
@@ -21854,11 +22214,51 @@
   },
   {
     "_tags": ["material"],
+    "name": "lightbulb_outline",
+    "tags": "idea",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">lightbulb_outline</i>",
+    "unicode": "e90f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "line_style",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">line_style</i>",
+    "unicode": "e919"
+  },
+  {
+    "_tags": ["material"],
+    "name": "line_weight",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">line_weight</i>",
+    "unicode": "e91a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "linear_scale",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">linear_scale</i>",
+    "unicode": "e260"
+  },
+  {
+    "_tags": ["material"],
     "name": "link",
     "tags": "chain",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">link</i>",
     "unicode": "e157"
+  },
+  {
+    "_tags": ["material"],
+    "name": "linked_camera",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">linked_camera</i>",
+    "unicode": "e438"
   },
   {
     "_tags": ["material"],
@@ -22262,6 +22662,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "mail_outline",
+    "tags": "envelope",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">mail_outline</i>",
+    "unicode": "e0e1"
+  },
+  {
+    "_tags": ["material"],
     "name": "map",
     "tags": "",
     "class": "material-icons",
@@ -22422,11 +22830,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "motorcycle",
+    "tags": "bike",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">motorcycle</i>",
+    "unicode": "e91b"
+  },
+  {
+    "_tags": ["material"],
     "name": "mouse",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">mouse</i>",
     "unicode": "e323"
+  },
+  {
+    "_tags": ["material"],
+    "name": "move_to_inbox",
+    "tags": "email",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">move_to_inbox</i>",
+    "unicode": "e168"
   },
   {
     "_tags": ["material"],
@@ -22446,11 +22870,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "movie_filter",
+    "tags": "film marker",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">movie_filter</i>",
+    "unicode": "e43a"
+  },
+  {
+    "_tags": ["material"],
     "name": "music_note",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">music_note</i>",
     "unicode": "e405"
+  },
+  {
+    "_tags": ["material"],
+    "name": "music_video",
+    "tags": "music note",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">music_video</i>",
+    "unicode": "e063"
   },
   {
     "_tags": ["material"],
@@ -22502,11 +22942,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "near_me",
+    "tags": "arrow, navigation",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">near_me</i>",
+    "unicode": "e569"
+  },
+  {
+    "_tags": ["material"],
     "name": "network_cell",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">network_cell</i>",
     "unicode": "e1b9"
+  },
+  {
+    "_tags": ["material"],
+    "name": "network_check",
+    "tags": "wifi signal",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">network_check</i>",
+    "unicode": "e640"
   },
   {
     "_tags": ["material"],
@@ -22534,11 +22990,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "next_week",
+    "tags": "briefcase, travel",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">next_week</i>",
+    "unicode": "e16a"
+  },
+  {
+    "_tags": ["material"],
     "name": "nfc",
     "tags": "chip, circuit board",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">nfc</i>",
     "unicode": "e1bb"
+  },
+  {
+    "_tags": ["material"],
+    "name": "no_encryption",
+    "tags": "lock",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">no_encryption</i>",
+    "unicode": "e641"
   },
   {
     "_tags": ["material"],
@@ -22622,6 +23094,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "opacity",
+    "tags": "droplet",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">opacity</i>",
+    "unicode": "e91c"
+  },
+  {
+    "_tags": ["material"],
     "name": "open_in_browser",
     "tags": "",
     "class": "material-icons",
@@ -22667,6 +23147,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">palette</i>",
     "unicode": "e40a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "pan_tool",
+    "tags": "hand",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">pan_tool</i>",
+    "unicode": "e925"
   },
   {
     "_tags": ["material"],
@@ -22862,11 +23350,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "person_pin_circle",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">person_pin_circle</i>",
+    "unicode": "e56a"
+  },
+  {
+    "_tags": ["material"],
     "name": "personal_video",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">personal_video</i>",
     "unicode": "e63b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "pets",
+    "tags": "paw",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">pets</i>",
+    "unicode": "e91d"
   },
   {
     "_tags": ["material"],
@@ -23014,6 +23518,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "photo_filter",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">photo_filter</i>",
+    "unicode": "e43b"
+  },
+  {
+    "_tags": ["material"],
     "name": "photo_library",
     "tags": "",
     "class": "material-icons",
@@ -23059,6 +23571,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">picture_in_picture</i>",
     "unicode": "e8aa"
+  },
+  {
+    "_tags": ["material"],
+    "name": "picture_in_picture_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">picture_in_picture_alt</i>",
+    "unicode": "e911"
   },
   {
     "_tags": ["material"],
@@ -23118,6 +23638,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "playlist_add_check",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">playlist_add_check</i>",
+    "unicode": "e065"
+  },
+  {
+    "_tags": ["material"],
+    "name": "playlist_play",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">playlist_play</i>",
+    "unicode": "e05f"
+  },
+  {
+    "_tags": ["material"],
     "name": "plus_one",
     "tags": "",
     "class": "material-icons",
@@ -23131,6 +23667,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">poll</i>",
     "unicode": "e801"
+  },
+  {
+    "_tags": ["material"],
+    "name": "pool",
+    "tags": "sports, swimming",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">pool</i>",
+    "unicode": "eb48"
   },
   {
     "_tags": ["material"],
@@ -23179,6 +23723,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">power_settings_new</i>",
     "unicode": "e8ac"
+  },
+  {
+    "_tags": ["material"],
+    "name": "pregnant_woman",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">pregnant_woman</i>",
+    "unicode": "e91e"
   },
   {
     "_tags": ["material"],
@@ -23246,6 +23798,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "queue_play_next",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">queue_play_next</i>",
+    "unicode": "e066"
+  },
+  {
+    "_tags": ["material"],
     "name": "radio",
     "tags": "music",
     "class": "material-icons",
@@ -23294,6 +23854,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "record_voice_over",
+    "tags": "speech, talk",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">record_voice_over</i>",
+    "unicode": "e91f"
+  },
+  {
+    "_tags": ["material"],
     "name": "redeem",
     "tags": "gift card, present",
     "class": "material-icons",
@@ -23339,6 +23907,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">remove_circle_outline</i>",
     "unicode": "e15d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "remove_from_queue",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">remove_from_queue</i>",
+    "unicode": "e067"
   },
   {
     "_tags": ["material"],
@@ -23470,6 +24046,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "room_service",
+    "tags": "bell",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">room_service</i>",
+    "unicode": "eb49"
+  },
+  {
+    "_tags": ["material"],
     "name": "rotate_90_degrees_ccw",
     "tags": "",
     "class": "material-icons",
@@ -23494,11 +24078,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "rounded_corner",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">rounded_corner</i>",
+    "unicode": "e920"
+  },
+  {
+    "_tags": ["material"],
     "name": "router",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">router</i>",
     "unicode": "e328"
+  },
+  {
+    "_tags": ["material"],
+    "name": "rowing",
+    "tags": "sports",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">rowing</i>",
+    "unicode": "e921"
+  },
+  {
+    "_tags": ["material"],
+    "name": "rv_hookup",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">rv_hookup</i>",
+    "unicode": "e642"
   },
   {
     "_tags": ["material"],
@@ -23571,6 +24179,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">screen_rotation</i>",
     "unicode": "e1c1"
+  },
+  {
+    "_tags": ["material"],
+    "name": "screen_share",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">screen_share</i>",
+    "unicode": "e0e2"
   },
   {
     "_tags": ["material"],
@@ -23806,6 +24422,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "short_text",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">short_text</i>",
+    "unicode": "e261"
+  },
+  {
+    "_tags": ["material"],
     "name": "shuffle",
     "tags": "random",
     "class": "material-icons",
@@ -23918,11 +24542,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "slow_motion_video",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">slow_motion_video</i>",
+    "unicode": "e068"
+  },
+  {
+    "_tags": ["material"],
     "name": "smartphone",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">smartphone</i>",
     "unicode": "e32c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "smoke_free",
+    "tags": "cigarette",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">smoke_free</i>",
+    "unicode": "eb4a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "smoking_rooms",
+    "tags": "cigarette",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">smoking_rooms</i>",
+    "unicode": "eb4b"
   },
   {
     "_tags": ["material"],
@@ -23947,6 +24595,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">sort</i>",
     "unicode": "e164"
+  },
+  {
+    "_tags": ["material"],
+    "name": "spa",
+    "tags": "leaf",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">spa</i>",
+    "unicode": "eb4c"
   },
   {
     "_tags": ["material"],
@@ -24094,6 +24750,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "stop_screen_share",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">stop_screen_share</i>",
+    "unicode": "e0e3"
+  },
+  {
+    "_tags": ["material"],
     "name": "storage",
     "tags": "server",
     "class": "material-icons",
@@ -24134,11 +24798,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "subdirectory_arrow_left",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">subdirectory_arrow_left</i>",
+    "unicode": "e5d9"
+  },
+  {
+    "_tags": ["material"],
+    "name": "subdirectory_arrow_right",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">subdirectory_arrow_right</i>",
+    "unicode": "e5da"
+  },
+  {
+    "_tags": ["material"],
     "name": "subject",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">subject</i>",
     "unicode": "e8d2"
+  },
+  {
+    "_tags": ["material"],
+    "name": "subscriptions",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">subscriptions</i>",
+    "unicode": "e064"
   },
   {
     "_tags": ["material"],
@@ -24318,6 +25006,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "text_fields",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">text_fields</i>",
+    "unicode": "e262"
+  },
+  {
+    "_tags": ["material"],
     "name": "text_format",
     "tags": "",
     "class": "material-icons",
@@ -24382,6 +25078,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "timeline",
+    "tags": "chart, graph",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">timeline</i>",
+    "unicode": "e922"
+  },
+  {
+    "_tags": ["material"],
     "name": "timer",
     "tags": "stopwatch",
     "class": "material-icons",
@@ -24443,6 +25147,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">tonality</i>",
     "unicode": "e427"
+  },
+  {
+    "_tags": ["material"],
+    "name": "touch_app",
+    "tags": "finger",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">touch_app</i>",
+    "unicode": "e913"
   },
   {
     "_tags": ["material"],
@@ -24542,11 +25254,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "unarchive",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">unarchive</i>",
+    "unicode": "e169"
+  },
+  {
+    "_tags": ["material"],
     "name": "undo",
     "tags": "arrow",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">undo</i>",
     "unicode": "e166"
+  },
+  {
+    "_tags": ["material"],
+    "name": "update",
+    "tags": "clock, timer",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">update</i>",
+    "unicode": "e923"
   },
   {
     "_tags": ["material"],
@@ -24619,6 +25347,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">videocam_off</i>",
     "unicode": "e04c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "videogame_asset",
+    "tags": "controller, gamepad",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">videogame_asset</i>",
+    "unicode": "e338"
   },
   {
     "_tags": ["material"],
@@ -24838,6 +25574,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "watch_later",
+    "tags": "clock, timer",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">watch_later</i>",
+    "unicode": "e924"
+  },
+  {
+    "_tags": ["material"],
     "name": "wb_auto",
     "tags": "",
     "class": "material-icons",
@@ -24891,6 +25635,22 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">web</i>",
     "unicode": "e051"
+  },
+  {
+    "_tags": ["material"],
+    "name": "web_asset",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">web_asset</i>",
+    "unicode": "e069"
+  },
+  {
+    "_tags": ["material"],
+    "name": "weekend",
+    "tags": "couch, furniture, sofa",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">weekend</i>",
+    "unicode": "e16b"
   },
   {
     "_tags": ["material"],
@@ -24971,6 +25731,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">zoom_out</i>",
     "unicode": "e900"
+  },
+  {
+    "_tags": ["material"],
+    "name": "zoom_out_map",
+    "tags": "expand",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">zoom_out_map</i>",
+    "unicode": "e56b"
   },
 
   {
