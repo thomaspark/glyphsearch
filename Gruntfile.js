@@ -60,6 +60,7 @@ module.exports = function(grunt) {
 
     index.setSettings({
       'attributesToIndex': ["name", "tags", "unicode"],
+      'disableTypoToleranceOnAttributes': ["unicode"],
       'customRanking': ["asc(name)"],
       'queryType': 'prefixAll'
     });
