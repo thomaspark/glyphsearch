@@ -11840,6 +11840,11 @@
 			"unicode": "e233"
 		},
 		{
+			"name": "branding_watermark",
+			"tags": "",
+			"unicode": "e06b"
+		},
+		{
 			"name": "brightness_1",
 			"tags": "circle, full moon",
 			"unicode": "e3a6"
@@ -11905,6 +11910,11 @@
 			"unicode": "e3ae"
 		},
 		{
+			"name": "bubble_chart",
+			"tags": "",
+			"unicode": "e6dd"
+		},
+		{
 			"name": "bug_report",
 			"tags": "",
 			"unicode": "e868"
@@ -11913,6 +11923,11 @@
 			"name": "build",
 			"tags": "tool, wrench",
 			"unicode": "e869"
+		},
+		{
+			"name": "burst_mode",
+			"tags": "photos",
+			"unicode": "e43c"
 		},
 		{
 			"name": "business",
@@ -11928,6 +11943,11 @@
 			"name": "cached",
 			"tags": "refresh, reload",
 			"unicode": "e86a"
+		},
+		{
+			"name": "cake",
+			"tags": "birthday",
+			"unicode": "e7e9"
 		},
 		{
 			"name": "call",
@@ -11970,9 +11990,9 @@
 			"unicode": "e0b6"
 		},
 		{
-			"name": "cake",
-			"tags": "birthday",
-			"unicode": "e7e9"
+			"name": "call_to_action",
+			"tags": "",
+			"unicode": "e06c"
 		},
 		{
 			"name": "camera",
@@ -12369,6 +12389,16 @@
 			"unicode": "e872"
 		},
 		{
+			"name": "delete_forever",
+			"tags": "trash can",
+			"unicode": "e92b"
+		},
+		{
+			"name": "delete_sweep",
+			"tags": "trash can",
+			"unicode": "e16c"
+		},
+		{
 			"name": "description",
 			"tags": "document, file",
 			"unicode": "e873"
@@ -12494,6 +12524,16 @@
 			"unicode": "e611"
 		},
 		{
+			"name": "do_not_disturb_off",
+			"tags": "",
+			"unicode": "e643"
+		},
+		{
+			"name": "do_not_disturb_on",
+			"tags": "",
+			"unicode": "e644"
+		},
+		{
 			"name": "dock",
 			"tags": "phone",
 			"unicode": "e30e"
@@ -12582,6 +12622,16 @@
 			"name": "error_outline",
 			"tags": "alert, warning",
 			"unicode": "e001"
+		},
+		{
+			"name": "euro_symbol",
+			"tags": "currency",
+			"unicode": "e926"
+		},
+		{
+			"name": "ev_station",
+			"tags": "charger, fuel",
+			"unicode": "e56d"
 		},
 		{
 			"name": "event",
@@ -12692,6 +12742,16 @@
 			"name": "favorite_border",
 			"tags": "heart, like",
 			"unicode": "e87e"
+		},
+		{
+			"name": "featured_play_list",
+			"tags": "",
+			"unicode": "e06d"
+		},
+		{
+			"name": "featured_video",
+			"tags": "",
+			"unicode": "e06e"
 		},
 		{
 			"name": "feedback",
@@ -12847,6 +12907,11 @@
 			"name": "fingerprint",
 			"tags": "",
 			"unicode": "e90d"
+		},
+		{
+			"name": "first_page",
+			"tags": "",
+			"unicode": "e5dc"
 		},
 		{
 			"name": "fitness_center",
@@ -13092,6 +13157,11 @@
 			"name": "functions",
 			"tags": "math, sigma",
 			"unicode": "e24a"
+		},
+		{
+			"name": "g_translate",
+			"tags": "",
+			"unicode": "e927"
 		},
 		{
 			"name": "gamepad",
@@ -13499,6 +13569,11 @@
 			"unicode": "e321"
 		},
 		{
+			"name": "last_page",
+			"tags": "",
+			"unicode": "e5dd"
+		},
+		{
 			"name": "launch",
 			"tags": "open",
 			"unicode": "e895"
@@ -13813,6 +13888,11 @@
 			"unicode": "e402"
 		},
 		{
+			"name": "low_priority",
+			"tags": "reorder",
+			"unicode": "e16d"
+		},
+		{
 			"name": "loyalty",
 			"tags": "heart, tag",
 			"unicode": "e89a"
@@ -13893,6 +13973,11 @@
 			"unicode": "e254"
 		},
 		{
+			"name": "monetization_on",
+			"tags": "currency, dollar sign, money",
+			"unicode": "e263"
+		},
+		{
 			"name": "money_off",
 			"tags": "currency, dollar sign, usd",
 			"unicode": "e25c"
@@ -13956,6 +14041,11 @@
 			"name": "movie_filter",
 			"tags": "film marker",
 			"unicode": "e43a"
+		},
+		{
+			"name": "multiline_chart",
+			"tags": "graph",
+			"unicode": "e6df"
 		},
 		{
 			"name": "music_note",
@@ -14051,6 +14141,11 @@
 			"name": "not_interested",
 			"tags": "ban, prohibited",
 			"unicode": "e033"
+		},
+		{
+			"name": "note",
+			"tags": "document, file",
+			"unicode": "e06f"
 		},
 		{
 			"name": "note_add",
@@ -14398,6 +14493,16 @@
 			"unicode": "e911"
 		},
 		{
+			"name": "pie_chart",
+			"tags": "graph",
+			"unicode": "e6c4"
+		},
+		{
+			"name": "pie_chart_outlined",
+			"tags": "graph",
+			"unicode": "e6c5"
+		},
+		{
 			"name": "pin_drop",
 			"tags": "map marker",
 			"unicode": "e55e"
@@ -14501,6 +14606,11 @@
 			"name": "print",
 			"tags": "",
 			"unicode": "e8ad"
+		},
+		{
+			"name": "priority_high",
+			"tags": "exclamation point",
+			"unicode": "e645"
 		},
 		{
 			"name": "public",
@@ -14613,6 +14723,11 @@
 			"unicode": "e417"
 		},
 		{
+			"name": "remove_shopping_cart",
+			"tags": "",
+			"unicode": "e928"
+		},
+		{
 			"name": "reorder",
 			"tags": "bars, menu, more",
 			"unicode": "e8fe"
@@ -14669,12 +14784,23 @@
 		},
 		{
 			"name": "restaurant",
-			"tags": "cutlery, dining, knife, spoon"
+			"tags": "cutlery, dining, fork, knife",
+			"unicode": "e56c"
+		},
+		{
+			"name": "restaurant_menu",
+			"tags": "cutlery, dining, knife, spoon",
+			"unicode": "e561"
 		},
 		{
 			"name": "restore",
 			"tags": "",
 			"unicode": "e8b3"
+		},
+		{
+			"name": "restore_page",
+			"tags": "refresh, reload",
+			"unicode": "e929"
 		},
 		{
 			"name": "ring_volume",
@@ -14720,6 +14846,11 @@
 			"name": "rowing",
 			"tags": "sports",
 			"unicode": "e921"
+		},
+		{
+			"name": "rss_feed",
+			"tags": "",
+			"unicode": "e0e5"
 		},
 		{
 			"name": "rv_hookup",
@@ -14805,6 +14936,31 @@
 			"name": "send",
 			"tags": "paper airplane",
 			"unicode": "e163"
+		},
+		{
+			"name": "sentiment_dissatisfied",
+			"tags": "sad, frowny face",
+			"unicode": "e811"
+		},
+		{
+			"name": "sentiment_neutral",
+			"tags": "face",
+			"unicode": "e812"
+		},
+		{
+			"name": "sentiment_satisfied",
+			"tags": "happy, smiley face",
+			"unicode": "e813"
+		},
+		{
+			"name": "sentiment_very_dissatisfied",
+			"tags": "sad, frowny face",
+			"unicode": "e814"
+		},
+		{
+			"name": "sentiment_very_satisfied",
+			"tags": "happy, smiley face",
+			"unicode": "e815"
 		},
 		{
 			"name": "settings",
@@ -14925,6 +15081,11 @@
 			"name": "short_text",
 			"tags": "",
 			"unicode": "e261"
+		},
+		{
+			"name": "show_chart",
+			"tags": "",
+			"unicode": "e6e1"
 		},
 		{
 			"name": "shuffle",
@@ -15051,6 +15212,11 @@
 			"unicode": "e8cd"
 		},
 		{
+			"name": "speaker_notes_off",
+			"tags": "speech bubble",
+			"unicode": "e92a"
+		},
+		{
 			"name": "spellcheck",
 			"tags": "",
 			"unicode": "e8ce"
@@ -15116,6 +15282,11 @@
 			"unicode": "e0d6"
 		},
 		{
+			"name": "streetview",
+			"tags": "",
+			"unicode": "e56e"
+		},
+		{
 			"name": "strikethrough_s",
 			"tags": "",
 			"unicode": "e257"
@@ -15179,6 +15350,11 @@
 			"name": "subtitles",
 			"tags": "",
 			"unicode": "e048"
+		},
+		{
+			"name": "subway",
+			"tags": "transportation",
+			"unicode": "e56f"
 		},
 		{
 			"name": "supervisor_account",
@@ -15356,6 +15532,11 @@
 			"unicode": "e426"
 		},
 		{
+			"name": "title",
+			"tags": "",
+			"unicode": "e264"
+		},
+		{
 			"name": "toc",
 			"tags": "rows",
 			"unicode": "e8de"
@@ -15394,6 +15575,21 @@
 			"name": "traffic",
 			"tags": "light, signal",
 			"unicode": "e565"
+		},
+		{
+			"name": "train",
+			"tags": "transportation",
+			"unicode": "e570"
+		},
+		{
+			"name": "tram",
+			"tags": "transportation",
+			"unicode": "e571"
+		},
+		{
+			"name": "transfer_within_a_station",
+			"tags": "",
+			"unicode": "e572"
 		},
 		{
 			"name": "transform",
@@ -15484,6 +15680,16 @@
 			"name": "vibration",
 			"tags": "",
 			"unicode": "e62d"
+		},
+		{
+			"name": "video_call",
+			"tags": "camera",
+			"unicode": "e070"
+		},
+		{
+			"name": "video_label",
+			"tags": "display, monitor",
+			"unicode": "e071"
 		},
 		{
 			"name": "video_library",
