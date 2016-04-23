@@ -73,6 +73,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "american-sign-language-interpreting",
+    "tags": "asl",
+    "class": "fa fa-american-sign-language-interpreting",
+    "html": "<i class=\"fa fa-american-sign-language-interpreting\"></i>",
+    "unicode": "f2a3"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "anchor",
     "tags": "",
     "class": "fa fa-anchor",
@@ -313,6 +321,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "assistive-listening-systems",
+    "tags": "",
+    "class": "fa fa-assistive-listening-systems",
+    "html": "<i class=\"fa fa-assistive-listening-systems\"></i>",
+    "unicode": "f2a2"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "asterisk",
     "tags": "",
     "class": "fa fa-asterisk",
@@ -326,6 +342,14 @@
     "class": "fa fa-at",
     "html": "<i class=\"fa fa-at\"></i>",
     "unicode": "f1fa"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "audio-description",
+    "tags": "",
+    "class": "fa fa-audio-description",
+    "html": "<i class=\"fa fa-audio-description\"></i>",
+    "unicode": "f29e"
   },
   {
     "_tags": ["font-awesome"],
@@ -529,6 +553,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "blind",
+    "tags": "",
+    "class": "fa fa-blind",
+    "html": "<i class=\"fa fa-blind\"></i>",
+    "unicode": "f29d"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "bluetooth",
     "tags": "logo",
     "class": "fa fa-bluetooth",
@@ -590,6 +622,14 @@
     "class": "fa fa-bookmark-o",
     "html": "<i class=\"fa fa-bookmark-o\"></i>",
     "unicode": "f097"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "braille",
+    "tags": "",
+    "class": "fa fa-braille",
+    "html": "<i class=\"fa fa-braille\"></i>",
+    "unicode": "f2a1"
   },
   {
     "_tags": ["font-awesome"],
@@ -1353,6 +1393,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "deaf",
+    "tags": "",
+    "class": "fa fa-deaf",
+    "html": "<i class=\"fa fa-deaf\"></i>",
+    "unicode": "f2a4"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "delicious",
     "tags": "brand, logo, social",
     "class": "fa fa-delicious",
@@ -1494,6 +1542,14 @@
     "class": "fa fa-envelope-square",
     "html": "<i class=\"fa fa-envelope-square\"></i>",
     "unicode": "f199"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "envira",
+    "tags": "brand, leaf, logo",
+    "class": "fa fa-envira",
+    "html": "<i class=\"fa fa-envira\"></i>",
+    "unicode": "f299"
   },
   {
     "_tags": ["font-awesome"],
@@ -2065,11 +2121,35 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "gitlab",
+    "tags": "brand, logo",
+    "class": "fa fa-gitlab",
+    "html": "<i class=\"fa fa-gitlab\"></i>",
+    "unicode": "f296"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "glass",
     "tags": "drink, martini, alcohol",
     "class": "fa fa-glass",
     "html": "<i class=\"fa fa-glass\"></i>",
     "unicode": "f000"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "glide",
+    "tags": "brand, logo, social",
+    "class": "fa fa-glide",
+    "html": "<i class=\"fa fa-glide\"></i>",
+    "unicode": "f2a5"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "glide-g",
+    "tags": "brand, logo, social",
+    "class": "fa fa-glide-g",
+    "html": "<i class=\"fa fa-glide-g\"></i>",
+    "unicode": "f2a6"
   },
   {
     "_tags": ["font-awesome"],
@@ -2718,6 +2798,14 @@
     "class": "fa fa-long-arrow-up",
     "html": "<i class=\"fa fa-long-arrow-up\"></i>",
     "unicode": "f176"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "low-vision",
+    "tags": "",
+    "class": "fa fa-low-vision",
+    "html": "<i class=\"fa fa-low-vision\"></i>",
+    "unicode": "f2a8"
   },
   {
     "_tags": ["font-awesome"],
@@ -3393,6 +3481,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "question-circle-o",
+    "tags": "help",
+    "class": "fa fa-question-circle-o",
+    "html": "<i class=\"fa fa-question-circle-o\"></i>",
+    "unicode": "f29c"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "quote-left",
     "tags": "",
     "class": "fa fa-quote-left",
@@ -3713,6 +3809,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "sign-language",
+    "tags": "",
+    "class": "fa fa-sign-language",
+    "html": "<i class=\"fa fa-sign-language\"></i>",
+    "unicode": "f2a7"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "sign-out",
     "tags": "",
     "class": "fa fa-sign-out",
@@ -3790,6 +3894,30 @@
     "class": "fa fa-smile-o",
     "html": "<i class=\"fa fa-smile-o\"></i>",
     "unicode": "f118"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "snapchat",
+    "tags": "brand, logo, social",
+    "class": "fa fa-snapchat",
+    "html": "<i class=\"fa fa-snapchat\"></i>",
+    "unicode": "f2ab"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "snapchat-ghost",
+    "tags": "brand, logo, social",
+    "class": "fa fa-snapchat-ghost",
+    "html": "<i class=\"fa fa-snapchat-ghost\"></i>",
+    "unicode": "f2ac"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "snapchat-square",
+    "tags": "brand, logo, social",
+    "class": "fa fa-snapchat-square",
+    "html": "<i class=\"fa fa-snapchat-square\"></i>",
+    "unicode": "f2ad"
   },
   {
     "_tags": ["font-awesome"],
@@ -4505,6 +4633,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "universal-access",
+    "tags": "accessibility",
+    "class": "fa fa-universal-access",
+    "html": "<i class=\"fa fa-universal-access\"></i>",
+    "unicode": "f29a"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "university",
     "tags": "bank, institution, building",
     "class": "fa fa-university",
@@ -4633,6 +4769,22 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "viadeo",
+    "tags": "brand, logo",
+    "class": "fa fa-viadeo",
+    "html": "<i class=\"fa fa-viadeo\"></i>",
+    "unicode": "f2a9"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "viadeo-square",
+    "tags": "brand, logo",
+    "class": "fa fa-viadeo-square",
+    "html": "<i class=\"fa fa-viadeo-square\"></i>",
+    "unicode": "f2aa"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "video-camera",
     "tags": "",
     "class": "fa fa-video-camera",
@@ -4670,6 +4822,14 @@
     "class": "fa fa-vk",
     "html": "<i class=\"fa fa-vk\"></i>",
     "unicode": "f189"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "volume-control-phone",
+    "tags": "audio, sound",
+    "class": "fa fa-volume-control-phone",
+    "html": "<i class=\"fa fa-volume-control-phone\"></i>",
+    "unicode": "f2a0"
   },
   {
     "_tags": ["font-awesome"],
@@ -4729,6 +4889,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "wheelchair-alt",
+    "tags": "handicapped",
+    "class": "fa fa-wheelchair-alt",
+    "html": "<i class=\"fa fa-wheelchair-alt\"></i>",
+    "unicode": "f29b"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "wifi",
     "tags": "internet, signal, broadcast",
     "class": "fa fa-wifi",
@@ -4758,6 +4926,22 @@
     "class": "fa fa-wordpress",
     "html": "<i class=\"fa fa-wordpress\"></i>",
     "unicode": "f19a"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "wpbeginner",
+    "tags": "brand, logo",
+    "class": "fa fa-wpbeginner",
+    "html": "<i class=\"fa fa-wpbeginner\"></i>",
+    "unicode": "f297"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "wpforms",
+    "tags": "brand, logo",
+    "class": "fa fa-wpforms",
+    "html": "<i class=\"fa fa-wpforms\"></i>",
+    "unicode": "f298"
   },
   {
     "_tags": ["font-awesome"],

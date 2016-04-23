@@ -46,6 +46,11 @@
 			"unicode": "f0f9"
 		},
 		{
+			"name": "american-sign-language-interpreting",
+			"tags": "asl",
+			"unicode": "f2a3"
+		},
+		{
 			"name": "anchor",
 			"unicode": "f13d"
 		},
@@ -195,6 +200,11 @@
 			"unicode": "f07d"
 		},
 		{
+			"name": "assistive-listening-systems",
+			"tags": "",
+			"unicode": "f2a2"
+		},
+		{
 			"name": "asterisk",
 			"unicode": "f069"
 		},
@@ -202,6 +212,11 @@
 			"name": "at",
 			"tags": "email",
 			"unicode": "f1fa"
+		},
+		{
+			"name": "audio-description",
+			"tags": "",
+			"unicode": "f29e"
 		},
 		{
 			"name": "backward",
@@ -325,6 +340,11 @@
 			"unicode": "f27e"
 		},
 		{
+			"name": "blind",
+			"tags": "",
+			"unicode": "f29d"
+		},
+		{
 			"name": "bluetooth",
 			"tags": "logo",
 			"unicode": "f293"
@@ -359,6 +379,11 @@
 		{
 			"name": "bookmark-o",
 			"unicode": "f097"
+		},
+		{
+			"name": "braille",
+			"tags": "",
+			"unicode": "f2a1"
 		},
 		{
 			"name": "briefcase",
@@ -819,6 +844,11 @@
 			"unicode": "f1c0"
 		},
 		{
+			"name": "deaf",
+			"tags": "",
+			"unicode": "f2a4"
+		},
+		{
 			"name": "delicious",
 			"tags": "brand, logo, social",
 			"unicode": "f1a5"
@@ -905,6 +935,11 @@
 			"name": "envelope-square",
 			"tags": "email",
 			"unicode": "f199"
+		},
+		{
+			"name": "envira",
+			"tags": "brand, leaf, logo",
+			"unicode": "f299"
 		},
 		{
 			"name": "eraser",
@@ -1242,9 +1277,24 @@
 			"unicode": "f092"
 		},
 		{
+			"name": "gitlab",
+			"tags": "brand, logo",
+			"unicode": "f296"
+		},
+		{
 			"name": "glass",
 			"tags": "drink, martini, alcohol",
 			"unicode": "f000"
+		},
+		{
+			"name": "glide",
+			"tags": "brand, logo, social",
+			"unicode": "f2a5"
+		},
+		{
+			"name": "glide-g",
+			"tags": "brand, logo, social",
+			"unicode": "f2a6"
 		},
 		{
 			"name": "globe",
@@ -1641,6 +1691,11 @@
 			"name": "long-arrow-up",
 			"tags": "directional",
 			"unicode": "f176"
+		},
+		{
+			"name": "low-vision",
+			"tags": "",
+			"unicode": "f2a8"
 		},
 		{
 			"name": "magic",
@@ -2058,6 +2113,11 @@
 			"unicode": "f059"
 		},
 		{
+			"name": "question-circle-o",
+			"tags": "help",
+			"unicode": "f29c"
+		},
+		{
 			"name": "quote-left",
 			"unicode": "f10d"
 		},
@@ -2246,6 +2306,11 @@
 			"unicode": "f090"
 		},
 		{
+			"name": "sign-language",
+			"tags": "",
+			"unicode": "f2a7"
+		},
+		{
 			"name": "sign-out",
 			"unicode": "f08b"
 		},
@@ -2291,6 +2356,21 @@
 			"name": "smile-o",
 			"tags": "face, smiley, ratings, rate, like",
 			"unicode": "f118"
+		},
+		{
+			"name": "snapchat",
+			"tags": "brand, logo, social",
+			"unicode": "f2ab"
+		},
+		{
+			"name": "snapchat-ghost",
+			"tags": "brand, logo, social",
+			"unicode": "f2ac"
+		},
+		{
+			"name": "snapchat-square",
+			"tags": "brand, logo, social",
+			"unicode": "f2ad"
 		},
 		{
 			"name": "sort",
@@ -2722,6 +2802,11 @@
 			"unicode": "f0e2"
 		},
 		{
+			"name": "universal-access",
+			"tags": "accessibility",
+			"unicode": "f29a"
+		},
+		{
 			"name": "university",
 			"tags": "bank, institution, building",
 			"unicode": "f19c"
@@ -2796,6 +2881,16 @@
 			"unicode": "f237"
 		},
 		{
+			"name": "viadeo",
+			"tags": "brand, logo",
+			"unicode": "f2a9"
+		},
+		{
+			"name": "viadeo-square",
+			"tags": "brand, logo",
+			"unicode": "f2aa"
+		},
+		{
 			"name": "video-camera",
 			"unicode": "f03d"
 		},
@@ -2818,6 +2913,11 @@
 			"name": "vk",
 			"tags": "brand, logo, social",
 			"unicode": "f189"
+		},
+		{
+			"name": "volume-control-phone",
+			"tags": "audio, sound",
+			"unicode": "f2a0"
 		},
 		{
 			"name": "volume-down",
@@ -2855,6 +2955,11 @@
 			"unicode": "f193"
 		},
 		{
+			"name": "wheelchair-alt",
+			"tags": "handicapped",
+			"unicode": "f29b"
+		},
+		{
 			"name": "wifi",
 			"tags": "internet, signal, broadcast",
 			"unicode": "f1eb"
@@ -2873,6 +2978,16 @@
 			"name": "wordpress",
 			"tags": "brand, logo, social",
 			"unicode": "f19a"
+		},
+		{
+			"name": "wpbeginner",
+			"tags": "brand, logo",
+			"unicode": "f297"
+		},
+		{
+			"name": "wpforms",
+			"tags": "brand, logo",
+			"unicode": "f298"
 		},
 		{
 			"name": "wrench",
