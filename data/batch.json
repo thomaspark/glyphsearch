@@ -1873,6 +1873,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "first-order",
+    "tags": "brand, logo, star wars",
+    "class": "fa fa-first-order",
+    "html": "<i class=\"fa fa-first-order\"></i>",
+    "unicode": "f2b0"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "flag",
     "tags": "",
     "class": "fa fa-flag",
@@ -2173,6 +2181,14 @@
     "tags": "brand, logo, social",
     "class": "fa fa-google-plus",
     "html": "<i class=\"fa fa-google-plus\"></i>",
+    "unicode": "f0d5"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "google-plus-official",
+    "tags": "brand, logo, social",
+    "class": "fa fa-google-plus-official",
+    "html": "<i class=\"fa fa-google-plus-official\"></i>",
     "unicode": "f0d5"
   },
   {
@@ -3514,7 +3530,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "rebel",
-    "tags": "brand, logo",
+    "tags": "brand, logo, star wars",
     "class": "fa fa-rebel",
     "html": "<i class=\"fa fa-rebel\"></i>",
     "unicode": "f1d0"
@@ -4369,6 +4385,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "themeisle",
+    "tags": "bird, brand, logo",
+    "class": "fa fa-themeisle",
+    "html": "<i class=\"fa fa-themeisle\"></i>",
+    "unicode": "f2b2"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "thumb-tack",
     "tags": "pin",
     "class": "fa fa-thumb-tack",
@@ -4990,6 +5014,14 @@
     "class": "fa fa-yelp",
     "html": "<i class=\"fa fa-yelp\"></i>",
     "unicode": "f1e9"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "yoast",
+    "tags": "brand, logo",
+    "class": "fa fa-yoast",
+    "html": "<i class=\"fa fa-yoast\"></i>",
+    "unicode": "f2b1"
   },
   {
     "_tags": ["font-awesome"],

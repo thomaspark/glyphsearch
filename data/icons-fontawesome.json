@@ -1129,6 +1129,11 @@
       "unicode": "f269"
     },
     {
+      "name": "first-order",
+      "tags": "brand, logo, star wars",
+      "unicode": "f2b0"
+    },
+    {
       "name": "flag",
       "unicode": "f024"
     },
@@ -1308,6 +1313,11 @@
     },
     {
       "name": "google-plus",
+      "tags": "brand, logo, social",
+      "unicode": "f0d5"
+    },
+    {
+      "name": "google-plus-official",
       "tags": "brand, logo, social",
       "unicode": "f0d5"
     },
@@ -2131,7 +2141,7 @@
     },
     {
       "name": "rebel",
-      "tags": "brand, logo",
+      "tags": "brand, logo, star wars",
       "unicode": "f1d0"
     },
     {
@@ -2640,6 +2650,11 @@
       "unicode": "f00b"
     },
     {
+      "name": "themeisle",
+      "tags": "bird, brand, logo",
+      "unicode": "f2b2"
+    },
+    {
       "name": "thumb-tack",
       "tags": "pin",
       "unicode": "f08d"
@@ -3018,6 +3033,11 @@
       "name": "yelp",
       "tags": "brand, logo, social",
       "unicode": "f1e9"
+    },
+    {
+      "name": "yoast",
+      "tags": "brand, logo",
+      "unicode": "f2b1"
     },
     {
       "name": "youtube",
