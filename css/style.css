@@ -122,6 +122,7 @@ hr {
   bottom: 0;
   width: 250px;
   z-index: 1000;
+  overflow: auto;
   padding: 0 20px;
   background-color: #2B3E51;
   color: rgba(255, 255, 255, 0.6);
