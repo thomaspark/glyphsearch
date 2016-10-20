@@ -217,6 +217,11 @@ body.all .header {
   border-radius: 0 0 6px 0;
 }
 
+.header a {
+  color: inherit;
+  text-decoration: none;
+}
+
 .entry {
   height: 150px;
   padding: 2em 0.7em 1em;
@@ -453,4 +458,37 @@ body.all .header {
       transform: scale(1);
       opacity: 1;
   }
+}
+
+#carbonads {
+  display: block;
+  overflow: hidden;
+  padding: 1em;
+  margin-top: 2em;
+  border-radius: 4px;
+  background-color: hsla(210, 32%, 50%, .2);
+  line-height: 1.5;
+}
+
+#carbonads span {
+  display: block;
+  overflow: hidden;
+}
+
+.carbon-img {
+  display: block;
+  margin: 0 auto 1em;
+  text-align: center;
+}
+
+.carbon-text {
+  display: block;
+  margin-bottom: 0.5em;
+  text-align: left;
+}
+
+.carbon-poweredby {
+  display: block;
+  text-align: right;
+  font-size: 10px;
 }
