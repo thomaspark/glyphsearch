@@ -9,6 +9,38 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "address-book",
+    "tags": "",
+    "class": "fa fa-address-book",
+    "html": "<i class=\"fa fa-address-book\"></i>",
+    "unicode": "f2b9"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "address-book-o",
+    "tags": "",
+    "class": "fa fa-address-book-o",
+    "html": "<i class=\"fa fa-address-book-o\"></i>",
+    "unicode": "f2ba"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "address-card",
+    "tags": "",
+    "class": "fa fa-address-card",
+    "html": "<i class=\"fa fa-address-card\"></i>",
+    "unicode": "f2bb"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "address-card-o",
+    "tags": "",
+    "class": "fa fa-address-card-o",
+    "html": "<i class=\"fa fa-address-card-o\"></i>",
+    "unicode": "f2bc"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "adjust",
     "tags": "contrast",
     "class": "fa fa-adjust",
@@ -377,6 +409,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "bandcamp",
+    "tags": "brand, logo, social",
+    "class": "fa fa-bandcamp",
+    "html": "<i class=\"fa fa-bandcamp\"></i>",
+    "unicode": "f2d5"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "bar-chart",
     "tags": "",
     "class": "fa fa-bar-chart",
@@ -398,6 +438,14 @@
     "class": "fa fa-bars",
     "html": "<i class=\"fa fa-bars\"></i>",
     "unicode": "f0c9"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "bath",
+    "tags": "bathtub",
+    "class": "fa fa-bath",
+    "html": "<i class=\"fa fa-bath\"></i>",
+    "unicode": "f2cd"
   },
   {
     "_tags": ["font-awesome"],
@@ -1489,6 +1537,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "eercast",
+    "tags": "brand, logo",
+    "class": "fa fa-eercast",
+    "html": "<i class=\"fa fa-eercast\"></i>",
+    "unicode": "f2da"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "eject",
     "tags": "video player",
     "class": "fa fa-eject",
@@ -1537,6 +1593,22 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "envelope-open",
+    "tags": "email",
+    "class": "fa fa-envelope-open",
+    "html": "<i class=\"fa fa-envelope-open\"></i>",
+    "unicode": "f2b6"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "envelope-open-o",
+    "tags": "email",
+    "class": "fa fa-envelope-open-o",
+    "html": "<i class=\"fa fa-envelope-open-o\"></i>",
+    "unicode": "f2b7"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "envelope-square",
     "tags": "email",
     "class": "fa fa-envelope-square",
@@ -1558,6 +1630,14 @@
     "class": "fa fa-eraser",
     "html": "<i class=\"fa fa-eraser\"></i>",
     "unicode": "f12d"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "etsy",
+    "tags": "brand, logo",
+    "class": "fa fa-etsy",
+    "html": "<i class=\"fa fa-etsy\"></i>",
+    "unicode": "f2d7"
   },
   {
     "_tags": ["font-awesome"],
@@ -2009,6 +2089,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "free-code-camp",
+    "tags": "brand, logo, fire, flame",
+    "class": "fa fa-free-code-camp",
+    "html": "<i class=\"fa fa-free-code-camp\"></i>",
+    "unicode": "f2c5"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "frown-o",
     "tags": "face, smiley, ratings, rate, unlike",
     "class": "fa fa-frown-o",
@@ -2225,6 +2313,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "grav",
+    "tags": "brand, logo, astronaut, space",
+    "class": "fa fa-grav",
+    "html": "<i class=\"fa fa-grav\"></i>",
+    "unicode": "f2d6"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "h-square",
     "tags": "medical",
     "class": "fa fa-h-square",
@@ -2326,6 +2422,14 @@
     "class": "fa fa-hand-spock-o",
     "html": "<i class=\"fa fa-hand-spock-o\"></i>",
     "unicode": "f259"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "handshake-o",
+    "tags": "",
+    "class": "fa fa-handshake-o",
+    "html": "<i class=\"fa fa-handshake-o\"></i>",
+    "unicode": "f2b5"
   },
   {
     "_tags": ["font-awesome"],
@@ -2473,11 +2577,43 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "id-badge",
+    "tags": "",
+    "class": "fa fa-id-badge",
+    "html": "<i class=\"fa fa-id-badge\"></i>",
+    "unicode": "f2c1"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "id-card",
+    "tags": "drivers license, vcard",
+    "class": "fa fa-id-card",
+    "html": "<i class=\"fa fa-id-card\"></i>",
+    "unicode": "f2c2"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "id-card-o",
+    "tags": "drivers license, vcard-o",
+    "class": "fa fa-id-card-o",
+    "html": "<i class=\"fa fa-id-card-o\"></i>",
+    "unicode": "f2c3"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "ils",
     "tags": "shekel, israeli, money, currency",
     "class": "fa fa-ils",
     "html": "<i class=\"fa fa-ils\"></i>",
     "unicode": "f20b"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "imdb",
+    "tags": "brand, logo",
+    "class": "fa fa-imdb",
+    "html": "<i class=\"fa fa-imdb\"></i>",
+    "unicode": "f2d8"
   },
   {
     "_tags": ["font-awesome"],
@@ -2729,6 +2865,22 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "linkedin",
+    "tags": "brand, logo",
+    "class": "fa fa-linkedin",
+    "html": "<i class=\"fa fa-linkedin\"></i>",
+    "unicode": "f0e1"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "linode",
+    "tags": "brand, logo",
+    "class": "fa fa-linode",
+    "html": "<i class=\"fa fa-linode\"></i>",
+    "unicode": "f2b8"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "linux",
     "tags": "brand, logo, penguin, bird, animal",
     "class": "fa fa-linux",
@@ -2953,6 +3105,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "meetup",
+    "tags": "brand, logo, social",
+    "class": "fa fa-meetup",
+    "html": "<i class=\"fa fa-meetup\"></i>",
+    "unicode": "f2e0"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "meh-o",
     "tags": "face, smiley, ratings, rate",
     "class": "fa fa-meh-o",
@@ -2966,6 +3126,14 @@
     "class": "fa fa-mercury",
     "html": "<i class=\"fa fa-mercury\"></i>",
     "unicode": "f223"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "microchip",
+    "tags": "",
+    "class": "fa fa-microchip",
+    "html": "<i class=\"fa fa-microchip\"></i>",
+    "unicode": "f2db"
   },
   {
     "_tags": ["font-awesome"],
@@ -3433,6 +3601,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "podcast",
+    "tags": "",
+    "class": "fa fa-podcast",
+    "html": "<i class=\"fa fa-podcast\"></i>",
+    "unicode": "f2ce"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "power-off",
     "tags": "on",
     "class": "fa fa-power-off",
@@ -3505,6 +3681,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "quora",
+    "tags": "brand, logo",
+    "class": "fa fa-quora",
+    "html": "<i class=\"fa fa-quora\"></i>",
+    "unicode": "f2c4"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "quote-left",
     "tags": "",
     "class": "fa fa-quote-left",
@@ -3526,6 +3710,14 @@
     "class": "fa fa-random",
     "html": "<i class=\"fa fa-random\"></i>",
     "unicode": "f074"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "ravelry",
+    "tags": "brand, logo",
+    "class": "fa fa-ravelry",
+    "html": "<i class=\"fa fa-ravelry\"></i>",
+    "unicode": "f2d9"
   },
   {
     "_tags": ["font-awesome"],
@@ -3817,6 +4009,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "shower",
+    "tags": "",
+    "class": "fa fa-shower",
+    "html": "<i class=\"fa fa-shower\"></i>",
+    "unicode": "f2cc"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "sign-in",
     "tags": "",
     "class": "fa fa-sign-in",
@@ -3934,6 +4134,14 @@
     "class": "fa fa-snapchat-square",
     "html": "<i class=\"fa fa-snapchat-square\"></i>",
     "unicode": "f2ad"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "snowflake-o",
+    "tags": "winter",
+    "class": "fa fa-snowflake-o",
+    "html": "<i class=\"fa fa-snowflake-o\"></i>",
+    "unicode": "f2dc"
   },
   {
     "_tags": ["font-awesome"],
@@ -4257,6 +4465,14 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "superpowers",
+    "tags": "",
+    "class": "fa fa-superpowers",
+    "html": "<i class=\"fa fa-superpowers\"></i>",
+    "unicode": "f2dd"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "superscript",
     "tags": "",
     "class": "fa fa-superscript",
@@ -4318,6 +4534,14 @@
     "class": "fa fa-taxi",
     "html": "<i class=\"fa fa-taxi\"></i>",
     "unicode": "f1ba"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "telegram",
+    "tags": "paper airplane",
+    "class": "fa fa-telegram",
+    "html": "<i class=\"fa fa-telegram\"></i>",
+    "unicode": "f2c6"
   },
   {
     "_tags": ["font-awesome"],
@@ -4390,6 +4614,46 @@
     "class": "fa fa-themeisle",
     "html": "<i class=\"fa fa-themeisle\"></i>",
     "unicode": "f2b2"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "thermometer-empty",
+    "tags": "thermometer-0",
+    "class": "fa fa-thermometer-empty",
+    "html": "<i class=\"fa fa-thermometer-empty\"></i>",
+    "unicode": "f2cb"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "thermometer-full",
+    "tags": "thermometer-4",
+    "class": "fa fa-thermometer-full",
+    "html": "<i class=\"fa fa-thermometer-full\"></i>",
+    "unicode": "f2c7"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "thermometer-half",
+    "tags": "thermometer-2",
+    "class": "fa fa-thermometer-half",
+    "html": "<i class=\"fa fa-thermometer-half\"></i>",
+    "unicode": "f2c9"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "thermometer-quarter",
+    "tags": "thermometer-1",
+    "class": "fa fa-thermometer-quarter",
+    "html": "<i class=\"fa fa-thermometer-quarter\"></i>",
+    "unicode": "f2ca"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "thermometer-three-quarters",
+    "tags": "thermometer-3",
+    "class": "fa fa-thermometer-three-quarters",
+    "html": "<i class=\"fa fa-thermometer-three-quarters\"></i>",
+    "unicode": "f2c8"
   },
   {
     "_tags": ["font-awesome"],
@@ -4721,11 +4985,35 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "user-circle",
+    "tags": "person",
+    "class": "fa fa-user-circle",
+    "html": "<i class=\"fa fa-user-circle\"></i>",
+    "unicode": "f2bd"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "user-circle-o",
+    "tags": "person",
+    "class": "fa fa-user-circle-o",
+    "html": "<i class=\"fa fa-user-circle-o\"></i>",
+    "unicode": "f2be"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "user-md",
     "tags": "medical, doctor",
     "class": "fa fa-user-md",
     "html": "<i class=\"fa fa-user-md\"></i>",
     "unicode": "f0f0"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "user-o",
+    "tags": "person",
+    "class": "fa fa-user-o",
+    "html": "<i class=\"fa fa-user-o\"></i>",
+    "unicode": "f2c0"
   },
   {
     "_tags": ["font-awesome"],
@@ -4937,6 +5225,46 @@
   },
   {
     "_tags": ["font-awesome"],
+    "name": "window-close",
+    "tags": "times-rectangle",
+    "class": "fa fa-window-close",
+    "html": "<i class=\"fa fa-window-close\"></i>",
+    "unicode": "f2d3"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "window-close-o",
+    "tags": "times-rectangle",
+    "class": "fa fa-window-close-o",
+    "html": "<i class=\"fa fa-window-close-o\"></i>",
+    "unicode": "f2d4"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "window-maximize",
+    "tags": "",
+    "class": "fa fa-window-maximize",
+    "html": "<i class=\"fa fa-window-maximize\"></i>",
+    "unicode": "f2d0"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "window-minimize",
+    "tags": "bar",
+    "class": "fa fa-window-minimize",
+    "html": "<i class=\"fa fa-window-minimize\"></i>",
+    "unicode": "f2d1"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "window-restore",
+    "tags": "",
+    "class": "fa fa-window-restore",
+    "html": "<i class=\"fa fa-window-restore\"></i>",
+    "unicode": "f2d2"
+  },
+  {
+    "_tags": ["font-awesome"],
     "name": "windows",
     "tags": "brand, logo, microsoft",
     "class": "fa fa-windows",
@@ -4958,6 +5286,14 @@
     "class": "fa fa-wpbeginner",
     "html": "<i class=\"fa fa-wpbeginner\"></i>",
     "unicode": "f297"
+  },
+  {
+    "_tags": ["font-awesome"],
+    "name": "wpexplorer",
+    "tags": "brand, logo, telescope",
+    "class": "fa fa-wpexplorer",
+    "html": "<i class=\"fa fa-wpexplorer\"></i>",
+    "unicode": "f2de"
   },
   {
     "_tags": ["font-awesome"],

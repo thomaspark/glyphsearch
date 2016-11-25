@@ -6,6 +6,26 @@
 			"unicode": "f26e"
 		},
 		{
+			"name": "address-book",
+			"tags": "",
+			"unicode": "f2b9"
+		},
+		{
+			"name": "address-book-o",
+			"tags": "",
+			"unicode": "f2ba"
+		},
+		{
+			"name": "address-card",
+			"tags": "",
+			"unicode": "f2bb"
+		},
+		{
+			"name": "address-card-o",
+			"tags": "",
+			"unicode": "f2bc"
+		},
+		{
 			"name": "adjust",
 			"tags": "contrast",
 			"unicode": "f042"
@@ -234,6 +254,11 @@
 			"unicode": "f05e"
 		},
 		{
+			"name": "bandcamp",
+			"tags": "brand, logo, social",
+			"unicode": "f2d5"
+		},
+		{
 			"name": "bar-chart",
 			"unicode": "f080"
 		},
@@ -245,6 +270,11 @@
 			"name": "bars",
 			"tags": "hamburger menu, more",
 			"unicode": "f0c9"
+		},
+		{
+			"name": "bath",
+			"tags": "bathtub",
+			"unicode": "f2cd"
 		},
 		{
 			"name": "battery-empty",
@@ -903,6 +933,11 @@
 			"unicode": "f282"
 		},
 		{
+			"name": "eercast",
+			"tags": "brand, logo",
+			"unicode": "f2da"
+		},
+		{
 			"name": "eject",
 			"tags": "video player",
 			"unicode": "f052"
@@ -932,6 +967,16 @@
 			"unicode": "f003"
 		},
 		{
+			"name": "envelope-open",
+			"tags": "email",
+			"unicode": "f2b6"
+		},
+		{
+			"name": "envelope-open-o",
+			"tags": "email",
+			"unicode": "f2b7"
+		},
+		{
 			"name": "envelope-square",
 			"tags": "email",
 			"unicode": "f199"
@@ -945,6 +990,11 @@
 			"name": "eraser",
 			"tags": "undo, delete",
 			"unicode": "f12d"
+		},
+		{
+			"name": "etsy",
+			"tags": "brand, logo",
+			"unicode": "f2d7"
 		},
 		{
 			"name": "eur",
@@ -1207,6 +1257,11 @@
 			"unicode": "f180"
 		},
 		{
+			"name": "free-code-camp",
+			"tags": "brand, logo, fire, flame",
+			"unicode": "f2c5"
+		},
+		{
 			"name": "frown-o",
 			"tags": "face, smiley, ratings, rate, unlike",
 			"unicode": "f119"
@@ -1342,6 +1397,11 @@
 			"unicode": "f184"
 		},
 		{
+			"name": "grav",
+			"tags": "brand, logo, astronaut, space",
+			"unicode": "f2d6"
+		},
+		{
 			"name": "h-square",
 			"tags": "medical",
 			"unicode": "f0fd"
@@ -1405,6 +1465,11 @@
 			"name": "hand-spock-o",
 			"tags": "",
 			"unicode": "f259"
+		},
+		{
+			"name": "handshake-o",
+			"tags": "",
+			"unicode": "f2b5"
 		},
 		{
 			"name": "hashtag",
@@ -1494,9 +1559,29 @@
 			"unicode": "f246"
 		},
 		{
+			"name": "id-badge",
+			"tags": "",
+			"unicode": "f2c1"
+		},
+		{
+			"name": "id-card",
+			"tags": "drivers license, vcard",
+			"unicode": "f2c2"
+		},
+		{
+			"name": "id-card-o",
+			"tags": "drivers license, vcard-o",
+			"unicode": "f2c3"
+		},
+		{
 			"name": "ils",
 			"tags": "shekel, israeli, money, currency",
 			"unicode": "f20b"
+		},
+		{
+			"name": "imdb",
+			"tags": "brand, logo",
+			"unicode": "f2d8"
 		},
 		{
 			"name": "inbox",
@@ -1649,6 +1734,16 @@
 			"unicode": "f08c"
 		},
 		{
+			"name": "linkedin",
+			"tags": "brand, logo",
+			"unicode": "f0e1"
+		},
+		{
+			"name": "linode",
+			"tags": "brand, logo",
+			"unicode": "f2b8"
+		},
+		{
 			"name": "linux",
 			"tags": "brand, logo, penguin, bird, animal",
 			"unicode": "f17c"
@@ -1787,6 +1882,11 @@
 			"unicode": "f0fa"
 		},
 		{
+			"name": "meetup",
+			"tags": "brand, logo, social",
+			"unicode": "f2e0"
+		},
+		{
 			"name": "meh-o",
 			"tags": "face, smiley, ratings, rate",
 			"unicode": "f11a"
@@ -1795,6 +1895,11 @@
 			"name": "mercury",
 			"tags": "",
 			"unicode": "f223"
+		},
+		{
+			"name": "microchip",
+			"tags": "",
+			"unicode": "f2db"
 		},
 		{
 			"name": "microphone",
@@ -2084,6 +2189,11 @@
 			"unicode": "f196"
 		},
 		{
+			"name": "podcast",
+			"tags": "",
+			"unicode": "f2ce"
+		},
+		{
 			"name": "power-off",
 			"tags": "on",
 			"unicode": "f011"
@@ -2128,6 +2238,11 @@
 			"unicode": "f29c"
 		},
 		{
+			"name": "quora",
+			"tags": "brand, logo",
+			"unicode": "f2c4"
+		},
+		{
 			"name": "quote-left",
 			"unicode": "f10d"
 		},
@@ -2138,6 +2253,11 @@
 		{
 			"name": "random",
 			"unicode": "f074"
+		},
+		{
+			"name": "ravelry",
+			"tags": "brand, logo",
+			"unicode": "f2d9"
 		},
 		{
 			"name": "rebel",
@@ -2312,6 +2432,10 @@
 			"unicode": "f07a"
 		},
 		{
+			"name": "shower",
+			"unicode": "f2cc"
+		},
+		{
 			"name": "sign-in",
 			"unicode": "f090"
 		},
@@ -2381,6 +2505,11 @@
 			"name": "snapchat-square",
 			"tags": "brand, logo, social",
 			"unicode": "f2ad"
+		},
+		{
+			"name": "snowflake-o",
+			"tags": "winter",
+			"unicode": "f2dc"
 		},
 		{
 			"name": "sort",
@@ -2574,6 +2703,11 @@
 			"unicode": "f185"
 		},
 		{
+			"name": "superpowers",
+			"tags": "",
+			"unicode": "f2dd"
+		},
+		{
 			"name": "superscript",
 			"unicode": "f12b"
 		},
@@ -2608,6 +2742,11 @@
 			"name": "taxi",
 			"tags": "cab, automobile, car, transportation",
 			"unicode": "f1ba"
+		},
+		{
+			"name": "telegram",
+			"tags": "paper airplane",
+			"unicode": "f2c6"
 		},
 		{
 			"name": "television",
@@ -2653,6 +2792,31 @@
 			"name": "themeisle",
 			"tags": "bird, brand, logo",
 			"unicode": "f2b2"
+		},
+		{
+			"name": "thermometer-empty",
+			"tags": "thermometer-0",
+			"unicode": "f2cb"
+		},
+		{
+			"name": "thermometer-full",
+			"tags": "thermometer-4",
+			"unicode": "f2c7"
+		},
+		{
+			"name": "thermometer-half",
+			"tags": "thermometer-2",
+			"unicode": "f2c9"
+		},
+		{
+			"name": "thermometer-quarter",
+			"tags": "thermometer-1",
+			"unicode": "f2ca"
+		},
+		{
+			"name": "thermometer-three-quarters",
+			"tags": "thermometer-3",
+			"unicode": "f2c8"
 		},
 		{
 			"name": "thumb-tack",
@@ -2853,9 +3017,24 @@
 			"unicode": "f007"
 		},
 		{
+			"name": "user-circle",
+			"tags": "person",
+			"unicode": "f2bd"
+		},
+		{
+			"name": "user-circle-o",
+			"tags": "person",
+			"unicode": "f2be"
+		},
+		{
 			"name": "user-md",
 			"tags": "medical, doctor",
 			"unicode": "f0f0"
+		},
+		{
+			"name": "user-o",
+			"tags": "person",
+			"unicode": "f2c0"
 		},
 		{
 			"name": "user-plus",
@@ -2985,6 +3164,31 @@
 			"unicode": "f266"
 		},
 		{
+			"name": "window-close",
+			"tags": "times-rectangle",
+			"unicode": "f2d3"
+		},
+		{
+			"name": "window-close-o",
+			"tags": "times-rectangle",
+			"unicode": "f2d4"
+		},
+		{
+			"name": "window-maximize",
+			"tags": "",
+			"unicode": "f2d0"
+		},
+		{
+			"name": "window-minimize",
+			"tags": "bar",
+			"unicode": "f2d1"
+		},
+		{
+			"name": "window-restore",
+			"tags": "",
+			"unicode": "f2d2"
+		},
+		{
 			"name": "windows",
 			"tags": "brand, logo, microsoft",
 			"unicode": "f17a"
@@ -2998,6 +3202,11 @@
 			"name": "wpbeginner",
 			"tags": "brand, logo",
 			"unicode": "f297"
+		},
+		{
+			"name": "wpexplorer",
+			"tags": "brand, logo, telescope",
+			"unicode": "f2de"
 		},
 		{
 			"name": "wpforms",
