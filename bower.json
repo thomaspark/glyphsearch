@@ -7,7 +7,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "~3.3.2",
+    "bootstrap": "~3.3.7",
     "fixed-sticky": "~0.1.6",
     "hogan": "~3.0.0",
     "purl": "~2.3.1",
