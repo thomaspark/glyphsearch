@@ -202,37 +202,27 @@
     FixedSticky.tests.sticky = false; // force firefox to use polyfill
     $(".header").fixedsticky();
 
-    ZeroClipboard.config({
-      moviePath: "bower_components/zeroclipboard/dist/ZeroClipboard.swf",
-      forceHandCursor: true
+    clip = new Clipboard(".entry", {
+      text: function(trigger) {
+        return copyText($(trigger));
+      }
     });
 
-    clip = new ZeroClipboard($(".entry"));
+    clip.on("success", function(e) {
+      var c = $(e.trigger).find(".thumb").html();
+      $("#big-icon").empty().html(c);
 
-    clip.on("ready", function() {
-      flashEnabled = true;
-
-      clip.on("copy", function(e) {
-        var text = copyText($(e.target));
-        e.clipboardData.setData("text/plain", text);
-      });
-
-      clip.on("aftercopy", function(e) {
-        var c = $(e.target).find(".thumb").html();
-        $("#big-icon").empty().html(c);
-
-        $(".copied").show().find("div")
-          .addClass("animateIn").delay(700).queue(function(next) {
-            var that = $(this);
-            that.removeClass("animateIn").addClass("animateOut");
-            that.parent().fadeOut(function() {
-              that.removeClass("animateOut");
-            });
-            next();
+      $(".copied").show().find("div")
+        .addClass("animateIn").delay(700).queue(function(next) {
+          var that = $(this);
+          that.removeClass("animateIn").addClass("animateOut");
+          that.parent().fadeOut(function() {
+            that.removeClass("animateOut");
           });
-      });
+          next();
+        });
 
-      clip.clip($(".entry"));
+      e.clearSelection();
     });
 
     clip.on("error", function(e) {

@@ -11,7 +11,7 @@
     "fixed-sticky": "~0.1.6",
     "hogan": "~3.0.0",
     "purl": "~2.3.1",
-    "zeroclipboard": "~2.2.0",
+    "clipboard": "~1.7.1",
     "font-awesome": "4.7.0",
     "foundation-icon-fonts": "zurb/foundation-icon-fonts",
     "icomoon": "0.0.3",
