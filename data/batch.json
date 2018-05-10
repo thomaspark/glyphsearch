@@ -25318,11 +25318,11 @@
   },
   {
     "_tags": ["material"],
-    "name": "sim_cart_alert",
+    "name": "sim_card_alert",
     "tags": "memory",
     "class": "material-icons",
-    "html": "<i class=\"material-icons\">sim_cart_alert</i>",
-    "unicode": ""
+    "html": "<i class=\"material-icons\">sim_card_alert</i>",
+    "unicode": "e624"
   },
   {
     "_tags": ["material"],

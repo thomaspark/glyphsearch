@@ -3824,8 +3824,9 @@
       "unicode": "e32b"
     },
     {
-      "name": "sim_cart_alert",
-      "tags": "memory"
+      "name": "sim_card_alert",
+      "tags": "memory",
+      "unicode": "e624"
     },
     {
       "name": "skip_next",
