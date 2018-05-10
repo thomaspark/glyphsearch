@@ -127,6 +127,7 @@
   function loadAll(htmls) {
     $('.section').hide();
     $('.icons').empty();
+    $('#loader').hide();
 
     for (var i in htmls) {
       $('#' + i + ' .icons').html(htmls[i]).parent().show();
