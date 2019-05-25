@@ -3,7 +3,13 @@
     {
       "name": "500px",
       "tags": "brand, logo, social",
-      "unicode": "f26e"
+      "unicode": "f26e",
+      "prefix": "fab"
+    },
+    {
+      "name": "accessible-icon",
+      "tags": "handicapped, wheelchair",
+      "unicode": "f29b"
     },
     {
       "name": "address-book",
@@ -11,19 +17,9 @@
       "unicode": "f2b9"
     },
     {
-      "name": "address-book-o",
-      "tags": "",
-      "unicode": "f2ba"
-    },
-    {
       "name": "address-card",
-      "tags": "",
+      "tags": "vcard",
       "unicode": "f2bb"
-    },
-    {
-      "name": "address-card-o",
-      "tags": "",
-      "unicode": "f2bc"
     },
     {
       "name": "adjust",
@@ -33,7 +29,8 @@
     {
       "name": "adn",
       "tags": "brand, logo, social",
-      "unicode": "f170"
+      "unicode": "f170",
+      "prefix": "fab"
     },
     {
       "name": "align-center",
@@ -58,7 +55,8 @@
     {
       "name": "amazon",
       "tags": "brand, logo",
-      "unicode": "f270"
+      "unicode": "f270",
+      "prefix": "fab"
     },
     {
       "name": "ambulance",
@@ -77,12 +75,14 @@
     {
       "name": "android",
       "tags": "brand, logo, robot",
-      "unicode": "f17b"
+      "unicode": "f17b",
+      "prefix": "fab"
     },
     {
       "name": "angellist",
       "tags": "peace, hand",
-      "unicode": "f209"
+      "unicode": "f209",
+      "prefix": "fab"
     },
     {
       "name": "angle-double-down",
@@ -127,7 +127,8 @@
     {
       "name": "apple",
       "tags": "brand, logo, food, fruit",
-      "unicode": "f179"
+      "unicode": "f179",
+      "prefix": "fab"
     },
     {
       "name": "archive",
@@ -135,9 +136,24 @@
       "unicode": "f187"
     },
     {
-      "name": "area-chart",
-      "tags": "graph",
-      "unicode": "f1fe"
+      "name": "arrow-alt-circle-down",
+      "tags": "directional",
+      "unicode": "f358"
+    },
+    {
+      "name": "arrow-alt-circle-left",
+      "tags": "directional",
+      "unicode": "f359"
+    },
+    {
+      "name": "arrow-alt-circle-right",
+      "tags": "directional",
+      "unicode": "f35a"
+    },
+    {
+      "name": "arrow-alt-circle-up",
+      "tags": "directional",
+      "unicode": "f35b"
     },
     {
       "name": "arrow-circle-down",
@@ -148,26 +164,6 @@
       "name": "arrow-circle-left",
       "tags": "directional",
       "unicode": "f0a8"
-    },
-    {
-      "name": "arrow-circle-o-down",
-      "tags": "directional",
-      "unicode": "f01a"
-    },
-    {
-      "name": "arrow-circle-o-left",
-      "tags": "directional",
-      "unicode": "f190"
-    },
-    {
-      "name": "arrow-circle-o-right",
-      "tags": "directional",
-      "unicode": "f18e"
-    },
-    {
-      "name": "arrow-circle-o-up",
-      "tags": "directional",
-      "unicode": "f01b"
     },
     {
       "name": "arrow-circle-right",
@@ -200,24 +196,19 @@
       "unicode": "f062"
     },
     {
-      "name": "arrows",
-      "tags": "move",
-      "unicode": "f047"
-    },
-    {
       "name": "arrows-alt",
-      "tags": "fullscreen, resize, video player",
+      "tags": "move",
       "unicode": "f0b2"
     },
     {
-      "name": "arrows-h",
+      "name": "arrows-alt-h",
       "tags": "fullscreen, resize, video player, horizontal",
-      "unicode": "xf07e"
+      "unicode": "f337"
     },
     {
-      "name": "arrows-v",
+      "name": "arrows-alt-v",
       "tags": "fullscreen, resize, video player, vertical",
-      "unicode": "f07d"
+      "unicode": "f338"
     },
     {
       "name": "assistive-listening-systems",
@@ -256,11 +247,8 @@
     {
       "name": "bandcamp",
       "tags": "brand, logo, social",
-      "unicode": "f2d5"
-    },
-    {
-      "name": "bar-chart",
-      "unicode": "f080"
+      "unicode": "f2d5",
+      "prefix": "fab"
     },
     {
       "name": "barcode",
@@ -314,12 +302,14 @@
     {
       "name": "behance",
       "tags": "brand, logo, social",
-      "unicode": "f1b4"
+      "unicode": "f1b4",
+      "prefix": "fab"
     },
     {
       "name": "behance-square",
       "tags": "brand, logo, social",
-      "unicode": "f1b5"
+      "unicode": "f1b5",
+      "prefix": "fab"
     },
     {
       "name": "bell",
@@ -327,19 +317,9 @@
       "unicode": "f0f3"
     },
     {
-      "name": "bell-o",
-      "tags": "audio, sound",
-      "unicode": "f0a2"
-    },
-    {
       "name": "bell-slash",
       "tags": "audio, sound, mute",
       "unicode": "f1f6"
-    },
-    {
-      "name": "bell-slash-o",
-      "tags": "audio, sound, mute",
-      "unicode": "f1f7"
     },
     {
       "name": "bicycle",
@@ -357,17 +337,20 @@
     {
       "name": "bitbucket",
       "tags": "brand, logo, code, social",
-      "unicode": "f171"
+      "unicode": "f171",
+      "prefix": "fab"
     },
     {
       "name": "bitbucket-square",
       "tags": "brand, logo, code, social",
-      "unicode": "f172"
+      "unicode": "f172",
+      "prefix": "fab"
     },
     {
       "name": "black-tie",
       "tags": "brand, logo",
-      "unicode": "f27e"
+      "unicode": "f27e",
+      "prefix": "fab"
     },
     {
       "name": "blind",
@@ -376,13 +359,15 @@
     },
     {
       "name": "bluetooth",
-      "tags": "logo",
-      "unicode": "f293"
+      "tags": "logo, brand",
+      "unicode": "f293",
+      "prefix": "fab"
     },
     {
       "name": "bluetooth-b",
-      "tags": "logo",
-      "unicode": "f294"
+      "tags": "logo, brand",
+      "unicode": "f294",
+      "prefix": "fab"
     },
     {
       "name": "bold",
@@ -407,10 +392,6 @@
       "unicode": "f02e"
     },
     {
-      "name": "bookmark-o",
-      "unicode": "f097"
-    },
-    {
       "name": "braille",
       "tags": "",
       "unicode": "f2a1"
@@ -423,7 +404,8 @@
     {
       "name": "btc",
       "tags": "bitcoin, logo, brand, currency, money",
-      "unicode": "f15a"
+      "unicode": "f15a",
+      "prefix": "fab"
     },
     {
       "name": "bug",
@@ -433,10 +415,6 @@
     {
       "name": "building",
       "unicode": "f1ad"
-    },
-    {
-      "name": "building-o",
-      "unicode": "f0f7"
     },
     {
       "name": "bullhorn",
@@ -456,7 +434,8 @@
     {
       "name": "buysellads",
       "tags": "brand, logo",
-      "unicode": "f20d"
+      "unicode": "f20d",
+      "prefix": "fab"
     },
     {
       "name": "calculator",
@@ -466,30 +445,30 @@
     {
       "name": "calendar",
       "tags": "date",
+      "unicode": "f133"
+    },
+    {
+      "name": "calendar-alt",
+      "tags": "date",
       "unicode": "f073"
     },
     {
-      "name": "calendar-check-o",
+      "name": "calendar-check",
       "tags": "date",
       "unicode": "f274"
     },
     {
-      "name": "calendar-minus-o",
+      "name": "calendar-minus",
       "tags": "date",
       "unicode": "f272"
     },
     {
-      "name": "calendar-o",
-      "tags": "date",
-      "unicode": "f133"
-    },
-    {
-      "name": "calendar-plus-o",
+      "name": "calendar-plus",
       "tags": "date",
       "unicode": "f271"
     },
     {
-      "name": "calendar-times-o",
+      "name": "calendar-times",
       "tags": "date",
       "unicode": "f273"
     },
@@ -524,22 +503,22 @@
       "unicode": "f0da"
     },
     {
-      "name": "caret-square-o-down",
+      "name": "caret-square-down",
       "tags": "toggle-down, directional",
       "unicode": "f150"
     },
     {
-      "name": "caret-square-o-left",
+      "name": "caret-square-left",
       "tags": "toggle-left, directional",
       "unicode": "f191"
     },
     {
-      "name": "caret-square-o-right",
+      "name": "caret-square-right",
       "tags": "toggle-right, directional",
       "unicode": "f152"
     },
     {
-      "name": "caret-square-o-up",
+      "name": "caret-square-up",
       "tags": "toggle-up, directional",
       "unicode": "f151"
     },
@@ -559,49 +538,52 @@
       "unicode": "f217"
     },
     {
-      "name": "cc",
-      "tags": "closed captioning",
-      "unicode": "f20a"
-    },
-    {
       "name": "cc-amex",
       "tags": "credit card, american express, payment",
-      "unicode": "f1f3"
+      "unicode": "f1f3",
+      "prefix": "fab"
     },
     {
       "name": "cc-diners-club",
       "tags": "credit card, payment",
-      "unicode": "f24c"
+      "unicode": "f24c",
+      "prefix": "fab"
     },
     {
       "name": "cc-discover",
       "tags": "credit card, payment",
-      "unicode": "f1f2"
+      "unicode": "f1f2",
+      "prefix": "fab"
     },
     {
       "name": "cc-jcb",
       "tags": "credit card, payment",
-      "unicode": "f24b"
+      "unicode": "f24b",
+      "prefix": "fab"
     },
     {
       "name": "cc-mastercard",
       "tags": "credit card, payment",
-      "unicode": "f1f1"
+      "unicode": "f1f1",
+      "prefix": "fab"
     },
     {
       "name": "cc-paypal",
       "tags": "payment",
-      "unicode": "f1f4"
+      "unicode": "f1f4",
+      "prefix": "fab"
     },
     {
       "name": "cc-stripe",
       "tags": "payment",
-      "unicode": "f1f5"
+      "unicode": "f1f5",
+      "prefix": "fab"
     },
     {
       "name": "cc-visa",
       "tags": "credit card, payment",
-      "unicode": "f1f0"
+      "unicode": "f1f0",
+      "prefix": "fab"
     },
     {
       "name": "certificate",
@@ -609,9 +591,23 @@
       "unicode": "f0a3"
     },
     {
-      "name": "chain-broken",
-      "tags": "unlink, text editor",
-      "unicode": "f127"
+      "name": "chart-area",
+      "tags": "graph",
+      "unicode": "f1fe"
+    },
+    {
+      "name": "chart-bar",
+      "unicode": "f080"
+    },
+    {
+      "name": "chart-line",
+      "tags": "graph",
+      "unicode": "f201"
+    },
+    {
+      "name": "chart-pie",
+      "tags": "graph",
+      "unicode": "f200"
     },
     {
       "name": "check",
@@ -622,18 +618,9 @@
       "unicode": "f058"
     },
     {
-      "name": "check-circle-o",
-      "unicode": "f05d"
-    },
-    {
       "name": "check-square",
       "tags": "form control",
       "unicode": "f14a"
-    },
-    {
-      "name": "check-square-o",
-      "tags": "form control",
-      "unicode": "f046"
     },
     {
       "name": "chevron-circle-down",
@@ -682,7 +669,8 @@
     {
       "name": "chrome",
       "tags": "brand, browser, logo",
-      "unicode": "f268"
+      "unicode": "f268",
+      "prefix": "fab"
     },
     {
       "name": "circle",
@@ -690,25 +678,16 @@
       "unicode": "f111"
     },
     {
-      "name": "circle-o",
-      "tags": "form control",
-      "unicode": "f10c"
-    },
-    {
-      "name": "circle-o-notch",
+      "name": "circle-notch",
       "unicode": "f1ce"
-    },
-    {
-      "name": "circle-thin",
-      "unicode": "f1db"
     },
     {
       "name": "clipboard",
       "tags": "paste",
-      "unicode": "f0ea"
+      "unicode": "f328"
     },
     {
-      "name": "clock-o",
+      "name": "clock",
       "tags": "timer",
       "unicode": "f017"
     },
@@ -718,16 +697,21 @@
       "unicode": "f24d"
     },
     {
+      "name": "closed-captioning",
+      "tags": "cc",
+      "unicode": "f20a"
+    },
+    {
       "name": "cloud",
       "unicode": "f0c2"
     },
     {
-      "name": "cloud-download",
-      "unicode": "f0ed"
+      "name": "cloud-download-alt",
+      "unicode": "f381"
     },
     {
-      "name": "cloud-upload",
-      "unicode": "f0ee"
+      "name": "cloud-upload-alt",
+      "unicode": "f382"
     },
     {
       "name": "code",
@@ -735,19 +719,21 @@
       "unicode": "f121"
     },
     {
-      "name": "code-fork",
+      "name": "code-branch",
       "tags": "git",
       "unicode": "f126"
     },
     {
       "name": "codepen",
       "tags": "brand, logo",
-      "unicode": "f1cb"
+      "unicode": "f1cb",
+      "prefix": "fab"
     },
     {
       "name": "codiepie",
       "tags": "brand, logo",
-      "unicode": "f284"
+      "unicode": "f284",
+      "prefix": "fab"
     },
     {
       "name": "coffee",
@@ -775,29 +761,14 @@
       "unicode": "f075"
     },
     {
-      "name": "comment-o",
+      "name": "comment-dots",
       "tags": "chat, speech bubble",
-      "unicode": "f0e5"
-    },
-    {
-      "name": "commenting",
-      "tags": "chat, speech bubble",
-      "unicode": "f27a"
-    },
-    {
-      "name": "commenting-o",
-      "tags": "chat, speech bubble",
-      "unicode": "f27b"
+      "unicode": "f4ad"
     },
     {
       "name": "comments",
       "tags": "chat, speech bubble",
       "unicode": "f086"
-    },
-    {
-      "name": "comments-o",
-      "tags": "chat, speech bubble",
-      "unicode": "f0e6"
     },
     {
       "name": "compass",
@@ -812,12 +783,19 @@
     {
       "name": "connectdevelop",
       "tags": "brand, logo",
-      "unicode": "f20e"
+      "unicode": "f20e",
+      "prefix": "fab"
     },
     {
       "name": "contao",
       "tags": "brand, logo",
-      "unicode": "f26d"
+      "unicode": "f26d",
+      "prefix": "fab"
+    },
+    {
+      "name": "copy",
+      "tags": "clone, files, documents, duplicate",
+      "unicode": "f0c5"
     },
     {
       "name": "copyright",
@@ -834,11 +812,6 @@
       "unicode": "f09d"
     },
     {
-      "name": "credit-card-alt",
-      "tags": "money, payment",
-      "unicode": "f283"
-    },
-    {
       "name": "crop",
       "unicode": "f125"
     },
@@ -849,7 +822,8 @@
     {
       "name": "css3",
       "tags": "brand, logo",
-      "unicode": "f13c"
+      "unicode": "f13c",
+      "prefix": "fab"
     },
     {
       "name": "cube",
@@ -860,14 +834,15 @@
       "unicode": "f1b3"
     },
     {
-      "name": "cutlery",
-      "tags": "food, fork, knife",
-      "unicode": "f0f5"
+      "name": "cut",
+      "tags": "scissors",
+      "unicode": "f0c4"
     },
     {
       "name": "dashcube",
       "tags": "brand, logo",
-      "unicode": "f210"
+      "unicode": "f210",
+      "prefix": "fab"
     },
     {
       "name": "database",
@@ -881,7 +856,8 @@
     {
       "name": "delicious",
       "tags": "brand, logo, social",
-      "unicode": "f1a5"
+      "unicode": "f1a5",
+      "prefix": "fab"
     },
     {
       "name": "desktop",
@@ -891,20 +867,22 @@
     {
       "name": "deviantart",
       "tags": "brand, logo",
-      "unicode": "f1bd"
-    },
-    {
-      "name": "diamond",
-      "tags": "gem",
-      "unicode": "f219"
+      "unicode": "f1bd",
+      "prefix": "fab"
     },
     {
       "name": "digg",
       "tags": "brand, logo, social",
-      "unicode": "f1a6"
+      "unicode": "f1a6",
+      "prefix": "fab"
     },
     {
-      "name": "dot-circle-o",
+      "name": "dollar-sign",
+      "tags": "usd, currency, money",
+      "unicode": "f155"
+    },
+    {
+      "name": "dot-circle",
       "tags": "form control, target",
       "unicode": "f192"
     },
@@ -915,27 +893,37 @@
     {
       "name": "dribbble",
       "tags": "brand, logo, social, basketball",
-      "unicode": "f17d"
+      "unicode": "f17d",
+      "prefix": "fab"
     },
     {
       "name": "dropbox",
       "tags": "brand, logo",
-      "unicode": "f16b"
+      "unicode": "f16b",
+      "prefix": "fab"
     },
     {
       "name": "drupal",
       "tags": "brand, logo",
-      "unicode": "f1a9"
+      "unicode": "f1a9",
+      "prefix": "fab"
     },
     {
       "name": "edge",
       "tags": "brand, browser, logo",
-      "unicode": "f282"
+      "unicode": "f282",
+      "prefix": "fab"
+    },
+    {
+      "name": "edit",
+      "tags": "write, pencil",
+      "unicode": "f044"
     },
     {
       "name": "eercast",
       "tags": "brand, logo",
-      "unicode": "f2da"
+      "unicode": "f2da",
+      "prefix": "fab"
     },
     {
       "name": "eject",
@@ -954,7 +942,8 @@
     },
     {
       "name": "empire",
-      "unicode": "f1d1"
+      "unicode": "f1d1",
+      "prefix": "fab"
     },
     {
       "name": "envelope",
@@ -962,19 +951,9 @@
       "unicode": "f0e0"
     },
     {
-      "name": "envelope-o",
-      "tags": "email",
-      "unicode": "f003"
-    },
-    {
       "name": "envelope-open",
       "tags": "email",
       "unicode": "f2b6"
-    },
-    {
-      "name": "envelope-open-o",
-      "tags": "email",
-      "unicode": "f2b7"
     },
     {
       "name": "envelope-square",
@@ -984,7 +963,8 @@
     {
       "name": "envira",
       "tags": "brand, leaf, logo",
-      "unicode": "f299"
+      "unicode": "f299",
+      "prefix": "fab"
     },
     {
       "name": "eraser",
@@ -994,17 +974,18 @@
     {
       "name": "etsy",
       "tags": "brand, logo",
-      "unicode": "f2d7"
+      "unicode": "f2d7",
+      "prefix": "fab"
     },
     {
-      "name": "eur",
+      "name": "euro-sign",
       "tags": "euro, currency, money",
       "unicode": "f153"
     },
     {
-      "name": "exchange",
+      "name": "exchange-alt",
       "tags": "transfer, arrows",
-      "unicode": "f0ec"
+      "unicode": "f362"
     },
     {
       "name": "exclamation",
@@ -1027,17 +1008,23 @@
       "unicode": "f065"
     },
     {
+      "name": "expand-arrows-alt",
+      "tags": "fullscreen, resize, video player",
+      "unicode": "f31e"
+    },
+    {
       "name": "expeditedssl",
       "tags": "brand, logo",
-      "unicode": "f23e"
+      "unicode": "f23e",
+      "prefix": "fab"
     },
     {
-      "name": "external-link",
-      "unicode": "f08e"
+      "name": "external-link-alt",
+      "unicode": "f35d"
     },
     {
-      "name": "external-link-square",
-      "unicode": "f14c"
+      "name": "external-link-square-alt",
+      "unicode": "f360"
     },
     {
       "name": "eye",
@@ -1050,23 +1037,26 @@
       "unicode": "f070"
     },
     {
-      "name": "eyedropper",
+      "name": "eye-dropper",
       "unicode": "f1fb"
     },
     {
       "name": "facebook",
       "tags": "brand, logo, social",
-      "unicode": "f09a"
+      "unicode": "f09a",
+      "prefix": "fab"
     },
     {
-      "name": "facebook-official",
+      "name": "facebook-f",
       "tags": "brand, logo, social",
-      "unicode": "f230"
+      "unicode": "f39e",
+      "prefix": "fab"
     },
     {
       "name": "facebook-square",
       "tags": "brand, logo, social",
-      "unicode": "f082"
+      "unicode": "f082",
+      "prefix": "fab"
     },
     {
       "name": "fast-backward",
@@ -1094,67 +1084,52 @@
     },
     {
       "name": "file",
-      "tags": "document",
+      "tags": "text editor, document",
       "unicode": "f15b"
     },
     {
-      "name": "file-archive-o",
+      "name": "file-archive",
       "tags": "zip",
       "unicode": "f1c6"
     },
     {
-      "name": "file-audio-o",
+      "name": "file-audio",
       "tags": "sound",
       "unicode": "f1c7"
     },
     {
-      "name": "file-code-o",
+      "name": "file-code",
       "unicode": "f1c9"
     },
     {
-      "name": "file-excel-o",
+      "name": "file-excel",
       "unicode": "f1c3"
     },
     {
-      "name": "file-image-o",
+      "name": "file-image",
       "tags": "photo, picture",
       "unicode": "f1c5"
     },
     {
-      "name": "file-o",
-      "tags": "text editor, document",
-      "unicode": "f016"
-    },
-    {
-      "name": "file-pdf-o",
+      "name": "file-pdf",
       "unicode": "f1c1"
     },
     {
-      "name": "file-powerpoint-o",
+      "name": "file-powerpoint",
       "unicode": "f1c4"
     },
     {
-      "name": "file-text",
+      "name": "file-alt",
       "tags": "text editor, document",
       "unicode": "f15c"
     },
     {
-      "name": "file-text-o",
-      "tags": "text editor, document",
-      "unicode": "f0f6"
-    },
-    {
-      "name": "file-video-o",
+      "name": "file-video",
       "unicode": "f1c8"
     },
     {
-      "name": "file-word-o",
+      "name": "file-word",
       "unicode": "f1c2"
-    },
-    {
-      "name": "files-o",
-      "tags": "clone, copy, documents, duplicate",
-      "unicode": "f0c5"
     },
     {
       "name": "film",
@@ -1176,12 +1151,14 @@
     {
       "name": "firefox",
       "tags": "brand, browser, logo",
-      "unicode": "f269"
+      "unicode": "f269",
+      "prefix": "fab"
     },
     {
       "name": "first-order",
       "tags": "brand, logo, star wars",
-      "unicode": "f2b0"
+      "unicode": "f2b0",
+      "prefix": "fab"
     },
     {
       "name": "flag",
@@ -1192,10 +1169,6 @@
       "unicode": "f11e"
     },
     {
-      "name": "flag-o",
-      "unicode": "f11d"
-    },
-    {
       "name": "flask",
       "tags": "beaker, science",
       "unicode": "f0c3"
@@ -1203,28 +1176,16 @@
     {
       "name": "flickr",
       "tags": "brand, logo",
-      "unicode": "f16e"
-    },
-    {
-      "name": "floppy-o",
-      "tags": "save",
-      "unicode": "f0c7"
+      "unicode": "f16e",
+      "prefix": "fab"
     },
     {
       "name": "folder",
       "unicode": "f07b"
     },
     {
-      "name": "folder-o",
-      "unicode": "f114"
-    },
-    {
       "name": "folder-open",
       "unicode": "f07c"
-    },
-    {
-      "name": "folder-open-o",
-      "unicode": "f115"
     },
     {
       "name": "font",
@@ -1232,19 +1193,28 @@
       "unicode": "f031"
     },
     {
+      "name": "font-awesome",
+      "tags": "brand, logo",
+      "unicode": "f2b4",
+      "prefix": "fab"
+    },
+    {
       "name": "fonticons",
       "tags": "brand, logo",
-      "unicode": "f280"
+      "unicode": "f280",
+      "prefix": "fab"
     },
     {
       "name": "fort-awesome",
       "tags": "brand, castle, logo",
-      "unicode": "f286"
+      "unicode": "f286",
+      "prefix": "fab"
     },
     {
       "name": "forumbee",
       "tags": "brand, logo",
-      "unicode": "f211"
+      "unicode": "f211",
+      "prefix": "fab"
     },
     {
       "name": "forward",
@@ -1254,20 +1224,22 @@
     {
       "name": "foursquare",
       "tags": "brand, logo, social",
-      "unicode": "f180"
+      "unicode": "f180",
+      "prefix": "fab"
     },
     {
       "name": "free-code-camp",
       "tags": "brand, logo, fire, flame",
-      "unicode": "f2c5"
+      "unicode": "f2c5",
+      "prefix": "fab"
     },
     {
-      "name": "frown-o",
+      "name": "frown",
       "tags": "face, smiley, ratings, rate, unlike",
       "unicode": "f119"
     },
     {
-      "name": "futbol-o",
+      "name": "futbol",
       "tags": "soccer, ball, sports",
       "unicode": "f1e3"
     },
@@ -1282,9 +1254,9 @@
       "unicode": "f0e3"
     },
     {
-      "name": "gbp",
-      "tags": "currency, money",
-      "unicode": "f154"
+      "name": "gem",
+      "tags": "diamond",
+      "unicode": "f3a5"
     },
     {
       "name": "genderless",
@@ -1294,17 +1266,20 @@
     {
       "name": "get-pocket",
       "tags": "brand, logo",
-      "unicode": "f265"
+      "unicode": "f265",
+      "prefix": "fab"
     },
     {
       "name": "gg",
       "tags": "brand, logo",
-      "unicode": "f260"
+      "unicode": "f260",
+      "prefix": "fab"
     },
     {
       "name": "gg-circle",
       "tags": "brand, logo",
-      "unicode": "f261"
+      "unicode": "f261",
+      "prefix": "fab"
     },
     {
       "name": "gift",
@@ -1314,47 +1289,55 @@
     {
       "name": "git",
       "tags": "brand, logo",
-      "unicode": "f1d3"
+      "unicode": "f1d3",
+      "prefix": "fab"
     },
     {
       "name": "git-square",
       "tags": "brand, logo",
-      "unicode": "f1d2"
+      "unicode": "f1d2",
+      "prefix": "fab"
     },
     {
       "name": "github",
       "tags": "brand, logo",
-      "unicode": "f09b"
+      "unicode": "f09b",
+      "prefix": "fab"
     },
     {
       "name": "github-alt",
       "tags": "brand, logo",
-      "unicode": "f113"
+      "unicode": "f113",
+      "prefix": "fab"
     },
     {
       "name": "github-square",
       "tags": "brand, logo",
-      "unicode": "f092"
+      "unicode": "f092",
+      "prefix": "fab"
     },
     {
       "name": "gitlab",
       "tags": "brand, logo",
-      "unicode": "f296"
+      "unicode": "f296",
+      "prefix": "fab"
     },
     {
-      "name": "glass",
+      "name": "glass-martini",
       "tags": "drink, martini, alcohol",
       "unicode": "f000"
     },
     {
       "name": "glide",
       "tags": "brand, logo, social",
-      "unicode": "f2a5"
+      "unicode": "f2a5",
+      "prefix": "fab"
     },
     {
       "name": "glide-g",
       "tags": "brand, logo, social",
-      "unicode": "f2a6"
+      "unicode": "f2a6",
+      "prefix": "fab"
     },
     {
       "name": "globe",
@@ -1364,27 +1347,32 @@
     {
       "name": "google",
       "tags": "brand, logo, social",
-      "unicode": "f1a0"
+      "unicode": "f1a0",
+      "prefix": "fab"
     },
     {
       "name": "google-plus",
       "tags": "brand, logo, social",
-      "unicode": "f0d5"
+      "unicode": "f2b3",
+      "prefix": "fab"
     },
     {
-      "name": "google-plus-official",
+      "name": "google-plus-g",
       "tags": "brand, logo, social",
-      "unicode": "f0d5"
+      "unicode": "f0d5",
+      "prefix": "fab"
     },
     {
       "name": "google-plus-square",
       "tags": "brand, logo, social",
-      "unicode": "f0d4"
+      "unicode": "f0d4",
+      "prefix": "fab"
     },
     {
       "name": "google-wallet",
       "tags": "brand, logo, payment",
-      "unicode": "f1ee"
+      "unicode": "f1ee",
+      "prefix": "fab"
     },
     {
       "name": "graduation-cap",
@@ -1394,12 +1382,14 @@
     {
       "name": "gratipay",
       "tags": "brand, gittip, logo, heart",
-      "unicode": "f184"
+      "unicode": "f184",
+      "prefix": "fab"
     },
     {
       "name": "grav",
       "tags": "brand, logo, astronaut, space",
-      "unicode": "f2d6"
+      "unicode": "f2d6",
+      "prefix": "fab"
     },
     {
       "name": "h-square",
@@ -1409,65 +1399,66 @@
     {
       "name": "hacker-news",
       "tags": "brand, logo, ycombinator",
-      "unicode": "f1d4"
+      "unicode": "f1d4",
+      "prefix": "fab"
     },
     {
-      "name": "hand-lizard-o",
+      "name": "hand-lizard",
       "tags": "",
       "unicode": "f258"
     },
     {
-      "name": "hand-o-down",
+      "name": "hand-point-down",
       "tags": "directional, finger, pointer",
       "unicode": "f0a7"
     },
     {
-      "name": "hand-o-left",
+      "name": "hand-point-left",
       "tags": "directional, finger, pointer",
       "unicode": "f0a5"
     },
     {
-      "name": "hand-o-right",
+      "name": "hand-point-right",
       "tags": "directional, finger, pointer",
       "unicode": "f0a4"
     },
     {
-      "name": "hand-o-up",
+      "name": "hand-point-up",
       "tags": "directional, finger, pointer",
       "unicode": "f0a6"
     },
     {
-      "name": "hand-paper-o",
+      "name": "hand-paper",
       "tags": "stop",
       "unicode": "f256"
     },
     {
-      "name": "hand-peace-o",
+      "name": "hand-peace",
       "tags": "",
       "unicode": "f25b"
     },
     {
-      "name": "hand-pointer-o",
+      "name": "hand-pointer",
       "tags": "pointer",
       "unicode": "f25a"
     },
     {
-      "name": "hand-rock-o",
+      "name": "hand-rock",
       "tags": "fist, grab",
       "unicode": "f255"
     },
     {
-      "name": "hand-scissors-o",
+      "name": "hand-scissors",
       "tags": "",
       "unicode": "f257"
     },
     {
-      "name": "hand-spock-o",
+      "name": "hand-spock",
       "tags": "",
       "unicode": "f259"
     },
     {
-      "name": "handshake-o",
+      "name": "handshake",
       "tags": "",
       "unicode": "f2b5"
     },
@@ -1477,12 +1468,12 @@
       "unicode": "f292"
     },
     {
-      "name": "hdd-o",
+      "name": "hdd",
       "tags": "hard drive, computer, disk",
       "unicode": "f0a0"
     },
     {
-      "name": "header",
+      "name": "heading",
       "unicode": "f1dc"
     },
     {
@@ -1494,11 +1485,6 @@
       "name": "heart",
       "tags": "like, favorite",
       "unicode": "f004"
-    },
-    {
-      "name": "heart-o",
-      "tags": "unlike, unfavorite",
-      "unicode": "f08a"
     },
     {
       "name": "heartbeat",
@@ -1514,7 +1500,7 @@
       "unicode": "f015"
     },
     {
-      "name": "hospital-o",
+      "name": "hospital",
       "tags": "medical, building",
       "unicode": "f0f8"
     },
@@ -1534,11 +1520,6 @@
       "unicode": "f252"
     },
     {
-      "name": "hourglass-o",
-      "tags": "busy, loading, timer",
-      "unicode": "f250"
-    },
-    {
       "name": "hourglass-start",
       "tags": "busy, loading, timer",
       "unicode": "f251"
@@ -1546,12 +1527,14 @@
     {
       "name": "houzz",
       "tags": "brand, logo",
-      "unicode": "f27c"
+      "unicode": "f27c",
+      "prefix": "fab"
     },
     {
       "name": "html5",
       "tags": "brand, logo, web",
-      "unicode": "f13b"
+      "unicode": "f13b",
+      "prefix": "fab"
     },
     {
       "name": "i-cursor",
@@ -1569,19 +1552,15 @@
       "unicode": "f2c2"
     },
     {
-      "name": "id-card-o",
-      "tags": "drivers license, vcard-o",
-      "unicode": "f2c3"
-    },
-    {
-      "name": "ils",
-      "tags": "shekel, israeli, money, currency",
-      "unicode": "f20b"
+      "name": "image",
+      "tags": "photo, picture",
+      "unicode": "f03e"
     },
     {
       "name": "imdb",
       "tags": "brand, logo",
-      "unicode": "f2d8"
+      "unicode": "f2d8",
+      "prefix": "fab"
     },
     {
       "name": "inbox",
@@ -1607,24 +1586,22 @@
       "unicode": "f05a"
     },
     {
-      "name": "inr",
-      "tags": "rupee, currency, money",
-      "unicode": "f156"
-    },
-    {
       "name": "instagram",
       "tags": "brand, logo",
-      "unicode": "f16d"
+      "unicode": "f16d",
+      "prefix": "fab"
     },
     {
       "name": "internet-explorer",
       "tags": "brand, browser, logo",
-      "unicode": "f26b"
+      "unicode": "f26b",
+      "prefix": "fab"
     },
     {
       "name": "ioxhost",
       "tags": "brand, logo",
-      "unicode": "f208"
+      "unicode": "f208",
+      "prefix": "fab"
     },
     {
       "name": "italic",
@@ -1634,17 +1611,14 @@
     {
       "name": "joomla",
       "tags": "brand, logo",
-      "unicode": "f1aa"
-    },
-    {
-      "name": "jpy",
-      "tags": "cny, rmb, yen, currency, money",
-      "unicode": "f157"
+      "unicode": "f1aa",
+      "prefix": "fab"
     },
     {
       "name": "jsfiddle",
       "tags": "brand, logo",
-      "unicode": "f1cc"
+      "unicode": "f1cc",
+      "prefix": "fab"
     },
     {
       "name": "key",
@@ -1652,14 +1626,9 @@
       "unicode": "f084"
     },
     {
-      "name": "keyboard-o",
+      "name": "keyboard",
       "tags": "computer",
       "unicode": "f11c"
-    },
-    {
-      "name": "krw",
-      "tags": "won, currency, money",
-      "unicode": "f159"
     },
     {
       "name": "language",
@@ -1674,12 +1643,14 @@
     {
       "name": "lastfm",
       "tags": "brand, logo",
-      "unicode": "f202"
+      "unicode": "f202",
+      "prefix": "fab"
     },
     {
       "name": "lastfm-square",
       "tags": "brand, logo",
-      "unicode": "f203"
+      "unicode": "f203",
+      "prefix": "fab"
     },
     {
       "name": "leaf",
@@ -1689,20 +1660,21 @@
     {
       "name": "leanpub",
       "tags": "brand, logo, book",
-      "unicode": "f212"
+      "unicode": "f212",
+      "prefix": "fab"
     },
     {
-      "name": "lemon-o",
+      "name": "lemon",
       "tags": "food, fruit",
       "unicode": "f094"
     },
     {
-      "name": "level-down",
-      "unicode": "f149"
+      "name": "level-down-alt",
+      "unicode": "f3be"
     },
     {
-      "name": "level-up",
-      "unicode": "f148"
+      "name": "level-up-alt",
+      "unicode": "f3bf"
     },
     {
       "name": "life-ring",
@@ -1710,13 +1682,8 @@
       "unicode": "f1cd"
     },
     {
-      "name": "lightbulb-o",
+      "name": "lightbulb",
       "unicode": "f0eb"
-    },
-    {
-      "name": "line-chart",
-      "tags": "graph",
-      "unicode": "f201"
     },
     {
       "name": "link",
@@ -1726,12 +1693,14 @@
     {
       "name": "linkedin",
       "tags": "brand, logo",
-      "unicode": "f0e1"
+      "unicode": "f08c",
+      "prefix": "fab"
     },
     {
-      "name": "linkedin-square",
+      "name": "linkedin-in",
       "tags": "brand, logo",
-      "unicode": "f08c"
+      "unicode": "f0e1",
+      "prefix": "fab"
     },
     {
       "name": "linkedin",
@@ -1741,12 +1710,19 @@
     {
       "name": "linode",
       "tags": "brand, logo",
-      "unicode": "f2b8"
+      "unicode": "f2b8",
+      "prefix": "fab"
     },
     {
       "name": "linux",
       "tags": "brand, logo, penguin, bird, animal",
-      "unicode": "f17c"
+      "unicode": "f17c",
+      "prefix": "fab"
+    },
+    {
+      "name": "lira-sign",
+      "tags": "turkish lira, currency, money, try",
+      "unicode": "f195"
     },
     {
       "name": "list",
@@ -1778,24 +1754,24 @@
       "unicode": "f023"
     },
     {
-      "name": "long-arrow-down",
+      "name": "long-arrow-alt-down",
       "tags": "directional",
-      "unicode": "f175"
+      "unicode": "f309"
     },
     {
-      "name": "long-arrow-left",
+      "name": "long-arrow-alt-left",
       "tags": "directional",
-      "unicode": "f177"
+      "unicode": "f30a"
     },
     {
-      "name": "long-arrow-right",
+      "name": "long-arrow-alt-right",
       "tags": "directional",
-      "unicode": "f178"
+      "unicode": "f30b"
     },
     {
-      "name": "long-arrow-up",
+      "name": "long-arrow-alt-up",
       "tags": "directional",
-      "unicode": "f176"
+      "unicode": "f30b"
     },
     {
       "name": "low-vision",
@@ -1822,14 +1798,14 @@
       "unicode": "f279"
     },
     {
-      "name": "map-marker",
+      "name": "map-marker-alt",
       "tags": "location",
-      "unicode": "f041"
+      "unicode": "f3c5"
     },
     {
-      "name": "map-o",
+      "name": "map",
       "tags": "",
-      "unicode": "f278"
+      "unicode": "f279"
     },
     {
       "name": "map-pin",
@@ -1864,17 +1840,14 @@
     {
       "name": "maxcdn",
       "tags": "brand, logo",
-      "unicode": "f136"
-    },
-    {
-      "name": "meanpath",
-      "tags": "brand, logo",
-      "unicode": "f20c"
+      "unicode": "f136",
+      "prefix": "fab"
     },
     {
       "name": "medium",
       "tags": "brand, logo",
-      "unicode": "f23a"
+      "unicode": "f23a",
+      "prefix": "fab"
     },
     {
       "name": "medkit",
@@ -1884,10 +1857,11 @@
     {
       "name": "meetup",
       "tags": "brand, logo, social",
-      "unicode": "f2e0"
+      "unicode": "f2e0",
+      "prefix": "fab"
     },
     {
-      "name": "meh-o",
+      "name": "meh",
       "tags": "face, smiley, ratings, rate",
       "unicode": "f11a"
     },
@@ -1927,32 +1901,29 @@
       "unicode": "f146"
     },
     {
-      "name": "minus-square-o",
-      "tags": "form control, resize, collapse",
-      "unicode": "f147"
-    },
-    {
       "name": "mixcloud",
       "tags": "brand, logo",
-      "unicode": "f289"
+      "unicode": "f289",
+      "prefix": "fab"
     },
     {
-      "name": "mobile",
+      "name": "mobile-alt",
       "tags": "phone",
-      "unicode": "f10b"
+      "unicode": "f3cd"
     },
     {
       "name": "modx",
       "tags": "brand, logo",
-      "unicode": "f285"
+      "unicode": "f285",
+      "prefix": "fab"
     },
     {
-      "name": "money",
+      "name": "money-bill-alt",
       "tags": "currency, dollar bill, payment",
-      "unicode": "f0d6"
+      "unicode": "f3d1"
     },
     {
-      "name": "moon-o",
+      "name": "moon",
       "tags": "crescent, night",
       "unicode": "f186"
     },
@@ -1976,7 +1947,7 @@
       "unicode": "f22c"
     },
     {
-      "name": "newspaper-o",
+      "name": "newspaper",
       "unicode": "f1ea"
     },
     {
@@ -1992,32 +1963,38 @@
     {
       "name": "odnoklassniki",
       "tags": "brand, logo, social",
-      "unicode": "f263"
+      "unicode": "f263",
+      "prefix": "fab"
     },
     {
       "name": "odnoklassniki-square",
       "tags": "brand, logo, social",
-      "unicode": "f264"
+      "unicode": "f264",
+      "prefix": "fab"
     },
     {
       "name": "opencart",
       "tags": "brand, logo",
-      "unicode": "f23d"
+      "unicode": "f23d",
+      "prefix": "fab"
     },
     {
       "name": "openid",
       "tags": "brand, logo",
-      "unicode": "f19b"
+      "unicode": "f19b",
+      "prefix": "fab"
     },
     {
       "name": "opera",
       "tags": "brand, browser, logo",
-      "unicode": "f26a"
+      "unicode": "f26a",
+      "prefix": "fab"
     },
     {
       "name": "optin-monster",
       "tags": "brand, logo",
-      "unicode": "f23c"
+      "unicode": "f23c",
+      "prefix": "fab"
     },
     {
       "name": "outdent",
@@ -2027,7 +2004,8 @@
     {
       "name": "pagelines",
       "tags": "brand, logo, leaf, plant",
-      "unicode": "f18c"
+      "unicode": "f18c",
+      "prefix": "fab"
     },
     {
       "name": "paint-brush",
@@ -2036,13 +2014,8 @@
     },
     {
       "name": "paper-plane",
-      "tags": "airplane, sent",
+      "tags": "airplane, sent, send",
       "unicode": "f1d8"
-    },
-    {
-      "name": "paper-plane-o",
-      "tags": "airplane",
-      "unicode": "f1d9"
     },
     {
       "name": "paperclip",
@@ -2065,11 +2038,6 @@
       "unicode": "f28b"
     },
     {
-      "name": "pause-circle-o",
-      "tags": "video player",
-      "unicode": "f28c"
-    },
-    {
       "name": "paw",
       "tags": "animal, pet, print",
       "unicode": "f1b0"
@@ -2077,22 +2045,18 @@
     {
       "name": "paypal",
       "tags": "payment, brand, logo",
-      "unicode": "f1ed"
+      "unicode": "f1ed",
+      "prefix": "fab"
     },
     {
-      "name": "pencil",
+      "name": "pencil-alt",
       "tags": "write, edit",
-      "unicode": "f040"
+      "unicode": "f303"
     },
     {
-      "name": "pencil-square",
-      "tags": "write, edit",
+      "name": "pen-square",
+      "tags": "write, edit, pencil",
       "unicode": "f14b"
-    },
-    {
-      "name": "pencil-square-o",
-      "tags": "write, edit",
-      "unicode": "f044"
     },
     {
       "name": "percent",
@@ -2110,38 +2074,49 @@
       "unicode": "f098"
     },
     {
+      "name": "phone-volume",
+      "tags": "audio, sound",
+      "unicode": "f2a0"
+    },
+    {
       "name": "picture-o",
       "unicode": "f03e"
     },
     {
-      "name": "pie-chart",
-      "tags": "graph",
-      "unicode": "f200"
-    },
-    {
       "name": "pied-piper",
       "tags": "brand, logo",
-      "unicode": "f1a7"
+      "unicode": "f2ae",
+      "prefix": "fab"
     },
     {
       "name": "pied-piper-alt",
       "tags": "brand, logo, snackdick",
-      "unicode": "f1a8"
+      "unicode": "f1a8",
+      "prefix": "fab"
+    },
+    {
+      "name": "pied-piper-pp",
+      "tags": "brand, logo, snackdick",
+      "unicode": "f1a7",
+      "prefix": "fab"
     },
     {
       "name": "pinterest",
       "tags": "brand, logo, social",
-      "unicode": "f0d2"
+      "unicode": "f0d2",
+      "prefix": "fab"
     },
     {
       "name": "pinterest-p",
       "tags": "brand, logo, social",
-      "unicode": "f231"
+      "unicode": "f231",
+      "prefix": "fab"
     },
     {
       "name": "pinterest-square",
       "tags": "brand, logo, social",
-      "unicode": "f0d3"
+      "unicode": "f0d3",
+      "prefix": "fab"
     },
     {
       "name": "plane",
@@ -2157,11 +2132,6 @@
       "name": "play-circle",
       "tags": "video player",
       "unicode": "f144"
-    },
-    {
-      "name": "play-circle-o",
-      "tags": "video player",
-      "unicode": "f01d"
     },
     {
       "name": "plug",
@@ -2184,14 +2154,14 @@
       "unicode": "f0fe"
     },
     {
-      "name": "plus-square-o",
-      "tags": "form controls, add, expand, resize",
-      "unicode": "f196"
-    },
-    {
       "name": "podcast",
       "tags": "",
       "unicode": "f2ce"
+    },
+    {
+      "name": "pound-sign",
+      "tags": "gbp, currency, money",
+      "unicode": "f154"
     },
     {
       "name": "power-off",
@@ -2206,7 +2176,8 @@
     {
       "name": "product-hunt",
       "tags": "brand, logo",
-      "unicode": "f288"
+      "unicode": "f288",
+      "prefix": "fab"
     },
     {
       "name": "puzzle-piece",
@@ -2216,7 +2187,8 @@
     {
       "name": "qq",
       "tags": "brand, logo",
-      "unicode": "f1d6"
+      "unicode": "f1d6",
+      "prefix": "fab"
     },
     {
       "name": "qrcode",
@@ -2233,14 +2205,10 @@
       "unicode": "f059"
     },
     {
-      "name": "question-circle-o",
-      "tags": "help",
-      "unicode": "f29c"
-    },
-    {
       "name": "quora",
       "tags": "brand, logo",
-      "unicode": "f2c4"
+      "unicode": "f2c4",
+      "prefix": "fab"
     },
     {
       "name": "quote-left",
@@ -2257,12 +2225,14 @@
     {
       "name": "ravelry",
       "tags": "brand, logo",
-      "unicode": "f2d9"
+      "unicode": "f2d9",
+      "prefix": "fab"
     },
     {
       "name": "rebel",
       "tags": "brand, logo, star wars",
-      "unicode": "f1d0"
+      "unicode": "f1d0",
+      "prefix": "fab"
     },
     {
       "name": "recycle",
@@ -2271,22 +2241,25 @@
     {
       "name": "reddit",
       "tags": "brand, logo, alien, social",
-      "unicode": "f1a1"
+      "unicode": "f1a1",
+      "prefix": "fab"
     },
     {
       "name": "reddit-alien",
       "tags": "brand, logo, alien, social",
-      "unicode": "f281"
+      "unicode": "f281",
+      "prefix": "fab"
     },
     {
       "name": "reddit-square",
       "tags": "brand, logo, alien, social",
-      "unicode": "f1a2"
+      "unicode": "f1a2",
+      "prefix": "fab"
     },
     {
-      "name": "refresh",
-      "tags": "reload",
-      "unicode": "f021"
+      "name": "redo",
+      "tags": "repeat, rotate-right, text editor",
+      "unicode": "f01e"
     },
     {
       "name": "registered",
@@ -2296,12 +2269,8 @@
     {
       "name": "renren",
       "tags": "brand, logo, social",
-      "unicode": "f18b"
-    },
-    {
-      "name": "repeat",
-      "tags": "rotate-right, text editor",
-      "unicode": "f01e"
+      "unicode": "f18b",
+      "prefix": "fab"
     },
     {
       "name": "reply",
@@ -2336,24 +2305,31 @@
       "unicode": "f143"
     },
     {
-      "name": "rub",
-      "tags": "ruble, rouble, currency, money",
+      "name": "ruble-sign",
+      "tags": "rouble, currency, money",
       "unicode": "f158"
+    },
+    {
+      "name": "rupee-sign",
+      "tags": "inr, currency, money",
+      "unicode": "f156"
     },
     {
       "name": "safari",
       "tags": "brand, browser, logo",
-      "unicode": "f267"
+      "unicode": "f267",
+      "prefix": "fab"
     },
     {
-      "name": "scissors",
-      "tags": "cut",
-      "unicode": "f0c4"
+      "name": "save",
+      "tags": "floppy",
+      "unicode": "f0c7"
     },
     {
       "name": "scribd",
       "tags": "brand, logo",
-      "unicode": "f28a"
+      "unicode": "f28a",
+      "prefix": "fab"
     },
     {
       "name": "search",
@@ -2373,7 +2349,8 @@
     {
       "name": "sellsy",
       "tags": "brand, logo",
-      "unicode": "f213"
+      "unicode": "f213",
+      "prefix": "fab"
     },
     {
       "name": "server",
@@ -2400,13 +2377,13 @@
       "unicode": "f14d"
     },
     {
-      "name": "share-square-o",
-      "tags": "social",
-      "unicode": "f045"
+      "name": "shekel-sign",
+      "tags": "ils, israeli, sheqel, money, currency",
+      "unicode": "f20b"
     },
     {
-      "name": "shield",
-      "unicode": "f132"
+      "name": "shield-alt",
+      "unicode": "f3ed"
     },
     {
       "name": "ship",
@@ -2416,7 +2393,8 @@
     {
       "name": "shirtsinbulk",
       "tags": "brand, logo",
-      "unicode": "f214"
+      "unicode": "f214",
+      "prefix": "fab"
     },
     {
       "name": "shopping-bag",
@@ -2436,8 +2414,8 @@
       "unicode": "f2cc"
     },
     {
-      "name": "sign-in",
-      "unicode": "f090"
+      "name": "sign-in-alt",
+      "unicode": "f2f6"
     },
     {
       "name": "sign-language",
@@ -2445,8 +2423,8 @@
       "unicode": "f2a7"
     },
     {
-      "name": "sign-out",
-      "unicode": "f08b"
+      "name": "sign-out-alt",
+      "unicode": "f2f5"
     },
     {
       "name": "signal",
@@ -2456,7 +2434,8 @@
     {
       "name": "simplybuilt",
       "tags": "brand, logo",
-      "unicode": "f215"
+      "unicode": "f215",
+      "prefix": "fab"
     },
     {
       "name": "sitemap",
@@ -2465,49 +2444,56 @@
     {
       "name": "skyatlas",
       "tags": "brand, logo",
-      "unicode": "f216"
+      "unicode": "f216",
+      "prefix": "fab"
     },
     {
       "name": "skype",
       "tags": "brand, logo, social",
-      "unicode": "f17e"
+      "unicode": "f17e",
+      "prefix": "fab"
     },
     {
       "name": "slack",
       "tags": "brand, logo, social, hash, pound",
-      "unicode": "f198"
+      "unicode": "f198",
+      "prefix": "fab"
     },
     {
-      "name": "sliders",
+      "name": "sliders-h",
       "tags": "settings",
       "unicode": "f1de"
     },
     {
       "name": "slideshare",
-      "unicode": "f1e7"
+      "unicode": "f1e7",
+      "prefix": "fab"
     },
     {
-      "name": "smile-o",
+      "name": "smile",
       "tags": "face, smiley, ratings, rate, like",
       "unicode": "f118"
     },
     {
       "name": "snapchat",
       "tags": "brand, logo, social",
-      "unicode": "f2ab"
+      "unicode": "f2ab",
+      "prefix": "fab"
     },
     {
       "name": "snapchat-ghost",
       "tags": "brand, logo, social",
-      "unicode": "f2ac"
+      "unicode": "f2ac",
+      "prefix": "fab"
     },
     {
       "name": "snapchat-square",
       "tags": "brand, logo, social",
-      "unicode": "f2ad"
+      "unicode": "f2ad",
+      "prefix": "fab"
     },
     {
-      "name": "snowflake-o",
+      "name": "snowflake",
       "tags": "winter",
       "unicode": "f2dc"
     },
@@ -2517,43 +2503,44 @@
       "unicode": "f0dc"
     },
     {
-      "name": "sort-alpha-asc",
+      "name": "sort-alpha-down",
       "unicode": "f15d"
     },
     {
-      "name": "sort-alpha-desc",
+      "name": "sort-alpha-up",
       "unicode": "f15e"
     },
     {
-      "name": "sort-amount-asc",
+      "name": "sort-amount-down",
       "unicode": "f160"
     },
     {
-      "name": "sort-amount-desc",
+      "name": "sort-amount-up",
       "unicode": "f161"
     },
     {
-      "name": "sort-asc",
-      "tags": "sort-down, triangle",
-      "unicode": "f0de"
-    },
-    {
-      "name": "sort-desc",
-      "tags": "sort-up, triangle",
+      "name": "sort-down",
+      "tags": "triangle",
       "unicode": "f0dd"
     },
     {
-      "name": "sort-numeric-asc",
+      "name": "sort-up",
+      "tags": "triangle",
+      "unicode": "f0de"
+    },
+    {
+      "name": "sort-numeric-down",
       "unicode": "f162"
     },
     {
-      "name": "sort-numeric-desc",
+      "name": "sort-numeric-up",
       "unicode": "f163"
     },
     {
       "name": "soundcloud",
       "tags": "brand, logo, social, music",
-      "unicode": "f1be"
+      "unicode": "f1be",
+      "prefix": "fab"
     },
     {
       "name": "space-shuttle",
@@ -2565,13 +2552,10 @@
       "unicode": "f110"
     },
     {
-      "name": "spoon",
-      "unicode": "f1b1"
-    },
-    {
       "name": "spotify",
       "tags": "brand, logo, social, music",
-      "unicode": "f1bc"
+      "unicode": "f1bc",
+      "prefix": "fab"
     },
     {
       "name": "square",
@@ -2579,19 +2563,16 @@
       "unicode": "f0c8"
     },
     {
-      "name": "square-o",
-      "tags": "form control",
-      "unicode": "f096"
-    },
-    {
       "name": "stack-exchange",
       "tags": "brand, social",
-      "unicode": "f18d"
+      "unicode": "f18d",
+      "prefix": "fab"
     },
     {
       "name": "stack-overflow",
       "tags": "brand, social",
-      "unicode": "f16c"
+      "unicode": "f16c",
+      "prefix": "fab"
     },
     {
       "name": "star",
@@ -2604,24 +2585,16 @@
       "unicode": "f089"
     },
     {
-      "name": "star-half-o",
-      "tags": "star-half-empty, star-half-full, ratings, rate",
-      "unicode": "f123"
-    },
-    {
-      "name": "star-o",
-      "tags": "favorite, ratings, rate",
-      "unicode": "f006"
-    },
-    {
       "name": "steam",
       "tags": "brand, logo, social, games, valve",
-      "unicode": "f1b6"
+      "unicode": "f1b6",
+      "prefix": "fab"
     },
     {
       "name": "steam-square",
       "tags": "brand, logo, social, games, valve",
-      "unicode": "f1b7"
+      "unicode": "f1b7",
+      "prefix": "fab"
     },
     {
       "name": "step-backward",
@@ -2644,11 +2617,6 @@
       "unicode": "f249"
     },
     {
-      "name": "sticky-note-o",
-      "tags": "",
-      "unicode": "f24a"
-    },
-    {
       "name": "stop",
       "tags": "video player, square",
       "unicode": "f04d"
@@ -2657,11 +2625,6 @@
       "name": "stop-circle",
       "tags": "video player",
       "unicode": "f28d"
-    },
-    {
-      "name": "stop-circle-o",
-      "tags": "video player",
-      "unicode": "f28e"
     },
     {
       "name": "street-view",
@@ -2676,12 +2639,14 @@
     {
       "name": "stumbleupon",
       "tags": "brand, logo, social",
-      "unicode": "f1a4"
+      "unicode": "f1a4",
+      "prefix": "fab"
     },
     {
       "name": "stumbleupon-circle",
       "tags": "brand, logo, social",
-      "unicode": "f1a3"
+      "unicode": "f1a3",
+      "prefix": "fab"
     },
     {
       "name": "subscript",
@@ -2698,7 +2663,7 @@
       "unicode": "f0f2"
     },
     {
-      "name": "sun-o",
+      "name": "sun",
       "tags": "weather",
       "unicode": "f185"
     },
@@ -2712,19 +2677,24 @@
       "unicode": "f12b"
     },
     {
+      "name": "sync",
+      "tags": "refresh, reload",
+      "unicode": "f021"
+    },
+    {
       "name": "table",
       "tags": "text editor",
       "unicode": "f0ce"
     },
     {
-      "name": "tablet",
+      "name": "tablet-alt",
       "tags": "computer, ipad",
-      "unicode": "f10a"
+      "unicode": "f3fa"
     },
     {
-      "name": "tachometer",
+      "name": "tachometer-alt",
       "tags": "dashboard, speedometer",
-      "unicode": "f0e4"
+      "unicode": "f3fd"
     },
     {
       "name": "tag",
@@ -2746,17 +2716,19 @@
     {
       "name": "telegram",
       "tags": "paper airplane",
-      "unicode": "f2c6"
+      "unicode": "f2c6",
+      "prefix": "fab"
     },
     {
-      "name": "television",
-      "tags": "computer, display, monitor, tv",
+      "name": "tv",
+      "tags": "computer, display, monitor, television",
       "unicode": "f26c"
     },
     {
       "name": "tencent-weibo",
       "tags": "brand, logo, social",
-      "unicode": "f1d5"
+      "unicode": "f1d5",
+      "prefix": "fab"
     },
     {
       "name": "terminal",
@@ -2791,7 +2763,8 @@
     {
       "name": "themeisle",
       "tags": "bird, brand, logo",
-      "unicode": "f2b2"
+      "unicode": "f2b2",
+      "prefix": "fab"
     },
     {
       "name": "thermometer-empty",
@@ -2819,24 +2792,9 @@
       "unicode": "f2c8"
     },
     {
-      "name": "thumb-tack",
-      "tags": "pin",
-      "unicode": "f08d"
-    },
-    {
       "name": "thumbs-down",
       "tags": "dislike, ratings",
       "unicode": "f165"
-    },
-    {
-      "name": "thumbs-o-down",
-      "tags": "dislike, ratings",
-      "unicode": "f088"
-    },
-    {
-      "name": "thumbs-o-up",
-      "tags": "like, ratings",
-      "unicode": "f087"
     },
     {
       "name": "thumbs-up",
@@ -2844,9 +2802,14 @@
       "unicode": "f164"
     },
     {
-      "name": "ticket",
+      "name": "thumbtack",
+      "tags": "pin",
+      "unicode": "f08d"
+    },
+    {
+      "name": "ticket-alt",
       "tags": "film, movie, admission",
-      "unicode": "f145"
+      "unicode": "f3ff"
     },
     {
       "name": "times",
@@ -2857,11 +2820,6 @@
       "name": "times-circle",
       "tags": "close, remove, delete",
       "unicode": "f057"
-    },
-    {
-      "name": "times-circle-o",
-      "tags": "close, remove, delete",
-      "unicode": "f05c"
     },
     {
       "name": "tint",
@@ -2889,7 +2847,7 @@
     },
     {
       "name": "transgender",
-      "tags": "gender",
+      "tags": "gender, intersex",
       "unicode": "f224"
     },
     {
@@ -2898,14 +2856,9 @@
       "unicode": "f225"
     },
     {
-      "name": "trash",
+      "name": "trash-alt",
       "tags": "delete",
-      "unicode": "f1f8"
-    },
-    {
-      "name": "trash-o",
-      "tags": "delete",
-      "unicode": "f014"
+      "unicode": "f2ed"
     },
     {
       "name": "tree",
@@ -2914,12 +2867,14 @@
     {
       "name": "trello",
       "tags": "brand, logo, social",
-      "unicode": "f181"
+      "unicode": "f181",
+      "prefix": "fab"
     },
     {
       "name": "tripadvisor",
       "tags": "brand, logo",
-      "unicode": "f262"
+      "unicode": "f262",
+      "prefix": "fab"
     },
     {
       "name": "trophy",
@@ -2932,11 +2887,6 @@
       "unicode": "f0d1"
     },
     {
-      "name": "try",
-      "tags": "turkish lira, currency, money",
-      "unicode": "f195"
-    },
-    {
       "name": "tty",
       "tags": "teletype",
       "unicode": "f1e4"
@@ -2944,27 +2894,32 @@
     {
       "name": "tumblr",
       "tags": "brand, logo, social",
-      "unicode": "f173"
+      "unicode": "f173",
+      "prefix": "fab"
     },
     {
       "name": "tumblr-square",
       "tags": "brand, logo, social",
-      "unicode": "f174"
+      "unicode": "f174",
+      "prefix": "fab"
     },
     {
       "name": "twitch",
       "tags": "brand, logo, video, social",
-      "unicode": "f1e8"
+      "unicode": "f1e8",
+      "prefix": "fab"
     },
     {
       "name": "twitter",
       "tags": "brand, logo, bird, animal, social",
-      "unicode": "f099"
+      "unicode": "f099",
+      "prefix": "fab"
     },
     {
       "name": "twitter-square",
       "tags": "brand, logo, bird, animal, social",
-      "unicode": "f081"
+      "unicode": "f081",
+      "prefix": "fab"
     },
     {
       "name": "umbrella",
@@ -2991,6 +2946,11 @@
       "unicode": "f19c"
     },
     {
+      "name": "unlink",
+      "tags": "broken chain, unlink, text editor",
+      "unicode": "f127"
+    },
+    {
       "name": "unlock",
       "unicode": "f09c"
     },
@@ -3004,12 +2964,8 @@
     },
     {
       "name": "usb",
-      "unicode": "f287"
-    },
-    {
-      "name": "usd",
-      "tags": "dollar, currency, money",
-      "unicode": "f155"
+      "unicode": "f287",
+      "prefix": "fab"
     },
     {
       "name": "user",
@@ -3022,19 +2978,9 @@
       "unicode": "f2bd"
     },
     {
-      "name": "user-circle-o",
-      "tags": "person",
-      "unicode": "f2be"
-    },
-    {
       "name": "user-md",
       "tags": "medical, doctor",
       "unicode": "f0f0"
-    },
-    {
-      "name": "user-o",
-      "tags": "person",
-      "unicode": "f2c0"
     },
     {
       "name": "user-plus",
@@ -3051,8 +2997,17 @@
     },
     {
       "name": "users",
-      "tags": "people",
+      "tags": "people, group",
       "unicode": "f0c0"
+    },
+    {
+      "name": "utensil-spoon",
+      "unicode": "f2e5"
+    },
+    {
+      "name": "utensils",
+      "tags": "cutlery, food, fork, knife",
+      "unicode": "f2e7"
     },
     {
       "name": "venus",
@@ -3072,46 +3027,49 @@
     {
       "name": "viacoin",
       "tags": "brand, currency, logo, money",
-      "unicode": "f237"
+      "unicode": "f237",
+      "prefix": "fab"
     },
     {
       "name": "viadeo",
       "tags": "brand, logo",
-      "unicode": "f2a9"
+      "unicode": "f2a9",
+      "prefix": "fab"
     },
     {
       "name": "viadeo-square",
       "tags": "brand, logo",
-      "unicode": "f2aa"
+      "unicode": "f2aa",
+      "prefix": "fab"
     },
     {
-      "name": "video-camera",
+      "name": "video",
+      "tags": "camera",
       "unicode": "f03d"
     },
     {
-      "name": "vimeo",
+      "name": "vimeo-v",
       "tags": "brand, logo, social, video",
-      "unicode": "f27d"
+      "unicode": "f27d",
+      "prefix": "fab"
     },
     {
       "name": "vimeo-square",
       "tags": "brand, logo, social, video",
-      "unicode": "f194"
+      "unicode": "f194",
+      "prefix": "fab"
     },
     {
       "name": "vine",
       "tags": "brand, logo, social",
-      "unicode": "f1ca"
+      "unicode": "f1ca",
+      "prefix": "fab"
     },
     {
       "name": "vk",
       "tags": "brand, logo, social",
-      "unicode": "f189"
-    },
-    {
-      "name": "volume-control-phone",
-      "tags": "audio, sound",
-      "unicode": "f2a0"
+      "unicode": "f189",
+      "prefix": "fab"
     },
     {
       "name": "volume-down",
@@ -3131,27 +3089,25 @@
     {
       "name": "weibo",
       "tags": "brand, logo, social",
-      "unicode": "f18a"
+      "unicode": "f18a",
+      "prefix": "fab"
     },
     {
       "name": "weixin",
-      "tags": "brand, logo, social, chat",
-      "unicode": "f1d7"
+      "tags": "brand, logo, social, chat, wechat",
+      "unicode": "f1d7",
+      "prefix": "fab"
     },
     {
       "name": "whatsapp",
       "tags": "brand, logo, social",
-      "unicode": "f232"
+      "unicode": "f232",
+      "prefix": "fab"
     },
     {
       "name": "wheelchair",
       "tags": "handicapped",
       "unicode": "f193"
-    },
-    {
-      "name": "wheelchair-alt",
-      "tags": "handicapped",
-      "unicode": "f29b"
     },
     {
       "name": "wifi",
@@ -3161,17 +3117,13 @@
     {
       "name": "wikipedia-w",
       "tags": "brand, logo",
-      "unicode": "f266"
+      "unicode": "f266",
+      "prefix": "fab"
     },
     {
       "name": "window-close",
       "tags": "times-rectangle",
-      "unicode": "f2d3"
-    },
-    {
-      "name": "window-close-o",
-      "tags": "times-rectangle",
-      "unicode": "f2d4"
+      "unicode": "f410"
     },
     {
       "name": "window-maximize",
@@ -3191,27 +3143,37 @@
     {
       "name": "windows",
       "tags": "brand, logo, microsoft",
-      "unicode": "f17a"
+      "unicode": "f17a",
+      "prefix": "fab"
+    },
+    {
+      "name": "won-sign",
+      "tags": "krw, currency, money",
+      "unicode": "f159"
     },
     {
       "name": "wordpress",
       "tags": "brand, logo, social",
-      "unicode": "f19a"
+      "unicode": "f19a",
+      "prefix": "fab"
     },
     {
       "name": "wpbeginner",
       "tags": "brand, logo",
-      "unicode": "f297"
+      "unicode": "f297",
+      "prefix": "fab"
     },
     {
       "name": "wpexplorer",
       "tags": "brand, logo, telescope",
-      "unicode": "f2de"
+      "unicode": "f2de",
+      "prefix": "fab"
     },
     {
       "name": "wpforms",
       "tags": "brand, logo",
-      "unicode": "f298"
+      "unicode": "f298",
+      "prefix": "fab"
     },
     {
       "name": "wrench",
@@ -3221,47 +3183,61 @@
     {
       "name": "xing",
       "tags": "brand, logo, social",
-      "unicode": "f168"
+      "unicode": "f168",
+      "prefix": "fab"
     },
     {
       "name": "xing-square",
       "tags": "brand, logo, social",
-      "unicode": "f169"
+      "unicode": "f169",
+      "prefix": "fab"
     },
     {
       "name": "y-combinator",
       "tags": "brand, logo, social, yc",
-      "unicode": "f23b"
+      "unicode": "f23b",
+      "prefix": "fab"
     },
     {
       "name": "yahoo",
       "tags": "brand, logo",
-      "unicode": "f19e"
+      "unicode": "f19e",
+      "prefix": "fab"
     },
     {
       "name": "yelp",
       "tags": "brand, logo, social",
-      "unicode": "f1e9"
+      "unicode": "f1e9",
+      "prefix": "fab"
+    },
+    {
+      "name": "yen-sign",
+      "tags": "cny, rmb, currency, money",
+      "unicode": "f157"
     },
     {
       "name": "yoast",
       "tags": "brand, logo",
-      "unicode": "f2b1"
+      "unicode": "f2b1",
+      "prefix": "fab"
     },
     {
       "name": "youtube",
       "tags": "brand, logo, video, social",
-      "unicode": "f167"
+      "unicode": "f167",
+      "prefix": "fab"
     },
     {
       "name": "youtube-play",
       "tags": "brand, logo, video, social",
-      "unicode": "f16a"
+      "unicode": "f16a",
+      "prefix": "fab"
     },
     {
       "name": "youtube-square",
       "tags": "brand, logo, video, social",
-      "unicode": "f166"
+      "unicode": "f166",
+      "prefix": "fab"
     }
   ]
 }
