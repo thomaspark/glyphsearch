@@ -4,8 +4,13 @@
     "_tags": ["font-awesome"],
     "name": "{{name}}",
     "tags": "{{tags}}",
+    {{#if prefix}}
+    "class": "{{prefix}} fa-{{name}}",
+    "html": "<i class=\"{{prefix}} fa-{{name}}\"></i>",
+    {{else}}
     "class": "fa fa-{{name}}",
     "html": "<i class=\"fa fa-{{name}}\"></i>",
+    {{/if}}
     "unicode": "{{unicode}}"
   },
   {{/each}}
