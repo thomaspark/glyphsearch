@@ -158,7 +158,8 @@ hr {
   margin-bottom: 15px;
 }
 
-.about .fa {
+.about .fa,
+.about .fab {
   margin: 0 8px 8px;
   font-size: 24px;
 }
