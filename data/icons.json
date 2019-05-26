@@ -1755,7 +1755,7 @@
 		},
 		{
 			"name": "dhl",
-			"tags": "brand, logo",
+			"tags": "brand, logo, shipping carrier",
 			"unicode": "f790",
 			"prefix": "fab"
 		},
@@ -2265,7 +2265,7 @@
 		},
 		{
 			"name": "fedex",
-			"tags": "brand, logo",
+			"tags": "brand, logo, shipping carrier",
 			"unicode": "f797",
 			"prefix": "fab"
 		},
@@ -6519,7 +6519,7 @@
 		},
 		{
 			"name": "ups",
-			"tags": "brand, logo",
+			"tags": "brand, logo, shipping carrier",
 			"unicode": "f7e0",
 			"prefix": "fab"
 		},
@@ -6658,7 +6658,7 @@
 		},
 		{
 			"name": "usps",
-			"tags": "brand, logo",
+			"tags": "brand, logo, shipping carrier",
 			"unicode": "f7e1",
 			"prefix": "fab"
 		},

@@ -2698,7 +2698,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "dhl",
-    "tags": "brand, logo",
+    "tags": "brand, logo, shipping carrier",
     "class": "fab fa-dhl",
     "html": "<i class=\"fab fa-dhl\"></i>",
     "unicode": "f790"
@@ -3474,7 +3474,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "fedex",
-    "tags": "brand, logo",
+    "tags": "brand, logo, shipping carrier",
     "class": "fab fa-fedex",
     "html": "<i class=\"fab fa-fedex\"></i>",
     "unicode": "f797"
@@ -9994,7 +9994,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "ups",
-    "tags": "brand, logo",
+    "tags": "brand, logo, shipping carrier",
     "class": "fab fa-ups",
     "html": "<i class=\"fab fa-ups\"></i>",
     "unicode": "f7e0"
@@ -10218,7 +10218,7 @@
   {
     "_tags": ["font-awesome"],
     "name": "usps",
-    "tags": "brand, logo",
+    "tags": "brand, logo, shipping carrier",
     "class": "fab fa-usps",
     "html": "<i class=\"fab fa-usps\"></i>",
     "unicode": "f7e1"
