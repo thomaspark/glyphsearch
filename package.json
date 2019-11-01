@@ -23,7 +23,7 @@
     "grunt-merge-json": "~0.9.4"
   },
   "devDependencies": {
-    "csv-parse": "^1.0.1",
+    "csv-parse": "^4.6.5",
     "grunt-cli": "latest"
   }
 }
