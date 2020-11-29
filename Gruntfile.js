@@ -87,38 +87,39 @@ module.exports = function(grunt) {
     var done = this.async();
 
     var materialIconsData = require('./data/icons-material.json')
+    var materialIconsString = JSON.stringify(materialIconsData);
 
-    // console.log('IN', materialIconsData)
+    var fontCodepoints = grunt.file.readJSON('./bower_components/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.json');
+    var fontCodepointsMap = {}
 
-    var fs = require('fs')
-    var cvsParse = require('csv-parse')
+    Object.keys(fontCodepoints).forEach((name) => {
+      let unicode = fontCodepoints[name].toLowerCase()
+      fontCodepointsMap['' + name] = unicode;
 
-    var writeStream = fs.createWriteStream('./data/icons-material.json')
+      if (materialIconsString.indexOf(name) < 0) {
+        materialIconsData.material.push({'name': name, 'tags': ''});
+      }
+    });
 
-    var fontCodepointsParser = cvsParse({delimiter: ' ', columns: ['name', 'unicode']}, function(err, fontCodepoints){
-      // console.log('CODEPOINTS', fontCodepoints)
+    materialIconsData.material.forEach(function(item) {
+      item.unicode = fontCodepointsMap[item.name];
+    });
 
-      var fontCodepointsMap = {}
+    materialIconsData.material.sort((a, b) => {
+      if ( a.name < b.name ){
+        return -1;
+      }
+      if ( a.name > b.name ){
+        return 1;
+      }
+      return 0;
+    });
 
-      fontCodepoints.forEach(function(codepoint) {
-        fontCodepointsMap['' + codepoint.name] = codepoint.unicode
-        fontCodepointsMap['' + codepoint.unicode] = codepoint.name
-      })
+    // console.log('OUT', materialIconsData);
 
-      materialIconsData.material.forEach(function(item) {
-        item.unicode = fontCodepointsMap[item.name]
-        // item.tags = ''
-      })
+    grunt.file.write('./data/icons-material.json', JSON.stringify(materialIconsData, null, 2));
 
-      console.log('OUT', materialIconsData)
-
-      writeStream.write(JSON.stringify(materialIconsData, null, '  '), 'utf8')
-      writeStream.end()
-
-      done()
-    })
-
-    fs.createReadStream('./bower_components/material-design-icons/iconfont/codepoints').pipe(fontCodepointsParser)
+    done();
   });
 
 };
