@@ -10,8 +10,8 @@ Run `grunt build` to build after you've modified the icon data in `/data`.
 
 Thomas Park
 
-* http://thomaspark.co
-* http://twitter.com/thomashpark
+* https://thomaspark.co
+* https://twitter.com/thomashpark
 * https://github.com/thomaspark
 
 ## Credits
