@@ -1,0 +1,46 @@
+{
+  "name": "material-design-icons-iconfont",
+  "version": "v6.1.0",
+  "description": "Material Design icons DX",
+  "main": "dist/material-design-icons.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jossef/material-design-icons-iconfont"
+  },
+  "scripts": {
+    "build": "node ./build/build.js",
+    "check-for-font-updates": "node ./build/check-for-font-updates.js",
+    "docs-build": "nuxt generate --config-file nuxt.config.js",
+    "docs-dev": "nuxt --config-file nuxt.config.js --hostname 0.0.0.0 --port 3000"
+  },
+  "mode": "spa",
+  "keywords": [
+    "icons",
+    "material",
+    "material-design",
+    "material-design-icons",
+    "material-design-icons-build",
+    "material-design-icons-release",
+    "material-design-icons-dist",
+    "material-design-icons-iconfont",
+    "mdidx",
+    "google"
+  ],
+  "author": "Material Design Authors, Jossef Harush",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jossef/material-design-icons-iconfont/issues"
+  },
+  "homepage": "https://jossef.github.io/material-design-icons-iconfont/",
+  "devDependencies": {
+    "fontkit": "^1.8.1",
+    "mkdirp": "^1.0.4",
+    "node-sass": "^4.14.1",
+    "nuxt": "^2.14.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "sass-loader": "^7.1.0",
+    "sha256-file": "^1.0.0",
+    "sort-keys": "^4.0.0"
+  }
+}
