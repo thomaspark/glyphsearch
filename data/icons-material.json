@@ -1,9 +1,234 @@
 {
   "material": [
     {
+      "name": "10k",
+      "tags": "",
+      "unicode": "e951"
+    },
+    {
+      "name": "10mp",
+      "tags": "",
+      "unicode": "e952"
+    },
+    {
+      "name": "11mp",
+      "tags": "",
+      "unicode": "e953"
+    },
+    {
+      "name": "12mp",
+      "tags": "",
+      "unicode": "e954"
+    },
+    {
+      "name": "13mp",
+      "tags": "",
+      "unicode": "e955"
+    },
+    {
+      "name": "14mp",
+      "tags": "",
+      "unicode": "e956"
+    },
+    {
+      "name": "15mp",
+      "tags": "",
+      "unicode": "e957"
+    },
+    {
+      "name": "16mp",
+      "tags": "",
+      "unicode": "e958"
+    },
+    {
+      "name": "17mp",
+      "tags": "",
+      "unicode": "e959"
+    },
+    {
+      "name": "18mp",
+      "tags": "",
+      "unicode": "e95a"
+    },
+    {
+      "name": "19mp",
+      "tags": "",
+      "unicode": "e95b"
+    },
+    {
+      "name": "1k",
+      "tags": "",
+      "unicode": "e95c"
+    },
+    {
+      "name": "1k_plus",
+      "tags": "",
+      "unicode": "e95d"
+    },
+    {
+      "name": "20mp",
+      "tags": "",
+      "unicode": "e95e"
+    },
+    {
+      "name": "21mp",
+      "tags": "",
+      "unicode": "e95f"
+    },
+    {
+      "name": "22mp",
+      "tags": "",
+      "unicode": "e960"
+    },
+    {
+      "name": "23mp",
+      "tags": "",
+      "unicode": "e961"
+    },
+    {
+      "name": "24mp",
+      "tags": "",
+      "unicode": "e962"
+    },
+    {
+      "name": "2k",
+      "tags": "",
+      "unicode": "e963"
+    },
+    {
+      "name": "2k_plus",
+      "tags": "",
+      "unicode": "e964"
+    },
+    {
+      "name": "2mp",
+      "tags": "",
+      "unicode": "e965"
+    },
+    {
+      "name": "360",
+      "tags": "",
+      "unicode": "e577"
+    },
+    {
       "name": "3d_rotation",
       "tags": "",
       "unicode": "e84d"
+    },
+    {
+      "name": "3k",
+      "tags": "",
+      "unicode": "e966"
+    },
+    {
+      "name": "3k_plus",
+      "tags": "",
+      "unicode": "e967"
+    },
+    {
+      "name": "3mp",
+      "tags": "",
+      "unicode": "e968"
+    },
+    {
+      "name": "4k",
+      "tags": "",
+      "unicode": "e072"
+    },
+    {
+      "name": "4k_plus",
+      "tags": "",
+      "unicode": "e969"
+    },
+    {
+      "name": "4mp",
+      "tags": "",
+      "unicode": "e96a"
+    },
+    {
+      "name": "5g",
+      "tags": "",
+      "unicode": "ef38"
+    },
+    {
+      "name": "5k",
+      "tags": "",
+      "unicode": "e96b"
+    },
+    {
+      "name": "5k_plus",
+      "tags": "",
+      "unicode": "e96c"
+    },
+    {
+      "name": "5mp",
+      "tags": "",
+      "unicode": "e96d"
+    },
+    {
+      "name": "6_ft_apart",
+      "tags": "",
+      "unicode": "f21e"
+    },
+    {
+      "name": "6k",
+      "tags": "",
+      "unicode": "e96e"
+    },
+    {
+      "name": "6k_plus",
+      "tags": "",
+      "unicode": "e96f"
+    },
+    {
+      "name": "6mp",
+      "tags": "",
+      "unicode": "e970"
+    },
+    {
+      "name": "7k",
+      "tags": "",
+      "unicode": "e971"
+    },
+    {
+      "name": "7k_plus",
+      "tags": "",
+      "unicode": "e972"
+    },
+    {
+      "name": "7mp",
+      "tags": "",
+      "unicode": "e973"
+    },
+    {
+      "name": "8k",
+      "tags": "",
+      "unicode": "e974"
+    },
+    {
+      "name": "8k_plus",
+      "tags": "",
+      "unicode": "e975"
+    },
+    {
+      "name": "8mp",
+      "tags": "",
+      "unicode": "e976"
+    },
+    {
+      "name": "9k",
+      "tags": "",
+      "unicode": "e977"
+    },
+    {
+      "name": "9k_plus",
+      "tags": "",
+      "unicode": "e978"
+    },
+    {
+      "name": "9mp",
+      "tags": "",
+      "unicode": "e979"
     },
     {
       "name": "ac_unit",
@@ -31,9 +256,19 @@
       "unicode": "e84e"
     },
     {
+      "name": "accessibility_new",
+      "tags": "",
+      "unicode": "e92c"
+    },
+    {
       "name": "accessible",
       "tags": "",
       "unicode": "e914"
+    },
+    {
+      "name": "accessible_forward",
+      "tags": "",
+      "unicode": "e934"
     },
     {
       "name": "account_balance",
@@ -54,6 +289,16 @@
       "name": "account_circle",
       "tags": "avatar, user",
       "unicode": "e853"
+    },
+    {
+      "name": "account_tree",
+      "tags": "",
+      "unicode": "e97a"
+    },
+    {
+      "name": "ad_units",
+      "tags": "",
+      "unicode": "ef39"
     },
     {
       "name": "adb",
@@ -86,6 +331,21 @@
       "unicode": "e146"
     },
     {
+      "name": "add_business",
+      "tags": "",
+      "unicode": "e729"
+    },
+    {
+      "name": "add_call",
+      "tags": "",
+      "unicode": "e0e8"
+    },
+    {
+      "name": "add_chart",
+      "tags": "",
+      "unicode": "e97b"
+    },
+    {
       "name": "add_circle",
       "tags": "plus",
       "unicode": "e147"
@@ -96,14 +356,64 @@
       "unicode": "e148"
     },
     {
+      "name": "add_comment",
+      "tags": "",
+      "unicode": "e266"
+    },
+    {
+      "name": "add_ic_call",
+      "tags": "",
+      "unicode": "e97c"
+    },
+    {
+      "name": "add_link",
+      "tags": "",
+      "unicode": "e178"
+    },
+    {
       "name": "add_location",
       "tags": "map marker",
       "unicode": "e567"
     },
     {
+      "name": "add_location_alt",
+      "tags": "",
+      "unicode": "ef3a"
+    },
+    {
+      "name": "add_moderator",
+      "tags": "",
+      "unicode": "e97d"
+    },
+    {
+      "name": "add_photo_alternate",
+      "tags": "",
+      "unicode": "e43e"
+    },
+    {
+      "name": "add_road",
+      "tags": "",
+      "unicode": "ef3b"
+    },
+    {
       "name": "add_shopping_cart",
       "tags": "",
       "unicode": "e854"
+    },
+    {
+      "name": "add_task",
+      "tags": "",
+      "unicode": "f23a"
+    },
+    {
+      "name": "add_to_drive",
+      "tags": "",
+      "unicode": "e65c"
+    },
+    {
+      "name": "add_to_home_screen",
+      "tags": "",
+      "unicode": "e1fe"
     },
     {
       "name": "add_to_photos",
@@ -116,9 +426,24 @@
       "unicode": "e05c"
     },
     {
+      "name": "addchart",
+      "tags": "",
+      "unicode": "ef3c"
+    },
+    {
       "name": "adjust",
       "tags": "",
       "unicode": "e39e"
+    },
+    {
+      "name": "admin_panel_settings",
+      "tags": "",
+      "unicode": "ef3d"
+    },
+    {
+      "name": "agriculture",
+      "tags": "",
+      "unicode": "ea79"
     },
     {
       "name": "airline_seat_flat",
@@ -171,6 +496,16 @@
       "unicode": "e194"
     },
     {
+      "name": "airplanemode_off",
+      "tags": "",
+      "unicode": "e194"
+    },
+    {
+      "name": "airplanemode_on",
+      "tags": "",
+      "unicode": "e195"
+    },
+    {
       "name": "airplay",
       "tags": "video",
       "unicode": "e055"
@@ -206,6 +541,41 @@
       "unicode": "e019"
     },
     {
+      "name": "align_horizontal_center",
+      "tags": "",
+      "unicode": "e00f"
+    },
+    {
+      "name": "align_horizontal_left",
+      "tags": "",
+      "unicode": "e00d"
+    },
+    {
+      "name": "align_horizontal_right",
+      "tags": "",
+      "unicode": "e010"
+    },
+    {
+      "name": "align_vertical_bottom",
+      "tags": "",
+      "unicode": "e015"
+    },
+    {
+      "name": "align_vertical_center",
+      "tags": "",
+      "unicode": "e011"
+    },
+    {
+      "name": "align_vertical_top",
+      "tags": "",
+      "unicode": "e00c"
+    },
+    {
+      "name": "all_inbox",
+      "tags": "",
+      "unicode": "e97f"
+    },
+    {
       "name": "all_inclusive",
       "tags": "infinity",
       "unicode": "eb3d"
@@ -216,9 +586,39 @@
       "unicode": "e90b"
     },
     {
+      "name": "alt_route",
+      "tags": "",
+      "unicode": "f184"
+    },
+    {
+      "name": "alternate_email",
+      "tags": "",
+      "unicode": "e0e6"
+    },
+    {
+      "name": "amp_stories",
+      "tags": "",
+      "unicode": "ea13"
+    },
+    {
+      "name": "analytics",
+      "tags": "",
+      "unicode": "ef3e"
+    },
+    {
+      "name": "anchor",
+      "tags": "",
+      "unicode": "f1cd"
+    },
+    {
       "name": "android",
       "tags": "brand, logo",
       "unicode": "e859"
+    },
+    {
+      "name": "animation",
+      "tags": "",
+      "unicode": "e71c"
     },
     {
       "name": "announcement",
@@ -226,9 +626,44 @@
       "unicode": "e85a"
     },
     {
+      "name": "apartment",
+      "tags": "",
+      "unicode": "ea40"
+    },
+    {
+      "name": "api",
+      "tags": "",
+      "unicode": "f1b7"
+    },
+    {
+      "name": "app_blocking",
+      "tags": "",
+      "unicode": "ef3f"
+    },
+    {
+      "name": "app_registration",
+      "tags": "",
+      "unicode": "ef40"
+    },
+    {
+      "name": "app_settings_alt",
+      "tags": "",
+      "unicode": "ef41"
+    },
+    {
+      "name": "approval",
+      "tags": "",
+      "unicode": "e982"
+    },
+    {
       "name": "apps",
       "tags": "grid",
       "unicode": "e5c3"
+    },
+    {
+      "name": "architecture",
+      "tags": "",
+      "unicode": "ea3b"
     },
     {
       "name": "archive",
@@ -239,6 +674,21 @@
       "name": "arrow_back",
       "tags": "directional",
       "unicode": "e5c4"
+    },
+    {
+      "name": "arrow_back_ios",
+      "tags": "",
+      "unicode": "e5e0"
+    },
+    {
+      "name": "arrow_circle_down",
+      "tags": "",
+      "unicode": "f181"
+    },
+    {
+      "name": "arrow_circle_up",
+      "tags": "",
+      "unicode": "f182"
     },
     {
       "name": "arrow_downward",
@@ -266,6 +716,16 @@
       "unicode": "e5c8"
     },
     {
+      "name": "arrow_forward_ios",
+      "tags": "",
+      "unicode": "e5e1"
+    },
+    {
+      "name": "arrow_right_alt",
+      "tags": "",
+      "unicode": "e941"
+    },
+    {
       "name": "arrow_upward",
       "tags": "",
       "unicode": "e5d8"
@@ -274,6 +734,11 @@
       "name": "art_track",
       "tags": "",
       "unicode": "e060"
+    },
+    {
+      "name": "article",
+      "tags": "",
+      "unicode": "ef42"
     },
     {
       "name": "aspect_ratio",
@@ -321,9 +786,24 @@
       "unicode": "e39f"
     },
     {
+      "name": "assistant_direction",
+      "tags": "",
+      "unicode": "e988"
+    },
+    {
+      "name": "assistant_navigation",
+      "tags": "",
+      "unicode": "e989"
+    },
+    {
       "name": "assistant_photo",
       "tags": "flag",
       "unicode": "e3a0"
+    },
+    {
+      "name": "attach_email",
+      "tags": "",
+      "unicode": "ea5e"
     },
     {
       "name": "attach_file",
@@ -341,9 +821,54 @@
       "unicode": "e2bc"
     },
     {
+      "name": "attractions",
+      "tags": "",
+      "unicode": "ea52"
+    },
+    {
       "name": "audiotrack",
       "tags": "music note",
       "unicode": "e3a1"
+    },
+    {
+      "name": "auto_awesome",
+      "tags": "",
+      "unicode": "e65f"
+    },
+    {
+      "name": "auto_awesome_mosaic",
+      "tags": "",
+      "unicode": "e660"
+    },
+    {
+      "name": "auto_awesome_motion",
+      "tags": "",
+      "unicode": "e661"
+    },
+    {
+      "name": "auto_delete",
+      "tags": "",
+      "unicode": "ea4c"
+    },
+    {
+      "name": "auto_fix_high",
+      "tags": "",
+      "unicode": "e663"
+    },
+    {
+      "name": "auto_fix_normal",
+      "tags": "",
+      "unicode": "e664"
+    },
+    {
+      "name": "auto_fix_off",
+      "tags": "",
+      "unicode": "e665"
+    },
+    {
+      "name": "auto_stories",
+      "tags": "",
+      "unicode": "e666"
     },
     {
       "name": "autorenew",
@@ -356,6 +881,16 @@
       "unicode": "e01b"
     },
     {
+      "name": "baby_changing_station",
+      "tags": "",
+      "unicode": "f19b"
+    },
+    {
+      "name": "backpack",
+      "tags": "",
+      "unicode": "f19c"
+    },
+    {
       "name": "backspace",
       "tags": "delete",
       "unicode": "e14a"
@@ -364,6 +899,41 @@
       "name": "backup",
       "tags": "cloud, upload",
       "unicode": "e864"
+    },
+    {
+      "name": "backup_table",
+      "tags": "",
+      "unicode": "ef43"
+    },
+    {
+      "name": "badge",
+      "tags": "",
+      "unicode": "ea67"
+    },
+    {
+      "name": "bakery_dining",
+      "tags": "",
+      "unicode": "ea53"
+    },
+    {
+      "name": "ballot",
+      "tags": "",
+      "unicode": "e172"
+    },
+    {
+      "name": "bar_chart",
+      "tags": "",
+      "unicode": "e26b"
+    },
+    {
+      "name": "batch_prediction",
+      "tags": "",
+      "unicode": "f0f5"
+    },
+    {
+      "name": "bathtub",
+      "tags": "",
+      "unicode": "ea41"
     },
     {
       "name": "battery_alert",
@@ -396,14 +966,39 @@
       "unicode": "eb3e"
     },
     {
+      "name": "bedtime",
+      "tags": "",
+      "unicode": "ef44"
+    },
+    {
       "name": "beenhere",
       "tags": "checkmark",
       "unicode": "e52d"
     },
     {
+      "name": "bento",
+      "tags": "",
+      "unicode": "f1f4"
+    },
+    {
+      "name": "bike_scooter",
+      "tags": "",
+      "unicode": "ef45"
+    },
+    {
+      "name": "biotech",
+      "tags": "",
+      "unicode": "ea3a"
+    },
+    {
       "name": "block",
       "tags": "prohibited",
       "unicode": "e14b"
+    },
+    {
+      "name": "block_flipped",
+      "tags": "",
+      "unicode": "ef46"
     },
     {
       "name": "bluetooth",
@@ -451,9 +1046,19 @@
       "unicode": "e3a5"
     },
     {
+      "name": "bolt",
+      "tags": "",
+      "unicode": "ea0b"
+    },
+    {
       "name": "book",
       "tags": "",
       "unicode": "e865"
+    },
+    {
+      "name": "book_online",
+      "tags": "",
+      "unicode": "f217"
     },
     {
       "name": "bookmark",
@@ -464,6 +1069,16 @@
       "name": "bookmark_border",
       "tags": "",
       "unicode": "e867"
+    },
+    {
+      "name": "bookmark_outline",
+      "tags": "",
+      "unicode": "e867"
+    },
+    {
+      "name": "bookmarks",
+      "tags": "",
+      "unicode": "e98b"
     },
     {
       "name": "border_all",
@@ -531,6 +1146,11 @@
       "unicode": "e06b"
     },
     {
+      "name": "breakfast_dining",
+      "tags": "",
+      "unicode": "ea54"
+    },
+    {
       "name": "brightness_1",
       "tags": "circle, full moon",
       "unicode": "e3a6"
@@ -591,6 +1211,16 @@
       "unicode": "e3ad"
     },
     {
+      "name": "browser_not_supported",
+      "tags": "",
+      "unicode": "ef47"
+    },
+    {
+      "name": "brunch_dining",
+      "tags": "",
+      "unicode": "ea73"
+    },
+    {
       "name": "brush",
       "tags": "paintbrush",
       "unicode": "e3ae"
@@ -611,9 +1241,19 @@
       "unicode": "e869"
     },
     {
+      "name": "build_circle",
+      "tags": "",
+      "unicode": "ef48"
+    },
+    {
       "name": "burst_mode",
       "tags": "photos",
       "unicode": "e43c"
+    },
+    {
+      "name": "bus_alert",
+      "tags": "",
+      "unicode": "e98f"
     },
     {
       "name": "business",
@@ -634,6 +1274,21 @@
       "name": "cake",
       "tags": "birthday",
       "unicode": "e7e9"
+    },
+    {
+      "name": "calculate",
+      "tags": "",
+      "unicode": "ea5f"
+    },
+    {
+      "name": "calendar_today",
+      "tags": "",
+      "unicode": "e935"
+    },
+    {
+      "name": "calendar_view_day",
+      "tags": "",
+      "unicode": "e936"
     },
     {
       "name": "call",
@@ -691,14 +1346,14 @@
       "unicode": "e3b0"
     },
     {
-      "name": "camera_front",
-      "tags": "",
-      "unicode": "e3b1"
-    },
-    {
       "name": "camera_enhance",
       "tags": "",
       "unicode": "e8fc"
+    },
+    {
+      "name": "camera_front",
+      "tags": "",
+      "unicode": "e3b1"
     },
     {
       "name": "camera_rear",
@@ -711,9 +1366,34 @@
       "unicode": "e3b3"
     },
     {
+      "name": "campaign",
+      "tags": "",
+      "unicode": "ef49"
+    },
+    {
       "name": "cancel",
       "tags": "close, remove, x",
       "unicode": "e5c9"
+    },
+    {
+      "name": "cancel_presentation",
+      "tags": "",
+      "unicode": "e0e9"
+    },
+    {
+      "name": "cancel_schedule_send",
+      "tags": "",
+      "unicode": "ea39"
+    },
+    {
+      "name": "car_rental",
+      "tags": "",
+      "unicode": "ea55"
+    },
+    {
+      "name": "car_repair",
+      "tags": "",
+      "unicode": "ea56"
     },
     {
       "name": "card_giftcard",
@@ -731,6 +1411,16 @@
       "unicode": "e8f8"
     },
     {
+      "name": "carpenter",
+      "tags": "",
+      "unicode": "f1f8"
+    },
+    {
+      "name": "cases",
+      "tags": "",
+      "unicode": "e992"
+    },
+    {
       "name": "casino",
       "tags": "dice, game",
       "unicode": "eb40"
@@ -746,6 +1436,26 @@
       "unicode": "e308"
     },
     {
+      "name": "cast_for_education",
+      "tags": "",
+      "unicode": "efec"
+    },
+    {
+      "name": "category",
+      "tags": "",
+      "unicode": "e574"
+    },
+    {
+      "name": "celebration",
+      "tags": "",
+      "unicode": "ea65"
+    },
+    {
+      "name": "cell_wifi",
+      "tags": "",
+      "unicode": "e0ec"
+    },
+    {
       "name": "center_focus_strong",
       "tags": "",
       "unicode": "e3b4"
@@ -759,6 +1469,11 @@
       "name": "change_history",
       "tags": "triangle",
       "unicode": "e86b"
+    },
+    {
+      "name": "charging_station",
+      "tags": "",
+      "unicode": "f19d"
     },
     {
       "name": "chat",
@@ -790,9 +1505,24 @@
       "tags": ""
     },
     {
+      "name": "check_box_outline_blank",
+      "tags": "",
+      "unicode": "e835"
+    },
+    {
       "name": "check_circle",
       "tags": "",
       "unicode": "e86c"
+    },
+    {
+      "name": "check_circle_outline",
+      "tags": "",
+      "unicode": "e92d"
+    },
+    {
+      "name": "checkroom",
+      "tags": "",
+      "unicode": "f19e"
     },
     {
       "name": "chevron_left",
@@ -820,9 +1550,24 @@
       "unicode": "e86d"
     },
     {
+      "name": "circle_notifications",
+      "tags": "",
+      "unicode": "e994"
+    },
+    {
       "name": "class",
       "tags": "bookmark",
       "unicode": "e86e"
+    },
+    {
+      "name": "clean_hands",
+      "tags": "",
+      "unicode": "f21f"
+    },
+    {
+      "name": "cleaning_services",
+      "tags": "",
+      "unicode": "f0ff"
     },
     {
       "name": "clear",
@@ -840,9 +1585,24 @@
       "unicode": "e5cd"
     },
     {
+      "name": "close_fullscreen",
+      "tags": "",
+      "unicode": "f1cf"
+    },
+    {
       "name": "closed_caption",
       "tags": "",
       "unicode": "e01c"
+    },
+    {
+      "name": "closed_caption_disabled",
+      "tags": "",
+      "unicode": "f1dc"
+    },
+    {
+      "name": "closed_caption_off",
+      "tags": "",
+      "unicode": "e996"
     },
     {
       "name": "cloud",
@@ -910,6 +1670,16 @@
       "unicode": "e0b9"
     },
     {
+      "name": "comment_bank",
+      "tags": "",
+      "unicode": "ea4e"
+    },
+    {
+      "name": "commute",
+      "tags": "",
+      "unicode": "e940"
+    },
+    {
       "name": "compare",
       "tags": "",
       "unicode": "e3b9"
@@ -918,6 +1688,16 @@
       "name": "compare_arrows",
       "tags": "",
       "unicode": "e915"
+    },
+    {
+      "name": "compass_calibration",
+      "tags": "",
+      "unicode": "e57c"
+    },
+    {
+      "name": "compress",
+      "tags": "",
+      "unicode": "e94d"
     },
     {
       "name": "computer",
@@ -930,14 +1710,44 @@
       "unicode": "e638"
     },
     {
+      "name": "connect_without_contact",
+      "tags": "",
+      "unicode": "f223"
+    },
+    {
+      "name": "connected_tv",
+      "tags": "",
+      "unicode": "e998"
+    },
+    {
+      "name": "construction",
+      "tags": "",
+      "unicode": "ea3c"
+    },
+    {
       "name": "contact_mail",
       "tags": "",
       "unicode": "e0d0"
     },
     {
+      "name": "contact_page",
+      "tags": "",
+      "unicode": "f22e"
+    },
+    {
       "name": "contact_phone",
       "tags": "",
       "unicode": "e0cf"
+    },
+    {
+      "name": "contact_support",
+      "tags": "",
+      "unicode": "e94c"
+    },
+    {
+      "name": "contactless",
+      "tags": "",
+      "unicode": "ea71"
     },
     {
       "name": "contacts",
@@ -960,6 +1770,11 @@
       "unicode": "e14f"
     },
     {
+      "name": "control_camera",
+      "tags": "",
+      "unicode": "e074"
+    },
+    {
       "name": "control_point",
       "tags": "plus",
       "unicode": "e3ba"
@@ -973,6 +1788,21 @@
       "name": "copyright",
       "tags": "",
       "unicode": "e90c"
+    },
+    {
+      "name": "coronavirus",
+      "tags": "",
+      "unicode": "f221"
+    },
+    {
+      "name": "corporate_fare",
+      "tags": "",
+      "unicode": "f1d0"
+    },
+    {
+      "name": "countertops",
+      "tags": "",
+      "unicode": "f1f7"
     },
     {
       "name": "create",
@@ -1050,9 +1880,19 @@
       "unicode": "e3c6"
     },
     {
+      "name": "dangerous",
+      "tags": "",
+      "unicode": "e99a"
+    },
+    {
       "name": "dashboard",
       "tags": "blocks, grid",
       "unicode": "e871"
+    },
+    {
+      "name": "dashboard_customize",
+      "tags": "",
+      "unicode": "e99b"
     },
     {
       "name": "data_usage",
@@ -1063,6 +1903,11 @@
       "name": "date_range",
       "tags": "calendar",
       "unicode": "e916"
+    },
+    {
+      "name": "deck",
+      "tags": "",
+      "unicode": "ea42"
     },
     {
       "name": "dehaze",
@@ -1080,14 +1925,39 @@
       "unicode": "e92b"
     },
     {
+      "name": "delete_outline",
+      "tags": "",
+      "unicode": "e92e"
+    },
+    {
       "name": "delete_sweep",
       "tags": "trash can",
       "unicode": "e16c"
     },
     {
+      "name": "delivery_dining",
+      "tags": "",
+      "unicode": "ea72"
+    },
+    {
+      "name": "departure_board",
+      "tags": "",
+      "unicode": "e576"
+    },
+    {
       "name": "description",
       "tags": "document, file",
       "unicode": "e873"
+    },
+    {
+      "name": "design_services",
+      "tags": "",
+      "unicode": "f10a"
+    },
+    {
+      "name": "desktop_access_disabled",
+      "tags": "",
+      "unicode": "e99d"
     },
     {
       "name": "desktop_mac",
@@ -1120,6 +1990,16 @@
       "unicode": "e335"
     },
     {
+      "name": "device_thermostat",
+      "tags": "",
+      "unicode": "e1ff"
+    },
+    {
+      "name": "device_unknown",
+      "tags": "",
+      "unicode": "e339"
+    },
+    {
       "name": "devices",
       "tags": "",
       "unicode": "e1b1"
@@ -1138,6 +2018,11 @@
       "name": "dialpad",
       "tags": "",
       "unicode": "e0bc"
+    },
+    {
+      "name": "dinner_dining",
+      "tags": "",
+      "unicode": "ea57"
     },
     {
       "name": "directions",
@@ -1165,6 +2050,16 @@
       "unicode": "e531"
     },
     {
+      "name": "directions_ferry",
+      "tags": "",
+      "unicode": "e532"
+    },
+    {
+      "name": "directions_off",
+      "tags": "",
+      "unicode": "f10f"
+    },
+    {
       "name": "directions_railway",
       "tags": "train",
       "unicode": "e534"
@@ -1180,6 +2075,11 @@
       "unicode": "e533"
     },
     {
+      "name": "directions_train",
+      "tags": "",
+      "unicode": "e534"
+    },
+    {
       "name": "directions_transit",
       "tags": "",
       "unicode": "e535"
@@ -1190,9 +2090,24 @@
       "unicode": "e536"
     },
     {
+      "name": "dirty_lens",
+      "tags": "",
+      "unicode": "ef4b"
+    },
+    {
+      "name": "disabled_by_default",
+      "tags": "",
+      "unicode": "f230"
+    },
+    {
       "name": "disc_full",
       "tags": "record, vinyl",
       "unicode": "e610"
+    },
+    {
+      "name": "dnd_forwardslash",
+      "tags": "",
+      "unicode": "e611"
     },
     {
       "name": "dns",
@@ -1220,6 +2135,16 @@
       "unicode": "e644"
     },
     {
+      "name": "do_not_step",
+      "tags": "",
+      "unicode": "f19f"
+    },
+    {
+      "name": "do_not_touch",
+      "tags": "",
+      "unicode": "f1b0"
+    },
+    {
       "name": "dock",
       "tags": "phone",
       "unicode": "e30e"
@@ -1228,6 +2153,16 @@
       "name": "domain",
       "tags": "building",
       "unicode": "e7ee"
+    },
+    {
+      "name": "domain_disabled",
+      "tags": "",
+      "unicode": "e0ef"
+    },
+    {
+      "name": "domain_verification",
+      "tags": "",
+      "unicode": "ef4c"
     },
     {
       "name": "done",
@@ -1240,6 +2175,11 @@
       "unicode": "e877"
     },
     {
+      "name": "done_outline",
+      "tags": "",
+      "unicode": "e92f"
+    },
+    {
       "name": "donut_large",
       "tags": "chart, graph",
       "unicode": "e917"
@@ -1248,6 +2188,11 @@
       "name": "donut_small",
       "tags": "chart, graph",
       "unicode": "e918"
+    },
+    {
+      "name": "double_arrow",
+      "tags": "",
+      "unicode": "ea50"
     },
     {
       "name": "drafts",
@@ -1260,9 +2205,44 @@
       "unicode": "e25d"
     },
     {
+      "name": "drag_indicator",
+      "tags": "",
+      "unicode": "e945"
+    },
+    {
       "name": "drive_eta",
       "tags": "automobile, car",
       "unicode": "e613"
+    },
+    {
+      "name": "drive_file_move",
+      "tags": "",
+      "unicode": "e675"
+    },
+    {
+      "name": "drive_file_move_outline",
+      "tags": "",
+      "unicode": "e9a1"
+    },
+    {
+      "name": "drive_file_rename_outline",
+      "tags": "",
+      "unicode": "e9a2"
+    },
+    {
+      "name": "drive_folder_upload",
+      "tags": "",
+      "unicode": "e9a3"
+    },
+    {
+      "name": "dry_cleaning",
+      "tags": "",
+      "unicode": "ea58"
+    },
+    {
+      "name": "duo",
+      "tags": "",
+      "unicode": "e9a5"
     },
     {
       "name": "dvr",
@@ -1270,9 +2250,29 @@
       "unicode": "e1b2"
     },
     {
+      "name": "dynamic_feed",
+      "tags": "",
+      "unicode": "ea14"
+    },
+    {
+      "name": "dynamic_form",
+      "tags": "",
+      "unicode": "f1bf"
+    },
+    {
+      "name": "east",
+      "tags": "",
+      "unicode": "f1df"
+    },
+    {
       "name": "edit",
       "tags": "pencil",
       "unicode": "e3c9"
+    },
+    {
+      "name": "edit_attributes",
+      "tags": "",
+      "unicode": "e578"
     },
     {
       "name": "edit_location",
@@ -1280,14 +2280,119 @@
       "unicode": "e568"
     },
     {
+      "name": "edit_off",
+      "tags": "",
+      "unicode": "e950"
+    },
+    {
+      "name": "edit_road",
+      "tags": "",
+      "unicode": "ef4d"
+    },
+    {
       "name": "eject",
       "tags": "",
       "unicode": "e8fb"
     },
     {
+      "name": "elderly",
+      "tags": "",
+      "unicode": "f21a"
+    },
+    {
+      "name": "electric_bike",
+      "tags": "",
+      "unicode": "eb1b"
+    },
+    {
+      "name": "electric_car",
+      "tags": "",
+      "unicode": "eb1c"
+    },
+    {
+      "name": "electric_moped",
+      "tags": "",
+      "unicode": "eb1d"
+    },
+    {
+      "name": "electric_rickshaw",
+      "tags": "",
+      "unicode": "eb1e"
+    },
+    {
+      "name": "electric_scooter",
+      "tags": "",
+      "unicode": "eb1f"
+    },
+    {
+      "name": "electrical_services",
+      "tags": "",
+      "unicode": "f102"
+    },
+    {
+      "name": "elevator",
+      "tags": "",
+      "unicode": "f1a0"
+    },
+    {
       "name": "email",
       "tags": "envelope, letter",
       "unicode": "e0be"
+    },
+    {
+      "name": "emoji_emotions",
+      "tags": "",
+      "unicode": "ea22"
+    },
+    {
+      "name": "emoji_events",
+      "tags": "",
+      "unicode": "ea23"
+    },
+    {
+      "name": "emoji_flags",
+      "tags": "",
+      "unicode": "ea1a"
+    },
+    {
+      "name": "emoji_food_beverage",
+      "tags": "",
+      "unicode": "ea1b"
+    },
+    {
+      "name": "emoji_nature",
+      "tags": "",
+      "unicode": "ea1c"
+    },
+    {
+      "name": "emoji_objects",
+      "tags": "",
+      "unicode": "ea24"
+    },
+    {
+      "name": "emoji_people",
+      "tags": "",
+      "unicode": "ea1d"
+    },
+    {
+      "name": "emoji_symbols",
+      "tags": "",
+      "unicode": "ea1e"
+    },
+    {
+      "name": "emoji_transportation",
+      "tags": "",
+      "unicode": "ea1f"
+    },
+    {
+      "name": "engineering",
+      "tags": "",
+      "unicode": "ea3d"
+    },
+    {
+      "name": "enhance_photo_translate",
+      "tags": "",
+      "unicode": "e8fc"
     },
     {
       "name": "enhanced_encryption",
@@ -1308,6 +2413,16 @@
       "name": "error_outline",
       "tags": "alert, warning",
       "unicode": "e001"
+    },
+    {
+      "name": "escalator",
+      "tags": "",
+      "unicode": "f1a1"
+    },
+    {
+      "name": "escalator_warning",
+      "tags": "",
+      "unicode": "f1ac"
     },
     {
       "name": "euro_symbol",
@@ -1370,9 +2485,24 @@
       "unicode": "e87a"
     },
     {
+      "name": "explore_off",
+      "tags": "",
+      "unicode": "e9a8"
+    },
+    {
       "name": "exposure",
       "tags": "brightness, contrast",
       "unicode": "e3ca"
+    },
+    {
+      "name": "exposure_minus_1",
+      "tags": "",
+      "unicode": "e3cb"
+    },
+    {
+      "name": "exposure_minus_2",
+      "tags": "",
+      "unicode": "e3cc"
     },
     {
       "name": "exposure_neg_1",
@@ -1410,6 +2540,26 @@
       "unicode": "e87c"
     },
     {
+      "name": "face_retouching_natural",
+      "tags": "",
+      "unicode": "ef4e"
+    },
+    {
+      "name": "facebook",
+      "tags": "",
+      "unicode": "f234"
+    },
+    {
+      "name": "fact_check",
+      "tags": "",
+      "unicode": "f0c5"
+    },
+    {
+      "name": "family_restroom",
+      "tags": "",
+      "unicode": "f1a2"
+    },
+    {
       "name": "fast_forward",
       "tags": "",
       "unicode": "e01f"
@@ -1420,6 +2570,11 @@
       "unicode": "e020"
     },
     {
+      "name": "fastfood",
+      "tags": "",
+      "unicode": "e57a"
+    },
+    {
       "name": "favorite",
       "tags": "heart, like",
       "unicode": "e87d"
@@ -1427,6 +2582,11 @@
     {
       "name": "favorite_border",
       "tags": "heart, like",
+      "unicode": "e87e"
+    },
+    {
+      "name": "favorite_outline",
+      "tags": "",
       "unicode": "e87e"
     },
     {
@@ -1443,6 +2603,16 @@
       "name": "feedback",
       "tags": "alert, speech bubble",
       "unicode": "e87f"
+    },
+    {
+      "name": "fence",
+      "tags": "",
+      "unicode": "f1f6"
+    },
+    {
+      "name": "festival",
+      "tags": "",
+      "unicode": "ea68"
     },
     {
       "name": "fiber_dvr",
@@ -1470,9 +2640,24 @@
       "unicode": "e062"
     },
     {
+      "name": "file_copy",
+      "tags": "",
+      "unicode": "e173"
+    },
+    {
       "name": "file_download",
       "tags": "",
       "unicode": "e2c4"
+    },
+    {
+      "name": "file_download_done",
+      "tags": "",
+      "unicode": "e9aa"
+    },
+    {
+      "name": "file_present",
+      "tags": "",
+      "unicode": "ea0e"
     },
     {
       "name": "file_upload",
@@ -1535,6 +2720,11 @@
       "unicode": "e3da"
     },
     {
+      "name": "filter_alt",
+      "tags": "",
+      "unicode": "ef4f"
+    },
+    {
       "name": "filter_b_and_w",
       "tags": "",
       "unicode": "e3db"
@@ -1563,6 +2753,11 @@
       "name": "filter_list",
       "tags": "",
       "unicode": "e152"
+    },
+    {
+      "name": "filter_list_alt",
+      "tags": "",
+      "unicode": "e94e"
     },
     {
       "name": "filter_none",
@@ -1595,9 +2790,29 @@
       "unicode": "e90d"
     },
     {
+      "name": "fire_extinguisher",
+      "tags": "",
+      "unicode": "f1d8"
+    },
+    {
+      "name": "fire_hydrant",
+      "tags": "",
+      "unicode": "f1a3"
+    },
+    {
+      "name": "fireplace",
+      "tags": "",
+      "unicode": "ea43"
+    },
+    {
       "name": "first_page",
       "tags": "",
       "unicode": "e5dc"
+    },
+    {
+      "name": "fit_screen",
+      "tags": "",
+      "unicode": "ea10"
     },
     {
       "name": "fitness_center",
@@ -1608,6 +2823,11 @@
       "name": "flag",
       "tags": "",
       "unicode": "e153"
+    },
+    {
+      "name": "flaky",
+      "tags": "",
+      "unicode": "ef50"
     },
     {
       "name": "flare",
@@ -1650,6 +2870,16 @@
       "unicode": "e3e8"
     },
     {
+      "name": "flip_camera_android",
+      "tags": "",
+      "unicode": "ea37"
+    },
+    {
+      "name": "flip_camera_ios",
+      "tags": "",
+      "unicode": "ea38"
+    },
+    {
       "name": "flip_to_back",
       "tags": "",
       "unicode": "e882"
@@ -1680,9 +2910,19 @@
       "unicode": "e617"
     },
     {
+      "name": "follow_the_signs",
+      "tags": "",
+      "unicode": "f222"
+    },
+    {
       "name": "font_download",
       "tags": "",
       "unicode": "e167"
+    },
+    {
+      "name": "food_bank",
+      "tags": "",
+      "unicode": "f1f2"
     },
     {
       "name": "format_align_center",
@@ -1760,6 +3000,11 @@
       "unicode": "e242"
     },
     {
+      "name": "format_list_numbered_rtl",
+      "tags": "",
+      "unicode": "e267"
+    },
+    {
       "name": "format_paint",
       "tags": "paint brush, roller",
       "unicode": "e243"
@@ -1825,6 +3070,16 @@
       "unicode": "e058"
     },
     {
+      "name": "forward_to_inbox",
+      "tags": "",
+      "unicode": "f187"
+    },
+    {
+      "name": "foundation",
+      "tags": "",
+      "unicode": "f200"
+    },
+    {
       "name": "free_breakfast",
       "tags": "coffee, mug",
       "unicode": "eb44"
@@ -1880,6 +3135,11 @@
       "unicode": "e908"
     },
     {
+      "name": "goat",
+      "tags": "",
+      "unicode": "ebff"
+    },
+    {
       "name": "golf_course",
       "tags": "sports",
       "unicode": "eb45"
@@ -1910,6 +3170,11 @@
       "unicode": "e3e9"
     },
     {
+      "name": "grading",
+      "tags": "",
+      "unicode": "ea4f"
+    },
+    {
       "name": "grain",
       "tags": "dots",
       "unicode": "e3ea"
@@ -1920,6 +3185,11 @@
       "unicode": "e1b8"
     },
     {
+      "name": "grass",
+      "tags": "",
+      "unicode": "f205"
+    },
+    {
       "name": "grid_off",
       "tags": "",
       "unicode": "e3eb"
@@ -1928,6 +3198,11 @@
       "name": "grid_on",
       "tags": "",
       "unicode": "e3ec"
+    },
+    {
+      "name": "grid_view",
+      "tags": "",
+      "unicode": "e9b0"
     },
     {
       "name": "group",
@@ -1945,9 +3220,34 @@
       "unicode": "e886"
     },
     {
+      "name": "groups",
+      "tags": "",
+      "unicode": "f233"
+    },
+    {
+      "name": "hail",
+      "tags": "",
+      "unicode": "e9b1"
+    },
+    {
+      "name": "handyman",
+      "tags": "",
+      "unicode": "f10b"
+    },
+    {
+      "name": "hardware",
+      "tags": "",
+      "unicode": "ea59"
+    },
+    {
       "name": "hd",
       "tags": "",
       "unicode": "e052"
+    },
+    {
+      "name": "hdr_enhanced_select",
+      "tags": "",
+      "unicode": "ef51"
     },
     {
       "name": "hdr_off",
@@ -1970,11 +3270,6 @@
       "unicode": "e3f2"
     },
     {
-      "name": "healing",
-      "tags": "bandage, bandaid, first aid",
-      "unicode": "e3f3"
-    },
-    {
       "name": "headset",
       "tags": "headphones",
       "unicode": "e310"
@@ -1985,14 +3280,39 @@
       "unicode": "e311"
     },
     {
+      "name": "headset_off",
+      "tags": "",
+      "unicode": "e33a"
+    },
+    {
+      "name": "healing",
+      "tags": "bandage, bandaid, first aid",
+      "unicode": "e3f3"
+    },
+    {
       "name": "hearing",
       "tags": "ear",
       "unicode": "e023"
     },
     {
+      "name": "hearing_disabled",
+      "tags": "",
+      "unicode": "f104"
+    },
+    {
+      "name": "height",
+      "tags": "",
+      "unicode": "ea16"
+    },
+    {
       "name": "help",
       "tags": "question mark",
       "unicode": "e887"
+    },
+    {
+      "name": "help_center",
+      "tags": "",
+      "unicode": "f1c0"
     },
     {
       "name": "help_outline",
@@ -2010,8 +3330,18 @@
       "unicode": "e25f"
     },
     {
+      "name": "highlight_alt",
+      "tags": "",
+      "unicode": "ef52"
+    },
+    {
       "name": "highlight_off",
       "tags": "x, cancel",
+      "unicode": "e888"
+    },
+    {
+      "name": "highlight_remove",
+      "tags": "",
       "unicode": "e888"
     },
     {
@@ -2020,9 +3350,49 @@
       "unicode": "e889"
     },
     {
+      "name": "history_edu",
+      "tags": "",
+      "unicode": "ea3e"
+    },
+    {
+      "name": "history_toggle_off",
+      "tags": "",
+      "unicode": "f17d"
+    },
+    {
       "name": "home",
       "tags": "",
       "unicode": "e88a"
+    },
+    {
+      "name": "home_filled",
+      "tags": "",
+      "unicode": "e9b2"
+    },
+    {
+      "name": "home_repair_service",
+      "tags": "",
+      "unicode": "f100"
+    },
+    {
+      "name": "home_work",
+      "tags": "",
+      "unicode": "ea09"
+    },
+    {
+      "name": "horizontal_distribute",
+      "tags": "",
+      "unicode": "e014"
+    },
+    {
+      "name": "horizontal_rule",
+      "tags": "",
+      "unicode": "f108"
+    },
+    {
+      "name": "horizontal_split",
+      "tags": "",
+      "unicode": "e947"
     },
     {
       "name": "hot_tub",
@@ -2035,6 +3405,16 @@
       "unicode": "e53a"
     },
     {
+      "name": "hourglass_bottom",
+      "tags": "",
+      "unicode": "ea5c"
+    },
+    {
+      "name": "hourglass_disabled",
+      "tags": "",
+      "unicode": "ef53"
+    },
+    {
       "name": "hourglass_empty",
       "tags": "timer",
       "unicode": "e88b"
@@ -2043,6 +3423,31 @@
       "name": "hourglass_full",
       "tags": "timer",
       "unicode": "e88c"
+    },
+    {
+      "name": "hourglass_top",
+      "tags": "",
+      "unicode": "ea5b"
+    },
+    {
+      "name": "house",
+      "tags": "",
+      "unicode": "ea44"
+    },
+    {
+      "name": "house_siding",
+      "tags": "",
+      "unicode": "f202"
+    },
+    {
+      "name": "how_to_reg",
+      "tags": "",
+      "unicode": "e174"
+    },
+    {
+      "name": "how_to_vote",
+      "tags": "",
+      "unicode": "e175"
     },
     {
       "name": "http",
@@ -2055,6 +3460,16 @@
       "unicode": "e88d"
     },
     {
+      "name": "hvac",
+      "tags": "",
+      "unicode": "f10e"
+    },
+    {
+      "name": "icecream",
+      "tags": "",
+      "unicode": "ea69"
+    },
+    {
       "name": "image",
       "tags": "",
       "unicode": "e3f4"
@@ -2063,6 +3478,21 @@
       "name": "image_aspect_ratio",
       "tags": "",
       "unicode": "e3f5"
+    },
+    {
+      "name": "image_not_supported",
+      "tags": "",
+      "unicode": "f116"
+    },
+    {
+      "name": "image_search",
+      "tags": "",
+      "unicode": "e43f"
+    },
+    {
+      "name": "imagesearch_roller",
+      "tags": "",
+      "unicode": "e9b4"
     },
     {
       "name": "import_contacts",
@@ -2105,19 +3535,14 @@
       "unicode": "e890"
     },
     {
-      "name": "invert_colors",
-      "tags": "adjust, contrast",
-      "unicode": "e891"
-    },
-    {
-      "name": "invert_colors_off",
-      "tags": "adjust, contrast",
-      "unicode": "e0c4"
-    },
-    {
       "name": "insert_chart",
       "tags": "graph",
       "unicode": "e24b"
+    },
+    {
+      "name": "insert_chart_outlined",
+      "tags": "",
+      "unicode": "e26a"
     },
     {
       "name": "insert_comment",
@@ -2148,6 +3573,41 @@
       "name": "insert_photo",
       "tags": "image, picture",
       "unicode": "e251"
+    },
+    {
+      "name": "insights",
+      "tags": "",
+      "unicode": "f092"
+    },
+    {
+      "name": "integration_instructions",
+      "tags": "",
+      "unicode": "ef54"
+    },
+    {
+      "name": "inventory",
+      "tags": "",
+      "unicode": "e179"
+    },
+    {
+      "name": "invert_colors",
+      "tags": "adjust, contrast",
+      "unicode": "e891"
+    },
+    {
+      "name": "invert_colors_off",
+      "tags": "adjust, contrast",
+      "unicode": "e0c4"
+    },
+    {
+      "name": "invert_colors_on",
+      "tags": "",
+      "unicode": "e891"
+    },
+    {
+      "name": "ios_share",
+      "tags": "",
+      "unicode": "e6b8"
     },
     {
       "name": "iso",
@@ -2190,6 +3650,11 @@
       "unicode": "e318"
     },
     {
+      "name": "keyboard_control",
+      "tags": "",
+      "unicode": "e5d3"
+    },
+    {
       "name": "keyboard_hide",
       "tags": "",
       "unicode": "e31a"
@@ -2210,6 +3675,11 @@
       "unicode": "e31d"
     },
     {
+      "name": "king_bed",
+      "tags": "",
+      "unicode": "ea45"
+    },
+    {
       "name": "kitchen",
       "tags": "fridge, refrigerator",
       "unicode": "eb47"
@@ -2218,6 +3688,21 @@
       "name": "label",
       "tags": "tag",
       "unicode": "e892"
+    },
+    {
+      "name": "label_important",
+      "tags": "",
+      "unicode": "e937"
+    },
+    {
+      "name": "label_important_outline",
+      "tags": "",
+      "unicode": "e948"
+    },
+    {
+      "name": "label_off",
+      "tags": "",
+      "unicode": "e9b6"
     },
     {
       "name": "label_outline",
@@ -2275,6 +3760,11 @@
       "unicode": "e53c"
     },
     {
+      "name": "leaderboard",
+      "tags": "",
+      "unicode": "f20c"
+    },
+    {
       "name": "leak_add",
       "tags": "",
       "unicode": "e3f8"
@@ -2285,6 +3775,16 @@
       "unicode": "e3f9"
     },
     {
+      "name": "leave_bags_at_home",
+      "tags": "",
+      "unicode": "f21b"
+    },
+    {
+      "name": "legend_toggle",
+      "tags": "",
+      "unicode": "f11b"
+    },
+    {
       "name": "lens",
       "tags": "circle",
       "unicode": "e3fa"
@@ -2293,6 +3793,11 @@
       "name": "library_add",
       "tags": "",
       "unicode": "e02e"
+    },
+    {
+      "name": "library_add_check",
+      "tags": "",
+      "unicode": "e9b7"
     },
     {
       "name": "library_books",
@@ -2335,9 +3840,19 @@
       "unicode": "e438"
     },
     {
+      "name": "liquor",
+      "tags": "",
+      "unicode": "ea60"
+    },
+    {
       "name": "list",
       "tags": "",
       "unicode": "e896"
+    },
+    {
+      "name": "list_alt",
+      "tags": "",
+      "unicode": "e0ee"
     },
     {
       "name": "live_help",
@@ -2363,6 +3878,11 @@
       "name": "local_atm",
       "tags": "dollar sign, money",
       "unicode": "e53e"
+    },
+    {
+      "name": "local_attraction",
+      "tags": "",
+      "unicode": "e53f"
     },
     {
       "name": "local_bar",
@@ -2393,6 +3913,11 @@
       "name": "local_drink",
       "tags": "cup, droplet, glass, juice",
       "unicode": "e544"
+    },
+    {
+      "name": "local_fire_department",
+      "tags": "",
+      "unicode": "ef55"
     },
     {
       "name": "local_florist",
@@ -2470,13 +3995,29 @@
       "unicode": "e553"
     },
     {
+      "name": "local_police",
+      "tags": "",
+      "unicode": "ef56"
+    },
+    {
       "name": "local_post_office",
       "tags": "envelope, mail",
       "unicode": "e554"
     },
     {
       "name": "local_print_shop",
-      "tags": "printer"
+      "tags": "printer",
+      "unicode": "e555"
+    },
+    {
+      "name": "local_printshop",
+      "tags": "",
+      "unicode": "e555"
+    },
+    {
+      "name": "local_restaurant",
+      "tags": "",
+      "unicode": "e556"
     },
     {
       "name": "local_see",
@@ -2504,6 +4045,11 @@
       "unicode": "e1b6"
     },
     {
+      "name": "location_history",
+      "tags": "",
+      "unicode": "e55a"
+    },
+    {
       "name": "location_off",
       "tags": "",
       "unicode": "e0c7"
@@ -2512,6 +4058,11 @@
       "name": "location_on",
       "tags": "",
       "unicode": "e0c8"
+    },
+    {
+      "name": "location_pin",
+      "tags": "",
+      "unicode": "f1db"
     },
     {
       "name": "location_searching",
@@ -2524,6 +4075,11 @@
       "unicode": "e897"
     },
     {
+      "name": "lock_clock",
+      "tags": "",
+      "unicode": "ef57"
+    },
+    {
       "name": "lock_open",
       "tags": "security, unlock",
       "unicode": "e898"
@@ -2532,6 +4088,16 @@
       "name": "lock_outline",
       "tags": "security",
       "unicode": "e899"
+    },
+    {
+      "name": "login",
+      "tags": "",
+      "unicode": "ea77"
+    },
+    {
+      "name": "logout",
+      "tags": "",
+      "unicode": "e9ba"
     },
     {
       "name": "looks",
@@ -2552,6 +4118,11 @@
       "name": "looks_5",
       "tags": "",
       "unicode": "e3fe"
+    },
+    {
+      "name": "looks_6",
+      "tags": "",
+      "unicode": "e3ff"
     },
     {
       "name": "looks_one",
@@ -2584,6 +4155,11 @@
       "unicode": "e89a"
     },
     {
+      "name": "lunch_dining",
+      "tags": "",
+      "unicode": "ea61"
+    },
+    {
       "name": "mail",
       "tags": "envelope",
       "unicode": "e158"
@@ -2599,6 +4175,41 @@
       "unicode": "e55b"
     },
     {
+      "name": "maps_ugc",
+      "tags": "",
+      "unicode": "ef58"
+    },
+    {
+      "name": "margin",
+      "tags": "",
+      "unicode": "e9bb"
+    },
+    {
+      "name": "mark_as_unread",
+      "tags": "",
+      "unicode": "e9bc"
+    },
+    {
+      "name": "mark_chat_read",
+      "tags": "",
+      "unicode": "f18b"
+    },
+    {
+      "name": "mark_chat_unread",
+      "tags": "",
+      "unicode": "f189"
+    },
+    {
+      "name": "mark_email_read",
+      "tags": "",
+      "unicode": "f18c"
+    },
+    {
+      "name": "mark_email_unread",
+      "tags": "",
+      "unicode": "f18a"
+    },
+    {
       "name": "markunread",
       "tags": "envelope, mail",
       "unicode": "e159"
@@ -2607,6 +4218,31 @@
       "name": "markunread_mailbox",
       "tags": "mailbox",
       "unicode": "e89b"
+    },
+    {
+      "name": "masks",
+      "tags": "",
+      "unicode": "f218"
+    },
+    {
+      "name": "maximize",
+      "tags": "",
+      "unicode": "e930"
+    },
+    {
+      "name": "mediation",
+      "tags": "",
+      "unicode": "efa7"
+    },
+    {
+      "name": "medical_services",
+      "tags": "",
+      "unicode": "f109"
+    },
+    {
+      "name": "meeting_room",
+      "tags": "",
+      "unicode": "eb4f"
     },
     {
       "name": "memory",
@@ -2619,6 +4255,16 @@
       "unicode": "e5d2"
     },
     {
+      "name": "menu_book",
+      "tags": "",
+      "unicode": "ea19"
+    },
+    {
+      "name": "menu_open",
+      "tags": "",
+      "unicode": "e9bd"
+    },
+    {
       "name": "merge_type",
       "tags": "arrows",
       "unicode": "e252"
@@ -2629,9 +4275,29 @@
       "unicode": "e0c9"
     },
     {
+      "name": "messenger",
+      "tags": "",
+      "unicode": "e0ca"
+    },
+    {
+      "name": "messenger_outline",
+      "tags": "",
+      "unicode": "e0cb"
+    },
+    {
       "name": "mic",
       "tags": "",
       "unicode": "e029"
+    },
+    {
+      "name": "mic_external_off",
+      "tags": "",
+      "unicode": "ef59"
+    },
+    {
+      "name": "mic_external_on",
+      "tags": "",
+      "unicode": "ef5a"
     },
     {
       "name": "mic_none",
@@ -2644,9 +4310,49 @@
       "unicode": "e02b"
     },
     {
+      "name": "microwave",
+      "tags": "",
+      "unicode": "f204"
+    },
+    {
+      "name": "military_tech",
+      "tags": "",
+      "unicode": "ea3f"
+    },
+    {
+      "name": "minimize",
+      "tags": "",
+      "unicode": "e931"
+    },
+    {
+      "name": "miscellaneous_services",
+      "tags": "",
+      "unicode": "f10c"
+    },
+    {
+      "name": "missed_video_call",
+      "tags": "",
+      "unicode": "e073"
+    },
+    {
       "name": "mms",
       "tags": "speech bubble",
       "unicode": "e618"
+    },
+    {
+      "name": "mobile_friendly",
+      "tags": "",
+      "unicode": "e200"
+    },
+    {
+      "name": "mobile_off",
+      "tags": "",
+      "unicode": "e201"
+    },
+    {
+      "name": "mobile_screen_share",
+      "tags": "",
+      "unicode": "e0e7"
     },
     {
       "name": "mode_comment",
@@ -2657,6 +4363,11 @@
       "name": "mode_edit",
       "tags": "pencil",
       "unicode": "e254"
+    },
+    {
+      "name": "model_training",
+      "tags": "",
+      "unicode": "f0cf"
     },
     {
       "name": "monetization_on",
@@ -2684,6 +4395,11 @@
       "unicode": "e7f3"
     },
     {
+      "name": "moped",
+      "tags": "",
+      "unicode": "eb28"
+    },
+    {
       "name": "more",
       "tags": "tag",
       "unicode": "e619"
@@ -2694,9 +4410,34 @@
       "unicode": "e5d3"
     },
     {
+      "name": "more_time",
+      "tags": "",
+      "unicode": "ea5d"
+    },
+    {
       "name": "more_vert",
       "tags": "dots",
       "unicode": "e5d4"
+    },
+    {
+      "name": "motion_photos_off",
+      "tags": "",
+      "unicode": "e9c0"
+    },
+    {
+      "name": "motion_photos_on",
+      "tags": "",
+      "unicode": "e9c1"
+    },
+    {
+      "name": "motion_photos_pause",
+      "tags": "",
+      "unicode": "f227"
+    },
+    {
+      "name": "motion_photos_paused",
+      "tags": "",
+      "unicode": "e9c2"
     },
     {
       "name": "motorcycle",
@@ -2734,9 +4475,29 @@
       "unicode": "e6df"
     },
     {
+      "name": "multiple_stop",
+      "tags": "",
+      "unicode": "f1b9"
+    },
+    {
+      "name": "multitrack_audio",
+      "tags": "",
+      "unicode": "e1b8"
+    },
+    {
+      "name": "museum",
+      "tags": "",
+      "unicode": "ea36"
+    },
+    {
       "name": "music_note",
       "tags": "",
       "unicode": "e405"
+    },
+    {
+      "name": "music_off",
+      "tags": "",
+      "unicode": "e440"
     },
     {
       "name": "music_video",
@@ -2744,14 +4505,24 @@
       "unicode": "e063"
     },
     {
+      "name": "my_library_add",
+      "tags": "",
+      "unicode": "e02e"
+    },
+    {
+      "name": "my_library_books",
+      "tags": "",
+      "unicode": "e02f"
+    },
+    {
+      "name": "my_library_music",
+      "tags": "",
+      "unicode": "e030"
+    },
+    {
       "name": "my_location",
       "tags": "reticle, target",
       "unicode": "e55c"
-    },
-    {
-      "name": "navigation",
-      "tags": "arrow",
-      "unicode": "e55d"
     },
     {
       "name": "nature",
@@ -2774,9 +4545,19 @@
       "unicode": "e409"
     },
     {
+      "name": "navigation",
+      "tags": "arrow",
+      "unicode": "e55d"
+    },
+    {
       "name": "near_me",
       "tags": "arrow, navigation",
       "unicode": "e569"
+    },
+    {
+      "name": "near_me_disabled",
+      "tags": "",
+      "unicode": "f1ef"
     },
     {
       "name": "network_cell",
@@ -2804,6 +4585,11 @@
       "unicode": "e031"
     },
     {
+      "name": "next_plan",
+      "tags": "",
+      "unicode": "ef5d"
+    },
+    {
       "name": "next_week",
       "tags": "briefcase, travel",
       "unicode": "e16a"
@@ -2814,9 +4600,79 @@
       "unicode": "e1bb"
     },
     {
+      "name": "night_shelter",
+      "tags": "",
+      "unicode": "f1f1"
+    },
+    {
+      "name": "nightlife",
+      "tags": "",
+      "unicode": "ea62"
+    },
+    {
+      "name": "nightlight_round",
+      "tags": "",
+      "unicode": "ef5e"
+    },
+    {
+      "name": "nights_stay",
+      "tags": "",
+      "unicode": "ea46"
+    },
+    {
+      "name": "no_backpack",
+      "tags": "",
+      "unicode": "f237"
+    },
+    {
+      "name": "no_cell",
+      "tags": "",
+      "unicode": "f1a4"
+    },
+    {
+      "name": "no_drinks",
+      "tags": "",
+      "unicode": "f1a5"
+    },
+    {
       "name": "no_encryption",
       "tags": "lock",
       "unicode": "e641"
+    },
+    {
+      "name": "no_flash",
+      "tags": "",
+      "unicode": "f1a6"
+    },
+    {
+      "name": "no_food",
+      "tags": "",
+      "unicode": "f1a7"
+    },
+    {
+      "name": "no_luggage",
+      "tags": "",
+      "unicode": "f23b"
+    },
+    {
+      "name": "no_meals",
+      "tags": "",
+      "unicode": "f1d6"
+    },
+    {
+      "name": "no_meals_ouline",
+      "tags": "",
+      "unicode": "f229"
+    },
+    {
+      "name": "no_meeting_room",
+      "tags": "",
+      "unicode": "eb4e"
+    },
+    {
+      "name": "no_photography",
+      "tags": "",
+      "unicode": "f1a8"
     },
     {
       "name": "no_sim",
@@ -2824,9 +4680,49 @@
       "unicode": "e0cc"
     },
     {
+      "name": "no_stroller",
+      "tags": "",
+      "unicode": "f1af"
+    },
+    {
+      "name": "no_transfer",
+      "tags": "",
+      "unicode": "f1d5"
+    },
+    {
+      "name": "north",
+      "tags": "",
+      "unicode": "f1e0"
+    },
+    {
+      "name": "north_east",
+      "tags": "",
+      "unicode": "f1e1"
+    },
+    {
+      "name": "north_west",
+      "tags": "",
+      "unicode": "f1e2"
+    },
+    {
+      "name": "not_accessible",
+      "tags": "",
+      "unicode": "f0fe"
+    },
+    {
       "name": "not_interested",
       "tags": "ban, prohibited",
       "unicode": "e033"
+    },
+    {
+      "name": "not_listed_location",
+      "tags": "",
+      "unicode": "e575"
+    },
+    {
+      "name": "not_started",
+      "tags": "",
+      "unicode": "f0d1"
     },
     {
       "name": "note",
@@ -2837,6 +4733,11 @@
       "name": "note_add",
       "tags": "",
       "unicode": "e89c"
+    },
+    {
+      "name": "notification_important",
+      "tags": "",
+      "unicode": "e004"
     },
     {
       "name": "notifications",
@@ -2859,9 +4760,29 @@
       "unicode": "e7f6"
     },
     {
+      "name": "notifications_on",
+      "tags": "",
+      "unicode": "e7f7"
+    },
+    {
       "name": "notifications_paused",
       "tags": "bell",
       "unicode": "e7f8"
+    },
+    {
+      "name": "now_wallpaper",
+      "tags": "",
+      "unicode": "e1bc"
+    },
+    {
+      "name": "now_widgets",
+      "tags": "",
+      "unicode": "e1bd"
+    },
+    {
+      "name": "offline_bolt",
+      "tags": "",
+      "unicode": "e932"
     },
     {
       "name": "offline_pin",
@@ -2869,9 +4790,19 @@
       "unicode": "e90a"
     },
     {
+      "name": "offline_share",
+      "tags": "",
+      "unicode": "e9c5"
+    },
+    {
       "name": "ondemand_video",
       "tags": "",
       "unicode": "e63a"
+    },
+    {
+      "name": "online_prediction",
+      "tags": "",
+      "unicode": "f0eb"
     },
     {
       "name": "opacity",
@@ -2884,6 +4815,11 @@
       "unicode": "e89d"
     },
     {
+      "name": "open_in_full",
+      "tags": "",
+      "unicode": "f1ce"
+    },
+    {
       "name": "open_in_new",
       "tags": "",
       "unicode": "e89e"
@@ -2892,6 +4828,41 @@
       "name": "open_with",
       "tags": "expand, resize",
       "unicode": "e89f"
+    },
+    {
+      "name": "outbond",
+      "tags": "",
+      "unicode": "f228"
+    },
+    {
+      "name": "outbox",
+      "tags": "",
+      "unicode": "ef5f"
+    },
+    {
+      "name": "outdoor_grill",
+      "tags": "",
+      "unicode": "ea47"
+    },
+    {
+      "name": "outgoing_mail",
+      "tags": "",
+      "unicode": "f0d2"
+    },
+    {
+      "name": "outlet",
+      "tags": "",
+      "unicode": "f1d4"
+    },
+    {
+      "name": "outlined_flag",
+      "tags": "",
+      "unicode": "e16e"
+    },
+    {
+      "name": "padding",
+      "tags": "",
+      "unicode": "e9c8"
     },
     {
       "name": "pages",
@@ -2924,9 +4895,29 @@
       "unicode": "e40c"
     },
     {
+      "name": "panorama_fisheye",
+      "tags": "",
+      "unicode": "e40c"
+    },
+    {
       "name": "panorama_horizontal",
       "tags": "",
       "unicode": "e40d"
+    },
+    {
+      "name": "panorama_horizontal_select",
+      "tags": "",
+      "unicode": "ef60"
+    },
+    {
+      "name": "panorama_photosphere",
+      "tags": "",
+      "unicode": "e9c9"
+    },
+    {
+      "name": "panorama_photosphere_select",
+      "tags": "",
+      "unicode": "e9ca"
     },
     {
       "name": "panorama_vertical",
@@ -2934,9 +4925,19 @@
       "unicode": "e40e"
     },
     {
+      "name": "panorama_vertical_select",
+      "tags": "",
+      "unicode": "ef61"
+    },
+    {
       "name": "panorama_wide_angle",
       "tags": "",
       "unicode": "e40f"
+    },
+    {
+      "name": "panorama_wide_angle_select",
+      "tags": "",
+      "unicode": "ef62"
     },
     {
       "name": "party_mode",
@@ -2959,14 +4960,44 @@
       "unicode": "e036"
     },
     {
+      "name": "pause_presentation",
+      "tags": "",
+      "unicode": "e0ea"
+    },
+    {
       "name": "payment",
       "tags": "credit card",
       "unicode": "e8a1"
     },
     {
+      "name": "payments",
+      "tags": "",
+      "unicode": "ef63"
+    },
+    {
+      "name": "pedal_bike",
+      "tags": "",
+      "unicode": "eb29"
+    },
+    {
+      "name": "pending",
+      "tags": "",
+      "unicode": "ef64"
+    },
+    {
+      "name": "pending_actions",
+      "tags": "",
+      "unicode": "f1bb"
+    },
+    {
       "name": "people",
       "tags": "users",
       "unicode": "e7fb"
+    },
+    {
+      "name": "people_alt",
+      "tags": "",
+      "unicode": "ea21"
     },
     {
       "name": "people_outline",
@@ -3024,6 +5055,21 @@
       "unicode": "e7fe"
     },
     {
+      "name": "person_add_alt",
+      "tags": "",
+      "unicode": "ea4d"
+    },
+    {
+      "name": "person_add_alt_1",
+      "tags": "",
+      "unicode": "ef65"
+    },
+    {
+      "name": "person_add_disabled",
+      "tags": "",
+      "unicode": "e9cb"
+    },
+    {
       "name": "person_outline",
       "tags": "user",
       "unicode": "e7ff"
@@ -3039,9 +5085,34 @@
       "unicode": "e56a"
     },
     {
+      "name": "person_remove",
+      "tags": "",
+      "unicode": "ef66"
+    },
+    {
+      "name": "person_remove_alt_1",
+      "tags": "",
+      "unicode": "ef67"
+    },
+    {
+      "name": "person_search",
+      "tags": "",
+      "unicode": "f106"
+    },
+    {
       "name": "personal_video",
       "tags": "",
       "unicode": "e63b"
+    },
+    {
+      "name": "pest_control",
+      "tags": "",
+      "unicode": "f0fa"
+    },
+    {
+      "name": "pest_control_rodent",
+      "tags": "",
+      "unicode": "f0fd"
     },
     {
       "name": "pets",
@@ -3062,6 +5133,21 @@
       "name": "phone_bluetooth_speaker",
       "tags": "",
       "unicode": "e61b"
+    },
+    {
+      "name": "phone_callback",
+      "tags": "",
+      "unicode": "e649"
+    },
+    {
+      "name": "phone_disabled",
+      "tags": "",
+      "unicode": "e9cc"
+    },
+    {
+      "name": "phone_enabled",
+      "tags": "",
+      "unicode": "e9cd"
     },
     {
       "name": "phone_forwarded",
@@ -3139,6 +5225,16 @@
       "unicode": "e412"
     },
     {
+      "name": "photo_camera_back",
+      "tags": "",
+      "unicode": "ef68"
+    },
+    {
+      "name": "photo_camera_front",
+      "tags": "",
+      "unicode": "ef69"
+    },
+    {
       "name": "photo_filter",
       "tags": "",
       "unicode": "e43b"
@@ -3194,9 +5290,19 @@
       "unicode": "e55e"
     },
     {
+      "name": "pivot_table_chart",
+      "tags": "",
+      "unicode": "e9ce"
+    },
+    {
       "name": "place",
       "tags": "map marker",
       "unicode": "e55f"
+    },
+    {
+      "name": "plagiarism",
+      "tags": "",
+      "unicode": "ea5a"
     },
     {
       "name": "play_arrow",
@@ -3212,6 +5318,11 @@
       "name": "play_circle_outline",
       "tags": "triangle",
       "unicode": "e039"
+    },
+    {
+      "name": "play_disabled",
+      "tags": "",
+      "unicode": "ef6a"
     },
     {
       "name": "play_for_work",
@@ -3234,9 +5345,24 @@
       "unicode": "e05f"
     },
     {
+      "name": "plumbing",
+      "tags": "",
+      "unicode": "f107"
+    },
+    {
       "name": "plus_one",
       "tags": "",
       "unicode": "e800"
+    },
+    {
+      "name": "point_of_sale",
+      "tags": "",
+      "unicode": "f17e"
+    },
+    {
+      "name": "policy",
+      "tags": "",
+      "unicode": "ea17"
     },
     {
       "name": "poll",
@@ -3244,14 +5370,14 @@
       "unicode": "e801"
     },
     {
-      "name": "pool",
-      "tags": "sports, swimming",
-      "unicode": "eb48"
-    },
-    {
       "name": "polymer",
       "tags": "brand, logo",
       "unicode": "e8ab"
+    },
+    {
+      "name": "pool",
+      "tags": "sports, swimming",
+      "unicode": "eb48"
     },
     {
       "name": "portable_wifi_off",
@@ -3264,6 +5390,11 @@
       "unicode": "e416"
     },
     {
+      "name": "post_add",
+      "tags": "",
+      "unicode": "ea20"
+    },
+    {
       "name": "power",
       "tags": "plug",
       "unicode": "e63c"
@@ -3272,6 +5403,11 @@
       "name": "power_input",
       "tags": "",
       "unicode": "e336"
+    },
+    {
+      "name": "power_off",
+      "tags": "",
+      "unicode": "e646"
     },
     {
       "name": "power_settings_new",
@@ -3289,9 +5425,19 @@
       "unicode": "e0df"
     },
     {
+      "name": "preview",
+      "tags": "",
+      "unicode": "f1c5"
+    },
+    {
       "name": "print",
       "tags": "",
       "unicode": "e8ad"
+    },
+    {
+      "name": "print_disabled",
+      "tags": "",
+      "unicode": "e9cf"
     },
     {
       "name": "priority_high",
@@ -3299,14 +5445,54 @@
       "unicode": "e645"
     },
     {
+      "name": "privacy_tip",
+      "tags": "",
+      "unicode": "f0dc"
+    },
+    {
+      "name": "psychology",
+      "tags": "",
+      "unicode": "ea4a"
+    },
+    {
       "name": "public",
       "tags": "earth, globe, planet",
       "unicode": "e80b"
     },
     {
+      "name": "public_off",
+      "tags": "",
+      "unicode": "f1ca"
+    },
+    {
       "name": "publish",
       "tags": "upload",
       "unicode": "e255"
+    },
+    {
+      "name": "published_with_changes",
+      "tags": "",
+      "unicode": "f232"
+    },
+    {
+      "name": "push_pin",
+      "tags": "",
+      "unicode": "f10d"
+    },
+    {
+      "name": "qr_code",
+      "tags": "",
+      "unicode": "ef6b"
+    },
+    {
+      "name": "qr_code_2",
+      "tags": "",
+      "unicode": "e00a"
+    },
+    {
+      "name": "qr_code_scanner",
+      "tags": "",
+      "unicode": "f206"
     },
     {
       "name": "query_builder",
@@ -3334,6 +5520,21 @@
       "unicode": "e066"
     },
     {
+      "name": "quick_contacts_dialer",
+      "tags": "",
+      "unicode": "e0cf"
+    },
+    {
+      "name": "quick_contacts_mail",
+      "tags": "",
+      "unicode": "e0d0"
+    },
+    {
+      "name": "quickreply",
+      "tags": "",
+      "unicode": "ef6c"
+    },
+    {
       "name": "radio",
       "tags": "music",
       "unicode": "e03e"
@@ -3344,9 +5545,29 @@
       "unicode": "e837"
     },
     {
+      "name": "radio_button_off",
+      "tags": "",
+      "unicode": "e836"
+    },
+    {
+      "name": "radio_button_on",
+      "tags": "",
+      "unicode": "e837"
+    },
+    {
       "name": "radio_button_unchecked",
       "tags": "",
       "unicode": "e836"
+    },
+    {
+      "name": "railway_alert",
+      "tags": "",
+      "unicode": "e9d1"
+    },
+    {
+      "name": "ramen_dining",
+      "tags": "",
+      "unicode": "ea64"
     },
     {
       "name": "rate_review",
@@ -3354,14 +5575,29 @@
       "unicode": "e560"
     },
     {
+      "name": "read_more",
+      "tags": "",
+      "unicode": "ef6d"
+    },
+    {
       "name": "receipt",
       "tags": "",
       "unicode": "e8b0"
     },
     {
+      "name": "receipt_long",
+      "tags": "",
+      "unicode": "ef6e"
+    },
+    {
       "name": "recent_actors",
       "tags": "",
       "unicode": "e03f"
+    },
+    {
+      "name": "recommend",
+      "tags": "",
+      "unicode": "e9d2"
     },
     {
       "name": "record_voice_over",
@@ -3377,6 +5613,11 @@
       "name": "redo",
       "tags": "arrow",
       "unicode": "e15a"
+    },
+    {
+      "name": "reduce_capacity",
+      "tags": "",
+      "unicode": "f21c"
     },
     {
       "name": "refresh",
@@ -3399,9 +5640,19 @@
       "unicode": "e15d"
     },
     {
+      "name": "remove_done",
+      "tags": "",
+      "unicode": "e9d3"
+    },
+    {
       "name": "remove_from_queue",
       "tags": "",
       "unicode": "e067"
+    },
+    {
+      "name": "remove_moderator",
+      "tags": "",
+      "unicode": "e9d4"
     },
     {
       "name": "remove_red_eye",
@@ -3429,6 +5680,11 @@
       "unicode": "e041"
     },
     {
+      "name": "repeat_one_on",
+      "tags": "",
+      "unicode": "e9d7"
+    },
+    {
       "name": "replay",
       "tags": "",
       "unicode": "e042"
@@ -3449,6 +5705,11 @@
       "unicode": "e05b"
     },
     {
+      "name": "replay_circle_filled",
+      "tags": "",
+      "unicode": "e9d8"
+    },
+    {
       "name": "reply",
       "tags": "arrow",
       "unicode": "e15e"
@@ -3464,9 +5725,29 @@
       "unicode": "e160"
     },
     {
+      "name": "report_off",
+      "tags": "",
+      "unicode": "e170"
+    },
+    {
       "name": "report_problem",
       "tags": "alert, warning",
       "unicode": "e8b2"
+    },
+    {
+      "name": "request_page",
+      "tags": "",
+      "unicode": "f22c"
+    },
+    {
+      "name": "request_quote",
+      "tags": "",
+      "unicode": "f1b6"
+    },
+    {
+      "name": "reset_tv",
+      "tags": "",
+      "unicode": "e9d9"
     },
     {
       "name": "restaurant",
@@ -3484,9 +5765,19 @@
       "unicode": "e8b3"
     },
     {
+      "name": "restore_from_trash",
+      "tags": "",
+      "unicode": "e938"
+    },
+    {
       "name": "restore_page",
       "tags": "refresh, reload",
       "unicode": "e929"
+    },
+    {
+      "name": "rice_bowl",
+      "tags": "",
+      "unicode": "f1f5"
     },
     {
       "name": "ring_volume",
@@ -3494,9 +5785,19 @@
       "unicode": "e0d1"
     },
     {
+      "name": "roofing",
+      "tags": "",
+      "unicode": "f201"
+    },
+    {
       "name": "room",
       "tags": "map marker",
       "unicode": "e8b4"
+    },
+    {
+      "name": "room_preferences",
+      "tags": "",
+      "unicode": "f1b8"
     },
     {
       "name": "room_service",
@@ -3539,9 +5840,34 @@
       "unicode": "e0e5"
     },
     {
+      "name": "rtt",
+      "tags": "",
+      "unicode": "e9ad"
+    },
+    {
+      "name": "rule",
+      "tags": "",
+      "unicode": "f1c2"
+    },
+    {
+      "name": "rule_folder",
+      "tags": "",
+      "unicode": "f1c9"
+    },
+    {
+      "name": "run_circle",
+      "tags": "",
+      "unicode": "ef6f"
+    },
+    {
       "name": "rv_hookup",
       "tags": "",
       "unicode": "e642"
+    },
+    {
+      "name": "sanitizer",
+      "tags": "",
+      "unicode": "f21d"
     },
     {
       "name": "satellite",
@@ -3549,14 +5875,29 @@
       "unicode": "e562"
     },
     {
+      "name": "save",
+      "tags": "floppy disk",
+      "unicode": "e161"
+    },
+    {
+      "name": "save_alt",
+      "tags": "",
+      "unicode": "e171"
+    },
+    {
+      "name": "saved_search",
+      "tags": "",
+      "unicode": "ea11"
+    },
+    {
       "name": "scanner",
       "tags": "",
       "unicode": "e329"
     },
     {
-      "name": "save",
-      "tags": "floppy disk",
-      "unicode": "e161"
+      "name": "scatter_plot",
+      "tags": "",
+      "unicode": "e268"
     },
     {
       "name": "schedule",
@@ -3564,9 +5905,24 @@
       "unicode": "e8b5"
     },
     {
+      "name": "schedule_send",
+      "tags": "",
+      "unicode": "ea0a"
+    },
+    {
       "name": "school",
       "tags": "education, graduation cap, hat",
       "unicode": "e80c"
+    },
+    {
+      "name": "science",
+      "tags": "",
+      "unicode": "ea4b"
+    },
+    {
+      "name": "score",
+      "tags": "",
+      "unicode": "e269"
     },
     {
       "name": "screen_lock_landscape",
@@ -3589,6 +5945,11 @@
       "unicode": "e1c1"
     },
     {
+      "name": "screen_search_desktop",
+      "tags": "",
+      "unicode": "ef70"
+    },
+    {
       "name": "screen_share",
       "tags": "",
       "unicode": "e0e2"
@@ -3609,9 +5970,19 @@
       "unicode": "e8b6"
     },
     {
+      "name": "search_off",
+      "tags": "",
+      "unicode": "ea76"
+    },
+    {
       "name": "security",
       "tags": "shield",
       "unicode": "e32a"
+    },
+    {
+      "name": "segment",
+      "tags": "",
+      "unicode": "e94b"
     },
     {
       "name": "select_all",
@@ -3619,9 +5990,34 @@
       "unicode": "e162"
     },
     {
+      "name": "self_improvement",
+      "tags": "",
+      "unicode": "ea78"
+    },
+    {
       "name": "send",
       "tags": "paper airplane",
       "unicode": "e163"
+    },
+    {
+      "name": "send_and_archive",
+      "tags": "",
+      "unicode": "ea0c"
+    },
+    {
+      "name": "send_to_mobile",
+      "tags": "",
+      "unicode": "f05c"
+    },
+    {
+      "name": "sensor_door",
+      "tags": "",
+      "unicode": "f1b5"
+    },
+    {
+      "name": "sensor_window",
+      "tags": "",
+      "unicode": "f1b4"
     },
     {
       "name": "sentiment_dissatisfied",
@@ -3639,6 +6035,11 @@
       "unicode": "e813"
     },
     {
+      "name": "sentiment_satisfied_alt",
+      "tags": "",
+      "unicode": "e0ed"
+    },
+    {
       "name": "sentiment_very_dissatisfied",
       "tags": "sad, frowny face",
       "unicode": "e814"
@@ -3647,6 +6048,11 @@
       "name": "sentiment_very_satisfied",
       "tags": "happy, smiley face",
       "unicode": "e815"
+    },
+    {
+      "name": "set_meal",
+      "tags": "",
+      "unicode": "f1ea"
     },
     {
       "name": "settings",
@@ -3677,6 +6083,11 @@
       "name": "settings_cell",
       "tags": "phone",
       "unicode": "e8bc"
+    },
+    {
+      "name": "settings_display",
+      "tags": "",
+      "unicode": "e8bd"
     },
     {
       "name": "settings_ethernet",
@@ -3754,6 +6165,11 @@
       "unicode": "e8ca"
     },
     {
+      "name": "shopping_bag",
+      "tags": "",
+      "unicode": "f1cc"
+    },
+    {
       "name": "shopping_basket",
       "tags": "",
       "unicode": "e8cb"
@@ -3779,9 +6195,34 @@
       "unicode": "e043"
     },
     {
+      "name": "shuffle_on",
+      "tags": "",
+      "unicode": "e9e1"
+    },
+    {
+      "name": "shutter_speed",
+      "tags": "",
+      "unicode": "e43d"
+    },
+    {
+      "name": "sick",
+      "tags": "",
+      "unicode": "f220"
+    },
+    {
+      "name": "signal_cellular_0_bar",
+      "tags": "",
+      "unicode": "f0a8"
+    },
+    {
       "name": "signal_cellular_4_bar",
       "tags": "",
       "unicode": "e1c8"
+    },
+    {
+      "name": "signal_cellular_alt",
+      "tags": "",
+      "unicode": "e202"
     },
     {
       "name": "signal_cellular_connected_no_internet_4_bar",
@@ -3802,6 +6243,11 @@
       "name": "signal_cellular_off",
       "tags": "",
       "unicode": "e1d0"
+    },
+    {
+      "name": "signal_wifi_0_bar",
+      "tags": "",
+      "unicode": "f0b0"
     },
     {
       "name": "signal_wifi_4_bar",
@@ -3829,6 +6275,11 @@
       "unicode": "e624"
     },
     {
+      "name": "single_bed",
+      "tags": "",
+      "unicode": "ea48"
+    },
+    {
       "name": "skip_next",
       "tags": "",
       "unicode": "e044"
@@ -3847,6 +6298,11 @@
       "name": "slow_motion_video",
       "tags": "",
       "unicode": "e068"
+    },
+    {
+      "name": "smart_button",
+      "tags": "",
+      "unicode": "f1c1"
     },
     {
       "name": "smartphone",
@@ -3874,14 +6330,59 @@
       "unicode": "e626"
     },
     {
+      "name": "snippet_folder",
+      "tags": "",
+      "unicode": "f1c7"
+    },
+    {
+      "name": "snooze",
+      "tags": "alarm clock",
+      "unicode": "e046"
+    },
+    {
+      "name": "soap",
+      "tags": "",
+      "unicode": "f1b2"
+    },
+    {
       "name": "sort",
       "tags": "",
       "unicode": "e164"
     },
     {
+      "name": "sort_by_alpha",
+      "tags": "",
+      "unicode": "e053"
+    },
+    {
+      "name": "source",
+      "tags": "",
+      "unicode": "f1c4"
+    },
+    {
+      "name": "south",
+      "tags": "",
+      "unicode": "f1e3"
+    },
+    {
+      "name": "south_east",
+      "tags": "",
+      "unicode": "f1e4"
+    },
+    {
+      "name": "south_west",
+      "tags": "",
+      "unicode": "f1e5"
+    },
+    {
       "name": "spa",
       "tags": "leaf",
       "unicode": "eb4c"
+    },
+    {
+      "name": "space_bar",
+      "tags": "",
+      "unicode": "e256"
     },
     {
       "name": "speaker",
@@ -3904,29 +6405,119 @@
       "unicode": "e92a"
     },
     {
+      "name": "speaker_phone",
+      "tags": "telephone",
+      "unicode": "e0d2"
+    },
+    {
+      "name": "speed",
+      "tags": "",
+      "unicode": "e9e4"
+    },
+    {
       "name": "spellcheck",
       "tags": "",
       "unicode": "e8ce"
     },
     {
-      "name": "snooze",
-      "tags": "alarm clock",
-      "unicode": "e046"
-    },
-    {
-      "name": "sort_by_alpha",
+      "name": "sports_bar",
       "tags": "",
-      "unicode": "e053"
+      "unicode": "f1f3"
     },
     {
-      "name": "space_bar",
+      "name": "sports_baseball",
       "tags": "",
-      "unicode": "e256"
+      "unicode": "ea51"
     },
     {
-      "name": "speaker_phone",
-      "tags": "telephone",
-      "unicode": "e0d2"
+      "name": "sports_basketball",
+      "tags": "",
+      "unicode": "ea26"
+    },
+    {
+      "name": "sports_cricket",
+      "tags": "",
+      "unicode": "ea27"
+    },
+    {
+      "name": "sports_esports",
+      "tags": "",
+      "unicode": "ea28"
+    },
+    {
+      "name": "sports_football",
+      "tags": "",
+      "unicode": "ea29"
+    },
+    {
+      "name": "sports_golf",
+      "tags": "",
+      "unicode": "ea2a"
+    },
+    {
+      "name": "sports_handball",
+      "tags": "",
+      "unicode": "ea33"
+    },
+    {
+      "name": "sports_hockey",
+      "tags": "",
+      "unicode": "ea2b"
+    },
+    {
+      "name": "sports_kabaddi",
+      "tags": "",
+      "unicode": "ea34"
+    },
+    {
+      "name": "sports_mma",
+      "tags": "",
+      "unicode": "ea2c"
+    },
+    {
+      "name": "sports_motorsports",
+      "tags": "",
+      "unicode": "ea2d"
+    },
+    {
+      "name": "sports_rugby",
+      "tags": "",
+      "unicode": "ea2e"
+    },
+    {
+      "name": "sports_soccer",
+      "tags": "",
+      "unicode": "ea2f"
+    },
+    {
+      "name": "sports_tennis",
+      "tags": "",
+      "unicode": "ea32"
+    },
+    {
+      "name": "sports_volleyball",
+      "tags": "",
+      "unicode": "ea31"
+    },
+    {
+      "name": "square_foot",
+      "tags": "",
+      "unicode": "ea49"
+    },
+    {
+      "name": "stacked_bar_chart",
+      "tags": "",
+      "unicode": "e9e6"
+    },
+    {
+      "name": "stacked_line_chart",
+      "tags": "",
+      "unicode": "f22b"
+    },
+    {
+      "name": "stairs",
+      "tags": "",
+      "unicode": "f1a9"
     },
     {
       "name": "star",
@@ -3942,6 +6533,16 @@
       "name": "star_half",
       "tags": "rating",
       "unicode": "e839"
+    },
+    {
+      "name": "star_outline",
+      "tags": "",
+      "unicode": "f06f"
+    },
+    {
+      "name": "star_rate",
+      "tags": "",
+      "unicode": "f0ec"
     },
     {
       "name": "stars",
@@ -3969,19 +6570,19 @@
       "unicode": "e0d6"
     },
     {
-      "name": "streetview",
+      "name": "sticky_note_2",
       "tags": "",
-      "unicode": "e56e"
-    },
-    {
-      "name": "strikethrough_s",
-      "tags": "",
-      "unicode": "e257"
+      "unicode": "f1fc"
     },
     {
       "name": "stop",
       "tags": "square",
       "unicode": "e047"
+    },
+    {
+      "name": "stop_circle",
+      "tags": "",
+      "unicode": "ef71"
     },
     {
       "name": "stop_screen_share",
@@ -4004,9 +6605,24 @@
       "unicode": "e563"
     },
     {
+      "name": "storefront",
+      "tags": "",
+      "unicode": "ea12"
+    },
+    {
       "name": "straighten",
       "tags": "comb",
       "unicode": "e41c"
+    },
+    {
+      "name": "streetview",
+      "tags": "",
+      "unicode": "e56e"
+    },
+    {
+      "name": "strikethrough_s",
+      "tags": "",
+      "unicode": "e257"
     },
     {
       "name": "style",
@@ -4039,14 +6655,39 @@
       "unicode": "e048"
     },
     {
+      "name": "subtitles_off",
+      "tags": "",
+      "unicode": "ef72"
+    },
+    {
       "name": "subway",
       "tags": "transportation",
       "unicode": "e56f"
     },
     {
+      "name": "superscript",
+      "tags": "",
+      "unicode": "f112"
+    },
+    {
+      "name": "supervised_user_circle",
+      "tags": "",
+      "unicode": "e939"
+    },
+    {
       "name": "supervisor_account",
       "tags": "",
       "unicode": "e8d3"
+    },
+    {
+      "name": "support",
+      "tags": "",
+      "unicode": "ef73"
+    },
+    {
+      "name": "support_agent",
+      "tags": "",
+      "unicode": "f0e2"
     },
     {
       "name": "surround_sound",
@@ -4064,9 +6705,19 @@
       "unicode": "e8d4"
     },
     {
+      "name": "swap_horizontal_circle",
+      "tags": "",
+      "unicode": "e933"
+    },
+    {
       "name": "swap_vert",
       "tags": "arrows",
       "unicode": "e8d5"
+    },
+    {
+      "name": "swap_vert_circle",
+      "tags": "",
+      "unicode": "e8d6"
     },
     {
       "name": "swap_vertical_circle",
@@ -4074,9 +6725,29 @@
       "unicode": "e8d6"
     },
     {
+      "name": "swipe",
+      "tags": "",
+      "unicode": "e9ec"
+    },
+    {
+      "name": "switch_account",
+      "tags": "",
+      "unicode": "e9ed"
+    },
+    {
       "name": "switch_camera",
       "tags": "",
       "unicode": "e41e"
+    },
+    {
+      "name": "switch_left",
+      "tags": "",
+      "unicode": "f1d1"
+    },
+    {
+      "name": "switch_right",
+      "tags": "",
+      "unicode": "f1d2"
     },
     {
       "name": "switch_video",
@@ -4087,6 +6758,11 @@
       "name": "sync",
       "tags": "refresh, reload",
       "unicode": "e627"
+    },
+    {
+      "name": "sync_alt",
+      "tags": "",
+      "unicode": "ea18"
     },
     {
       "name": "sync_disabled",
@@ -4109,6 +6785,11 @@
       "unicode": "e8d7"
     },
     {
+      "name": "system_update_tv",
+      "tags": "",
+      "unicode": "e8d7"
+    },
+    {
       "name": "tab",
       "tags": "folder",
       "unicode": "e8d8"
@@ -4117,6 +6798,21 @@
       "name": "tab_unselected",
       "tags": "",
       "unicode": "e8d9"
+    },
+    {
+      "name": "table_chart",
+      "tags": "",
+      "unicode": "e265"
+    },
+    {
+      "name": "table_rows",
+      "tags": "",
+      "unicode": "f101"
+    },
+    {
+      "name": "table_view",
+      "tags": "",
+      "unicode": "f1be"
     },
     {
       "name": "tablet",
@@ -4139,9 +6835,24 @@
       "unicode": "e420"
     },
     {
+      "name": "takeout_dining",
+      "tags": "",
+      "unicode": "ea74"
+    },
+    {
       "name": "tap_and_play",
       "tags": "",
       "unicode": "e62b"
+    },
+    {
+      "name": "tapas",
+      "tags": "",
+      "unicode": "f1e9"
+    },
+    {
+      "name": "taxi_alert",
+      "tags": "",
+      "unicode": "ef74"
     },
     {
       "name": "terrain",
@@ -4159,6 +6870,41 @@
       "unicode": "e165"
     },
     {
+      "name": "text_rotate_up",
+      "tags": "",
+      "unicode": "e93a"
+    },
+    {
+      "name": "text_rotate_vertical",
+      "tags": "",
+      "unicode": "e93b"
+    },
+    {
+      "name": "text_rotation_angledown",
+      "tags": "",
+      "unicode": "e93c"
+    },
+    {
+      "name": "text_rotation_angleup",
+      "tags": "",
+      "unicode": "e93d"
+    },
+    {
+      "name": "text_rotation_down",
+      "tags": "",
+      "unicode": "e93e"
+    },
+    {
+      "name": "text_rotation_none",
+      "tags": "",
+      "unicode": "e93f"
+    },
+    {
+      "name": "text_snippet",
+      "tags": "",
+      "unicode": "f1c6"
+    },
+    {
       "name": "textsms",
       "tags": "chat, sms, speech bubble",
       "unicode": "e0d8"
@@ -4167,6 +6913,11 @@
       "name": "texture",
       "tags": "",
       "unicode": "e421"
+    },
+    {
+      "name": "theater_comedy",
+      "tags": "",
+      "unicode": "ea66"
     },
     {
       "name": "theaters",
@@ -4179,9 +6930,34 @@
       "unicode": "e8db"
     },
     {
+      "name": "thumb_down_alt",
+      "tags": "",
+      "unicode": "e816"
+    },
+    {
+      "name": "thumb_down_off_alt",
+      "tags": "",
+      "unicode": "e9f2"
+    },
+    {
       "name": "thumb_up",
       "tags": "like, rating",
       "unicode": "e8dc"
+    },
+    {
+      "name": "thumb_up_alt",
+      "tags": "",
+      "unicode": "e817"
+    },
+    {
+      "name": "thumb_up_off_alt",
+      "tags": "",
+      "unicode": "e9f3"
+    },
+    {
+      "name": "thumbs_up_down",
+      "tags": "",
+      "unicode": "e8dd"
     },
     {
       "name": "time_to_leave",
@@ -4234,6 +7010,16 @@
       "unicode": "e8df"
     },
     {
+      "name": "toggle_off",
+      "tags": "",
+      "unicode": "e9f5"
+    },
+    {
+      "name": "toggle_on",
+      "tags": "",
+      "unicode": "e9f6"
+    },
+    {
       "name": "toll",
       "tags": "circle, coin",
       "unicode": "e8e0"
@@ -4244,9 +7030,19 @@
       "unicode": "e427"
     },
     {
+      "name": "topic",
+      "tags": "",
+      "unicode": "f1c8"
+    },
+    {
       "name": "touch_app",
       "tags": "finger",
       "unicode": "e913"
+    },
+    {
+      "name": "tour",
+      "tags": "",
+      "unicode": "ef75"
     },
     {
       "name": "toys",
@@ -4284,6 +7080,11 @@
       "unicode": "e428"
     },
     {
+      "name": "transit_enterexit",
+      "tags": "",
+      "unicode": "e579"
+    },
+    {
       "name": "translate",
       "tags": "language",
       "unicode": "e8e2"
@@ -4299,9 +7100,24 @@
       "unicode": "e8e4"
     },
     {
+      "name": "trending_neutral",
+      "tags": "",
+      "unicode": "e8e4"
+    },
+    {
       "name": "trending_up",
       "tags": "arrow, chart, graph",
       "unicode": "e8e5"
+    },
+    {
+      "name": "trip_origin",
+      "tags": "",
+      "unicode": "e57b"
+    },
+    {
+      "name": "tty",
+      "tags": "",
+      "unicode": "f1aa"
     },
     {
       "name": "tune",
@@ -4324,6 +7140,16 @@
       "unicode": "e333"
     },
     {
+      "name": "tv_off",
+      "tags": "",
+      "unicode": "e647"
+    },
+    {
+      "name": "two_wheeler",
+      "tags": "",
+      "unicode": "e9f9"
+    },
+    {
       "name": "unarchive",
       "tags": "",
       "unicode": "e169"
@@ -4334,9 +7160,44 @@
       "unicode": "e166"
     },
     {
+      "name": "unfold_less",
+      "tags": "",
+      "unicode": "e5d6"
+    },
+    {
+      "name": "unfold_more",
+      "tags": "",
+      "unicode": "e5d7"
+    },
+    {
+      "name": "unpublished",
+      "tags": "",
+      "unicode": "f236"
+    },
+    {
+      "name": "unsubscribe",
+      "tags": "",
+      "unicode": "e0eb"
+    },
+    {
       "name": "update",
       "tags": "clock, timer",
       "unicode": "e923"
+    },
+    {
+      "name": "update_disabled",
+      "tags": "",
+      "unicode": "e075"
+    },
+    {
+      "name": "upgrade",
+      "tags": "",
+      "unicode": "f0fb"
+    },
+    {
+      "name": "upload_file",
+      "tags": "",
+      "unicode": "e9fc"
     },
     {
       "name": "usb",
@@ -4364,6 +7225,16 @@
       "unicode": "e25a"
     },
     {
+      "name": "vertical_distribute",
+      "tags": "",
+      "unicode": "e076"
+    },
+    {
+      "name": "vertical_split",
+      "tags": "",
+      "unicode": "e949"
+    },
+    {
       "name": "vibration",
       "tags": "",
       "unicode": "e62d"
@@ -4374,6 +7245,11 @@
       "unicode": "e070"
     },
     {
+      "name": "video_collection",
+      "tags": "",
+      "unicode": "e04a"
+    },
+    {
       "name": "video_label",
       "tags": "display, monitor",
       "unicode": "e071"
@@ -4382,6 +7258,11 @@
       "name": "video_library",
       "tags": "",
       "unicode": "e04a"
+    },
+    {
+      "name": "video_settings",
+      "tags": "",
+      "unicode": "ea75"
     },
     {
       "name": "videocam",
@@ -4419,6 +7300,11 @@
       "unicode": "e8ec"
     },
     {
+      "name": "view_comfortable",
+      "tags": "",
+      "unicode": "e42a"
+    },
+    {
       "name": "view_comfy",
       "tags": "",
       "unicode": "e42a"
@@ -4439,6 +7325,11 @@
       "unicode": "e8ee"
     },
     {
+      "name": "view_in_ar",
+      "tags": "",
+      "unicode": "e9fe"
+    },
+    {
       "name": "view_list",
       "tags": "",
       "unicode": "e8ef"
@@ -4452,6 +7343,11 @@
       "name": "view_quilt",
       "tags": "",
       "unicode": "e8f1"
+    },
+    {
+      "name": "view_sidebar",
+      "tags": "",
+      "unicode": "f114"
     },
     {
       "name": "view_stream",
@@ -4484,6 +7380,11 @@
       "unicode": "e62e"
     },
     {
+      "name": "voice_over_off",
+      "tags": "",
+      "unicode": "e94a"
+    },
+    {
       "name": "voicemail",
       "tags": "record",
       "unicode": "e0d9"
@@ -4509,6 +7410,11 @@
       "unicode": "e050"
     },
     {
+      "name": "volunteer_activism",
+      "tags": "",
+      "unicode": "ea70"
+    },
+    {
       "name": "vpn_key",
       "tags": "key, lock",
       "unicode": "e0da"
@@ -4517,6 +7423,21 @@
       "name": "vpn_lock",
       "tags": "globe, lock",
       "unicode": "e62f"
+    },
+    {
+      "name": "wallet_giftcard",
+      "tags": "",
+      "unicode": "e8f6"
+    },
+    {
+      "name": "wallet_membership",
+      "tags": "",
+      "unicode": "e8f7"
+    },
+    {
+      "name": "wallet_travel",
+      "tags": "",
+      "unicode": "e8f8"
     },
     {
       "name": "wallpaper",
@@ -4539,6 +7460,21 @@
       "unicode": "e924"
     },
     {
+      "name": "water_damage",
+      "tags": "",
+      "unicode": "f203"
+    },
+    {
+      "name": "waterfall_chart",
+      "tags": "",
+      "unicode": "ea00"
+    },
+    {
+      "name": "waves",
+      "tags": "",
+      "unicode": "e176"
+    },
+    {
       "name": "wb_auto",
       "tags": "",
       "unicode": "e42c"
@@ -4559,9 +7495,19 @@
       "unicode": "e436"
     },
     {
+      "name": "wb_shade",
+      "tags": "",
+      "unicode": "ea01"
+    },
+    {
       "name": "wb_sunny",
       "tags": "",
       "unicode": "e430"
+    },
+    {
+      "name": "wb_twighlight",
+      "tags": "",
+      "unicode": "ea02"
     },
     {
       "name": "wc",
@@ -4584,9 +7530,24 @@
       "unicode": "e16b"
     },
     {
+      "name": "west",
+      "tags": "",
+      "unicode": "f1e6"
+    },
+    {
       "name": "whatshot",
       "tags": "fire, flame",
       "unicode": "e80e"
+    },
+    {
+      "name": "wheelchair_pickup",
+      "tags": "",
+      "unicode": "f1ab"
+    },
+    {
+      "name": "where_to_vote",
+      "tags": "",
+      "unicode": "e177"
     },
     {
       "name": "widgets",
@@ -4599,9 +7560,19 @@
       "unicode": "e63e"
     },
     {
+      "name": "wifi_calling",
+      "tags": "",
+      "unicode": "ef77"
+    },
+    {
       "name": "wifi_lock",
       "tags": "",
       "unicode": "e1e1"
+    },
+    {
+      "name": "wifi_protected_setup",
+      "tags": "",
+      "unicode": "f0fc"
     },
     {
       "name": "wifi_tethering",
@@ -4609,14 +7580,49 @@
       "unicode": "e1e2"
     },
     {
+      "name": "wine_bar",
+      "tags": "",
+      "unicode": "f1e8"
+    },
+    {
       "name": "work",
       "tags": "briefcase, suitcase",
       "unicode": "e8f9"
     },
     {
+      "name": "work_off",
+      "tags": "",
+      "unicode": "e942"
+    },
+    {
+      "name": "work_outline",
+      "tags": "",
+      "unicode": "e943"
+    },
+    {
+      "name": "workspaces_filled",
+      "tags": "",
+      "unicode": "ea0d"
+    },
+    {
+      "name": "workspaces_outline",
+      "tags": "",
+      "unicode": "ea0f"
+    },
+    {
       "name": "wrap_text",
       "tags": "",
       "unicode": "e25b"
+    },
+    {
+      "name": "wrong_location",
+      "tags": "",
+      "unicode": "ef78"
+    },
+    {
+      "name": "wysiwyg",
+      "tags": "",
+      "unicode": "f1c3"
     },
     {
       "name": "youtube_searched_for",

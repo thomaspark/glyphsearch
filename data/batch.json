@@ -24718,11 +24718,371 @@
 
   {
     "_tags": ["material"],
+    "name": "10k",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">10k</i>",
+    "unicode": "e951"
+  },
+  {
+    "_tags": ["material"],
+    "name": "10mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">10mp</i>",
+    "unicode": "e952"
+  },
+  {
+    "_tags": ["material"],
+    "name": "11mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">11mp</i>",
+    "unicode": "e953"
+  },
+  {
+    "_tags": ["material"],
+    "name": "12mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">12mp</i>",
+    "unicode": "e954"
+  },
+  {
+    "_tags": ["material"],
+    "name": "13mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">13mp</i>",
+    "unicode": "e955"
+  },
+  {
+    "_tags": ["material"],
+    "name": "14mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">14mp</i>",
+    "unicode": "e956"
+  },
+  {
+    "_tags": ["material"],
+    "name": "15mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">15mp</i>",
+    "unicode": "e957"
+  },
+  {
+    "_tags": ["material"],
+    "name": "16mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">16mp</i>",
+    "unicode": "e958"
+  },
+  {
+    "_tags": ["material"],
+    "name": "17mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">17mp</i>",
+    "unicode": "e959"
+  },
+  {
+    "_tags": ["material"],
+    "name": "18mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">18mp</i>",
+    "unicode": "e95a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "19mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">19mp</i>",
+    "unicode": "e95b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "1k",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">1k</i>",
+    "unicode": "e95c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "1k_plus",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">1k_plus</i>",
+    "unicode": "e95d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "20mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">20mp</i>",
+    "unicode": "e95e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "21mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">21mp</i>",
+    "unicode": "e95f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "22mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">22mp</i>",
+    "unicode": "e960"
+  },
+  {
+    "_tags": ["material"],
+    "name": "23mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">23mp</i>",
+    "unicode": "e961"
+  },
+  {
+    "_tags": ["material"],
+    "name": "24mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">24mp</i>",
+    "unicode": "e962"
+  },
+  {
+    "_tags": ["material"],
+    "name": "2k",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">2k</i>",
+    "unicode": "e963"
+  },
+  {
+    "_tags": ["material"],
+    "name": "2k_plus",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">2k_plus</i>",
+    "unicode": "e964"
+  },
+  {
+    "_tags": ["material"],
+    "name": "2mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">2mp</i>",
+    "unicode": "e965"
+  },
+  {
+    "_tags": ["material"],
+    "name": "360",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">360</i>",
+    "unicode": "e577"
+  },
+  {
+    "_tags": ["material"],
     "name": "3d_rotation",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">3d_rotation</i>",
     "unicode": "e84d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "3k",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">3k</i>",
+    "unicode": "e966"
+  },
+  {
+    "_tags": ["material"],
+    "name": "3k_plus",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">3k_plus</i>",
+    "unicode": "e967"
+  },
+  {
+    "_tags": ["material"],
+    "name": "3mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">3mp</i>",
+    "unicode": "e968"
+  },
+  {
+    "_tags": ["material"],
+    "name": "4k",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">4k</i>",
+    "unicode": "e072"
+  },
+  {
+    "_tags": ["material"],
+    "name": "4k_plus",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">4k_plus</i>",
+    "unicode": "e969"
+  },
+  {
+    "_tags": ["material"],
+    "name": "4mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">4mp</i>",
+    "unicode": "e96a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "5g",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">5g</i>",
+    "unicode": "ef38"
+  },
+  {
+    "_tags": ["material"],
+    "name": "5k",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">5k</i>",
+    "unicode": "e96b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "5k_plus",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">5k_plus</i>",
+    "unicode": "e96c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "5mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">5mp</i>",
+    "unicode": "e96d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "6_ft_apart",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">6_ft_apart</i>",
+    "unicode": "f21e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "6k",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">6k</i>",
+    "unicode": "e96e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "6k_plus",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">6k_plus</i>",
+    "unicode": "e96f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "6mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">6mp</i>",
+    "unicode": "e970"
+  },
+  {
+    "_tags": ["material"],
+    "name": "7k",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">7k</i>",
+    "unicode": "e971"
+  },
+  {
+    "_tags": ["material"],
+    "name": "7k_plus",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">7k_plus</i>",
+    "unicode": "e972"
+  },
+  {
+    "_tags": ["material"],
+    "name": "7mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">7mp</i>",
+    "unicode": "e973"
+  },
+  {
+    "_tags": ["material"],
+    "name": "8k",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">8k</i>",
+    "unicode": "e974"
+  },
+  {
+    "_tags": ["material"],
+    "name": "8k_plus",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">8k_plus</i>",
+    "unicode": "e975"
+  },
+  {
+    "_tags": ["material"],
+    "name": "8mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">8mp</i>",
+    "unicode": "e976"
+  },
+  {
+    "_tags": ["material"],
+    "name": "9k",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">9k</i>",
+    "unicode": "e977"
+  },
+  {
+    "_tags": ["material"],
+    "name": "9k_plus",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">9k_plus</i>",
+    "unicode": "e978"
+  },
+  {
+    "_tags": ["material"],
+    "name": "9mp",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">9mp</i>",
+    "unicode": "e979"
   },
   {
     "_tags": ["material"],
@@ -24766,11 +25126,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "accessibility_new",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">accessibility_new</i>",
+    "unicode": "e92c"
+  },
+  {
+    "_tags": ["material"],
     "name": "accessible",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">accessible</i>",
     "unicode": "e914"
+  },
+  {
+    "_tags": ["material"],
+    "name": "accessible_forward",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">accessible_forward</i>",
+    "unicode": "e934"
   },
   {
     "_tags": ["material"],
@@ -24803,6 +25179,22 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">account_circle</i>",
     "unicode": "e853"
+  },
+  {
+    "_tags": ["material"],
+    "name": "account_tree",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">account_tree</i>",
+    "unicode": "e97a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "ad_units",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">ad_units</i>",
+    "unicode": "ef39"
   },
   {
     "_tags": ["material"],
@@ -24854,6 +25246,30 @@
   },
   {
     "_tags": ["material"],
+    "name": "add_business",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_business</i>",
+    "unicode": "e729"
+  },
+  {
+    "_tags": ["material"],
+    "name": "add_call",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_call</i>",
+    "unicode": "e0e8"
+  },
+  {
+    "_tags": ["material"],
+    "name": "add_chart",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_chart</i>",
+    "unicode": "e97b"
+  },
+  {
+    "_tags": ["material"],
     "name": "add_circle",
     "tags": "plus",
     "class": "material-icons",
@@ -24870,6 +25286,30 @@
   },
   {
     "_tags": ["material"],
+    "name": "add_comment",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_comment</i>",
+    "unicode": "e266"
+  },
+  {
+    "_tags": ["material"],
+    "name": "add_ic_call",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_ic_call</i>",
+    "unicode": "e97c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "add_link",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_link</i>",
+    "unicode": "e178"
+  },
+  {
+    "_tags": ["material"],
     "name": "add_location",
     "tags": "map marker",
     "class": "material-icons",
@@ -24878,11 +25318,67 @@
   },
   {
     "_tags": ["material"],
+    "name": "add_location_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_location_alt</i>",
+    "unicode": "ef3a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "add_moderator",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_moderator</i>",
+    "unicode": "e97d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "add_photo_alternate",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_photo_alternate</i>",
+    "unicode": "e43e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "add_road",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_road</i>",
+    "unicode": "ef3b"
+  },
+  {
+    "_tags": ["material"],
     "name": "add_shopping_cart",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">add_shopping_cart</i>",
     "unicode": "e854"
+  },
+  {
+    "_tags": ["material"],
+    "name": "add_task",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_task</i>",
+    "unicode": "f23a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "add_to_drive",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_to_drive</i>",
+    "unicode": "e65c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "add_to_home_screen",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">add_to_home_screen</i>",
+    "unicode": "e1fe"
   },
   {
     "_tags": ["material"],
@@ -24902,11 +25398,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "addchart",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">addchart</i>",
+    "unicode": "ef3c"
+  },
+  {
+    "_tags": ["material"],
     "name": "adjust",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">adjust</i>",
     "unicode": "e39e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "admin_panel_settings",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">admin_panel_settings</i>",
+    "unicode": "ef3d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "agriculture",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">agriculture</i>",
+    "unicode": "ea79"
   },
   {
     "_tags": ["material"],
@@ -24990,6 +25510,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "airplanemode_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">airplanemode_off</i>",
+    "unicode": "e194"
+  },
+  {
+    "_tags": ["material"],
+    "name": "airplanemode_on",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">airplanemode_on</i>",
+    "unicode": "e195"
+  },
+  {
+    "_tags": ["material"],
     "name": "airplay",
     "tags": "video",
     "class": "material-icons",
@@ -25046,6 +25582,62 @@
   },
   {
     "_tags": ["material"],
+    "name": "align_horizontal_center",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">align_horizontal_center</i>",
+    "unicode": "e00f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "align_horizontal_left",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">align_horizontal_left</i>",
+    "unicode": "e00d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "align_horizontal_right",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">align_horizontal_right</i>",
+    "unicode": "e010"
+  },
+  {
+    "_tags": ["material"],
+    "name": "align_vertical_bottom",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">align_vertical_bottom</i>",
+    "unicode": "e015"
+  },
+  {
+    "_tags": ["material"],
+    "name": "align_vertical_center",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">align_vertical_center</i>",
+    "unicode": "e011"
+  },
+  {
+    "_tags": ["material"],
+    "name": "align_vertical_top",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">align_vertical_top</i>",
+    "unicode": "e00c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "all_inbox",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">all_inbox</i>",
+    "unicode": "e97f"
+  },
+  {
+    "_tags": ["material"],
     "name": "all_inclusive",
     "tags": "infinity",
     "class": "material-icons",
@@ -25062,11 +25654,59 @@
   },
   {
     "_tags": ["material"],
+    "name": "alt_route",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">alt_route</i>",
+    "unicode": "f184"
+  },
+  {
+    "_tags": ["material"],
+    "name": "alternate_email",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">alternate_email</i>",
+    "unicode": "e0e6"
+  },
+  {
+    "_tags": ["material"],
+    "name": "amp_stories",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">amp_stories</i>",
+    "unicode": "ea13"
+  },
+  {
+    "_tags": ["material"],
+    "name": "analytics",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">analytics</i>",
+    "unicode": "ef3e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "anchor",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">anchor</i>",
+    "unicode": "f1cd"
+  },
+  {
+    "_tags": ["material"],
     "name": "android",
     "tags": "brand, logo",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">android</i>",
     "unicode": "e859"
+  },
+  {
+    "_tags": ["material"],
+    "name": "animation",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">animation</i>",
+    "unicode": "e71c"
   },
   {
     "_tags": ["material"],
@@ -25078,11 +25718,67 @@
   },
   {
     "_tags": ["material"],
+    "name": "apartment",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">apartment</i>",
+    "unicode": "ea40"
+  },
+  {
+    "_tags": ["material"],
+    "name": "api",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">api</i>",
+    "unicode": "f1b7"
+  },
+  {
+    "_tags": ["material"],
+    "name": "app_blocking",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">app_blocking</i>",
+    "unicode": "ef3f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "app_registration",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">app_registration</i>",
+    "unicode": "ef40"
+  },
+  {
+    "_tags": ["material"],
+    "name": "app_settings_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">app_settings_alt</i>",
+    "unicode": "ef41"
+  },
+  {
+    "_tags": ["material"],
+    "name": "approval",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">approval</i>",
+    "unicode": "e982"
+  },
+  {
+    "_tags": ["material"],
     "name": "apps",
     "tags": "grid",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">apps</i>",
     "unicode": "e5c3"
+  },
+  {
+    "_tags": ["material"],
+    "name": "architecture",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">architecture</i>",
+    "unicode": "ea3b"
   },
   {
     "_tags": ["material"],
@@ -25099,6 +25795,30 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">arrow_back</i>",
     "unicode": "e5c4"
+  },
+  {
+    "_tags": ["material"],
+    "name": "arrow_back_ios",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">arrow_back_ios</i>",
+    "unicode": "e5e0"
+  },
+  {
+    "_tags": ["material"],
+    "name": "arrow_circle_down",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">arrow_circle_down</i>",
+    "unicode": "f181"
+  },
+  {
+    "_tags": ["material"],
+    "name": "arrow_circle_up",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">arrow_circle_up</i>",
+    "unicode": "f182"
   },
   {
     "_tags": ["material"],
@@ -25142,6 +25862,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "arrow_forward_ios",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">arrow_forward_ios</i>",
+    "unicode": "e5e1"
+  },
+  {
+    "_tags": ["material"],
+    "name": "arrow_right_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">arrow_right_alt</i>",
+    "unicode": "e941"
+  },
+  {
+    "_tags": ["material"],
     "name": "arrow_upward",
     "tags": "",
     "class": "material-icons",
@@ -25155,6 +25891,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">art_track</i>",
     "unicode": "e060"
+  },
+  {
+    "_tags": ["material"],
+    "name": "article",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">article</i>",
+    "unicode": "ef42"
   },
   {
     "_tags": ["material"],
@@ -25230,11 +25974,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "assistant_direction",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">assistant_direction</i>",
+    "unicode": "e988"
+  },
+  {
+    "_tags": ["material"],
+    "name": "assistant_navigation",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">assistant_navigation</i>",
+    "unicode": "e989"
+  },
+  {
+    "_tags": ["material"],
     "name": "assistant_photo",
     "tags": "flag",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">assistant_photo</i>",
     "unicode": "e3a0"
+  },
+  {
+    "_tags": ["material"],
+    "name": "attach_email",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">attach_email</i>",
+    "unicode": "ea5e"
   },
   {
     "_tags": ["material"],
@@ -25262,11 +26030,83 @@
   },
   {
     "_tags": ["material"],
+    "name": "attractions",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">attractions</i>",
+    "unicode": "ea52"
+  },
+  {
+    "_tags": ["material"],
     "name": "audiotrack",
     "tags": "music note",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">audiotrack</i>",
     "unicode": "e3a1"
+  },
+  {
+    "_tags": ["material"],
+    "name": "auto_awesome",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">auto_awesome</i>",
+    "unicode": "e65f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "auto_awesome_mosaic",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">auto_awesome_mosaic</i>",
+    "unicode": "e660"
+  },
+  {
+    "_tags": ["material"],
+    "name": "auto_awesome_motion",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">auto_awesome_motion</i>",
+    "unicode": "e661"
+  },
+  {
+    "_tags": ["material"],
+    "name": "auto_delete",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">auto_delete</i>",
+    "unicode": "ea4c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "auto_fix_high",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">auto_fix_high</i>",
+    "unicode": "e663"
+  },
+  {
+    "_tags": ["material"],
+    "name": "auto_fix_normal",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">auto_fix_normal</i>",
+    "unicode": "e664"
+  },
+  {
+    "_tags": ["material"],
+    "name": "auto_fix_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">auto_fix_off</i>",
+    "unicode": "e665"
+  },
+  {
+    "_tags": ["material"],
+    "name": "auto_stories",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">auto_stories</i>",
+    "unicode": "e666"
   },
   {
     "_tags": ["material"],
@@ -25286,6 +26126,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "baby_changing_station",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">baby_changing_station</i>",
+    "unicode": "f19b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "backpack",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">backpack</i>",
+    "unicode": "f19c"
+  },
+  {
+    "_tags": ["material"],
     "name": "backspace",
     "tags": "delete",
     "class": "material-icons",
@@ -25299,6 +26155,62 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">backup</i>",
     "unicode": "e864"
+  },
+  {
+    "_tags": ["material"],
+    "name": "backup_table",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">backup_table</i>",
+    "unicode": "ef43"
+  },
+  {
+    "_tags": ["material"],
+    "name": "badge",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">badge</i>",
+    "unicode": "ea67"
+  },
+  {
+    "_tags": ["material"],
+    "name": "bakery_dining",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">bakery_dining</i>",
+    "unicode": "ea53"
+  },
+  {
+    "_tags": ["material"],
+    "name": "ballot",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">ballot</i>",
+    "unicode": "e172"
+  },
+  {
+    "_tags": ["material"],
+    "name": "bar_chart",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">bar_chart</i>",
+    "unicode": "e26b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "batch_prediction",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">batch_prediction</i>",
+    "unicode": "f0f5"
+  },
+  {
+    "_tags": ["material"],
+    "name": "bathtub",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">bathtub</i>",
+    "unicode": "ea41"
   },
   {
     "_tags": ["material"],
@@ -25350,6 +26262,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "bedtime",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">bedtime</i>",
+    "unicode": "ef44"
+  },
+  {
+    "_tags": ["material"],
     "name": "beenhere",
     "tags": "checkmark",
     "class": "material-icons",
@@ -25358,11 +26278,43 @@
   },
   {
     "_tags": ["material"],
+    "name": "bento",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">bento</i>",
+    "unicode": "f1f4"
+  },
+  {
+    "_tags": ["material"],
+    "name": "bike_scooter",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">bike_scooter</i>",
+    "unicode": "ef45"
+  },
+  {
+    "_tags": ["material"],
+    "name": "biotech",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">biotech</i>",
+    "unicode": "ea3a"
+  },
+  {
+    "_tags": ["material"],
     "name": "block",
     "tags": "prohibited",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">block</i>",
     "unicode": "e14b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "block_flipped",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">block_flipped</i>",
+    "unicode": "ef46"
   },
   {
     "_tags": ["material"],
@@ -25438,11 +26390,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "bolt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">bolt</i>",
+    "unicode": "ea0b"
+  },
+  {
+    "_tags": ["material"],
     "name": "book",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">book</i>",
     "unicode": "e865"
+  },
+  {
+    "_tags": ["material"],
+    "name": "book_online",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">book_online</i>",
+    "unicode": "f217"
   },
   {
     "_tags": ["material"],
@@ -25459,6 +26427,22 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">bookmark_border</i>",
     "unicode": "e867"
+  },
+  {
+    "_tags": ["material"],
+    "name": "bookmark_outline",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">bookmark_outline</i>",
+    "unicode": "e867"
+  },
+  {
+    "_tags": ["material"],
+    "name": "bookmarks",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">bookmarks</i>",
+    "unicode": "e98b"
   },
   {
     "_tags": ["material"],
@@ -25566,6 +26550,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "breakfast_dining",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">breakfast_dining</i>",
+    "unicode": "ea54"
+  },
+  {
+    "_tags": ["material"],
     "name": "brightness_1",
     "tags": "circle, full moon",
     "class": "material-icons",
@@ -25662,6 +26654,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "browser_not_supported",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">browser_not_supported</i>",
+    "unicode": "ef47"
+  },
+  {
+    "_tags": ["material"],
+    "name": "brunch_dining",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">brunch_dining</i>",
+    "unicode": "ea73"
+  },
+  {
+    "_tags": ["material"],
     "name": "brush",
     "tags": "paintbrush",
     "class": "material-icons",
@@ -25694,11 +26702,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "build_circle",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">build_circle</i>",
+    "unicode": "ef48"
+  },
+  {
+    "_tags": ["material"],
     "name": "burst_mode",
     "tags": "photos",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">burst_mode</i>",
     "unicode": "e43c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "bus_alert",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">bus_alert</i>",
+    "unicode": "e98f"
   },
   {
     "_tags": ["material"],
@@ -25731,6 +26755,30 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">cake</i>",
     "unicode": "e7e9"
+  },
+  {
+    "_tags": ["material"],
+    "name": "calculate",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">calculate</i>",
+    "unicode": "ea5f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "calendar_today",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">calendar_today</i>",
+    "unicode": "e935"
+  },
+  {
+    "_tags": ["material"],
+    "name": "calendar_view_day",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">calendar_view_day</i>",
+    "unicode": "e936"
   },
   {
     "_tags": ["material"],
@@ -25822,19 +26870,19 @@
   },
   {
     "_tags": ["material"],
-    "name": "camera_front",
-    "tags": "",
-    "class": "material-icons",
-    "html": "<i class=\"material-icons\">camera_front</i>",
-    "unicode": "e3b1"
-  },
-  {
-    "_tags": ["material"],
     "name": "camera_enhance",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">camera_enhance</i>",
     "unicode": "e8fc"
+  },
+  {
+    "_tags": ["material"],
+    "name": "camera_front",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">camera_front</i>",
+    "unicode": "e3b1"
   },
   {
     "_tags": ["material"],
@@ -25854,11 +26902,51 @@
   },
   {
     "_tags": ["material"],
+    "name": "campaign",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">campaign</i>",
+    "unicode": "ef49"
+  },
+  {
+    "_tags": ["material"],
     "name": "cancel",
     "tags": "close, remove, x",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">cancel</i>",
     "unicode": "e5c9"
+  },
+  {
+    "_tags": ["material"],
+    "name": "cancel_presentation",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">cancel_presentation</i>",
+    "unicode": "e0e9"
+  },
+  {
+    "_tags": ["material"],
+    "name": "cancel_schedule_send",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">cancel_schedule_send</i>",
+    "unicode": "ea39"
+  },
+  {
+    "_tags": ["material"],
+    "name": "car_rental",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">car_rental</i>",
+    "unicode": "ea55"
+  },
+  {
+    "_tags": ["material"],
+    "name": "car_repair",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">car_repair</i>",
+    "unicode": "ea56"
   },
   {
     "_tags": ["material"],
@@ -25886,6 +26974,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "carpenter",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">carpenter</i>",
+    "unicode": "f1f8"
+  },
+  {
+    "_tags": ["material"],
+    "name": "cases",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">cases</i>",
+    "unicode": "e992"
+  },
+  {
+    "_tags": ["material"],
     "name": "casino",
     "tags": "dice, game",
     "class": "material-icons",
@@ -25910,6 +27014,38 @@
   },
   {
     "_tags": ["material"],
+    "name": "cast_for_education",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">cast_for_education</i>",
+    "unicode": "efec"
+  },
+  {
+    "_tags": ["material"],
+    "name": "category",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">category</i>",
+    "unicode": "e574"
+  },
+  {
+    "_tags": ["material"],
+    "name": "celebration",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">celebration</i>",
+    "unicode": "ea65"
+  },
+  {
+    "_tags": ["material"],
+    "name": "cell_wifi",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">cell_wifi</i>",
+    "unicode": "e0ec"
+  },
+  {
+    "_tags": ["material"],
     "name": "center_focus_strong",
     "tags": "",
     "class": "material-icons",
@@ -25931,6 +27067,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">change_history</i>",
     "unicode": "e86b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "charging_station",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">charging_station</i>",
+    "unicode": "f19d"
   },
   {
     "_tags": ["material"],
@@ -25982,11 +27126,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "check_box_outline_blank",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">check_box_outline_blank</i>",
+    "unicode": "e835"
+  },
+  {
+    "_tags": ["material"],
     "name": "check_circle",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">check_circle</i>",
     "unicode": "e86c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "check_circle_outline",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">check_circle_outline</i>",
+    "unicode": "e92d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "checkroom",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">checkroom</i>",
+    "unicode": "f19e"
   },
   {
     "_tags": ["material"],
@@ -26030,11 +27198,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "circle_notifications",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">circle_notifications</i>",
+    "unicode": "e994"
+  },
+  {
+    "_tags": ["material"],
     "name": "class",
     "tags": "bookmark",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">class</i>",
     "unicode": "e86e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "clean_hands",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">clean_hands</i>",
+    "unicode": "f21f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "cleaning_services",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">cleaning_services</i>",
+    "unicode": "f0ff"
   },
   {
     "_tags": ["material"],
@@ -26062,11 +27254,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "close_fullscreen",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">close_fullscreen</i>",
+    "unicode": "f1cf"
+  },
+  {
+    "_tags": ["material"],
     "name": "closed_caption",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">closed_caption</i>",
     "unicode": "e01c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "closed_caption_disabled",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">closed_caption_disabled</i>",
+    "unicode": "f1dc"
+  },
+  {
+    "_tags": ["material"],
+    "name": "closed_caption_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">closed_caption_off</i>",
+    "unicode": "e996"
   },
   {
     "_tags": ["material"],
@@ -26174,6 +27390,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "comment_bank",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">comment_bank</i>",
+    "unicode": "ea4e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "commute",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">commute</i>",
+    "unicode": "e940"
+  },
+  {
+    "_tags": ["material"],
     "name": "compare",
     "tags": "",
     "class": "material-icons",
@@ -26187,6 +27419,22 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">compare_arrows</i>",
     "unicode": "e915"
+  },
+  {
+    "_tags": ["material"],
+    "name": "compass_calibration",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">compass_calibration</i>",
+    "unicode": "e57c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "compress",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">compress</i>",
+    "unicode": "e94d"
   },
   {
     "_tags": ["material"],
@@ -26206,6 +27454,30 @@
   },
   {
     "_tags": ["material"],
+    "name": "connect_without_contact",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">connect_without_contact</i>",
+    "unicode": "f223"
+  },
+  {
+    "_tags": ["material"],
+    "name": "connected_tv",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">connected_tv</i>",
+    "unicode": "e998"
+  },
+  {
+    "_tags": ["material"],
+    "name": "construction",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">construction</i>",
+    "unicode": "ea3c"
+  },
+  {
+    "_tags": ["material"],
     "name": "contact_mail",
     "tags": "",
     "class": "material-icons",
@@ -26214,11 +27486,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "contact_page",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">contact_page</i>",
+    "unicode": "f22e"
+  },
+  {
+    "_tags": ["material"],
     "name": "contact_phone",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">contact_phone</i>",
     "unicode": "e0cf"
+  },
+  {
+    "_tags": ["material"],
+    "name": "contact_support",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">contact_support</i>",
+    "unicode": "e94c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "contactless",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">contactless</i>",
+    "unicode": "ea71"
   },
   {
     "_tags": ["material"],
@@ -26254,6 +27550,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "control_camera",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">control_camera</i>",
+    "unicode": "e074"
+  },
+  {
+    "_tags": ["material"],
     "name": "control_point",
     "tags": "plus",
     "class": "material-icons",
@@ -26275,6 +27579,30 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">copyright</i>",
     "unicode": "e90c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "coronavirus",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">coronavirus</i>",
+    "unicode": "f221"
+  },
+  {
+    "_tags": ["material"],
+    "name": "corporate_fare",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">corporate_fare</i>",
+    "unicode": "f1d0"
+  },
+  {
+    "_tags": ["material"],
+    "name": "countertops",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">countertops</i>",
+    "unicode": "f1f7"
   },
   {
     "_tags": ["material"],
@@ -26398,11 +27726,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "dangerous",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">dangerous</i>",
+    "unicode": "e99a"
+  },
+  {
+    "_tags": ["material"],
     "name": "dashboard",
     "tags": "blocks, grid",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">dashboard</i>",
     "unicode": "e871"
+  },
+  {
+    "_tags": ["material"],
+    "name": "dashboard_customize",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">dashboard_customize</i>",
+    "unicode": "e99b"
   },
   {
     "_tags": ["material"],
@@ -26419,6 +27763,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">date_range</i>",
     "unicode": "e916"
+  },
+  {
+    "_tags": ["material"],
+    "name": "deck",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">deck</i>",
+    "unicode": "ea42"
   },
   {
     "_tags": ["material"],
@@ -26446,6 +27798,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "delete_outline",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">delete_outline</i>",
+    "unicode": "e92e"
+  },
+  {
+    "_tags": ["material"],
     "name": "delete_sweep",
     "tags": "trash can",
     "class": "material-icons",
@@ -26454,11 +27814,43 @@
   },
   {
     "_tags": ["material"],
+    "name": "delivery_dining",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">delivery_dining</i>",
+    "unicode": "ea72"
+  },
+  {
+    "_tags": ["material"],
+    "name": "departure_board",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">departure_board</i>",
+    "unicode": "e576"
+  },
+  {
+    "_tags": ["material"],
     "name": "description",
     "tags": "document, file",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">description</i>",
     "unicode": "e873"
+  },
+  {
+    "_tags": ["material"],
+    "name": "design_services",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">design_services</i>",
+    "unicode": "f10a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "desktop_access_disabled",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">desktop_access_disabled</i>",
+    "unicode": "e99d"
   },
   {
     "_tags": ["material"],
@@ -26510,6 +27902,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "device_thermostat",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">device_thermostat</i>",
+    "unicode": "e1ff"
+  },
+  {
+    "_tags": ["material"],
+    "name": "device_unknown",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">device_unknown</i>",
+    "unicode": "e339"
+  },
+  {
+    "_tags": ["material"],
     "name": "devices",
     "tags": "",
     "class": "material-icons",
@@ -26539,6 +27947,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">dialpad</i>",
     "unicode": "e0bc"
+  },
+  {
+    "_tags": ["material"],
+    "name": "dinner_dining",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">dinner_dining</i>",
+    "unicode": "ea57"
   },
   {
     "_tags": ["material"],
@@ -26582,6 +27998,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "directions_ferry",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">directions_ferry</i>",
+    "unicode": "e532"
+  },
+  {
+    "_tags": ["material"],
+    "name": "directions_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">directions_off</i>",
+    "unicode": "f10f"
+  },
+  {
+    "_tags": ["material"],
     "name": "directions_railway",
     "tags": "train",
     "class": "material-icons",
@@ -26606,6 +28038,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "directions_train",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">directions_train</i>",
+    "unicode": "e534"
+  },
+  {
+    "_tags": ["material"],
     "name": "directions_transit",
     "tags": "",
     "class": "material-icons",
@@ -26622,11 +28062,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "dirty_lens",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">dirty_lens</i>",
+    "unicode": "ef4b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "disabled_by_default",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">disabled_by_default</i>",
+    "unicode": "f230"
+  },
+  {
+    "_tags": ["material"],
     "name": "disc_full",
     "tags": "record, vinyl",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">disc_full</i>",
     "unicode": "e610"
+  },
+  {
+    "_tags": ["material"],
+    "name": "dnd_forwardslash",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">dnd_forwardslash</i>",
+    "unicode": "e611"
   },
   {
     "_tags": ["material"],
@@ -26670,6 +28134,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "do_not_step",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">do_not_step</i>",
+    "unicode": "f19f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "do_not_touch",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">do_not_touch</i>",
+    "unicode": "f1b0"
+  },
+  {
+    "_tags": ["material"],
     "name": "dock",
     "tags": "phone",
     "class": "material-icons",
@@ -26683,6 +28163,22 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">domain</i>",
     "unicode": "e7ee"
+  },
+  {
+    "_tags": ["material"],
+    "name": "domain_disabled",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">domain_disabled</i>",
+    "unicode": "e0ef"
+  },
+  {
+    "_tags": ["material"],
+    "name": "domain_verification",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">domain_verification</i>",
+    "unicode": "ef4c"
   },
   {
     "_tags": ["material"],
@@ -26702,6 +28198,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "done_outline",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">done_outline</i>",
+    "unicode": "e92f"
+  },
+  {
+    "_tags": ["material"],
     "name": "donut_large",
     "tags": "chart, graph",
     "class": "material-icons",
@@ -26715,6 +28219,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">donut_small</i>",
     "unicode": "e918"
+  },
+  {
+    "_tags": ["material"],
+    "name": "double_arrow",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">double_arrow</i>",
+    "unicode": "ea50"
   },
   {
     "_tags": ["material"],
@@ -26734,11 +28246,67 @@
   },
   {
     "_tags": ["material"],
+    "name": "drag_indicator",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">drag_indicator</i>",
+    "unicode": "e945"
+  },
+  {
+    "_tags": ["material"],
     "name": "drive_eta",
     "tags": "automobile, car",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">drive_eta</i>",
     "unicode": "e613"
+  },
+  {
+    "_tags": ["material"],
+    "name": "drive_file_move",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">drive_file_move</i>",
+    "unicode": "e675"
+  },
+  {
+    "_tags": ["material"],
+    "name": "drive_file_move_outline",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">drive_file_move_outline</i>",
+    "unicode": "e9a1"
+  },
+  {
+    "_tags": ["material"],
+    "name": "drive_file_rename_outline",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">drive_file_rename_outline</i>",
+    "unicode": "e9a2"
+  },
+  {
+    "_tags": ["material"],
+    "name": "drive_folder_upload",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">drive_folder_upload</i>",
+    "unicode": "e9a3"
+  },
+  {
+    "_tags": ["material"],
+    "name": "dry_cleaning",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">dry_cleaning</i>",
+    "unicode": "ea58"
+  },
+  {
+    "_tags": ["material"],
+    "name": "duo",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">duo</i>",
+    "unicode": "e9a5"
   },
   {
     "_tags": ["material"],
@@ -26750,11 +28318,43 @@
   },
   {
     "_tags": ["material"],
+    "name": "dynamic_feed",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">dynamic_feed</i>",
+    "unicode": "ea14"
+  },
+  {
+    "_tags": ["material"],
+    "name": "dynamic_form",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">dynamic_form</i>",
+    "unicode": "f1bf"
+  },
+  {
+    "_tags": ["material"],
+    "name": "east",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">east</i>",
+    "unicode": "f1df"
+  },
+  {
+    "_tags": ["material"],
     "name": "edit",
     "tags": "pencil",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">edit</i>",
     "unicode": "e3c9"
+  },
+  {
+    "_tags": ["material"],
+    "name": "edit_attributes",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">edit_attributes</i>",
+    "unicode": "e578"
   },
   {
     "_tags": ["material"],
@@ -26766,6 +28366,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "edit_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">edit_off</i>",
+    "unicode": "e950"
+  },
+  {
+    "_tags": ["material"],
+    "name": "edit_road",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">edit_road</i>",
+    "unicode": "ef4d"
+  },
+  {
+    "_tags": ["material"],
     "name": "eject",
     "tags": "",
     "class": "material-icons",
@@ -26774,11 +28390,163 @@
   },
   {
     "_tags": ["material"],
+    "name": "elderly",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">elderly</i>",
+    "unicode": "f21a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "electric_bike",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">electric_bike</i>",
+    "unicode": "eb1b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "electric_car",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">electric_car</i>",
+    "unicode": "eb1c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "electric_moped",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">electric_moped</i>",
+    "unicode": "eb1d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "electric_rickshaw",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">electric_rickshaw</i>",
+    "unicode": "eb1e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "electric_scooter",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">electric_scooter</i>",
+    "unicode": "eb1f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "electrical_services",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">electrical_services</i>",
+    "unicode": "f102"
+  },
+  {
+    "_tags": ["material"],
+    "name": "elevator",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">elevator</i>",
+    "unicode": "f1a0"
+  },
+  {
+    "_tags": ["material"],
     "name": "email",
     "tags": "envelope, letter",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">email</i>",
     "unicode": "e0be"
+  },
+  {
+    "_tags": ["material"],
+    "name": "emoji_emotions",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">emoji_emotions</i>",
+    "unicode": "ea22"
+  },
+  {
+    "_tags": ["material"],
+    "name": "emoji_events",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">emoji_events</i>",
+    "unicode": "ea23"
+  },
+  {
+    "_tags": ["material"],
+    "name": "emoji_flags",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">emoji_flags</i>",
+    "unicode": "ea1a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "emoji_food_beverage",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">emoji_food_beverage</i>",
+    "unicode": "ea1b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "emoji_nature",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">emoji_nature</i>",
+    "unicode": "ea1c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "emoji_objects",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">emoji_objects</i>",
+    "unicode": "ea24"
+  },
+  {
+    "_tags": ["material"],
+    "name": "emoji_people",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">emoji_people</i>",
+    "unicode": "ea1d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "emoji_symbols",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">emoji_symbols</i>",
+    "unicode": "ea1e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "emoji_transportation",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">emoji_transportation</i>",
+    "unicode": "ea1f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "engineering",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">engineering</i>",
+    "unicode": "ea3d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "enhance_photo_translate",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">enhance_photo_translate</i>",
+    "unicode": "e8fc"
   },
   {
     "_tags": ["material"],
@@ -26811,6 +28579,22 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">error_outline</i>",
     "unicode": "e001"
+  },
+  {
+    "_tags": ["material"],
+    "name": "escalator",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">escalator</i>",
+    "unicode": "f1a1"
+  },
+  {
+    "_tags": ["material"],
+    "name": "escalator_warning",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">escalator_warning</i>",
+    "unicode": "f1ac"
   },
   {
     "_tags": ["material"],
@@ -26910,11 +28694,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "explore_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">explore_off</i>",
+    "unicode": "e9a8"
+  },
+  {
+    "_tags": ["material"],
     "name": "exposure",
     "tags": "brightness, contrast",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">exposure</i>",
     "unicode": "e3ca"
+  },
+  {
+    "_tags": ["material"],
+    "name": "exposure_minus_1",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">exposure_minus_1</i>",
+    "unicode": "e3cb"
+  },
+  {
+    "_tags": ["material"],
+    "name": "exposure_minus_2",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">exposure_minus_2</i>",
+    "unicode": "e3cc"
   },
   {
     "_tags": ["material"],
@@ -26974,6 +28782,38 @@
   },
   {
     "_tags": ["material"],
+    "name": "face_retouching_natural",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">face_retouching_natural</i>",
+    "unicode": "ef4e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "facebook",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">facebook</i>",
+    "unicode": "f234"
+  },
+  {
+    "_tags": ["material"],
+    "name": "fact_check",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">fact_check</i>",
+    "unicode": "f0c5"
+  },
+  {
+    "_tags": ["material"],
+    "name": "family_restroom",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">family_restroom</i>",
+    "unicode": "f1a2"
+  },
+  {
+    "_tags": ["material"],
     "name": "fast_forward",
     "tags": "",
     "class": "material-icons",
@@ -26990,6 +28830,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "fastfood",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">fastfood</i>",
+    "unicode": "e57a"
+  },
+  {
+    "_tags": ["material"],
     "name": "favorite",
     "tags": "heart, like",
     "class": "material-icons",
@@ -27002,6 +28850,14 @@
     "tags": "heart, like",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">favorite_border</i>",
+    "unicode": "e87e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "favorite_outline",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">favorite_outline</i>",
     "unicode": "e87e"
   },
   {
@@ -27027,6 +28883,22 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">feedback</i>",
     "unicode": "e87f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "fence",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">fence</i>",
+    "unicode": "f1f6"
+  },
+  {
+    "_tags": ["material"],
+    "name": "festival",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">festival</i>",
+    "unicode": "ea68"
   },
   {
     "_tags": ["material"],
@@ -27070,11 +28942,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "file_copy",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">file_copy</i>",
+    "unicode": "e173"
+  },
+  {
+    "_tags": ["material"],
     "name": "file_download",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">file_download</i>",
     "unicode": "e2c4"
+  },
+  {
+    "_tags": ["material"],
+    "name": "file_download_done",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">file_download_done</i>",
+    "unicode": "e9aa"
+  },
+  {
+    "_tags": ["material"],
+    "name": "file_present",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">file_present</i>",
+    "unicode": "ea0e"
   },
   {
     "_tags": ["material"],
@@ -27174,6 +29070,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "filter_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">filter_alt</i>",
+    "unicode": "ef4f"
+  },
+  {
+    "_tags": ["material"],
     "name": "filter_b_and_w",
     "tags": "",
     "class": "material-icons",
@@ -27219,6 +29123,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">filter_list</i>",
     "unicode": "e152"
+  },
+  {
+    "_tags": ["material"],
+    "name": "filter_list_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">filter_list_alt</i>",
+    "unicode": "e94e"
   },
   {
     "_tags": ["material"],
@@ -27270,11 +29182,43 @@
   },
   {
     "_tags": ["material"],
+    "name": "fire_extinguisher",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">fire_extinguisher</i>",
+    "unicode": "f1d8"
+  },
+  {
+    "_tags": ["material"],
+    "name": "fire_hydrant",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">fire_hydrant</i>",
+    "unicode": "f1a3"
+  },
+  {
+    "_tags": ["material"],
+    "name": "fireplace",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">fireplace</i>",
+    "unicode": "ea43"
+  },
+  {
+    "_tags": ["material"],
     "name": "first_page",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">first_page</i>",
     "unicode": "e5dc"
+  },
+  {
+    "_tags": ["material"],
+    "name": "fit_screen",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">fit_screen</i>",
+    "unicode": "ea10"
   },
   {
     "_tags": ["material"],
@@ -27291,6 +29235,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">flag</i>",
     "unicode": "e153"
+  },
+  {
+    "_tags": ["material"],
+    "name": "flaky",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">flaky</i>",
+    "unicode": "ef50"
   },
   {
     "_tags": ["material"],
@@ -27358,6 +29310,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "flip_camera_android",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">flip_camera_android</i>",
+    "unicode": "ea37"
+  },
+  {
+    "_tags": ["material"],
+    "name": "flip_camera_ios",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">flip_camera_ios</i>",
+    "unicode": "ea38"
+  },
+  {
+    "_tags": ["material"],
     "name": "flip_to_back",
     "tags": "",
     "class": "material-icons",
@@ -27406,11 +29374,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "follow_the_signs",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">follow_the_signs</i>",
+    "unicode": "f222"
+  },
+  {
+    "_tags": ["material"],
     "name": "font_download",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">font_download</i>",
     "unicode": "e167"
+  },
+  {
+    "_tags": ["material"],
+    "name": "food_bank",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">food_bank</i>",
+    "unicode": "f1f2"
   },
   {
     "_tags": ["material"],
@@ -27534,6 +29518,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "format_list_numbered_rtl",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">format_list_numbered_rtl</i>",
+    "unicode": "e267"
+  },
+  {
+    "_tags": ["material"],
     "name": "format_paint",
     "tags": "paint brush, roller",
     "class": "material-icons",
@@ -27638,6 +29630,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "forward_to_inbox",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">forward_to_inbox</i>",
+    "unicode": "f187"
+  },
+  {
+    "_tags": ["material"],
+    "name": "foundation",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">foundation</i>",
+    "unicode": "f200"
+  },
+  {
+    "_tags": ["material"],
     "name": "free_breakfast",
     "tags": "coffee, mug",
     "class": "material-icons",
@@ -27726,6 +29734,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "goat",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">goat</i>",
+    "unicode": "ebff"
+  },
+  {
+    "_tags": ["material"],
     "name": "golf_course",
     "tags": "sports",
     "class": "material-icons",
@@ -27774,6 +29790,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "grading",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">grading</i>",
+    "unicode": "ea4f"
+  },
+  {
+    "_tags": ["material"],
     "name": "grain",
     "tags": "dots",
     "class": "material-icons",
@@ -27790,6 +29814,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "grass",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">grass</i>",
+    "unicode": "f205"
+  },
+  {
+    "_tags": ["material"],
     "name": "grid_off",
     "tags": "",
     "class": "material-icons",
@@ -27803,6 +29835,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">grid_on</i>",
     "unicode": "e3ec"
+  },
+  {
+    "_tags": ["material"],
+    "name": "grid_view",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">grid_view</i>",
+    "unicode": "e9b0"
   },
   {
     "_tags": ["material"],
@@ -27830,11 +29870,51 @@
   },
   {
     "_tags": ["material"],
+    "name": "groups",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">groups</i>",
+    "unicode": "f233"
+  },
+  {
+    "_tags": ["material"],
+    "name": "hail",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">hail</i>",
+    "unicode": "e9b1"
+  },
+  {
+    "_tags": ["material"],
+    "name": "handyman",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">handyman</i>",
+    "unicode": "f10b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "hardware",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">hardware</i>",
+    "unicode": "ea59"
+  },
+  {
+    "_tags": ["material"],
     "name": "hd",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">hd</i>",
     "unicode": "e052"
+  },
+  {
+    "_tags": ["material"],
+    "name": "hdr_enhanced_select",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">hdr_enhanced_select</i>",
+    "unicode": "ef51"
   },
   {
     "_tags": ["material"],
@@ -27870,14 +29950,6 @@
   },
   {
     "_tags": ["material"],
-    "name": "healing",
-    "tags": "bandage, bandaid, first aid",
-    "class": "material-icons",
-    "html": "<i class=\"material-icons\">healing</i>",
-    "unicode": "e3f3"
-  },
-  {
-    "_tags": ["material"],
     "name": "headset",
     "tags": "headphones",
     "class": "material-icons",
@@ -27894,6 +29966,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "headset_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">headset_off</i>",
+    "unicode": "e33a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "healing",
+    "tags": "bandage, bandaid, first aid",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">healing</i>",
+    "unicode": "e3f3"
+  },
+  {
+    "_tags": ["material"],
     "name": "hearing",
     "tags": "ear",
     "class": "material-icons",
@@ -27902,11 +29990,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "hearing_disabled",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">hearing_disabled</i>",
+    "unicode": "f104"
+  },
+  {
+    "_tags": ["material"],
+    "name": "height",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">height</i>",
+    "unicode": "ea16"
+  },
+  {
+    "_tags": ["material"],
     "name": "help",
     "tags": "question mark",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">help</i>",
     "unicode": "e887"
+  },
+  {
+    "_tags": ["material"],
+    "name": "help_center",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">help_center</i>",
+    "unicode": "f1c0"
   },
   {
     "_tags": ["material"],
@@ -27934,10 +30046,26 @@
   },
   {
     "_tags": ["material"],
+    "name": "highlight_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">highlight_alt</i>",
+    "unicode": "ef52"
+  },
+  {
+    "_tags": ["material"],
     "name": "highlight_off",
     "tags": "x, cancel",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">highlight_off</i>",
+    "unicode": "e888"
+  },
+  {
+    "_tags": ["material"],
+    "name": "highlight_remove",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">highlight_remove</i>",
     "unicode": "e888"
   },
   {
@@ -27950,11 +30078,75 @@
   },
   {
     "_tags": ["material"],
+    "name": "history_edu",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">history_edu</i>",
+    "unicode": "ea3e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "history_toggle_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">history_toggle_off</i>",
+    "unicode": "f17d"
+  },
+  {
+    "_tags": ["material"],
     "name": "home",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">home</i>",
     "unicode": "e88a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "home_filled",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">home_filled</i>",
+    "unicode": "e9b2"
+  },
+  {
+    "_tags": ["material"],
+    "name": "home_repair_service",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">home_repair_service</i>",
+    "unicode": "f100"
+  },
+  {
+    "_tags": ["material"],
+    "name": "home_work",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">home_work</i>",
+    "unicode": "ea09"
+  },
+  {
+    "_tags": ["material"],
+    "name": "horizontal_distribute",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">horizontal_distribute</i>",
+    "unicode": "e014"
+  },
+  {
+    "_tags": ["material"],
+    "name": "horizontal_rule",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">horizontal_rule</i>",
+    "unicode": "f108"
+  },
+  {
+    "_tags": ["material"],
+    "name": "horizontal_split",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">horizontal_split</i>",
+    "unicode": "e947"
   },
   {
     "_tags": ["material"],
@@ -27974,6 +30166,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "hourglass_bottom",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">hourglass_bottom</i>",
+    "unicode": "ea5c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "hourglass_disabled",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">hourglass_disabled</i>",
+    "unicode": "ef53"
+  },
+  {
+    "_tags": ["material"],
     "name": "hourglass_empty",
     "tags": "timer",
     "class": "material-icons",
@@ -27987,6 +30195,46 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">hourglass_full</i>",
     "unicode": "e88c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "hourglass_top",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">hourglass_top</i>",
+    "unicode": "ea5b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "house",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">house</i>",
+    "unicode": "ea44"
+  },
+  {
+    "_tags": ["material"],
+    "name": "house_siding",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">house_siding</i>",
+    "unicode": "f202"
+  },
+  {
+    "_tags": ["material"],
+    "name": "how_to_reg",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">how_to_reg</i>",
+    "unicode": "e174"
+  },
+  {
+    "_tags": ["material"],
+    "name": "how_to_vote",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">how_to_vote</i>",
+    "unicode": "e175"
   },
   {
     "_tags": ["material"],
@@ -28006,6 +30254,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "hvac",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">hvac</i>",
+    "unicode": "f10e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "icecream",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">icecream</i>",
+    "unicode": "ea69"
+  },
+  {
+    "_tags": ["material"],
     "name": "image",
     "tags": "",
     "class": "material-icons",
@@ -28019,6 +30283,30 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">image_aspect_ratio</i>",
     "unicode": "e3f5"
+  },
+  {
+    "_tags": ["material"],
+    "name": "image_not_supported",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">image_not_supported</i>",
+    "unicode": "f116"
+  },
+  {
+    "_tags": ["material"],
+    "name": "image_search",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">image_search</i>",
+    "unicode": "e43f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "imagesearch_roller",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">imagesearch_roller</i>",
+    "unicode": "e9b4"
   },
   {
     "_tags": ["material"],
@@ -28086,27 +30374,19 @@
   },
   {
     "_tags": ["material"],
-    "name": "invert_colors",
-    "tags": "adjust, contrast",
-    "class": "material-icons",
-    "html": "<i class=\"material-icons\">invert_colors</i>",
-    "unicode": "e891"
-  },
-  {
-    "_tags": ["material"],
-    "name": "invert_colors_off",
-    "tags": "adjust, contrast",
-    "class": "material-icons",
-    "html": "<i class=\"material-icons\">invert_colors_off</i>",
-    "unicode": "e0c4"
-  },
-  {
-    "_tags": ["material"],
     "name": "insert_chart",
     "tags": "graph",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">insert_chart</i>",
     "unicode": "e24b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "insert_chart_outlined",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">insert_chart_outlined</i>",
+    "unicode": "e26a"
   },
   {
     "_tags": ["material"],
@@ -28155,6 +30435,62 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">insert_photo</i>",
     "unicode": "e251"
+  },
+  {
+    "_tags": ["material"],
+    "name": "insights",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">insights</i>",
+    "unicode": "f092"
+  },
+  {
+    "_tags": ["material"],
+    "name": "integration_instructions",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">integration_instructions</i>",
+    "unicode": "ef54"
+  },
+  {
+    "_tags": ["material"],
+    "name": "inventory",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">inventory</i>",
+    "unicode": "e179"
+  },
+  {
+    "_tags": ["material"],
+    "name": "invert_colors",
+    "tags": "adjust, contrast",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">invert_colors</i>",
+    "unicode": "e891"
+  },
+  {
+    "_tags": ["material"],
+    "name": "invert_colors_off",
+    "tags": "adjust, contrast",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">invert_colors_off</i>",
+    "unicode": "e0c4"
+  },
+  {
+    "_tags": ["material"],
+    "name": "invert_colors_on",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">invert_colors_on</i>",
+    "unicode": "e891"
+  },
+  {
+    "_tags": ["material"],
+    "name": "ios_share",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">ios_share</i>",
+    "unicode": "e6b8"
   },
   {
     "_tags": ["material"],
@@ -28222,6 +30558,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "keyboard_control",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">keyboard_control</i>",
+    "unicode": "e5d3"
+  },
+  {
+    "_tags": ["material"],
     "name": "keyboard_hide",
     "tags": "",
     "class": "material-icons",
@@ -28254,6 +30598,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "king_bed",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">king_bed</i>",
+    "unicode": "ea45"
+  },
+  {
+    "_tags": ["material"],
     "name": "kitchen",
     "tags": "fridge, refrigerator",
     "class": "material-icons",
@@ -28267,6 +30619,30 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">label</i>",
     "unicode": "e892"
+  },
+  {
+    "_tags": ["material"],
+    "name": "label_important",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">label_important</i>",
+    "unicode": "e937"
+  },
+  {
+    "_tags": ["material"],
+    "name": "label_important_outline",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">label_important_outline</i>",
+    "unicode": "e948"
+  },
+  {
+    "_tags": ["material"],
+    "name": "label_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">label_off</i>",
+    "unicode": "e9b6"
   },
   {
     "_tags": ["material"],
@@ -28358,6 +30734,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "leaderboard",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">leaderboard</i>",
+    "unicode": "f20c"
+  },
+  {
+    "_tags": ["material"],
     "name": "leak_add",
     "tags": "",
     "class": "material-icons",
@@ -28374,6 +30758,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "leave_bags_at_home",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">leave_bags_at_home</i>",
+    "unicode": "f21b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "legend_toggle",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">legend_toggle</i>",
+    "unicode": "f11b"
+  },
+  {
+    "_tags": ["material"],
     "name": "lens",
     "tags": "circle",
     "class": "material-icons",
@@ -28387,6 +30787,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">library_add</i>",
     "unicode": "e02e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "library_add_check",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">library_add_check</i>",
+    "unicode": "e9b7"
   },
   {
     "_tags": ["material"],
@@ -28454,11 +30862,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "liquor",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">liquor</i>",
+    "unicode": "ea60"
+  },
+  {
+    "_tags": ["material"],
     "name": "list",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">list</i>",
     "unicode": "e896"
+  },
+  {
+    "_tags": ["material"],
+    "name": "list_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">list_alt</i>",
+    "unicode": "e0ee"
   },
   {
     "_tags": ["material"],
@@ -28499,6 +30923,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_atm</i>",
     "unicode": "e53e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "local_attraction",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">local_attraction</i>",
+    "unicode": "e53f"
   },
   {
     "_tags": ["material"],
@@ -28547,6 +30979,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_drink</i>",
     "unicode": "e544"
+  },
+  {
+    "_tags": ["material"],
+    "name": "local_fire_department",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">local_fire_department</i>",
+    "unicode": "ef55"
   },
   {
     "_tags": ["material"],
@@ -28670,6 +31110,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "local_police",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">local_police</i>",
+    "unicode": "ef56"
+  },
+  {
+    "_tags": ["material"],
     "name": "local_post_office",
     "tags": "envelope, mail",
     "class": "material-icons",
@@ -28682,7 +31130,23 @@
     "tags": "printer",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">local_print_shop</i>",
-    "unicode": ""
+    "unicode": "e555"
+  },
+  {
+    "_tags": ["material"],
+    "name": "local_printshop",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">local_printshop</i>",
+    "unicode": "e555"
+  },
+  {
+    "_tags": ["material"],
+    "name": "local_restaurant",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">local_restaurant</i>",
+    "unicode": "e556"
   },
   {
     "_tags": ["material"],
@@ -28726,6 +31190,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "location_history",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">location_history</i>",
+    "unicode": "e55a"
+  },
+  {
+    "_tags": ["material"],
     "name": "location_off",
     "tags": "",
     "class": "material-icons",
@@ -28739,6 +31211,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">location_on</i>",
     "unicode": "e0c8"
+  },
+  {
+    "_tags": ["material"],
+    "name": "location_pin",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">location_pin</i>",
+    "unicode": "f1db"
   },
   {
     "_tags": ["material"],
@@ -28758,6 +31238,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "lock_clock",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">lock_clock</i>",
+    "unicode": "ef57"
+  },
+  {
+    "_tags": ["material"],
     "name": "lock_open",
     "tags": "security, unlock",
     "class": "material-icons",
@@ -28771,6 +31259,22 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">lock_outline</i>",
     "unicode": "e899"
+  },
+  {
+    "_tags": ["material"],
+    "name": "login",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">login</i>",
+    "unicode": "ea77"
+  },
+  {
+    "_tags": ["material"],
+    "name": "logout",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">logout</i>",
+    "unicode": "e9ba"
   },
   {
     "_tags": ["material"],
@@ -28803,6 +31307,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">looks_5</i>",
     "unicode": "e3fe"
+  },
+  {
+    "_tags": ["material"],
+    "name": "looks_6",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">looks_6</i>",
+    "unicode": "e3ff"
   },
   {
     "_tags": ["material"],
@@ -28854,6 +31366,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "lunch_dining",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">lunch_dining</i>",
+    "unicode": "ea61"
+  },
+  {
+    "_tags": ["material"],
     "name": "mail",
     "tags": "envelope",
     "class": "material-icons",
@@ -28878,6 +31398,62 @@
   },
   {
     "_tags": ["material"],
+    "name": "maps_ugc",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">maps_ugc</i>",
+    "unicode": "ef58"
+  },
+  {
+    "_tags": ["material"],
+    "name": "margin",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">margin</i>",
+    "unicode": "e9bb"
+  },
+  {
+    "_tags": ["material"],
+    "name": "mark_as_unread",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">mark_as_unread</i>",
+    "unicode": "e9bc"
+  },
+  {
+    "_tags": ["material"],
+    "name": "mark_chat_read",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">mark_chat_read</i>",
+    "unicode": "f18b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "mark_chat_unread",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">mark_chat_unread</i>",
+    "unicode": "f189"
+  },
+  {
+    "_tags": ["material"],
+    "name": "mark_email_read",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">mark_email_read</i>",
+    "unicode": "f18c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "mark_email_unread",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">mark_email_unread</i>",
+    "unicode": "f18a"
+  },
+  {
+    "_tags": ["material"],
     "name": "markunread",
     "tags": "envelope, mail",
     "class": "material-icons",
@@ -28891,6 +31467,46 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">markunread_mailbox</i>",
     "unicode": "e89b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "masks",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">masks</i>",
+    "unicode": "f218"
+  },
+  {
+    "_tags": ["material"],
+    "name": "maximize",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">maximize</i>",
+    "unicode": "e930"
+  },
+  {
+    "_tags": ["material"],
+    "name": "mediation",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">mediation</i>",
+    "unicode": "efa7"
+  },
+  {
+    "_tags": ["material"],
+    "name": "medical_services",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">medical_services</i>",
+    "unicode": "f109"
+  },
+  {
+    "_tags": ["material"],
+    "name": "meeting_room",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">meeting_room</i>",
+    "unicode": "eb4f"
   },
   {
     "_tags": ["material"],
@@ -28910,6 +31526,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "menu_book",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">menu_book</i>",
+    "unicode": "ea19"
+  },
+  {
+    "_tags": ["material"],
+    "name": "menu_open",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">menu_open</i>",
+    "unicode": "e9bd"
+  },
+  {
+    "_tags": ["material"],
     "name": "merge_type",
     "tags": "arrows",
     "class": "material-icons",
@@ -28926,11 +31558,43 @@
   },
   {
     "_tags": ["material"],
+    "name": "messenger",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">messenger</i>",
+    "unicode": "e0ca"
+  },
+  {
+    "_tags": ["material"],
+    "name": "messenger_outline",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">messenger_outline</i>",
+    "unicode": "e0cb"
+  },
+  {
+    "_tags": ["material"],
     "name": "mic",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">mic</i>",
     "unicode": "e029"
+  },
+  {
+    "_tags": ["material"],
+    "name": "mic_external_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">mic_external_off</i>",
+    "unicode": "ef59"
+  },
+  {
+    "_tags": ["material"],
+    "name": "mic_external_on",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">mic_external_on</i>",
+    "unicode": "ef5a"
   },
   {
     "_tags": ["material"],
@@ -28950,11 +31614,75 @@
   },
   {
     "_tags": ["material"],
+    "name": "microwave",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">microwave</i>",
+    "unicode": "f204"
+  },
+  {
+    "_tags": ["material"],
+    "name": "military_tech",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">military_tech</i>",
+    "unicode": "ea3f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "minimize",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">minimize</i>",
+    "unicode": "e931"
+  },
+  {
+    "_tags": ["material"],
+    "name": "miscellaneous_services",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">miscellaneous_services</i>",
+    "unicode": "f10c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "missed_video_call",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">missed_video_call</i>",
+    "unicode": "e073"
+  },
+  {
+    "_tags": ["material"],
     "name": "mms",
     "tags": "speech bubble",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">mms</i>",
     "unicode": "e618"
+  },
+  {
+    "_tags": ["material"],
+    "name": "mobile_friendly",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">mobile_friendly</i>",
+    "unicode": "e200"
+  },
+  {
+    "_tags": ["material"],
+    "name": "mobile_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">mobile_off</i>",
+    "unicode": "e201"
+  },
+  {
+    "_tags": ["material"],
+    "name": "mobile_screen_share",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">mobile_screen_share</i>",
+    "unicode": "e0e7"
   },
   {
     "_tags": ["material"],
@@ -28971,6 +31699,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">mode_edit</i>",
     "unicode": "e254"
+  },
+  {
+    "_tags": ["material"],
+    "name": "model_training",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">model_training</i>",
+    "unicode": "f0cf"
   },
   {
     "_tags": ["material"],
@@ -29014,6 +31750,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "moped",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">moped</i>",
+    "unicode": "eb28"
+  },
+  {
+    "_tags": ["material"],
     "name": "more",
     "tags": "tag",
     "class": "material-icons",
@@ -29030,11 +31774,51 @@
   },
   {
     "_tags": ["material"],
+    "name": "more_time",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">more_time</i>",
+    "unicode": "ea5d"
+  },
+  {
+    "_tags": ["material"],
     "name": "more_vert",
     "tags": "dots",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">more_vert</i>",
     "unicode": "e5d4"
+  },
+  {
+    "_tags": ["material"],
+    "name": "motion_photos_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">motion_photos_off</i>",
+    "unicode": "e9c0"
+  },
+  {
+    "_tags": ["material"],
+    "name": "motion_photos_on",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">motion_photos_on</i>",
+    "unicode": "e9c1"
+  },
+  {
+    "_tags": ["material"],
+    "name": "motion_photos_pause",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">motion_photos_pause</i>",
+    "unicode": "f227"
+  },
+  {
+    "_tags": ["material"],
+    "name": "motion_photos_paused",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">motion_photos_paused</i>",
+    "unicode": "e9c2"
   },
   {
     "_tags": ["material"],
@@ -29094,11 +31878,43 @@
   },
   {
     "_tags": ["material"],
+    "name": "multiple_stop",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">multiple_stop</i>",
+    "unicode": "f1b9"
+  },
+  {
+    "_tags": ["material"],
+    "name": "multitrack_audio",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">multitrack_audio</i>",
+    "unicode": "e1b8"
+  },
+  {
+    "_tags": ["material"],
+    "name": "museum",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">museum</i>",
+    "unicode": "ea36"
+  },
+  {
+    "_tags": ["material"],
     "name": "music_note",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">music_note</i>",
     "unicode": "e405"
+  },
+  {
+    "_tags": ["material"],
+    "name": "music_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">music_off</i>",
+    "unicode": "e440"
   },
   {
     "_tags": ["material"],
@@ -29110,19 +31926,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "my_library_add",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">my_library_add</i>",
+    "unicode": "e02e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "my_library_books",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">my_library_books</i>",
+    "unicode": "e02f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "my_library_music",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">my_library_music</i>",
+    "unicode": "e030"
+  },
+  {
+    "_tags": ["material"],
     "name": "my_location",
     "tags": "reticle, target",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">my_location</i>",
     "unicode": "e55c"
-  },
-  {
-    "_tags": ["material"],
-    "name": "navigation",
-    "tags": "arrow",
-    "class": "material-icons",
-    "html": "<i class=\"material-icons\">navigation</i>",
-    "unicode": "e55d"
   },
   {
     "_tags": ["material"],
@@ -29158,11 +31990,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "navigation",
+    "tags": "arrow",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">navigation</i>",
+    "unicode": "e55d"
+  },
+  {
+    "_tags": ["material"],
     "name": "near_me",
     "tags": "arrow, navigation",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">near_me</i>",
     "unicode": "e569"
+  },
+  {
+    "_tags": ["material"],
+    "name": "near_me_disabled",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">near_me_disabled</i>",
+    "unicode": "f1ef"
   },
   {
     "_tags": ["material"],
@@ -29206,6 +32054,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "next_plan",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">next_plan</i>",
+    "unicode": "ef5d"
+  },
+  {
+    "_tags": ["material"],
     "name": "next_week",
     "tags": "briefcase, travel",
     "class": "material-icons",
@@ -29222,11 +32078,123 @@
   },
   {
     "_tags": ["material"],
+    "name": "night_shelter",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">night_shelter</i>",
+    "unicode": "f1f1"
+  },
+  {
+    "_tags": ["material"],
+    "name": "nightlife",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">nightlife</i>",
+    "unicode": "ea62"
+  },
+  {
+    "_tags": ["material"],
+    "name": "nightlight_round",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">nightlight_round</i>",
+    "unicode": "ef5e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "nights_stay",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">nights_stay</i>",
+    "unicode": "ea46"
+  },
+  {
+    "_tags": ["material"],
+    "name": "no_backpack",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">no_backpack</i>",
+    "unicode": "f237"
+  },
+  {
+    "_tags": ["material"],
+    "name": "no_cell",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">no_cell</i>",
+    "unicode": "f1a4"
+  },
+  {
+    "_tags": ["material"],
+    "name": "no_drinks",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">no_drinks</i>",
+    "unicode": "f1a5"
+  },
+  {
+    "_tags": ["material"],
     "name": "no_encryption",
     "tags": "lock",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">no_encryption</i>",
     "unicode": "e641"
+  },
+  {
+    "_tags": ["material"],
+    "name": "no_flash",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">no_flash</i>",
+    "unicode": "f1a6"
+  },
+  {
+    "_tags": ["material"],
+    "name": "no_food",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">no_food</i>",
+    "unicode": "f1a7"
+  },
+  {
+    "_tags": ["material"],
+    "name": "no_luggage",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">no_luggage</i>",
+    "unicode": "f23b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "no_meals",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">no_meals</i>",
+    "unicode": "f1d6"
+  },
+  {
+    "_tags": ["material"],
+    "name": "no_meals_ouline",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">no_meals_ouline</i>",
+    "unicode": "f229"
+  },
+  {
+    "_tags": ["material"],
+    "name": "no_meeting_room",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">no_meeting_room</i>",
+    "unicode": "eb4e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "no_photography",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">no_photography</i>",
+    "unicode": "f1a8"
   },
   {
     "_tags": ["material"],
@@ -29238,11 +32206,75 @@
   },
   {
     "_tags": ["material"],
+    "name": "no_stroller",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">no_stroller</i>",
+    "unicode": "f1af"
+  },
+  {
+    "_tags": ["material"],
+    "name": "no_transfer",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">no_transfer</i>",
+    "unicode": "f1d5"
+  },
+  {
+    "_tags": ["material"],
+    "name": "north",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">north</i>",
+    "unicode": "f1e0"
+  },
+  {
+    "_tags": ["material"],
+    "name": "north_east",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">north_east</i>",
+    "unicode": "f1e1"
+  },
+  {
+    "_tags": ["material"],
+    "name": "north_west",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">north_west</i>",
+    "unicode": "f1e2"
+  },
+  {
+    "_tags": ["material"],
+    "name": "not_accessible",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">not_accessible</i>",
+    "unicode": "f0fe"
+  },
+  {
+    "_tags": ["material"],
     "name": "not_interested",
     "tags": "ban, prohibited",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">not_interested</i>",
     "unicode": "e033"
+  },
+  {
+    "_tags": ["material"],
+    "name": "not_listed_location",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">not_listed_location</i>",
+    "unicode": "e575"
+  },
+  {
+    "_tags": ["material"],
+    "name": "not_started",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">not_started</i>",
+    "unicode": "f0d1"
   },
   {
     "_tags": ["material"],
@@ -29259,6 +32291,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">note_add</i>",
     "unicode": "e89c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "notification_important",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">notification_important</i>",
+    "unicode": "e004"
   },
   {
     "_tags": ["material"],
@@ -29294,11 +32334,43 @@
   },
   {
     "_tags": ["material"],
+    "name": "notifications_on",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">notifications_on</i>",
+    "unicode": "e7f7"
+  },
+  {
+    "_tags": ["material"],
     "name": "notifications_paused",
     "tags": "bell",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">notifications_paused</i>",
     "unicode": "e7f8"
+  },
+  {
+    "_tags": ["material"],
+    "name": "now_wallpaper",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">now_wallpaper</i>",
+    "unicode": "e1bc"
+  },
+  {
+    "_tags": ["material"],
+    "name": "now_widgets",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">now_widgets</i>",
+    "unicode": "e1bd"
+  },
+  {
+    "_tags": ["material"],
+    "name": "offline_bolt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">offline_bolt</i>",
+    "unicode": "e932"
   },
   {
     "_tags": ["material"],
@@ -29310,11 +32382,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "offline_share",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">offline_share</i>",
+    "unicode": "e9c5"
+  },
+  {
+    "_tags": ["material"],
     "name": "ondemand_video",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">ondemand_video</i>",
     "unicode": "e63a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "online_prediction",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">online_prediction</i>",
+    "unicode": "f0eb"
   },
   {
     "_tags": ["material"],
@@ -29334,6 +32422,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "open_in_full",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">open_in_full</i>",
+    "unicode": "f1ce"
+  },
+  {
+    "_tags": ["material"],
     "name": "open_in_new",
     "tags": "",
     "class": "material-icons",
@@ -29347,6 +32443,62 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">open_with</i>",
     "unicode": "e89f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "outbond",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">outbond</i>",
+    "unicode": "f228"
+  },
+  {
+    "_tags": ["material"],
+    "name": "outbox",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">outbox</i>",
+    "unicode": "ef5f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "outdoor_grill",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">outdoor_grill</i>",
+    "unicode": "ea47"
+  },
+  {
+    "_tags": ["material"],
+    "name": "outgoing_mail",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">outgoing_mail</i>",
+    "unicode": "f0d2"
+  },
+  {
+    "_tags": ["material"],
+    "name": "outlet",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">outlet</i>",
+    "unicode": "f1d4"
+  },
+  {
+    "_tags": ["material"],
+    "name": "outlined_flag",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">outlined_flag</i>",
+    "unicode": "e16e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "padding",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">padding</i>",
+    "unicode": "e9c8"
   },
   {
     "_tags": ["material"],
@@ -29398,11 +32550,43 @@
   },
   {
     "_tags": ["material"],
+    "name": "panorama_fisheye",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">panorama_fisheye</i>",
+    "unicode": "e40c"
+  },
+  {
+    "_tags": ["material"],
     "name": "panorama_horizontal",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">panorama_horizontal</i>",
     "unicode": "e40d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "panorama_horizontal_select",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">panorama_horizontal_select</i>",
+    "unicode": "ef60"
+  },
+  {
+    "_tags": ["material"],
+    "name": "panorama_photosphere",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">panorama_photosphere</i>",
+    "unicode": "e9c9"
+  },
+  {
+    "_tags": ["material"],
+    "name": "panorama_photosphere_select",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">panorama_photosphere_select</i>",
+    "unicode": "e9ca"
   },
   {
     "_tags": ["material"],
@@ -29414,11 +32598,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "panorama_vertical_select",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">panorama_vertical_select</i>",
+    "unicode": "ef61"
+  },
+  {
+    "_tags": ["material"],
     "name": "panorama_wide_angle",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">panorama_wide_angle</i>",
     "unicode": "e40f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "panorama_wide_angle_select",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">panorama_wide_angle_select</i>",
+    "unicode": "ef62"
   },
   {
     "_tags": ["material"],
@@ -29454,6 +32654,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "pause_presentation",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">pause_presentation</i>",
+    "unicode": "e0ea"
+  },
+  {
+    "_tags": ["material"],
     "name": "payment",
     "tags": "credit card",
     "class": "material-icons",
@@ -29462,11 +32670,51 @@
   },
   {
     "_tags": ["material"],
+    "name": "payments",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">payments</i>",
+    "unicode": "ef63"
+  },
+  {
+    "_tags": ["material"],
+    "name": "pedal_bike",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">pedal_bike</i>",
+    "unicode": "eb29"
+  },
+  {
+    "_tags": ["material"],
+    "name": "pending",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">pending</i>",
+    "unicode": "ef64"
+  },
+  {
+    "_tags": ["material"],
+    "name": "pending_actions",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">pending_actions</i>",
+    "unicode": "f1bb"
+  },
+  {
+    "_tags": ["material"],
     "name": "people",
     "tags": "users",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">people</i>",
     "unicode": "e7fb"
+  },
+  {
+    "_tags": ["material"],
+    "name": "people_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">people_alt</i>",
+    "unicode": "ea21"
   },
   {
     "_tags": ["material"],
@@ -29558,6 +32806,30 @@
   },
   {
     "_tags": ["material"],
+    "name": "person_add_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">person_add_alt</i>",
+    "unicode": "ea4d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "person_add_alt_1",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">person_add_alt_1</i>",
+    "unicode": "ef65"
+  },
+  {
+    "_tags": ["material"],
+    "name": "person_add_disabled",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">person_add_disabled</i>",
+    "unicode": "e9cb"
+  },
+  {
+    "_tags": ["material"],
     "name": "person_outline",
     "tags": "user",
     "class": "material-icons",
@@ -29582,11 +32854,51 @@
   },
   {
     "_tags": ["material"],
+    "name": "person_remove",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">person_remove</i>",
+    "unicode": "ef66"
+  },
+  {
+    "_tags": ["material"],
+    "name": "person_remove_alt_1",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">person_remove_alt_1</i>",
+    "unicode": "ef67"
+  },
+  {
+    "_tags": ["material"],
+    "name": "person_search",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">person_search</i>",
+    "unicode": "f106"
+  },
+  {
+    "_tags": ["material"],
     "name": "personal_video",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">personal_video</i>",
     "unicode": "e63b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "pest_control",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">pest_control</i>",
+    "unicode": "f0fa"
+  },
+  {
+    "_tags": ["material"],
+    "name": "pest_control_rodent",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">pest_control_rodent</i>",
+    "unicode": "f0fd"
   },
   {
     "_tags": ["material"],
@@ -29619,6 +32931,30 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">phone_bluetooth_speaker</i>",
     "unicode": "e61b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "phone_callback",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">phone_callback</i>",
+    "unicode": "e649"
+  },
+  {
+    "_tags": ["material"],
+    "name": "phone_disabled",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">phone_disabled</i>",
+    "unicode": "e9cc"
+  },
+  {
+    "_tags": ["material"],
+    "name": "phone_enabled",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">phone_enabled</i>",
+    "unicode": "e9cd"
   },
   {
     "_tags": ["material"],
@@ -29742,6 +33078,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "photo_camera_back",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">photo_camera_back</i>",
+    "unicode": "ef68"
+  },
+  {
+    "_tags": ["material"],
+    "name": "photo_camera_front",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">photo_camera_front</i>",
+    "unicode": "ef69"
+  },
+  {
+    "_tags": ["material"],
     "name": "photo_filter",
     "tags": "",
     "class": "material-icons",
@@ -29830,11 +33182,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "pivot_table_chart",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">pivot_table_chart</i>",
+    "unicode": "e9ce"
+  },
+  {
+    "_tags": ["material"],
     "name": "place",
     "tags": "map marker",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">place</i>",
     "unicode": "e55f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "plagiarism",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">plagiarism</i>",
+    "unicode": "ea5a"
   },
   {
     "_tags": ["material"],
@@ -29859,6 +33227,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">play_circle_outline</i>",
     "unicode": "e039"
+  },
+  {
+    "_tags": ["material"],
+    "name": "play_disabled",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">play_disabled</i>",
+    "unicode": "ef6a"
   },
   {
     "_tags": ["material"],
@@ -29894,11 +33270,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "plumbing",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">plumbing</i>",
+    "unicode": "f107"
+  },
+  {
+    "_tags": ["material"],
     "name": "plus_one",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">plus_one</i>",
     "unicode": "e800"
+  },
+  {
+    "_tags": ["material"],
+    "name": "point_of_sale",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">point_of_sale</i>",
+    "unicode": "f17e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "policy",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">policy</i>",
+    "unicode": "ea17"
   },
   {
     "_tags": ["material"],
@@ -29910,19 +33310,19 @@
   },
   {
     "_tags": ["material"],
-    "name": "pool",
-    "tags": "sports, swimming",
-    "class": "material-icons",
-    "html": "<i class=\"material-icons\">pool</i>",
-    "unicode": "eb48"
-  },
-  {
-    "_tags": ["material"],
     "name": "polymer",
     "tags": "brand, logo",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">polymer</i>",
     "unicode": "e8ab"
+  },
+  {
+    "_tags": ["material"],
+    "name": "pool",
+    "tags": "sports, swimming",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">pool</i>",
+    "unicode": "eb48"
   },
   {
     "_tags": ["material"],
@@ -29942,6 +33342,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "post_add",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">post_add</i>",
+    "unicode": "ea20"
+  },
+  {
+    "_tags": ["material"],
     "name": "power",
     "tags": "plug",
     "class": "material-icons",
@@ -29955,6 +33363,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">power_input</i>",
     "unicode": "e336"
+  },
+  {
+    "_tags": ["material"],
+    "name": "power_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">power_off</i>",
+    "unicode": "e646"
   },
   {
     "_tags": ["material"],
@@ -29982,11 +33398,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "preview",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">preview</i>",
+    "unicode": "f1c5"
+  },
+  {
+    "_tags": ["material"],
     "name": "print",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">print</i>",
     "unicode": "e8ad"
+  },
+  {
+    "_tags": ["material"],
+    "name": "print_disabled",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">print_disabled</i>",
+    "unicode": "e9cf"
   },
   {
     "_tags": ["material"],
@@ -29998,6 +33430,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "privacy_tip",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">privacy_tip</i>",
+    "unicode": "f0dc"
+  },
+  {
+    "_tags": ["material"],
+    "name": "psychology",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">psychology</i>",
+    "unicode": "ea4a"
+  },
+  {
+    "_tags": ["material"],
     "name": "public",
     "tags": "earth, globe, planet",
     "class": "material-icons",
@@ -30006,11 +33454,59 @@
   },
   {
     "_tags": ["material"],
+    "name": "public_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">public_off</i>",
+    "unicode": "f1ca"
+  },
+  {
+    "_tags": ["material"],
     "name": "publish",
     "tags": "upload",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">publish</i>",
     "unicode": "e255"
+  },
+  {
+    "_tags": ["material"],
+    "name": "published_with_changes",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">published_with_changes</i>",
+    "unicode": "f232"
+  },
+  {
+    "_tags": ["material"],
+    "name": "push_pin",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">push_pin</i>",
+    "unicode": "f10d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "qr_code",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">qr_code</i>",
+    "unicode": "ef6b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "qr_code_2",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">qr_code_2</i>",
+    "unicode": "e00a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "qr_code_scanner",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">qr_code_scanner</i>",
+    "unicode": "f206"
   },
   {
     "_tags": ["material"],
@@ -30054,6 +33550,30 @@
   },
   {
     "_tags": ["material"],
+    "name": "quick_contacts_dialer",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">quick_contacts_dialer</i>",
+    "unicode": "e0cf"
+  },
+  {
+    "_tags": ["material"],
+    "name": "quick_contacts_mail",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">quick_contacts_mail</i>",
+    "unicode": "e0d0"
+  },
+  {
+    "_tags": ["material"],
+    "name": "quickreply",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">quickreply</i>",
+    "unicode": "ef6c"
+  },
+  {
+    "_tags": ["material"],
     "name": "radio",
     "tags": "music",
     "class": "material-icons",
@@ -30070,11 +33590,43 @@
   },
   {
     "_tags": ["material"],
+    "name": "radio_button_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">radio_button_off</i>",
+    "unicode": "e836"
+  },
+  {
+    "_tags": ["material"],
+    "name": "radio_button_on",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">radio_button_on</i>",
+    "unicode": "e837"
+  },
+  {
+    "_tags": ["material"],
     "name": "radio_button_unchecked",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">radio_button_unchecked</i>",
     "unicode": "e836"
+  },
+  {
+    "_tags": ["material"],
+    "name": "railway_alert",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">railway_alert</i>",
+    "unicode": "e9d1"
+  },
+  {
+    "_tags": ["material"],
+    "name": "ramen_dining",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">ramen_dining</i>",
+    "unicode": "ea64"
   },
   {
     "_tags": ["material"],
@@ -30086,6 +33638,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "read_more",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">read_more</i>",
+    "unicode": "ef6d"
+  },
+  {
+    "_tags": ["material"],
     "name": "receipt",
     "tags": "",
     "class": "material-icons",
@@ -30094,11 +33654,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "receipt_long",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">receipt_long</i>",
+    "unicode": "ef6e"
+  },
+  {
+    "_tags": ["material"],
     "name": "recent_actors",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">recent_actors</i>",
     "unicode": "e03f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "recommend",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">recommend</i>",
+    "unicode": "e9d2"
   },
   {
     "_tags": ["material"],
@@ -30123,6 +33699,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">redo</i>",
     "unicode": "e15a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "reduce_capacity",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">reduce_capacity</i>",
+    "unicode": "f21c"
   },
   {
     "_tags": ["material"],
@@ -30158,11 +33742,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "remove_done",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">remove_done</i>",
+    "unicode": "e9d3"
+  },
+  {
+    "_tags": ["material"],
     "name": "remove_from_queue",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">remove_from_queue</i>",
     "unicode": "e067"
+  },
+  {
+    "_tags": ["material"],
+    "name": "remove_moderator",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">remove_moderator</i>",
+    "unicode": "e9d4"
   },
   {
     "_tags": ["material"],
@@ -30206,6 +33806,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "repeat_one_on",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">repeat_one_on</i>",
+    "unicode": "e9d7"
+  },
+  {
+    "_tags": ["material"],
     "name": "replay",
     "tags": "",
     "class": "material-icons",
@@ -30238,6 +33846,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "replay_circle_filled",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">replay_circle_filled</i>",
+    "unicode": "e9d8"
+  },
+  {
+    "_tags": ["material"],
     "name": "reply",
     "tags": "arrow",
     "class": "material-icons",
@@ -30262,11 +33878,43 @@
   },
   {
     "_tags": ["material"],
+    "name": "report_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">report_off</i>",
+    "unicode": "e170"
+  },
+  {
+    "_tags": ["material"],
     "name": "report_problem",
     "tags": "alert, warning",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">report_problem</i>",
     "unicode": "e8b2"
+  },
+  {
+    "_tags": ["material"],
+    "name": "request_page",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">request_page</i>",
+    "unicode": "f22c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "request_quote",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">request_quote</i>",
+    "unicode": "f1b6"
+  },
+  {
+    "_tags": ["material"],
+    "name": "reset_tv",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">reset_tv</i>",
+    "unicode": "e9d9"
   },
   {
     "_tags": ["material"],
@@ -30294,11 +33942,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "restore_from_trash",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">restore_from_trash</i>",
+    "unicode": "e938"
+  },
+  {
+    "_tags": ["material"],
     "name": "restore_page",
     "tags": "refresh, reload",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">restore_page</i>",
     "unicode": "e929"
+  },
+  {
+    "_tags": ["material"],
+    "name": "rice_bowl",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">rice_bowl</i>",
+    "unicode": "f1f5"
   },
   {
     "_tags": ["material"],
@@ -30310,11 +33974,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "roofing",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">roofing</i>",
+    "unicode": "f201"
+  },
+  {
+    "_tags": ["material"],
     "name": "room",
     "tags": "map marker",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">room</i>",
     "unicode": "e8b4"
+  },
+  {
+    "_tags": ["material"],
+    "name": "room_preferences",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">room_preferences</i>",
+    "unicode": "f1b8"
   },
   {
     "_tags": ["material"],
@@ -30382,11 +34062,51 @@
   },
   {
     "_tags": ["material"],
+    "name": "rtt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">rtt</i>",
+    "unicode": "e9ad"
+  },
+  {
+    "_tags": ["material"],
+    "name": "rule",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">rule</i>",
+    "unicode": "f1c2"
+  },
+  {
+    "_tags": ["material"],
+    "name": "rule_folder",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">rule_folder</i>",
+    "unicode": "f1c9"
+  },
+  {
+    "_tags": ["material"],
+    "name": "run_circle",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">run_circle</i>",
+    "unicode": "ef6f"
+  },
+  {
+    "_tags": ["material"],
     "name": "rv_hookup",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">rv_hookup</i>",
     "unicode": "e642"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sanitizer",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sanitizer</i>",
+    "unicode": "f21d"
   },
   {
     "_tags": ["material"],
@@ -30398,6 +34118,30 @@
   },
   {
     "_tags": ["material"],
+    "name": "save",
+    "tags": "floppy disk",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">save</i>",
+    "unicode": "e161"
+  },
+  {
+    "_tags": ["material"],
+    "name": "save_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">save_alt</i>",
+    "unicode": "e171"
+  },
+  {
+    "_tags": ["material"],
+    "name": "saved_search",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">saved_search</i>",
+    "unicode": "ea11"
+  },
+  {
+    "_tags": ["material"],
     "name": "scanner",
     "tags": "",
     "class": "material-icons",
@@ -30406,11 +34150,11 @@
   },
   {
     "_tags": ["material"],
-    "name": "save",
-    "tags": "floppy disk",
+    "name": "scatter_plot",
+    "tags": "",
     "class": "material-icons",
-    "html": "<i class=\"material-icons\">save</i>",
-    "unicode": "e161"
+    "html": "<i class=\"material-icons\">scatter_plot</i>",
+    "unicode": "e268"
   },
   {
     "_tags": ["material"],
@@ -30422,11 +34166,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "schedule_send",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">schedule_send</i>",
+    "unicode": "ea0a"
+  },
+  {
+    "_tags": ["material"],
     "name": "school",
     "tags": "education, graduation cap, hat",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">school</i>",
     "unicode": "e80c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "science",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">science</i>",
+    "unicode": "ea4b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "score",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">score</i>",
+    "unicode": "e269"
   },
   {
     "_tags": ["material"],
@@ -30462,6 +34230,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "screen_search_desktop",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">screen_search_desktop</i>",
+    "unicode": "ef70"
+  },
+  {
+    "_tags": ["material"],
     "name": "screen_share",
     "tags": "",
     "class": "material-icons",
@@ -30494,11 +34270,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "search_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">search_off</i>",
+    "unicode": "ea76"
+  },
+  {
+    "_tags": ["material"],
     "name": "security",
     "tags": "shield",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">security</i>",
     "unicode": "e32a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "segment",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">segment</i>",
+    "unicode": "e94b"
   },
   {
     "_tags": ["material"],
@@ -30510,11 +34302,51 @@
   },
   {
     "_tags": ["material"],
+    "name": "self_improvement",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">self_improvement</i>",
+    "unicode": "ea78"
+  },
+  {
+    "_tags": ["material"],
     "name": "send",
     "tags": "paper airplane",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">send</i>",
     "unicode": "e163"
+  },
+  {
+    "_tags": ["material"],
+    "name": "send_and_archive",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">send_and_archive</i>",
+    "unicode": "ea0c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "send_to_mobile",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">send_to_mobile</i>",
+    "unicode": "f05c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sensor_door",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sensor_door</i>",
+    "unicode": "f1b5"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sensor_window",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sensor_window</i>",
+    "unicode": "f1b4"
   },
   {
     "_tags": ["material"],
@@ -30542,6 +34374,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "sentiment_satisfied_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sentiment_satisfied_alt</i>",
+    "unicode": "e0ed"
+  },
+  {
+    "_tags": ["material"],
     "name": "sentiment_very_dissatisfied",
     "tags": "sad, frowny face",
     "class": "material-icons",
@@ -30555,6 +34395,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">sentiment_very_satisfied</i>",
     "unicode": "e815"
+  },
+  {
+    "_tags": ["material"],
+    "name": "set_meal",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">set_meal</i>",
+    "unicode": "f1ea"
   },
   {
     "_tags": ["material"],
@@ -30603,6 +34451,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">settings_cell</i>",
     "unicode": "e8bc"
+  },
+  {
+    "_tags": ["material"],
+    "name": "settings_display",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">settings_display</i>",
+    "unicode": "e8bd"
   },
   {
     "_tags": ["material"],
@@ -30726,6 +34582,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "shopping_bag",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">shopping_bag</i>",
+    "unicode": "f1cc"
+  },
+  {
+    "_tags": ["material"],
     "name": "shopping_basket",
     "tags": "",
     "class": "material-icons",
@@ -30766,11 +34630,51 @@
   },
   {
     "_tags": ["material"],
+    "name": "shuffle_on",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">shuffle_on</i>",
+    "unicode": "e9e1"
+  },
+  {
+    "_tags": ["material"],
+    "name": "shutter_speed",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">shutter_speed</i>",
+    "unicode": "e43d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sick",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sick</i>",
+    "unicode": "f220"
+  },
+  {
+    "_tags": ["material"],
+    "name": "signal_cellular_0_bar",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">signal_cellular_0_bar</i>",
+    "unicode": "f0a8"
+  },
+  {
+    "_tags": ["material"],
     "name": "signal_cellular_4_bar",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">signal_cellular_4_bar</i>",
     "unicode": "e1c8"
+  },
+  {
+    "_tags": ["material"],
+    "name": "signal_cellular_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">signal_cellular_alt</i>",
+    "unicode": "e202"
   },
   {
     "_tags": ["material"],
@@ -30803,6 +34707,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">signal_cellular_off</i>",
     "unicode": "e1d0"
+  },
+  {
+    "_tags": ["material"],
+    "name": "signal_wifi_0_bar",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">signal_wifi_0_bar</i>",
+    "unicode": "f0b0"
   },
   {
     "_tags": ["material"],
@@ -30846,6 +34758,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "single_bed",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">single_bed</i>",
+    "unicode": "ea48"
+  },
+  {
+    "_tags": ["material"],
     "name": "skip_next",
     "tags": "",
     "class": "material-icons",
@@ -30875,6 +34795,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">slow_motion_video</i>",
     "unicode": "e068"
+  },
+  {
+    "_tags": ["material"],
+    "name": "smart_button",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">smart_button</i>",
+    "unicode": "f1c1"
   },
   {
     "_tags": ["material"],
@@ -30918,6 +34846,30 @@
   },
   {
     "_tags": ["material"],
+    "name": "snippet_folder",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">snippet_folder</i>",
+    "unicode": "f1c7"
+  },
+  {
+    "_tags": ["material"],
+    "name": "snooze",
+    "tags": "alarm clock",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">snooze</i>",
+    "unicode": "e046"
+  },
+  {
+    "_tags": ["material"],
+    "name": "soap",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">soap</i>",
+    "unicode": "f1b2"
+  },
+  {
+    "_tags": ["material"],
     "name": "sort",
     "tags": "",
     "class": "material-icons",
@@ -30926,11 +34878,59 @@
   },
   {
     "_tags": ["material"],
+    "name": "sort_by_alpha",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sort_by_alpha</i>",
+    "unicode": "e053"
+  },
+  {
+    "_tags": ["material"],
+    "name": "source",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">source</i>",
+    "unicode": "f1c4"
+  },
+  {
+    "_tags": ["material"],
+    "name": "south",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">south</i>",
+    "unicode": "f1e3"
+  },
+  {
+    "_tags": ["material"],
+    "name": "south_east",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">south_east</i>",
+    "unicode": "f1e4"
+  },
+  {
+    "_tags": ["material"],
+    "name": "south_west",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">south_west</i>",
+    "unicode": "f1e5"
+  },
+  {
+    "_tags": ["material"],
     "name": "spa",
     "tags": "leaf",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">spa</i>",
     "unicode": "eb4c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "space_bar",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">space_bar</i>",
+    "unicode": "e256"
   },
   {
     "_tags": ["material"],
@@ -30966,6 +34966,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "speaker_phone",
+    "tags": "telephone",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">speaker_phone</i>",
+    "unicode": "e0d2"
+  },
+  {
+    "_tags": ["material"],
+    "name": "speed",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">speed</i>",
+    "unicode": "e9e4"
+  },
+  {
+    "_tags": ["material"],
     "name": "spellcheck",
     "tags": "",
     "class": "material-icons",
@@ -30974,35 +34990,163 @@
   },
   {
     "_tags": ["material"],
-    "name": "snooze",
-    "tags": "alarm clock",
-    "class": "material-icons",
-    "html": "<i class=\"material-icons\">snooze</i>",
-    "unicode": "e046"
-  },
-  {
-    "_tags": ["material"],
-    "name": "sort_by_alpha",
+    "name": "sports_bar",
     "tags": "",
     "class": "material-icons",
-    "html": "<i class=\"material-icons\">sort_by_alpha</i>",
-    "unicode": "e053"
+    "html": "<i class=\"material-icons\">sports_bar</i>",
+    "unicode": "f1f3"
   },
   {
     "_tags": ["material"],
-    "name": "space_bar",
+    "name": "sports_baseball",
     "tags": "",
     "class": "material-icons",
-    "html": "<i class=\"material-icons\">space_bar</i>",
-    "unicode": "e256"
+    "html": "<i class=\"material-icons\">sports_baseball</i>",
+    "unicode": "ea51"
   },
   {
     "_tags": ["material"],
-    "name": "speaker_phone",
-    "tags": "telephone",
+    "name": "sports_basketball",
+    "tags": "",
     "class": "material-icons",
-    "html": "<i class=\"material-icons\">speaker_phone</i>",
-    "unicode": "e0d2"
+    "html": "<i class=\"material-icons\">sports_basketball</i>",
+    "unicode": "ea26"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sports_cricket",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sports_cricket</i>",
+    "unicode": "ea27"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sports_esports",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sports_esports</i>",
+    "unicode": "ea28"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sports_football",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sports_football</i>",
+    "unicode": "ea29"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sports_golf",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sports_golf</i>",
+    "unicode": "ea2a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sports_handball",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sports_handball</i>",
+    "unicode": "ea33"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sports_hockey",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sports_hockey</i>",
+    "unicode": "ea2b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sports_kabaddi",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sports_kabaddi</i>",
+    "unicode": "ea34"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sports_mma",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sports_mma</i>",
+    "unicode": "ea2c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sports_motorsports",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sports_motorsports</i>",
+    "unicode": "ea2d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sports_rugby",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sports_rugby</i>",
+    "unicode": "ea2e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sports_soccer",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sports_soccer</i>",
+    "unicode": "ea2f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sports_tennis",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sports_tennis</i>",
+    "unicode": "ea32"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sports_volleyball",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sports_volleyball</i>",
+    "unicode": "ea31"
+  },
+  {
+    "_tags": ["material"],
+    "name": "square_foot",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">square_foot</i>",
+    "unicode": "ea49"
+  },
+  {
+    "_tags": ["material"],
+    "name": "stacked_bar_chart",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">stacked_bar_chart</i>",
+    "unicode": "e9e6"
+  },
+  {
+    "_tags": ["material"],
+    "name": "stacked_line_chart",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">stacked_line_chart</i>",
+    "unicode": "f22b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "stairs",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">stairs</i>",
+    "unicode": "f1a9"
   },
   {
     "_tags": ["material"],
@@ -31027,6 +35171,22 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">star_half</i>",
     "unicode": "e839"
+  },
+  {
+    "_tags": ["material"],
+    "name": "star_outline",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">star_outline</i>",
+    "unicode": "f06f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "star_rate",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">star_rate</i>",
+    "unicode": "f0ec"
   },
   {
     "_tags": ["material"],
@@ -31070,19 +35230,11 @@
   },
   {
     "_tags": ["material"],
-    "name": "streetview",
+    "name": "sticky_note_2",
     "tags": "",
     "class": "material-icons",
-    "html": "<i class=\"material-icons\">streetview</i>",
-    "unicode": "e56e"
-  },
-  {
-    "_tags": ["material"],
-    "name": "strikethrough_s",
-    "tags": "",
-    "class": "material-icons",
-    "html": "<i class=\"material-icons\">strikethrough_s</i>",
-    "unicode": "e257"
+    "html": "<i class=\"material-icons\">sticky_note_2</i>",
+    "unicode": "f1fc"
   },
   {
     "_tags": ["material"],
@@ -31091,6 +35243,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">stop</i>",
     "unicode": "e047"
+  },
+  {
+    "_tags": ["material"],
+    "name": "stop_circle",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">stop_circle</i>",
+    "unicode": "ef71"
   },
   {
     "_tags": ["material"],
@@ -31126,11 +35286,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "storefront",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">storefront</i>",
+    "unicode": "ea12"
+  },
+  {
+    "_tags": ["material"],
     "name": "straighten",
     "tags": "comb",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">straighten</i>",
     "unicode": "e41c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "streetview",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">streetview</i>",
+    "unicode": "e56e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "strikethrough_s",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">strikethrough_s</i>",
+    "unicode": "e257"
   },
   {
     "_tags": ["material"],
@@ -31182,6 +35366,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "subtitles_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">subtitles_off</i>",
+    "unicode": "ef72"
+  },
+  {
+    "_tags": ["material"],
     "name": "subway",
     "tags": "transportation",
     "class": "material-icons",
@@ -31190,11 +35382,43 @@
   },
   {
     "_tags": ["material"],
+    "name": "superscript",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">superscript</i>",
+    "unicode": "f112"
+  },
+  {
+    "_tags": ["material"],
+    "name": "supervised_user_circle",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">supervised_user_circle</i>",
+    "unicode": "e939"
+  },
+  {
+    "_tags": ["material"],
     "name": "supervisor_account",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">supervisor_account</i>",
     "unicode": "e8d3"
+  },
+  {
+    "_tags": ["material"],
+    "name": "support",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">support</i>",
+    "unicode": "ef73"
+  },
+  {
+    "_tags": ["material"],
+    "name": "support_agent",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">support_agent</i>",
+    "unicode": "f0e2"
   },
   {
     "_tags": ["material"],
@@ -31222,11 +35446,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "swap_horizontal_circle",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">swap_horizontal_circle</i>",
+    "unicode": "e933"
+  },
+  {
+    "_tags": ["material"],
     "name": "swap_vert",
     "tags": "arrows",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">swap_vert</i>",
     "unicode": "e8d5"
+  },
+  {
+    "_tags": ["material"],
+    "name": "swap_vert_circle",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">swap_vert_circle</i>",
+    "unicode": "e8d6"
   },
   {
     "_tags": ["material"],
@@ -31238,11 +35478,43 @@
   },
   {
     "_tags": ["material"],
+    "name": "swipe",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">swipe</i>",
+    "unicode": "e9ec"
+  },
+  {
+    "_tags": ["material"],
+    "name": "switch_account",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">switch_account</i>",
+    "unicode": "e9ed"
+  },
+  {
+    "_tags": ["material"],
     "name": "switch_camera",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">switch_camera</i>",
     "unicode": "e41e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "switch_left",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">switch_left</i>",
+    "unicode": "f1d1"
+  },
+  {
+    "_tags": ["material"],
+    "name": "switch_right",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">switch_right</i>",
+    "unicode": "f1d2"
   },
   {
     "_tags": ["material"],
@@ -31259,6 +35531,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">sync</i>",
     "unicode": "e627"
+  },
+  {
+    "_tags": ["material"],
+    "name": "sync_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">sync_alt</i>",
+    "unicode": "ea18"
   },
   {
     "_tags": ["material"],
@@ -31294,6 +35574,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "system_update_tv",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">system_update_tv</i>",
+    "unicode": "e8d7"
+  },
+  {
+    "_tags": ["material"],
     "name": "tab",
     "tags": "folder",
     "class": "material-icons",
@@ -31307,6 +35595,30 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">tab_unselected</i>",
     "unicode": "e8d9"
+  },
+  {
+    "_tags": ["material"],
+    "name": "table_chart",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">table_chart</i>",
+    "unicode": "e265"
+  },
+  {
+    "_tags": ["material"],
+    "name": "table_rows",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">table_rows</i>",
+    "unicode": "f101"
+  },
+  {
+    "_tags": ["material"],
+    "name": "table_view",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">table_view</i>",
+    "unicode": "f1be"
   },
   {
     "_tags": ["material"],
@@ -31342,11 +35654,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "takeout_dining",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">takeout_dining</i>",
+    "unicode": "ea74"
+  },
+  {
+    "_tags": ["material"],
     "name": "tap_and_play",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">tap_and_play</i>",
     "unicode": "e62b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "tapas",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">tapas</i>",
+    "unicode": "f1e9"
+  },
+  {
+    "_tags": ["material"],
+    "name": "taxi_alert",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">taxi_alert</i>",
+    "unicode": "ef74"
   },
   {
     "_tags": ["material"],
@@ -31374,6 +35710,62 @@
   },
   {
     "_tags": ["material"],
+    "name": "text_rotate_up",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">text_rotate_up</i>",
+    "unicode": "e93a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "text_rotate_vertical",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">text_rotate_vertical</i>",
+    "unicode": "e93b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "text_rotation_angledown",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">text_rotation_angledown</i>",
+    "unicode": "e93c"
+  },
+  {
+    "_tags": ["material"],
+    "name": "text_rotation_angleup",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">text_rotation_angleup</i>",
+    "unicode": "e93d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "text_rotation_down",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">text_rotation_down</i>",
+    "unicode": "e93e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "text_rotation_none",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">text_rotation_none</i>",
+    "unicode": "e93f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "text_snippet",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">text_snippet</i>",
+    "unicode": "f1c6"
+  },
+  {
+    "_tags": ["material"],
     "name": "textsms",
     "tags": "chat, sms, speech bubble",
     "class": "material-icons",
@@ -31387,6 +35779,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">texture</i>",
     "unicode": "e421"
+  },
+  {
+    "_tags": ["material"],
+    "name": "theater_comedy",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">theater_comedy</i>",
+    "unicode": "ea66"
   },
   {
     "_tags": ["material"],
@@ -31406,11 +35806,51 @@
   },
   {
     "_tags": ["material"],
+    "name": "thumb_down_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">thumb_down_alt</i>",
+    "unicode": "e816"
+  },
+  {
+    "_tags": ["material"],
+    "name": "thumb_down_off_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">thumb_down_off_alt</i>",
+    "unicode": "e9f2"
+  },
+  {
+    "_tags": ["material"],
     "name": "thumb_up",
     "tags": "like, rating",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">thumb_up</i>",
     "unicode": "e8dc"
+  },
+  {
+    "_tags": ["material"],
+    "name": "thumb_up_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">thumb_up_alt</i>",
+    "unicode": "e817"
+  },
+  {
+    "_tags": ["material"],
+    "name": "thumb_up_off_alt",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">thumb_up_off_alt</i>",
+    "unicode": "e9f3"
+  },
+  {
+    "_tags": ["material"],
+    "name": "thumbs_up_down",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">thumbs_up_down</i>",
+    "unicode": "e8dd"
   },
   {
     "_tags": ["material"],
@@ -31494,6 +35934,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "toggle_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">toggle_off</i>",
+    "unicode": "e9f5"
+  },
+  {
+    "_tags": ["material"],
+    "name": "toggle_on",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">toggle_on</i>",
+    "unicode": "e9f6"
+  },
+  {
+    "_tags": ["material"],
     "name": "toll",
     "tags": "circle, coin",
     "class": "material-icons",
@@ -31510,11 +35966,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "topic",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">topic</i>",
+    "unicode": "f1c8"
+  },
+  {
+    "_tags": ["material"],
     "name": "touch_app",
     "tags": "finger",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">touch_app</i>",
     "unicode": "e913"
+  },
+  {
+    "_tags": ["material"],
+    "name": "tour",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">tour</i>",
+    "unicode": "ef75"
   },
   {
     "_tags": ["material"],
@@ -31574,6 +36046,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "transit_enterexit",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">transit_enterexit</i>",
+    "unicode": "e579"
+  },
+  {
+    "_tags": ["material"],
     "name": "translate",
     "tags": "language",
     "class": "material-icons",
@@ -31598,11 +36078,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "trending_neutral",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">trending_neutral</i>",
+    "unicode": "e8e4"
+  },
+  {
+    "_tags": ["material"],
     "name": "trending_up",
     "tags": "arrow, chart, graph",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">trending_up</i>",
     "unicode": "e8e5"
+  },
+  {
+    "_tags": ["material"],
+    "name": "trip_origin",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">trip_origin</i>",
+    "unicode": "e57b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "tty",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">tty</i>",
+    "unicode": "f1aa"
   },
   {
     "_tags": ["material"],
@@ -31638,6 +36142,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "tv_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">tv_off</i>",
+    "unicode": "e647"
+  },
+  {
+    "_tags": ["material"],
+    "name": "two_wheeler",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">two_wheeler</i>",
+    "unicode": "e9f9"
+  },
+  {
+    "_tags": ["material"],
     "name": "unarchive",
     "tags": "",
     "class": "material-icons",
@@ -31654,11 +36174,67 @@
   },
   {
     "_tags": ["material"],
+    "name": "unfold_less",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">unfold_less</i>",
+    "unicode": "e5d6"
+  },
+  {
+    "_tags": ["material"],
+    "name": "unfold_more",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">unfold_more</i>",
+    "unicode": "e5d7"
+  },
+  {
+    "_tags": ["material"],
+    "name": "unpublished",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">unpublished</i>",
+    "unicode": "f236"
+  },
+  {
+    "_tags": ["material"],
+    "name": "unsubscribe",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">unsubscribe</i>",
+    "unicode": "e0eb"
+  },
+  {
+    "_tags": ["material"],
     "name": "update",
     "tags": "clock, timer",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">update</i>",
     "unicode": "e923"
+  },
+  {
+    "_tags": ["material"],
+    "name": "update_disabled",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">update_disabled</i>",
+    "unicode": "e075"
+  },
+  {
+    "_tags": ["material"],
+    "name": "upgrade",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">upgrade</i>",
+    "unicode": "f0fb"
+  },
+  {
+    "_tags": ["material"],
+    "name": "upload_file",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">upload_file</i>",
+    "unicode": "e9fc"
   },
   {
     "_tags": ["material"],
@@ -31702,6 +36278,22 @@
   },
   {
     "_tags": ["material"],
+    "name": "vertical_distribute",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">vertical_distribute</i>",
+    "unicode": "e076"
+  },
+  {
+    "_tags": ["material"],
+    "name": "vertical_split",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">vertical_split</i>",
+    "unicode": "e949"
+  },
+  {
+    "_tags": ["material"],
     "name": "vibration",
     "tags": "",
     "class": "material-icons",
@@ -31718,6 +36310,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "video_collection",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">video_collection</i>",
+    "unicode": "e04a"
+  },
+  {
+    "_tags": ["material"],
     "name": "video_label",
     "tags": "display, monitor",
     "class": "material-icons",
@@ -31731,6 +36331,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">video_library</i>",
     "unicode": "e04a"
+  },
+  {
+    "_tags": ["material"],
+    "name": "video_settings",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">video_settings</i>",
+    "unicode": "ea75"
   },
   {
     "_tags": ["material"],
@@ -31790,6 +36398,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "view_comfortable",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">view_comfortable</i>",
+    "unicode": "e42a"
+  },
+  {
+    "_tags": ["material"],
     "name": "view_comfy",
     "tags": "",
     "class": "material-icons",
@@ -31822,6 +36438,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "view_in_ar",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">view_in_ar</i>",
+    "unicode": "e9fe"
+  },
+  {
+    "_tags": ["material"],
     "name": "view_list",
     "tags": "",
     "class": "material-icons",
@@ -31843,6 +36467,14 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">view_quilt</i>",
     "unicode": "e8f1"
+  },
+  {
+    "_tags": ["material"],
+    "name": "view_sidebar",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">view_sidebar</i>",
+    "unicode": "f114"
   },
   {
     "_tags": ["material"],
@@ -31894,6 +36526,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "voice_over_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">voice_over_off</i>",
+    "unicode": "e94a"
+  },
+  {
+    "_tags": ["material"],
     "name": "voicemail",
     "tags": "record",
     "class": "material-icons",
@@ -31934,6 +36574,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "volunteer_activism",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">volunteer_activism</i>",
+    "unicode": "ea70"
+  },
+  {
+    "_tags": ["material"],
     "name": "vpn_key",
     "tags": "key, lock",
     "class": "material-icons",
@@ -31947,6 +36595,30 @@
     "class": "material-icons",
     "html": "<i class=\"material-icons\">vpn_lock</i>",
     "unicode": "e62f"
+  },
+  {
+    "_tags": ["material"],
+    "name": "wallet_giftcard",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">wallet_giftcard</i>",
+    "unicode": "e8f6"
+  },
+  {
+    "_tags": ["material"],
+    "name": "wallet_membership",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">wallet_membership</i>",
+    "unicode": "e8f7"
+  },
+  {
+    "_tags": ["material"],
+    "name": "wallet_travel",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">wallet_travel</i>",
+    "unicode": "e8f8"
   },
   {
     "_tags": ["material"],
@@ -31982,6 +36654,30 @@
   },
   {
     "_tags": ["material"],
+    "name": "water_damage",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">water_damage</i>",
+    "unicode": "f203"
+  },
+  {
+    "_tags": ["material"],
+    "name": "waterfall_chart",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">waterfall_chart</i>",
+    "unicode": "ea00"
+  },
+  {
+    "_tags": ["material"],
+    "name": "waves",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">waves</i>",
+    "unicode": "e176"
+  },
+  {
+    "_tags": ["material"],
     "name": "wb_auto",
     "tags": "",
     "class": "material-icons",
@@ -32014,11 +36710,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "wb_shade",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">wb_shade</i>",
+    "unicode": "ea01"
+  },
+  {
+    "_tags": ["material"],
     "name": "wb_sunny",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">wb_sunny</i>",
     "unicode": "e430"
+  },
+  {
+    "_tags": ["material"],
+    "name": "wb_twighlight",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">wb_twighlight</i>",
+    "unicode": "ea02"
   },
   {
     "_tags": ["material"],
@@ -32054,11 +36766,35 @@
   },
   {
     "_tags": ["material"],
+    "name": "west",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">west</i>",
+    "unicode": "f1e6"
+  },
+  {
+    "_tags": ["material"],
     "name": "whatshot",
     "tags": "fire, flame",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">whatshot</i>",
     "unicode": "e80e"
+  },
+  {
+    "_tags": ["material"],
+    "name": "wheelchair_pickup",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">wheelchair_pickup</i>",
+    "unicode": "f1ab"
+  },
+  {
+    "_tags": ["material"],
+    "name": "where_to_vote",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">where_to_vote</i>",
+    "unicode": "e177"
   },
   {
     "_tags": ["material"],
@@ -32078,11 +36814,27 @@
   },
   {
     "_tags": ["material"],
+    "name": "wifi_calling",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">wifi_calling</i>",
+    "unicode": "ef77"
+  },
+  {
+    "_tags": ["material"],
     "name": "wifi_lock",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">wifi_lock</i>",
     "unicode": "e1e1"
+  },
+  {
+    "_tags": ["material"],
+    "name": "wifi_protected_setup",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">wifi_protected_setup</i>",
+    "unicode": "f0fc"
   },
   {
     "_tags": ["material"],
@@ -32094,6 +36846,14 @@
   },
   {
     "_tags": ["material"],
+    "name": "wine_bar",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">wine_bar</i>",
+    "unicode": "f1e8"
+  },
+  {
+    "_tags": ["material"],
     "name": "work",
     "tags": "briefcase, suitcase",
     "class": "material-icons",
@@ -32102,11 +36862,59 @@
   },
   {
     "_tags": ["material"],
+    "name": "work_off",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">work_off</i>",
+    "unicode": "e942"
+  },
+  {
+    "_tags": ["material"],
+    "name": "work_outline",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">work_outline</i>",
+    "unicode": "e943"
+  },
+  {
+    "_tags": ["material"],
+    "name": "workspaces_filled",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">workspaces_filled</i>",
+    "unicode": "ea0d"
+  },
+  {
+    "_tags": ["material"],
+    "name": "workspaces_outline",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">workspaces_outline</i>",
+    "unicode": "ea0f"
+  },
+  {
+    "_tags": ["material"],
     "name": "wrap_text",
     "tags": "",
     "class": "material-icons",
     "html": "<i class=\"material-icons\">wrap_text</i>",
     "unicode": "e25b"
+  },
+  {
+    "_tags": ["material"],
+    "name": "wrong_location",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">wrong_location</i>",
+    "unicode": "ef78"
+  },
+  {
+    "_tags": ["material"],
+    "name": "wysiwyg",
+    "tags": "",
+    "class": "material-icons",
+    "html": "<i class=\"material-icons\">wysiwyg</i>",
+    "unicode": "f1c3"
   },
   {
     "_tags": ["material"],
